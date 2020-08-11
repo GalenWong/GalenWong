@@ -1,10 +1,13 @@
+
+<!-- NOTE: the images are referenced on using github CDN, don't reference using relative URL --->
+
 <h1> 
   Hello, my name is Galen Wong.
 </h1>
 
 <img 
   style="vertical-align: middle; margin: 10px" 
-  src="images/panda-ball.gif" 
+  src="https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/panda-ball.gif" 
   height="200px"
   align='right'
 /> 
@@ -19,7 +22,7 @@ studies in
 
 <ul>
 
-<li> 📖Read <a href="https://galenwong.github.io">my blog</a> </li>
+<li> 📖Read <a href="https://user-images.githubusercontent.com/33505320/89914063-07263080-dc27-11ea-967a-1432e181ff1c.gif">my blog</a> </li>
 <li> 🤔Ask me about...
 
 <p>
@@ -55,7 +58,7 @@ Follow me on
  <img alt="instagram" align=center src="https://img.shields.io/badge/-@wonggalen-E4405F?style=flat-square&logo=instagram&logoColor=white" />
 </a>
 
-![Polar bear](images/polar-bear.jpg)
+![Polar bear](https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/polar-bear.jpg)
 
 ## 🍚 Cooking 
 
@@ -63,6 +66,6 @@ Read how [Galen cooks food the Wong way](https://galenwong.github.io/blog/2020-0
 
 <img 
   alt="Choy sum fried rice" 
-  src="images/garlic-choysum-fried-rice.jpg" 
+  src="https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/garlic-choysum-fried-rice.jpg" 
   width=400
 />
