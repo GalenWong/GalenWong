@@ -55,10 +55,17 @@ studies in
 
 Follow me on 
 <a href="https://www.instagram.com/wonggalen/">
- <img alt="instagram" align=center src="https://img.shields.io/badge/-@wonggalen-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <img 
+    alt="Galen's Instagram" 
+    align=center 
+    src="https://img.shields.io/badge/-@wonggalen-E4405F?style=flat-square&logo=instagram&logoColor=white" 
+  />
 </a>
 
-![Polar bear](https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/polar-bear.jpg)
+<img 
+  alt="Polar bear" 
+  src="https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/polar-bear.jpg" 
+/>
 
 ## 🍚 Cooking 
 
