@@ -1,0 +1,18 @@
+
+name: Update the blogs
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # runs every hour
+    - cron: '0 * * * *'
+jobs:
+  update-readme-blog-posts:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://galenwong.github.io/rss.xml"

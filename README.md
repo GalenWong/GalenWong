@@ -51,6 +51,28 @@ studies in
 </li>
 </ul>
 
+<table>
+
+<tr valign="top">
+<td width="50%">
+
+## 📖 Latest Blogs
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</td>
+
+<td width="50%">
+
+## 🎧 Music
+
+</td>
+</tr>
+<tr valign="top">
+
+<td width="50%">
+
 ## 📸 Photography 
 
 Follow me on 
@@ -67,6 +89,10 @@ Follow me on
   src="https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/polar-bear.jpg" 
 />
 
+</td>
+
+<td width="50%">
+
 ## 🍚 Cooking 
 
 Read how [Galen cooks food the Wong way](https://galenwong.github.io/blog/2020-08-01-galen-cooks-food-the-wong-way/).
@@ -76,3 +102,8 @@ Read how [Galen cooks food the Wong way](https://galenwong.github.io/blog/2020-0
   src="https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/garlic-choysum-fried-rice.jpg" 
   width=400
 />
+
+</td>
+
+</tr>
+</table>
