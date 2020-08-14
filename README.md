@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
 - [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
 - [荷爾蒙少年 Hormone Boys《 4:00A.M. 》Lyric Video](https://www.youtube.com/watch?v=AQWYfvgh_ws)
 - [陳奕迅 Eason Chan - 《誰來剪月光》MV](https://www.youtube.com/watch?v=n6VP0Wm3EMo)
 - [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [房東的貓 - 如常](https://www.youtube.com/watch?v=Sl6ZQxoABSI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
