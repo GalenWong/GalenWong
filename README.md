@@ -72,6 +72,14 @@ studies in
 
 ## 🎧 Music
 
+<!-- YOUTUBE-MYMIX-LIST:START -->
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [謊言留聲機 Lie Gramophone - 分手夜 Break-up Night (feat. LALA 徐佳瑩) Official Video](https://www.youtube.com/watch?v=4z9o8GwxBz8)
+- [Mariya Takeuchi Plastic Love  竹内 まりや](https://www.youtube.com/watch?v=9Gj47G2e1Jc)
+- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
+- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
+<!-- YOUTUBE-MYMIX-LIST:END -->
+
 </td>
 </tr>
 <tr valign="top">
