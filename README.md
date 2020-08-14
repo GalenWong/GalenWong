@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan - 《誰來剪月光》MV](https://www.youtube.com/watch?v=n6VP0Wm3EMo)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 - [房東的貓 - 如常](https://www.youtube.com/watch?v=Sl6ZQxoABSI)
 - [Fkj - Earthquake](https://www.youtube.com/watch?v=0lrhatsoVX4)
 - [踮起腳尖愛 - 洪佩瑜](https://www.youtube.com/watch?v=tLDk2DueeMI)
+- [莫文蔚 Karen Mok - 慢慢喜歡你](https://www.youtube.com/watch?v=-lEhWfucJMs)
+- [【顏社】Leo王 - 快樂的甘蔗人 (Lyrics Music Video)](https://www.youtube.com/watch?v=ui4nJWGvSYg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
