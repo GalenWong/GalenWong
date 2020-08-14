@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [謊言留聲機 Lie Gramophone - 分手夜 Break-up Night (feat. LALA 徐佳瑩) Official Video](https://www.youtube.com/watch?v=4z9o8GwxBz8)
-- [Mariya Takeuchi Plastic Love  竹内 まりや](https://www.youtube.com/watch?v=9Gj47G2e1Jc)
 - [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
 - [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
 - [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
+- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
+- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
