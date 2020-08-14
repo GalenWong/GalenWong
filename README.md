@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
-- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
 - [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
 - [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
 - [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
+- [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
+- [荷爾蒙少年 Hormone Boys《 4:00A.M. 》Lyric Video](https://www.youtube.com/watch?v=AQWYfvgh_ws)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
