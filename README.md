@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Alef - Sol](https://www.youtube.com/watch?v=F3Bar3rty_4)
-- [Vast & Hazy 【求救訊號 I'm Not OK】Official Music Video](https://www.youtube.com/watch?v=0vv149qqciw)
 - [ヨルシカ - 思想犯（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=ENcnYh79dUY)
 - [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
 - [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
+- [🧠 ่ :::イルカポリス 海豚刑警『安平之光』Official Music Video 👾🌟 ่ :::](https://www.youtube.com/watch?v=ZrpZB8-VBD0)
+- [陳奕迅 Eason Chan -《你給我聽好》MV](https://www.youtube.com/watch?v=T9V45IhnMRU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
