@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
 - [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
 - [Vising《 長大以後 》Lyric Video](https://www.youtube.com/watch?v=Elb9-GHqxfY)
 - [Fkj & Masego - Tadow](https://www.youtube.com/watch?v=hC8CH0Z3L54)
 - [Soft Lipa 蛋堡-回到過去](https://www.youtube.com/watch?v=m1ple6Y_C_A)
+- [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
