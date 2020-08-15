@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【謝謝你曾經讓我悲傷】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=iTIKzLyQDS0)
-- [原子邦妮 Astro Bunny 【在名為未來的波浪裡】Official Music Video](https://www.youtube.com/watch?v=gl9vmdmMJN0)
 - [フレデリック「リリリピート」Music Video / frederic“Rererepeat”](https://www.youtube.com/watch?v=VjAxLbmy83E)
 - [李權哲 Jerry Li X 夜貓組（春艷+Leo王）- 貓脾氣 CATS' MOOD](https://www.youtube.com/watch?v=vHrC-22HpdQ)
 - [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
+- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
+- [Alef - Sol](https://www.youtube.com/watch?v=F3Bar3rty_4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
