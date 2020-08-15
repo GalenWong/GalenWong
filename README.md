@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】Leo王 - 快樂的甘蔗人 (Lyrics Music Video)](https://www.youtube.com/watch?v=ui4nJWGvSYg)
 - [大象體操ElephantGym _ 中途Midway【Official Music Video】](https://www.youtube.com/watch?v=lIBGM7uYNfs)
 - [王北車 - 陷阱『我不曾愛過你，我自己騙自己。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=-MwFKFy_DRk)
 - [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
 - [無妄合作社 No-nonsense Collective－〈開店歌〉Official Music Video](https://www.youtube.com/watch?v=jZzzwd_CDQM)
+- [【顏社】Leo王 - 朋友朋友+ 時間的奶昔(Official Music Video)](https://www.youtube.com/watch?v=Jyz2wC_cj24)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
