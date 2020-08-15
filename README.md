@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DSPS - 冬天再去見你 (Official Music Video)](https://www.youtube.com/watch?v=0io32VRxmQI)
 - [傷心欲絕 Wayne's So Sad  - 下一步絕望 Talk About Hope (Official Video)](https://www.youtube.com/watch?v=MKT3eKnwy7g)
 - [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 - [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
 - [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
+- [原子邦妮 Astro Bunny 【謝謝你曾經讓我悲傷】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=iTIKzLyQDS0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
