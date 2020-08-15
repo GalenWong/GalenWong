@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [大象體操ElephantGym _ 中途Midway【Official Music Video】](https://www.youtube.com/watch?v=lIBGM7uYNfs)
-- [王北車 - 陷阱『我不曾愛過你，我自己騙自己。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=-MwFKFy_DRk)
 - [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
 - [無妄合作社 No-nonsense Collective－〈開店歌〉Official Music Video](https://www.youtube.com/watch?v=jZzzwd_CDQM)
 - [【顏社】Leo王 - 朋友朋友+ 時間的奶昔(Official Music Video)](https://www.youtube.com/watch?v=Jyz2wC_cj24)
+- [謊言留聲機 Lie Gramophone - 公路電影 Those Days ( Official Music Video )](https://www.youtube.com/watch?v=sUQ-hQVpHPM)
+- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - 恍惚](https://www.youtube.com/watch?v=KBGbwBq3GzE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
