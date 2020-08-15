@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
 - [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
 - [Alef - Sol](https://www.youtube.com/watch?v=F3Bar3rty_4)
 - [Vast & Hazy 【求救訊號 I'm Not OK】Official Music Video](https://www.youtube.com/watch?v=0vv149qqciw)
 - [ヨルシカ - 思想犯（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=ENcnYh79dUY)
+- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
