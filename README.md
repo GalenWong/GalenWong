@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
-- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
 - [原子邦妮 Astro Bunny 【謝謝你曾經讓我悲傷】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=iTIKzLyQDS0)
 - [原子邦妮 Astro Bunny 【在名為未來的波浪裡】Official Music Video](https://www.youtube.com/watch?v=gl9vmdmMJN0)
 - [フレデリック「リリリピート」Music Video / frederic“Rererepeat”](https://www.youtube.com/watch?v=VjAxLbmy83E)
+- [李權哲 Jerry Li X 夜貓組（春艷+Leo王）- 貓脾氣 CATS' MOOD](https://www.youtube.com/watch?v=vHrC-22HpdQ)
+- [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
