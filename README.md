@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】Leo王 - 朋友朋友+ 時間的奶昔(Official Music Video)](https://www.youtube.com/watch?v=Jyz2wC_cj24)
 - [謊言留聲機 Lie Gramophone - 公路電影 Those Days ( Official Music Video )](https://www.youtube.com/watch?v=sUQ-hQVpHPM)
 - [【顏社】蛋堡 Soft Lipa X JABBERLOOP - 恍惚](https://www.youtube.com/watch?v=KBGbwBq3GzE)
 - [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
 - [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
+- [Vising《 長大以後 》Lyric Video](https://www.youtube.com/watch?v=Elb9-GHqxfY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
