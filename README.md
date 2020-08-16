@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan - 《無條件》MV](https://www.youtube.com/watch?v=jzGaS5kWj0U)
 - [ポルカドットスティングレイ「ICHIDAIJI」MV](https://www.youtube.com/watch?v=WJW7kS9AAI4)
 - [LUCKY TAPES - レイディ・ブルース (Official Music Video)](https://www.youtube.com/watch?v=BiBTpQPCMtg)
 - [ポルカドットスティングレイ「レム」MV](https://www.youtube.com/watch?v=Cez10v5lhB4)
 - [老王樂隊｜這樣就好 這樣就好 Good, it would be good (Official)](https://www.youtube.com/watch?v=_CbAcHFXJ8c)
+- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
