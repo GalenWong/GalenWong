@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「女神」MV](https://www.youtube.com/watch?v=DDtGQ9danyQ)
-- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
 - [Yogee New Waves / Bluemin' Days  (Official MV)](https://www.youtube.com/watch?v=od7FH9dlfok)
 - [Official髭男dism - イエスタデイ［Official Video］](https://www.youtube.com/watch?v=DuMqFknYHBs)
 - [ヨルシカ - 靴の花火 (Music Video)](https://www.youtube.com/watch?v=BCt9lS_Uv_Y)
+- [ヨルシカ - 雨とカプチーノ(Official Video)](https://www.youtube.com/watch?v=PWbRleMGagU)
+- [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
