@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「人魚」MV](https://www.youtube.com/watch?v=rudHfB6hatw)
 - [ポルカドットスティングレイ「FREE」MV](https://www.youtube.com/watch?v=C0F4MzdKt9g)
 - [ポルカドットスティングレイ「夜明けのオレンジ」MV](https://www.youtube.com/watch?v=elpURvNVx-k)
 - [フレデリックっぽい曲作ってみた『エンドレステップ』](https://www.youtube.com/watch?v=9kTtJ0BTPco)
 - [ヨルシカ - 花に亡霊（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=9lVPAWLWtWc)
+- [逃跑計劃 Escape Plan《 哪裡是你的擁抱 》Lyric Video](https://www.youtube.com/watch?v=MT2Qng_euzo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
