@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人/Accusefive  在這座城市遺失了你 歌詞Lyrics   與你相遇 是在一個單純美好的世界](https://www.youtube.com/watch?v=lWLHG_mcDw4)
-- [ヨルシカ - パレード (Music Video)](https://www.youtube.com/watch?v=ry3Tupx4BL4)
 - [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
 - [ポルカドットスティングレイ「サレンダー」MV](https://www.youtube.com/watch?v=ZY86QfhxsSs)
 - [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
+- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
+- [くるり - 琥珀色の街、上海蟹の朝](https://www.youtube.com/watch?v=NyddMMiViZc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
