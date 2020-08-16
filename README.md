@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「ヒミツ」MV](https://www.youtube.com/watch?v=D199Zpv6d6M)
-- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
 - [chelmico「Disco (Bad dance doesn't matter)」【Official Music Video】](https://www.youtube.com/watch?v=4gQ0ALMOkBs)
 - [Fkj - Tokyo](https://www.youtube.com/watch?v=U7GJY-7hVkY)
 - [ポルカドットスティングレイ「シンクロニシカ」MV](https://www.youtube.com/watch?v=EQL9mZtIY5o)
+- [ポルカドットスティングレイ「パンドラボックス」MV](https://www.youtube.com/watch?v=-zlq6eMycLA)
+- [ポルカドットスティングレイ「阿吽」MV](https://www.youtube.com/watch?v=YNBezN_dTQ4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
