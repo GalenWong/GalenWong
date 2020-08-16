@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yogee New Waves / CLIMAX NIGHT (New Version - Official MV)](https://www.youtube.com/watch?v=OzodjmJviVU)
-- [Yogee New Waves / CAN YOU FEEL IT (Official MV)](https://www.youtube.com/watch?v=rwpMn7w4WE0)
 - [Yogee New Waves / SAYONARAMATA (Official MV)](https://www.youtube.com/watch?v=TSSJ8HTiNDU)
 - [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
 - [ポルカドットスティングレイ「人魚」MV](https://www.youtube.com/watch?v=rudHfB6hatw)
+- [ポルカドットスティングレイ「FREE」MV](https://www.youtube.com/watch?v=C0F4MzdKt9g)
+- [ポルカドットスティングレイ「夜明けのオレンジ」MV](https://www.youtube.com/watch?v=elpURvNVx-k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
