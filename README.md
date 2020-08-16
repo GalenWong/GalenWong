@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリックっぽい曲作ってみた『エンドレステップ』](https://www.youtube.com/watch?v=9kTtJ0BTPco)
 - [ヨルシカ - 花に亡霊（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=9lVPAWLWtWc)
 - [逃跑計劃 Escape Plan《 哪裡是你的擁抱 》Lyric Video](https://www.youtube.com/watch?v=MT2Qng_euzo)
 - [Official髭男dism - Laughter［Official Video］](https://www.youtube.com/watch?v=kff_DXor7jc)
 - [ポルカドットスティングレイ「ヒミツ」MV](https://www.youtube.com/watch?v=D199Zpv6d6M)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
