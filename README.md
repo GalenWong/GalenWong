@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [老王樂隊｜這樣就好 這樣就好 Good, it would be good (Official)](https://www.youtube.com/watch?v=_CbAcHFXJ8c)
-- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
 - [Yogee New Waves / CLIMAX NIGHT (New Version - Official MV)](https://www.youtube.com/watch?v=OzodjmJviVU)
 - [Yogee New Waves / CAN YOU FEEL IT (Official MV)](https://www.youtube.com/watch?v=rwpMn7w4WE0)
 - [Yogee New Waves / SAYONARAMATA (Official MV)](https://www.youtube.com/watch?v=TSSJ8HTiNDU)
+- [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
+- [ポルカドットスティングレイ「人魚」MV](https://www.youtube.com/watch?v=rudHfB6hatw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
