@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
-- [謊言留聲機 Lie Gramophone - Those Days Live Mashup (Remix with Wham! - "Last Christmas" 1984)](https://www.youtube.com/watch?v=yUPahNaVr9I)
 - [大象體操ElephantGym _ 頭,身體Head&Body【Official Music Video】](https://www.youtube.com/watch?v=tIKhqEXEt28)
 - [LUCKY TAPES - TONIGHT! (Official Music Video)](https://www.youtube.com/watch?v=gzyX0In5Mwg)
 - [陳奕迅【苦瓜】MV](https://www.youtube.com/watch?v=UdWlBBqiC7I)
+- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
+- [あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=0xSiBpUdW4E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
