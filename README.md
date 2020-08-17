@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [薛之謙 Joker Xue【演員】官方完整版 MV](https://www.youtube.com/watch?v=XKuL5xaKZHM)
-- [フレデリック「ナイトステップ」Music Video / frederic "Night Step "](https://www.youtube.com/watch?v=t_RogQwLq-M)
 - [Yogee New Waves / Like Sixteen Candles(Official MV)](https://www.youtube.com/watch?v=J8bW8kqgjm8)
 - [怪獣の花唄/ Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
 - [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
+- [Eason  Chan 陳奕迅 【給你】MV](https://www.youtube.com/watch?v=DPq7psPHn90)
+- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
