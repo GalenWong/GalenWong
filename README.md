@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
-- [【顏社】蛋堡 Soft Lipa - 踩.腳.踏.車 (Official Music Video)](https://www.youtube.com/watch?v=gW9TBojWOQE)
 - [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
 - [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
 - [ポルカドットスティングレイ「エレクトリック・パブリック」MV](https://www.youtube.com/watch?v=S5st_BGFpLI)
+- [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
+- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
