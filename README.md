@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 雨とカプチーノ(Official Video)](https://www.youtube.com/watch?v=PWbRleMGagU)
 - [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
 - [陳奕迅 + 王菲 【因為愛情】MV](https://www.youtube.com/watch?v=VdwAkhNdZi8)
 - [薛之謙 Joker Xue【演員】官方完整版 MV](https://www.youtube.com/watch?v=XKuL5xaKZHM)
 - [フレデリック「ナイトステップ」Music Video / frederic "Night Step "](https://www.youtube.com/watch?v=t_RogQwLq-M)
+- [Yogee New Waves / Like Sixteen Candles(Official MV)](https://www.youtube.com/watch?v=J8bW8kqgjm8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
