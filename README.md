@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=0xSiBpUdW4E)
 - [あいみょん - 裸の心【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=yOAwvRmVIyo)
 - [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 - [【MV】竹内アンナ / B.M.B](https://www.youtube.com/watch?v=fhu033YVrzk)
 - [Official髭男dism - 115万キロのフィルム［Official Audio］](https://www.youtube.com/watch?v=ReCnlwVZj1M)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
