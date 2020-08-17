@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
-- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
 - [9m88- "Leftlovers 廚餘戀人” Official MV](https://www.youtube.com/watch?v=aobDr6nfs9k)
 - [ポルカドットスティングレイ「バケノカワ」MV](https://www.youtube.com/watch?v=Z_fz6oeeG1M)
 - [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
+- [告五人Accusefive【迷霧之子】Official Music Video](https://www.youtube.com/watch?v=LnJEaPnVmz4)
+- [房東的貓《 雲煙成雨 》Lyric Video / 動畫【我是江小白】片尾曲](https://www.youtube.com/watch?v=_Lq06i5MTq0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
