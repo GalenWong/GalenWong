@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「バケノカワ」MV](https://www.youtube.com/watch?v=Z_fz6oeeG1M)
-- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
 - [告五人Accusefive【迷霧之子】Official Music Video](https://www.youtube.com/watch?v=LnJEaPnVmz4)
 - [房東的貓《 雲煙成雨 》Lyric Video / 動畫【我是江小白】片尾曲](https://www.youtube.com/watch?v=_Lq06i5MTq0)
 - [米津玄師 MV「カムパネルラ」](https://www.youtube.com/watch?v=XeFQJ6-XoD0)
+- [謊言留聲機(Lie Gramophone) - 怪女孩(Like You Do)  Feat.B.C.W.懶領階級](https://www.youtube.com/watch?v=zoGFwDCbjio)
+- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
