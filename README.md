@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [大象體操ElephantGym _ 頭,身體Head&Body【Official Music Video】](https://www.youtube.com/watch?v=tIKhqEXEt28)
-- [LUCKY TAPES - TONIGHT! (Official Music Video)](https://www.youtube.com/watch?v=gzyX0In5Mwg)
 - [陳奕迅【苦瓜】MV](https://www.youtube.com/watch?v=UdWlBBqiC7I)
 - [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
 - [あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=0xSiBpUdW4E)
+- [あいみょん - 裸の心【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=yOAwvRmVIyo)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
