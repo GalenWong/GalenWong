@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師 MV「カムパネルラ」](https://www.youtube.com/watch?v=XeFQJ6-XoD0)
-- [謊言留聲機(Lie Gramophone) - 怪女孩(Like You Do)  Feat.B.C.W.懶領階級](https://www.youtube.com/watch?v=zoGFwDCbjio)
 - [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
 - [渣泥ZANI -【半心】Official Music Video](https://www.youtube.com/watch?v=GedcwChv85k)
 - [9m88 - 愛情雨 Love Rain (Official MV)](https://www.youtube.com/watch?v=YsIuLotD8H8)
+- [謊言留聲機 Lie Gramophone - 一年 One Year (Official Video)](https://www.youtube.com/watch?v=xfbLNYAyEJ8)
+- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
