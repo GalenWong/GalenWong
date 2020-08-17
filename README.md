@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
-- [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
 - [ポルカドットスティングレイ「エレクトリック・パブリック」MV](https://www.youtube.com/watch?v=S5st_BGFpLI)
 - [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
 - [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
+- [謊言留聲機 Lie Gramophone - Those Days Live Mashup (Remix with Wham! - "Last Christmas" 1984)](https://www.youtube.com/watch?v=yUPahNaVr9I)
+- [大象體操ElephantGym _ 頭,身體Head&Body【Official Music Video】](https://www.youtube.com/watch?v=tIKhqEXEt28)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
