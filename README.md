@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 - [【MV】竹内アンナ / B.M.B](https://www.youtube.com/watch?v=fhu033YVrzk)
 - [Official髭男dism - 115万キロのフィルム［Official Audio］](https://www.youtube.com/watch?v=ReCnlwVZj1M)
 - [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
 - [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [9m88- "Leftlovers 廚餘戀人” Official MV](https://www.youtube.com/watch?v=aobDr6nfs9k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
