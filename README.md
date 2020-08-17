@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
-- [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
 - [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
 - [【顏社】蛋堡 Soft Lipa - 踩.腳.踏.車 (Official Music Video)](https://www.youtube.com/watch?v=gW9TBojWOQE)
 - [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
+- [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
+- [ポルカドットスティングレイ「エレクトリック・パブリック」MV](https://www.youtube.com/watch?v=S5st_BGFpLI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
