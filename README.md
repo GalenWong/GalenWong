@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師 MV「LOSER」](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
-- [【HD】房東的貓 - 美好事物 (2017) [歌詞字幕][完整高清音質] The Landlord's Cat - Good things (2017)](https://www.youtube.com/watch?v=YYb1rjmMn98)
 - [Crispy脆樂團 [ 轉圈圈 In Circles ] Official Music Video](https://www.youtube.com/watch?v=7H52yGup84A)
 - [PEARL CENTER × Soulflex - Mixed Emotions（Official Lyric Video）](https://www.youtube.com/watch?v=j5EYBkBnFAk)
 - [Eason Chan 陳奕迅 《一絲不掛》MV](https://www.youtube.com/watch?v=t0EG6pSwcBk)
+- [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
+- [deca joins | 路【Official Music Video】](https://www.youtube.com/watch?v=wHNsSxYtCpE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
