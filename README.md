@@ -22,7 +22,7 @@ studies in
 
 <ul>
 
-<li> 📖Read <a href="https://user-images.githubusercontent.com/33505320/89914063-07263080-dc27-11ea-967a-1432e181ff1c.gif">my blog</a> </li>
+<li> 📖Read <a href="https://galenwong.github.io">my blog</a> </li>
 <li> 🤔Ask me about...
 
 <p>
