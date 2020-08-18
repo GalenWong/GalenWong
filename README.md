@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Eason Chan 陳奕迅 《一絲不掛》MV](https://www.youtube.com/watch?v=t0EG6pSwcBk)
-- [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
 - [deca joins | 路【Official Music Video】](https://www.youtube.com/watch?v=wHNsSxYtCpE)
 - [椎名林檎 - 丸の内サディスティック (Live 下剋上エクスタシー)](https://www.youtube.com/watch?v=FlPXeVU3nhM)
 - [ヨルシカ - 準透明少年 (MUSIC VIDEO)](https://www.youtube.com/watch?v=9ypEFXTakV8)
+- [フレデリック「されどBGM」Official Lyric Video](https://www.youtube.com/watch?v=DIBA2x1oj4g)
+- [星野源 – 恋 (Official Video)](https://www.youtube.com/watch?v=jhOVibLEDhA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
