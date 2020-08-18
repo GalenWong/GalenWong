@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Crispy脆樂團 [ 轉圈圈 In Circles ] Official Music Video](https://www.youtube.com/watch?v=7H52yGup84A)
-- [PEARL CENTER × Soulflex - Mixed Emotions（Official Lyric Video）](https://www.youtube.com/watch?v=j5EYBkBnFAk)
 - [Eason Chan 陳奕迅 《一絲不掛》MV](https://www.youtube.com/watch?v=t0EG6pSwcBk)
 - [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
 - [deca joins | 路【Official Music Video】](https://www.youtube.com/watch?v=wHNsSxYtCpE)
+- [椎名林檎 - 丸の内サディスティック (Live 下剋上エクスタシー)](https://www.youtube.com/watch?v=FlPXeVU3nhM)
+- [ヨルシカ - 準透明少年 (MUSIC VIDEO)](https://www.youtube.com/watch?v=9ypEFXTakV8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
