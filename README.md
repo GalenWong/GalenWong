@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 路【Official Music Video】](https://www.youtube.com/watch?v=wHNsSxYtCpE)
-- [椎名林檎 - 丸の内サディスティック (Live 下剋上エクスタシー)](https://www.youtube.com/watch?v=FlPXeVU3nhM)
 - [ヨルシカ - 準透明少年 (MUSIC VIDEO)](https://www.youtube.com/watch?v=9ypEFXTakV8)
 - [フレデリック「されどBGM」Official Lyric Video](https://www.youtube.com/watch?v=DIBA2x1oj4g)
 - [星野源 – 恋 (Official Video)](https://www.youtube.com/watch?v=jhOVibLEDhA)
+- [謊言留聲機 Lie Gramophone - ANGEL (Official Video)](https://www.youtube.com/watch?v=YEDiLUkDto4)
+- [Sunny Day Service - クリスマス【Official Video】](https://www.youtube.com/watch?v=oHosarYxncQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
