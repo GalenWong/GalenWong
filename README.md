@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
-- [kiki vivi lily × SUKISHA - Blue in Green [Official Video]](https://www.youtube.com/watch?v=nvwx4FSI2wo)
 - [[Alexandros] - ワタリドリ (MV)](https://www.youtube.com/watch?v=O_DLtVuiqhI)
 - [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
 - [サカナクション / モス(SAKANAQUARIUM 2019"834.194")](https://www.youtube.com/watch?v=7jy8bGlSZaM)
+- [老王樂隊｜那些失眠的夜與難以忘懷的事 Sleepless nights and haunting memories (Official)](https://www.youtube.com/watch?v=CLgSrAOmVAw)
+- [米津玄師  MV「アイネクライネ」](https://www.youtube.com/watch?v=-EKxzId_Sj4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
