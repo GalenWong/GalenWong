@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師  MV「アイネクライネ」](https://www.youtube.com/watch?v=-EKxzId_Sj4)
-- [Sunset Rollercoaster - Summum Bonum / New Drug | Audiotree Live](https://www.youtube.com/watch?v=Hf3UoGpO838)
 - [I Mean Us - E.D.E.N. [Official Audio]](https://www.youtube.com/watch?v=mFIQwP0tJDY)
 - [Official髭男dism - HELLO［Official Video］](https://www.youtube.com/watch?v=p1qM75a9FeE)
 - [フレデリック「飄々とエモーション」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=qaOVcOq2McE)
+- [Fkj - Ylang Ylang](https://www.youtube.com/watch?v=EfgAd6iHApE)
+- [King Gnu - どろん](https://www.youtube.com/watch?v=gc0_Acq8dV4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
