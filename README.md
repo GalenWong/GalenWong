@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunny Day Service - クリスマス【Official Video】](https://www.youtube.com/watch?v=oHosarYxncQ)
-- [ヨルシカ - 言って。(Music Video)](https://www.youtube.com/watch?v=F64yFFnZfkI)
 - [米津玄師 MV「海の幽霊」Spirits of the Sea](https://www.youtube.com/watch?v=1s84rIhPuhk)
 - [toconoma - Highwind (Official Visualizer)](https://www.youtube.com/watch?v=_-IINJ0UGR8)
 - [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
+- [kiki vivi lily × SUKISHA - Blue in Green [Official Video]](https://www.youtube.com/watch?v=nvwx4FSI2wo)
+- [[Alexandros] - ワタリドリ (MV)](https://www.youtube.com/watch?v=O_DLtVuiqhI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
