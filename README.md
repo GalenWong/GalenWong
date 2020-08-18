@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Mean Us - E.D.E.N. [Official Audio]](https://www.youtube.com/watch?v=mFIQwP0tJDY)
-- [Official髭男dism - HELLO［Official Video］](https://www.youtube.com/watch?v=p1qM75a9FeE)
-- [フレデリック「飄々とエモーション」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=qaOVcOq2McE)
-- [Fkj - Ylang Ylang](https://www.youtube.com/watch?v=EfgAd6iHApE)
-- [King Gnu - どろん](https://www.youtube.com/watch?v=gc0_Acq8dV4)
+- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
+- [御祭騒ぎ→長く短い祭 (from 百鬼夜行)](https://www.youtube.com/watch?v=YtKx-5YLs30)
+- [サカナクション / 新宝島　-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=LIlZCmETvsY)
+- [ポルカドットスティングレイ「ICHIDAIJI」MV](https://www.youtube.com/watch?v=WJW7kS9AAI4)
+- [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
