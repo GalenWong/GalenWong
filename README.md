@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
-- [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
 - [Yogee New Waves / SAYONARAMATA (Official MV)](https://www.youtube.com/watch?v=TSSJ8HTiNDU)
 - [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
 - [ポルカドットスティングレイ「女神」MV](https://www.youtube.com/watch?v=DDtGQ9danyQ)
+- [ポルカドットスティングレイ「パンドラボックス」MV](https://www.youtube.com/watch?v=-zlq6eMycLA)
+- [ポルカドットスティングレイ「レム」MV](https://www.youtube.com/watch?v=Cez10v5lhB4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
