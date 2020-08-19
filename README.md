@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サカナクション / 新宝島　-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=LIlZCmETvsY)
-- [ポルカドットスティングレイ「ICHIDAIJI」MV](https://www.youtube.com/watch?v=WJW7kS9AAI4)
 - [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
 - [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
 - [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
+- [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
+- [Yogee New Waves / SAYONARAMATA (Official MV)](https://www.youtube.com/watch?v=TSSJ8HTiNDU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
