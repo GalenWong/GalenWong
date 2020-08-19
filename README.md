@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
-- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
 - [告五人/Accusefive  在這座城市遺失了你 歌詞Lyrics   與你相遇 是在一個單純美好的世界](https://www.youtube.com/watch?v=lWLHG_mcDw4)
 - [ポルカドットスティングレイ「トゲめくスピカ」MV (Polkadot Stingray / A Stinging Spica)](https://www.youtube.com/watch?v=kJHkiuenKEE)
 - [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
+- [謊言留聲機 Lie Gramophone - 分手夜 Break-up Night (feat. LALA 徐佳瑩) Official Video](https://www.youtube.com/watch?v=4z9o8GwxBz8)
+- [DSPS - 冬天再去見你 (Official Music Video)](https://www.youtube.com/watch?v=0io32VRxmQI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
