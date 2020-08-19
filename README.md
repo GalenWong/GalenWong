@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「女神」MV](https://www.youtube.com/watch?v=DDtGQ9danyQ)
-- [ポルカドットスティングレイ「パンドラボックス」MV](https://www.youtube.com/watch?v=-zlq6eMycLA)
 - [ポルカドットスティングレイ「レム」MV](https://www.youtube.com/watch?v=Cez10v5lhB4)
 - [ポルカドットスティングレイ「シンクロニシカ」MV](https://www.youtube.com/watch?v=EQL9mZtIY5o)
 - [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
+- [toconoma - relive](https://www.youtube.com/watch?v=XLvp2HzCtOo)
+- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
