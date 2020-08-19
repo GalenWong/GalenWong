@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師  MV「 灰色と青（ ＋菅田将暉 ）」](https://www.youtube.com/watch?v=gJX2iy6nhHc)
-- [ポルカドットスティングレイ「阿吽」MV](https://www.youtube.com/watch?v=YNBezN_dTQ4)
 - [Yogee New Waves / CLIMAXNIGHT(Super Mellow ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=gyII7pYrYp0)
 - [大象體操ElephantGym _ 中途Midway【Official Music Video】](https://www.youtube.com/watch?v=lIBGM7uYNfs)
 - [kiki vivi lily × SUKISHA - Blue in Green [Official Video]](https://www.youtube.com/watch?v=nvwx4FSI2wo)
+- [【顏社】Leo王 - 朋友朋友+ 時間的奶昔(Official Music Video)](https://www.youtube.com/watch?v=Jyz2wC_cj24)
+- [サカナクション - ミュージック（MUSIC VIDEO） -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=iVstp5Ozw2o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
