@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [小老婆](https://www.youtube.com/watch?v=5UUSlAOQyvg)
-- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
 - [米津玄師  MV「 灰色と青（ ＋菅田将暉 ）」](https://www.youtube.com/watch?v=gJX2iy6nhHc)
 - [ポルカドットスティングレイ「阿吽」MV](https://www.youtube.com/watch?v=YNBezN_dTQ4)
 - [Yogee New Waves / CLIMAXNIGHT(Super Mellow ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=gyII7pYrYp0)
+- [大象體操ElephantGym _ 中途Midway【Official Music Video】](https://www.youtube.com/watch?v=lIBGM7uYNfs)
+- [kiki vivi lily × SUKISHA - Blue in Green [Official Video]](https://www.youtube.com/watch?v=nvwx4FSI2wo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
