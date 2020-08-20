@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サカナクション / モス(SAKANAQUARIUM 2019"834.194")](https://www.youtube.com/watch?v=7jy8bGlSZaM)
-- [老王樂隊｜那些失眠的夜與難以忘懷的事 Sleepless nights and haunting memories (Official)](https://www.youtube.com/watch?v=CLgSrAOmVAw)
-- [米津玄師  MV「アイネクライネ」](https://www.youtube.com/watch?v=-EKxzId_Sj4)
-- [Sunset Rollercoaster - Summum Bonum / New Drug | Audiotree Live](https://www.youtube.com/watch?v=Hf3UoGpO838)
-- [I Mean Us - E.D.E.N. [Official Audio]](https://www.youtube.com/watch?v=mFIQwP0tJDY)
+- [ヨルシカ - 思想犯（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=ENcnYh79dUY)
+- [Sunny Day Service - セツナ【Official Video】](https://www.youtube.com/watch?v=gfmoWR6jQ0M)
+- [Fkj & Masego - Tadow](https://www.youtube.com/watch?v=hC8CH0Z3L54)
+- [サカナクション / ナイロンの糸](https://www.youtube.com/watch?v=NIOiwV1qj-k)
+- [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
