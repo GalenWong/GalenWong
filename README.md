@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [My Jinji](https://www.youtube.com/watch?v=X_k53NIp0QU)
-- [サカナクション / 多分、風。 -New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=8lx0vLTH_yg)
 - [あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=0xSiBpUdW4E)
 - [ポルカドットスティングレイ「ヒミツ」MV](https://www.youtube.com/watch?v=D199Zpv6d6M)
 - [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
+- [ヨルシカ - パレード (Music Video)](https://www.youtube.com/watch?v=ry3Tupx4BL4)
+- [ポルカドットスティングレイ「FREE」MV](https://www.youtube.com/watch?v=C0F4MzdKt9g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
