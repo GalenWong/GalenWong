@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
-- [Mariya Takeuchi 竹内 まりや Plastic Love](https://www.youtube.com/watch?v=3bNITQR4Uso)
 - [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
 - [椎名林檎 - 丸の内サディスティック (Live 下剋上エクスタシー)](https://www.youtube.com/watch?v=FlPXeVU3nhM)
 - [米津玄師 MV「カムパネルラ」](https://www.youtube.com/watch?v=XeFQJ6-XoD0)
+- [Official髭男dism - I LOVE...［Official Video］](https://www.youtube.com/watch?v=bt8wNQJaKAk)
+- [不可幸力 / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Gbz2C2gQREI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
