@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 思想犯（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=ENcnYh79dUY)
-- [Sunny Day Service - セツナ【Official Video】](https://www.youtube.com/watch?v=gfmoWR6jQ0M)
 - [Fkj & Masego - Tadow](https://www.youtube.com/watch?v=hC8CH0Z3L54)
 - [サカナクション / ナイロンの糸](https://www.youtube.com/watch?v=NIOiwV1qj-k)
 - [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
+- [ポルカドットスティングレイ「バケノカワ」MV](https://www.youtube.com/watch?v=Z_fz6oeeG1M)
+- [Yogee New Waves / C.A.M.P.(Stoned Forest ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=WMmbDJTyuSs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
