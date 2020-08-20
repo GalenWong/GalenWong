@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yogee New Waves / C.A.M.P.(Stoned Forest ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=WMmbDJTyuSs)
-- [フレデリック「リリリピート」Music Video / frederic“Rererepeat”](https://www.youtube.com/watch?v=VjAxLbmy83E)
 - [あいみょん - 裸の心【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=yOAwvRmVIyo)
 - [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
 - [ヨルシカ - 言って。(Music Video)](https://www.youtube.com/watch?v=F64yFFnZfkI)
+- [老王樂隊｜這樣就好 這樣就好 Good, it would be good (Official)](https://www.youtube.com/watch?v=_CbAcHFXJ8c)
+- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
