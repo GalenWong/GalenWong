@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Official髭男dism - SWEET TWEET［Official Video］](https://www.youtube.com/watch?v=qrtKLNTB71c)
-- [Official髭男dism - イエスタデイ［Official Video］](https://www.youtube.com/watch?v=DuMqFknYHBs)
 - [あいみょん - 君はロックを聴かない 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=ARwVe1MYAUA)
 - [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
 - [ヨルシカ - 盗作（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=CS4f3jawFxY)
+- [Yogee New Waves / Bluemin' Days  (Official MV)](https://www.youtube.com/watch?v=od7FH9dlfok)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
