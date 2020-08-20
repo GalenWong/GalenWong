@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
-- [ポルカドットスティングレイ「バケノカワ」MV](https://www.youtube.com/watch?v=Z_fz6oeeG1M)
 - [Yogee New Waves / C.A.M.P.(Stoned Forest ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=WMmbDJTyuSs)
 - [フレデリック「リリリピート」Music Video / frederic“Rererepeat”](https://www.youtube.com/watch?v=VjAxLbmy83E)
 - [あいみょん - 裸の心【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=yOAwvRmVIyo)
+- [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
+- [ヨルシカ - 言って。(Music Video)](https://www.youtube.com/watch?v=F64yFFnZfkI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
