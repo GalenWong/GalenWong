@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 言って。(Music Video)](https://www.youtube.com/watch?v=F64yFFnZfkI)
-- [老王樂隊｜這樣就好 這樣就好 Good, it would be good (Official)](https://www.youtube.com/watch?v=_CbAcHFXJ8c)
 - [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
 - [フレデリック「TOGENKYO」Music Video / frederic“TOGENKYO”  -2nd Full Album「フレデリズム2」 2019/2/20 Release-](https://www.youtube.com/watch?v=OfBd8kxo4mQ)
 - [ポルカドットスティングレイ「人魚」MV](https://www.youtube.com/watch?v=rudHfB6hatw)
+- [Official髭男dism - Stand By You［Official Video］](https://www.youtube.com/watch?v=22mOCjkwQjM)
+- [Official髭男dism - SWEET TWEET［Official Video］](https://www.youtube.com/watch?v=qrtKLNTB71c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
