@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
-- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
 - [嘘とカメレオン「されど奇術師は賽を振る」MV](https://www.youtube.com/watch?v=lscuxZT45Io)
 - [大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】](https://www.youtube.com/watch?v=saccx5dTmKU)
 - [フレデリック「ナイトステップ」Music Video / frederic "Night Step "](https://www.youtube.com/watch?v=t_RogQwLq-M)
+- [空想委員会 / 八方塞がり美人MV](https://www.youtube.com/watch?v=5i3qNE6rOIw)
+- [フレデリック (Frederic) - 02. ディスコプール](https://www.youtube.com/watch?v=alnE9fK09tU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
