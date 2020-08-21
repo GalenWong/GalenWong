@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓 - 如常](https://www.youtube.com/watch?v=Sl6ZQxoABSI)
-- [Sunset Rollercoaster - Summum Bonum / New Drug | Audiotree Live](https://www.youtube.com/watch?v=Hf3UoGpO838)
 - [謊言留聲機 Lie Gramophone - 公路電影 Those Days ( Official Music Video )](https://www.youtube.com/watch?v=sUQ-hQVpHPM)
 - [原子邦妮 Astro Bunny 【這樣我就能忘記你了】Official Music Video](https://www.youtube.com/watch?v=n-hy9MswmcA)
 - [Official髭男dism - コーヒーとシロップ［Official Video］](https://www.youtube.com/watch?v=Vho5jBUfR28)
+- [SHE IS SUMMER「CALL ME IN YOUR SUMMER」](https://www.youtube.com/watch?v=H7fjqfSU0bY)
+- [椎名林檎 - 熱愛発覚中from百鬼夜行](https://www.youtube.com/watch?v=H_nCw1WMFs4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
