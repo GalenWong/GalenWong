@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック (Frederic) - 02. ディスコプール](https://www.youtube.com/watch?v=alnE9fK09tU)
-- [フレデリック「飄々とエモーション」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=qaOVcOq2McE)
 - [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
 - [ヨルシカ - 雲と幽霊 (MUSIC VIDEO)](https://www.youtube.com/watch?v=JJaCwW4HyVs)
 - [Fkj - Skyline](https://www.youtube.com/watch?v=qU5FWU0SH0o)
+- [YOASOBI「夜に駆ける」 Official Music Video](https://www.youtube.com/watch?v=x8VYWazR5mE)
+- [King Gnu - 飛行艇](https://www.youtube.com/watch?v=MSv7NbfbtU8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
