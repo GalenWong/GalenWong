@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [嘘とカメレオン「されど奇術師は賽を振る」MV](https://www.youtube.com/watch?v=lscuxZT45Io)
-- [大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】](https://www.youtube.com/watch?v=saccx5dTmKU)
 - [フレデリック「ナイトステップ」Music Video / frederic "Night Step "](https://www.youtube.com/watch?v=t_RogQwLq-M)
 - [空想委員会 / 八方塞がり美人MV](https://www.youtube.com/watch?v=5i3qNE6rOIw)
 - [フレデリック (Frederic) - 02. ディスコプール](https://www.youtube.com/watch?v=alnE9fK09tU)
+- [フレデリック「飄々とエモーション」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=qaOVcOq2McE)
+- [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
