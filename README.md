@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サカナクション / モス(SAKANAQUARIUM 2019"834.194")](https://www.youtube.com/watch?v=7jy8bGlSZaM)
-- [Official髭男dism - HELLO［Official Video］](https://www.youtube.com/watch?v=p1qM75a9FeE)
 - [Official髭男dism - 愛なんだが・・・［Official Video］](https://www.youtube.com/watch?v=i68HdrqOPcE)
 - [YeYe - うんざりですよ（Official Music Video）](https://www.youtube.com/watch?v=Hjq2gsW5wWg)
 - [ヨルシカ - 藍二乗 (Music Video)](https://www.youtube.com/watch?v=4MoRLTAJY_0)
+- [Official髭男dism - Tell Me Baby［Official Video］](https://www.youtube.com/watch?v=3IDvi4buNdk)
+- [フレデリック「逃避行」Music Video / frederic “Tohiko” -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=M1iXjgaYh1w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
