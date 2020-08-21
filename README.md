@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サカナクション / 忘れられないの](https://www.youtube.com/watch?v=BxqYUbNR-c0)
-- [サカナクション - さよならはエモーション （MUSIC VIDEO）-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=87wf45zW5NA)
 - [mol-74 - アルカレミア【MV】](https://www.youtube.com/watch?v=LDn-Fims8js)
 - [米津玄師 MV「海の幽霊」Spirits of the Sea](https://www.youtube.com/watch?v=1s84rIhPuhk)
 - [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [嘘とカメレオン「されど奇術師は賽を振る」MV](https://www.youtube.com/watch?v=lscuxZT45Io)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
