@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [謊言留聲機 Lie Gramophone - 公路電影 Those Days ( Official Music Video )](https://www.youtube.com/watch?v=sUQ-hQVpHPM)
-- [原子邦妮 Astro Bunny 【這樣我就能忘記你了】Official Music Video](https://www.youtube.com/watch?v=n-hy9MswmcA)
 - [Official髭男dism - コーヒーとシロップ［Official Video］](https://www.youtube.com/watch?v=Vho5jBUfR28)
 - [SHE IS SUMMER「CALL ME IN YOUR SUMMER」](https://www.youtube.com/watch?v=H7fjqfSU0bY)
 - [椎名林檎 - 熱愛発覚中from百鬼夜行](https://www.youtube.com/watch?v=H_nCw1WMFs4)
+- [サカナクション - 蓮の花 （MUSIC VIDEO）-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=VjpBaiJlJ5I)
+- [サカナクション「スローモーション」MUSIC VIDEO  -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=_aqs6HrGroM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
