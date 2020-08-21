@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj - Skyline](https://www.youtube.com/watch?v=qU5FWU0SH0o)
-- [YOASOBI「夜に駆ける」 Official Music Video](https://www.youtube.com/watch?v=x8VYWazR5mE)
 - [King Gnu - 飛行艇](https://www.youtube.com/watch?v=MSv7NbfbtU8)
 - [サカナクション / 目が明く藍色　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=Xcj-SVs31cQ)
 - [房東的貓 - 如常](https://www.youtube.com/watch?v=Sl6ZQxoABSI)
+- [Sunset Rollercoaster - Summum Bonum / New Drug | Audiotree Live](https://www.youtube.com/watch?v=Hf3UoGpO838)
+- [謊言留聲機 Lie Gramophone - 公路電影 Those Days ( Official Music Video )](https://www.youtube.com/watch?v=sUQ-hQVpHPM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
