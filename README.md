@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サカナクション / ホーリーダンス　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=CWe7oDJgtrQ)
-- [mol-74 - エイプリル【MV】](https://www.youtube.com/watch?v=HTjiTJm7jjg)
 - [フレデリック「たりないeye」Music Video / frederic“Tarinai eye”](https://www.youtube.com/watch?v=0m2mfFhUg8w)
 - [あいみょん –真夏の夜の匂いがする【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EQva8xKAZ7s)
 - [ヨルシカ - 花に亡霊（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=9lVPAWLWtWc)
+- [サイダーガール / 寝ぐせ (Demo ver.)](https://www.youtube.com/watch?v=FOb8UysongE)
+- [サカナクション / モス(SAKANAQUARIUM 2019"834.194")](https://www.youtube.com/watch?v=7jy8bGlSZaM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
