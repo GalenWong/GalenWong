@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「たりないeye」Music Video / frederic“Tarinai eye”](https://www.youtube.com/watch?v=0m2mfFhUg8w)
-- [あいみょん –真夏の夜の匂いがする【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EQva8xKAZ7s)
 - [ヨルシカ - 花に亡霊（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=9lVPAWLWtWc)
 - [サイダーガール / 寝ぐせ (Demo ver.)](https://www.youtube.com/watch?v=FOb8UysongE)
 - [サカナクション / モス(SAKANAQUARIUM 2019"834.194")](https://www.youtube.com/watch?v=7jy8bGlSZaM)
+- [Official髭男dism - HELLO［Official Video］](https://www.youtube.com/watch?v=p1qM75a9FeE)
+- [Official髭男dism - 愛なんだが・・・［Official Video］](https://www.youtube.com/watch?v=i68HdrqOPcE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
