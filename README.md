@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 花に亡霊（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=9lVPAWLWtWc)
-- [サイダーガール / 寝ぐせ (Demo ver.)](https://www.youtube.com/watch?v=FOb8UysongE)
 - [サカナクション / モス(SAKANAQUARIUM 2019"834.194")](https://www.youtube.com/watch?v=7jy8bGlSZaM)
 - [Official髭男dism - HELLO［Official Video］](https://www.youtube.com/watch?v=p1qM75a9FeE)
 - [Official髭男dism - 愛なんだが・・・［Official Video］](https://www.youtube.com/watch?v=i68HdrqOPcE)
+- [YeYe - うんざりですよ（Official Music Video）](https://www.youtube.com/watch?v=Hjq2gsW5wWg)
+- [ヨルシカ - 藍二乗 (Music Video)](https://www.youtube.com/watch?v=4MoRLTAJY_0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
