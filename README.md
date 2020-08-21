@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [King Gnu - 飛行艇](https://www.youtube.com/watch?v=MSv7NbfbtU8)
-- [サカナクション / 目が明く藍色　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=Xcj-SVs31cQ)
 - [房東的貓 - 如常](https://www.youtube.com/watch?v=Sl6ZQxoABSI)
 - [Sunset Rollercoaster - Summum Bonum / New Drug | Audiotree Live](https://www.youtube.com/watch?v=Hf3UoGpO838)
 - [謊言留聲機 Lie Gramophone - 公路電影 Those Days ( Official Music Video )](https://www.youtube.com/watch?v=sUQ-hQVpHPM)
+- [原子邦妮 Astro Bunny 【這樣我就能忘記你了】Official Music Video](https://www.youtube.com/watch?v=n-hy9MswmcA)
+- [Official髭男dism - コーヒーとシロップ［Official Video］](https://www.youtube.com/watch?v=Vho5jBUfR28)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
