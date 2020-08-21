@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
-- [ヨルシカ - 雲と幽霊 (MUSIC VIDEO)](https://www.youtube.com/watch?v=JJaCwW4HyVs)
 - [Fkj - Skyline](https://www.youtube.com/watch?v=qU5FWU0SH0o)
 - [YOASOBI「夜に駆ける」 Official Music Video](https://www.youtube.com/watch?v=x8VYWazR5mE)
 - [King Gnu - 飛行艇](https://www.youtube.com/watch?v=MSv7NbfbtU8)
+- [サカナクション / 目が明く藍色　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=Xcj-SVs31cQ)
+- [房東的貓 - 如常](https://www.youtube.com/watch?v=Sl6ZQxoABSI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
