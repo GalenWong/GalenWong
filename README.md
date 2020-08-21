@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 盗作（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=CS4f3jawFxY)
-- [Yogee New Waves / Bluemin' Days  (Official MV)](https://www.youtube.com/watch?v=od7FH9dlfok)
 - [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
 - [フレデリックっぽい曲作ってみた『エンドレステップ』#14](https://www.youtube.com/watch?v=9kTtJ0BTPco)
 - [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
+- [あいみょん – ハルノヒ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=pfGI91CFtRg)
+- [米津玄師  MV「Lemon」](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
