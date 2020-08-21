@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椎名林檎 - 熱愛発覚中from百鬼夜行](https://www.youtube.com/watch?v=H_nCw1WMFs4)
-- [サカナクション - 蓮の花 （MUSIC VIDEO）-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=VjpBaiJlJ5I)
 - [サカナクション「スローモーション」MUSIC VIDEO  -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=_aqs6HrGroM)
 - [ヨルシカ - 雨とカプチーノ(Official Video)](https://www.youtube.com/watch?v=PWbRleMGagU)
 - [サカナクション / ホーリーダンス　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=CWe7oDJgtrQ)
+- [mol-74 - エイプリル【MV】](https://www.youtube.com/watch?v=HTjiTJm7jjg)
+- [フレデリック「たりないeye」Music Video / frederic“Tarinai eye”](https://www.youtube.com/watch?v=0m2mfFhUg8w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
