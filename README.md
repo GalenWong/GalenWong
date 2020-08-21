@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
-- [フレデリックっぽい曲作ってみた『エンドレステップ』#14](https://www.youtube.com/watch?v=9kTtJ0BTPco)
 - [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
 - [あいみょん – ハルノヒ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=pfGI91CFtRg)
 - [米津玄師  MV「Lemon」](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
+- [Yogee New Waves / World is Mine(Official MV)](https://www.youtube.com/watch?v=-vSTk_4Bzfc)
+- [Yogee New Waves / Like Sixteen Candles(Official MV)](https://www.youtube.com/watch?v=J8bW8kqgjm8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
