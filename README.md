@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yogee New Waves / Like Sixteen Candles(Official MV)](https://www.youtube.com/watch?v=J8bW8kqgjm8)
-- [あいみょん - 愛を伝えたいだとか 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=9qRCARM_LfE)
 - [サカナクション / 忘れられないの](https://www.youtube.com/watch?v=BxqYUbNR-c0)
 - [サカナクション - さよならはエモーション （MUSIC VIDEO）-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=87wf45zW5NA)
 - [mol-74 - アルカレミア【MV】](https://www.youtube.com/watch?v=LDn-Fims8js)
+- [米津玄師 MV「海の幽霊」Spirits of the Sea](https://www.youtube.com/watch?v=1s84rIhPuhk)
+- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
