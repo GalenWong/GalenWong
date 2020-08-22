@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tatsuro Yamashita "LOVE SPACE" (Live 1978) 山下達郎 ラブ・スペイス](https://www.youtube.com/watch?v=GIb3rPJjY9k)
-- [mol-74 - グレイッシュ 【MV】](https://www.youtube.com/watch?v=xcbbCJcnnOU)
 - [Official髭男dism - Laughter［Official Video］](https://www.youtube.com/watch?v=kff_DXor7jc)
 - [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
 - [あいみょん - 今夜このまま【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=mH6LoI63buY)
+- [【Music Video】ロンググッドバイ](https://www.youtube.com/watch?v=oje0pfsevBE)
+- [米津玄師  MV「アイネクライネ」](https://www.youtube.com/watch?v=-EKxzId_Sj4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
