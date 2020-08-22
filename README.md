@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [9m88 - Hello Bye Bye (Official MV)](https://www.youtube.com/watch?v=eHKl1DaeiOQ)
-- [Phum Viphurit - Hello, Anxiety [Official Video]](https://www.youtube.com/watch?v=b7ffmtnuSGM)
 - [Phum Viphurit - Long Gone [Official Video]](https://www.youtube.com/watch?v=hTBPPSNGYi8)
 - [Fkj - Ylang Ylang](https://www.youtube.com/watch?v=EfgAd6iHApE)
 - [ヨルシカ - ヒッチコック (MUSIC VIDEO)](https://www.youtube.com/watch?v=t7MBzMP4OzY)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
+- [あいみょん - 生きていたんだよな 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EEMwA8KZAqg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
