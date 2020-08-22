@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 心に穴が空いた (Music Video)](https://www.youtube.com/watch?v=DlyG6MAKUOA)
-- [Official髭男dism - 最後の恋煩い［Studio Live Session］](https://www.youtube.com/watch?v=3LYdaQ1N8RY)
 - [Official髭男dism - FIRE GROUND［Official Video］](https://www.youtube.com/watch?v=sem3UU-EQJs)
 - [Samm Henshaw - Broke (Lyric Video)](https://www.youtube.com/watch?v=fe0Enf31npc)
 - [フレデリック「トウメイニンゲン」Music Video | frederic"Tomei-ningen"](https://www.youtube.com/watch?v=7OO8Egn-R0Y)
+- [Anri - Last Summer Whisper](https://www.youtube.com/watch?v=SNq4zqTN_DQ)
+- [LUCKY TAPES - パレード (Official Music Video)](https://www.youtube.com/watch?v=tNCAYwaVdrQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
