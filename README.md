@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 春ひさぎ（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=F3cXxqgbx9Y)
-- [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
 - [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
 - [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
 - [Fkj Live at La Fée Electricité, Paris](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
+- [Toe - グッドバイ Goodbye Feat. Toki Asako](https://www.youtube.com/watch?v=XBzoHdb1-Qw)
+- [椎名林檎 - 長く短い祭](https://www.youtube.com/watch?v=3LVAmMxICoA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
