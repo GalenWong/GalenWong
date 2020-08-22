@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
-- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
 - [Fkj Live at La Fée Electricité, Paris](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
 - [Toe - グッドバイ Goodbye Feat. Toki Asako](https://www.youtube.com/watch?v=XBzoHdb1-Qw)
 - [椎名林檎 - 長く短い祭](https://www.youtube.com/watch?v=3LVAmMxICoA)
+- [老王樂隊｜你啊你啊 Cover -TME特別翻唱企劃「返場」之「華語金曲：10 20 30」【原唱：waawei 魏如萱 】](https://www.youtube.com/watch?v=e69jHUyhqZk)
+- [＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo](https://www.youtube.com/watch?v=C-o8pTi6vd8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
