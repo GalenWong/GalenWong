@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Phum Viphurit - Long Gone [Official Video]](https://www.youtube.com/watch?v=hTBPPSNGYi8)
-- [Fkj - Ylang Ylang](https://www.youtube.com/watch?v=EfgAd6iHApE)
 - [ヨルシカ - ヒッチコック (MUSIC VIDEO)](https://www.youtube.com/watch?v=t7MBzMP4OzY)
 - [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 - [あいみょん - 生きていたんだよな 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EEMwA8KZAqg)
+- [Tatsuro Yamashita "Sparkle" (Japanese Funk - 1982)](https://www.youtube.com/watch?v=7ijMDQgvW0o)
+- [米津玄師 MV「LOSER」](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
