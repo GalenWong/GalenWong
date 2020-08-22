@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師  MV「アイネクライネ」](https://www.youtube.com/watch?v=-EKxzId_Sj4)
-- [あいみょん – さよならの今日に【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=C1yP_GQ9s4E)
 - [ポルカドットスティングレイ「ラブコール」ライブ映像](https://www.youtube.com/watch?v=yZb4HorEhX8)
 - [あいみょん – 空の青さを知る人よ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=ztdpBUDf00o)
 - [ヨルシカ - 心に穴が空いた (Music Video)](https://www.youtube.com/watch?v=DlyG6MAKUOA)
+- [Official髭男dism - 最後の恋煩い［Studio Live Session］](https://www.youtube.com/watch?v=3LYdaQ1N8RY)
+- [Official髭男dism - FIRE GROUND［Official Video］](https://www.youtube.com/watch?v=sem3UU-EQJs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
