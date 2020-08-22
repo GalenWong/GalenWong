@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Official髭男dism - Laughter［Official Video］](https://www.youtube.com/watch?v=kff_DXor7jc)
-- [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
 - [あいみょん - 今夜このまま【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=mH6LoI63buY)
 - [【Music Video】ロンググッドバイ](https://www.youtube.com/watch?v=oje0pfsevBE)
 - [米津玄師  MV「アイネクライネ」](https://www.youtube.com/watch?v=-EKxzId_Sj4)
+- [あいみょん – さよならの今日に【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=C1yP_GQ9s4E)
+- [ポルカドットスティングレイ「ラブコール」ライブ映像](https://www.youtube.com/watch?v=yZb4HorEhX8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
