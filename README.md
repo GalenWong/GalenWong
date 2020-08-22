@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo](https://www.youtube.com/watch?v=C-o8pTi6vd8)
-- [米津玄師 MV「春雷」Shunrai](https://www.youtube.com/watch?v=zkNzxsaCunU)
 - [【顏社】蛋堡 Soft Lipa X JABBERLOOP - 恍惚](https://www.youtube.com/watch?v=KBGbwBq3GzE)
 - [【顏社】蛋堡 Soft Lipa - 踩.腳.踏.車 (Official Music Video)](https://www.youtube.com/watch?v=gW9TBojWOQE)
 - [謊言留聲機 Lie Gramophone - 一年 One Year (Official Video)](https://www.youtube.com/watch?v=xfbLNYAyEJ8)
+- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
+- [陳忻玥 Vicky Chen - 煙幕 (Smokescreen)｜ 彩虹六部曲【第一次】La Boum Official MV | KKTV原創電視劇](https://www.youtube.com/watch?v=P8uJ4gFjJGE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
