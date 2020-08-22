@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - ヒッチコック (MUSIC VIDEO)](https://www.youtube.com/watch?v=t7MBzMP4OzY)
-- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 - [あいみょん - 生きていたんだよな 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EEMwA8KZAqg)
 - [Tatsuro Yamashita "Sparkle" (Japanese Funk - 1982)](https://www.youtube.com/watch?v=7ijMDQgvW0o)
 - [米津玄師 MV「LOSER」](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
+- [mol-74 - ％ 【MV】](https://www.youtube.com/watch?v=IRWGgOATTUQ)
+- [Tatsuro Yamashita "LOVE SPACE" (Live 1978) 山下達郎 ラブ・スペイス](https://www.youtube.com/watch?v=GIb3rPJjY9k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
