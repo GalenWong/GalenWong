@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [謊言留聲機 Lie Gramophone - 一年 One Year (Official Video)](https://www.youtube.com/watch?v=xfbLNYAyEJ8)
-- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
 - [陳忻玥 Vicky Chen - 煙幕 (Smokescreen)｜ 彩虹六部曲【第一次】La Boum Official MV | KKTV原創電視劇](https://www.youtube.com/watch?v=P8uJ4gFjJGE)
 - [宇多田ヒカル - 二時間だけのバカンス featuring 椎名林檎](https://www.youtube.com/watch?v=UPdlfIhzPEo)
 - [9m88 - Hello Bye Bye (Official MV)](https://www.youtube.com/watch?v=eHKl1DaeiOQ)
+- [Phum Viphurit - Hello, Anxiety [Official Video]](https://www.youtube.com/watch?v=b7ffmtnuSGM)
+- [Phum Viphurit - Long Gone [Official Video]](https://www.youtube.com/watch?v=hTBPPSNGYi8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
