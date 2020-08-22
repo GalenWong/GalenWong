@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj Live at La Fée Electricité, Paris](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
-- [Toe - グッドバイ Goodbye Feat. Toki Asako](https://www.youtube.com/watch?v=XBzoHdb1-Qw)
 - [椎名林檎 - 長く短い祭](https://www.youtube.com/watch?v=3LVAmMxICoA)
 - [老王樂隊｜你啊你啊 Cover -TME特別翻唱企劃「返場」之「華語金曲：10 20 30」【原唱：waawei 魏如萱 】](https://www.youtube.com/watch?v=e69jHUyhqZk)
 - [＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo](https://www.youtube.com/watch?v=C-o8pTi6vd8)
+- [米津玄師 MV「春雷」Shunrai](https://www.youtube.com/watch?v=zkNzxsaCunU)
+- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - 恍惚](https://www.youtube.com/watch?v=KBGbwBq3GzE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
