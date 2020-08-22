@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [宋冬野《董小姐》繁體中字 Official MV](https://www.youtube.com/watch?v=AG8HtuOjkH0)
-- [あいみょん - 満月の夜なら 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=OVKKtwDReEA)
 - [Official髭男dism - LADY［Official Video］](https://www.youtube.com/watch?v=0nzgi6dz8VY)
 - [あいみょん - ふたりの世界 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=WsEOnichYgI)
 - [CosmosPeople宇宙人 [ 如果我們還在一起  What If We ] Official Music Video](https://www.youtube.com/watch?v=mBB_67OxXIo)
+- [KANA-BOON - Silhouette](https://www.youtube.com/watch?v=dlFA0Zq1k2A)
+- [ヨルシカ - 春ひさぎ（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=F3cXxqgbx9Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
