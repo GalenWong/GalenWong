@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
-- [李榮浩 Ronghao Li - 年少有為 If I Were Young (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=Dnj5Tcpev0Q)
 - [謊言留聲機(Lie Gramophone) - 怪女孩(Like You Do)  Feat.B.C.W.懶領階級](https://www.youtube.com/watch?v=zoGFwDCbjio)
 - [Roosevelt - Shadows (Midnight Version)](https://www.youtube.com/watch?v=VTPqfL-WCqo)
 - [香水  /  瑛人 (Official Music Video)](https://www.youtube.com/watch?v=9MjAJSoaoSo)
+- [告五人 Accusefive 【披星戴月的想你】Official Music Video](https://www.youtube.com/watch?v=VpwAq7hiij0)
+- [Mariya Takeuchi もう一度 Once Again](https://www.youtube.com/watch?v=bM823OzZSKk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
