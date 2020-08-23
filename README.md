@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [謊言留聲機(Lie Gramophone) - 怪女孩(Like You Do)  Feat.B.C.W.懶領階級](https://www.youtube.com/watch?v=zoGFwDCbjio)
-- [Roosevelt - Shadows (Midnight Version)](https://www.youtube.com/watch?v=VTPqfL-WCqo)
 - [香水  /  瑛人 (Official Music Video)](https://www.youtube.com/watch?v=9MjAJSoaoSo)
 - [告五人 Accusefive 【披星戴月的想你】Official Music Video](https://www.youtube.com/watch?v=VpwAq7hiij0)
 - [Mariya Takeuchi もう一度 Once Again](https://www.youtube.com/watch?v=bM823OzZSKk)
+- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
+- [Crispy脆樂團 [ 轉圈圈 In Circles ] Official Music Video](https://www.youtube.com/watch?v=7H52yGup84A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
