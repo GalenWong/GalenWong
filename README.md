@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [9m88- "Leftlovers 廚餘戀人” Official MV](https://www.youtube.com/watch?v=aobDr6nfs9k)
-- [Sunny Day Service - 春の風【Official Video】](https://www.youtube.com/watch?v=e6k0KeR_wN8)
 - [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
 - [椎名林檎 - 「長く短い祭」 from (生)林檎博’18](https://www.youtube.com/watch?v=1Omyzc0ihyo)
 - [【MV】竹内アンナ / B.M.B](https://www.youtube.com/watch?v=fhu033YVrzk)
+- [茄子蛋EggPlantEgg - 浪流連 Waves Wandering (Official Music Video)](https://www.youtube.com/watch?v=3Y0Ut5ozaKs)
+- [Covet "falkor" (full band playthrough)](https://www.youtube.com/watch?v=FTxSXUzc96A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
