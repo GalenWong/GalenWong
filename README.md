@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「トウメイニンゲン」Music Video | frederic"Tomei-ningen"](https://www.youtube.com/watch?v=7OO8Egn-R0Y)
-- [Anri - Last Summer Whisper](https://www.youtube.com/watch?v=SNq4zqTN_DQ)
 - [LUCKY TAPES - パレード (Official Music Video)](https://www.youtube.com/watch?v=tNCAYwaVdrQ)
 - [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
 - [Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO](https://www.youtube.com/watch?v=J69oCCM1EcI)
+- [フレデリック「LIGHT」Music Video / frederic “LIGHT”  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=0H7VWEfekv8)
+- [菅田将暉 『まちがいさがし』](https://www.youtube.com/watch?v=7940nuwCEYA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
