@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
-- [怪獣の花唄/ Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
 - [原子邦妮 Astro Bunny 【在名為未來的波浪裡】Official Music Video](https://www.youtube.com/watch?v=gl9vmdmMJN0)
 - [DATS - Mobile (Official Music Video)](https://www.youtube.com/watch?v=TXx07iG5W4E)
 - [iri - 「Wonderland」Music Video 【Full ver.】](https://www.youtube.com/watch?v=3WlOZTy072k)
+- [Anri - Remember Summer Days (MACROSS 82-99 Bootleg)](https://www.youtube.com/watch?v=idipMrfAZHk)
+- [Masego - Navajo | A COLORS SHOW](https://www.youtube.com/watch?v=fuAE3U1NvOs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
