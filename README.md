@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [iri - 「Wonderland」Music Video 【Full ver.】](https://www.youtube.com/watch?v=3WlOZTy072k)
-- [Anri - Remember Summer Days (MACROSS 82-99 Bootleg)](https://www.youtube.com/watch?v=idipMrfAZHk)
 - [Masego - Navajo | A COLORS SHOW](https://www.youtube.com/watch?v=fuAE3U1NvOs)
 - [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
 - [【顏社】李英宏 aka DJ Didilong - 自躁浪漫 ft.李權哲 Jerry Li (Official Music Video)](https://www.youtube.com/watch?v=yTM0WH8pV2U)
+- [Parcels - Redline / IknowhowIfeel / Elude - Live Vol. 1](https://www.youtube.com/watch?v=3kBIxmjun1U)
+- [美波「main actor 」MV](https://www.youtube.com/watch?v=jb4ybTQwcdw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
