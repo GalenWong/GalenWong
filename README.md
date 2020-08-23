@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】李英宏 aka DJ Didilong - 自躁浪漫 ft.李權哲 Jerry Li (Official Music Video)](https://www.youtube.com/watch?v=yTM0WH8pV2U)
-- [Parcels - Redline / IknowhowIfeel / Elude - Live Vol. 1](https://www.youtube.com/watch?v=3kBIxmjun1U)
 - [美波「main actor 」MV](https://www.youtube.com/watch?v=jb4ybTQwcdw)
 - [Kan Sano - My Girl [Official Music Video]](https://www.youtube.com/watch?v=Ki4zPBnfPI4)
 - [ずっと真夜中でいいのに。『MILABO』MV（ZUTOMAYO - MILABO）](https://www.youtube.com/watch?v=I88PrE-KUPk)
+- [美波「アメヲマツ、」MV](https://www.youtube.com/watch?v=766qmHTc2ro)
+- [LUCKY TAPES - レイディ・ブルース (Official Music Video)](https://www.youtube.com/watch?v=BiBTpQPCMtg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
