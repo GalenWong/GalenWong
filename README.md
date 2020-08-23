@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【在名為未來的波浪裡】Official Music Video](https://www.youtube.com/watch?v=gl9vmdmMJN0)
-- [DATS - Mobile (Official Music Video)](https://www.youtube.com/watch?v=TXx07iG5W4E)
 - [iri - 「Wonderland」Music Video 【Full ver.】](https://www.youtube.com/watch?v=3WlOZTy072k)
 - [Anri - Remember Summer Days (MACROSS 82-99 Bootleg)](https://www.youtube.com/watch?v=idipMrfAZHk)
 - [Masego - Navajo | A COLORS SHOW](https://www.youtube.com/watch?v=fuAE3U1NvOs)
+- [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
+- [【顏社】李英宏 aka DJ Didilong - 自躁浪漫 ft.李權哲 Jerry Li (Official Music Video)](https://www.youtube.com/watch?v=yTM0WH8pV2U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
