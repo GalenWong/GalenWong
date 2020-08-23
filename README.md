@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Official髭男dism - FIRE GROUND［Official Video］](https://www.youtube.com/watch?v=sem3UU-EQJs)
-- [Samm Henshaw - Broke (Lyric Video)](https://www.youtube.com/watch?v=fe0Enf31npc)
 - [フレデリック「トウメイニンゲン」Music Video | frederic"Tomei-ningen"](https://www.youtube.com/watch?v=7OO8Egn-R0Y)
 - [Anri - Last Summer Whisper](https://www.youtube.com/watch?v=SNq4zqTN_DQ)
 - [LUCKY TAPES - パレード (Official Music Video)](https://www.youtube.com/watch?v=tNCAYwaVdrQ)
+- [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
+- [Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO](https://www.youtube.com/watch?v=J69oCCM1EcI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
