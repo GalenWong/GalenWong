@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Crispy脆樂團 [ 轉圈圈 In Circles ] Official Music Video](https://www.youtube.com/watch?v=7H52yGup84A)
-- [原子邦妮 Astro Bunny 【現在你好嗎】官方歌詞MV (Lyric)](https://www.youtube.com/watch?v=5Kb98kW0bVE)
 - [黃玠 X 蛋堡【放個假】](https://www.youtube.com/watch?v=k5Vls5GEf1Y)
 - [美波「ホロネス」MV](https://www.youtube.com/watch?v=HIRiduzNLzQ)
 - [9m88- "Leftlovers 廚餘戀人” Official MV](https://www.youtube.com/watch?v=aobDr6nfs9k)
+- [Sunny Day Service - 春の風【Official Video】](https://www.youtube.com/watch?v=e6k0KeR_wN8)
+- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
