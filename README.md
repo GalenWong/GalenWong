@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [菅田将暉 『まちがいさがし』](https://www.youtube.com/watch?v=7940nuwCEYA)
-- [米津玄師 MV「馬と鹿」Uma to Shika](https://www.youtube.com/watch?v=ptnYBctoexk)
 - [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
 - [李榮浩 Ronghao Li - 年少有為 If I Were Young (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=Dnj5Tcpev0Q)
 - [謊言留聲機(Lie Gramophone) - 怪女孩(Like You Do)  Feat.B.C.W.懶領階級](https://www.youtube.com/watch?v=zoGFwDCbjio)
+- [Roosevelt - Shadows (Midnight Version)](https://www.youtube.com/watch?v=VTPqfL-WCqo)
+- [香水  /  瑛人 (Official Music Video)](https://www.youtube.com/watch?v=9MjAJSoaoSo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
