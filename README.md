@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES - TONIGHT! (Official Music Video)](https://www.youtube.com/watch?v=gzyX0In5Mwg)
-- [フジファブリック (Fujifabric) - 若者のすべて(Wakamono No Subete)](https://www.youtube.com/watch?v=IPBXepn5jTA)
 - [ヨルシカ - 夜行 (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=MH5noJJfqDY)
 - [Fkj & Tom Misch - Losing My Way (Live from O2 Academy Brixton)](https://www.youtube.com/watch?v=WZTq5do8v4s)
 - [逃跑計劃 Escape Plan《 哪裡是你的擁抱 》Lyric Video](https://www.youtube.com/watch?v=MT2Qng_euzo)
+- [サイダーガール “メランコリー” Music Video](https://www.youtube.com/watch?v=Lve4n8aMKaQ)
+- [REMIX 7th Anniversary - We Believe [ 蛋堡 Softlipa + MATZKA ]](https://www.youtube.com/watch?v=1JogUXOjNOw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
