@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [宋冬野 - 斑馬，斑馬 Music Video](https://www.youtube.com/watch?v=7q2DrrQ33OQ)
-- [你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)](https://www.youtube.com/watch?v=MJMfU2Od2T8)
 - [Junko Ohashi - Telephone Number (1984)](https://www.youtube.com/watch?v=I0JVRcJLea8)
 - [toconoma - Highwind (Official Visualizer)](https://www.youtube.com/watch?v=_-IINJ0UGR8)
 - [前前前世 (movie ver.) RADWIMPS MV](https://www.youtube.com/watch?v=PDSkFeMVNFs)
+- [盧廣仲 Crowd Lu 【幾分之幾 You Complete Me】 Official Music Video （花甲大人轉男孩電影主題曲）](https://www.youtube.com/watch?v=HQ_mU73VhEQ)
+- [宋冬野   02 莉莉安](https://www.youtube.com/watch?v=FiJHoPrS4Y4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
