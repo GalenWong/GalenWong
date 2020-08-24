@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】Leo王 - 雞腿便當 (Official Music Video)](https://www.youtube.com/watch?v=eimid7K4mJ0)
-- [【顏社】Leo王 - 快樂的甘蔗人 (Lyrics Music Video)](https://www.youtube.com/watch?v=ui4nJWGvSYg)
 - [Electric Guest - Troubleman](https://www.youtube.com/watch?v=3OC2aPCuzjo)
 - [渣泥ZANI〈想念結痂了 / Scars〉Official Audio](https://www.youtube.com/watch?v=TvWTO6rheAs)
 - [大象體操ElephantGym _ 銀河GALAXY【Official Music Video】](https://www.youtube.com/watch?v=FXzpYKIEk4E)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [【HD】房東的貓 - 往往 [歌詞字幕][完整高清音質] ♫ The Landlord's Cat - Often](https://www.youtube.com/watch?v=i9yd9LbAyeE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
