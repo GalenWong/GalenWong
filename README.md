@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [REMIX 7th Anniversary - We Believe [ 蛋堡 Softlipa + MATZKA ]](https://www.youtube.com/watch?v=1JogUXOjNOw)
-- [9m88 - Aim High (Official Music Video)](https://www.youtube.com/watch?v=dimqEPg0NpE)
 - [老王樂隊｜那些失眠的夜與難以忘懷的事 Sleepless nights and haunting memories (Official)](https://www.youtube.com/watch?v=CLgSrAOmVAw)
 - [莫文蔚 Karen Mok - 慢慢喜歡你](https://www.youtube.com/watch?v=-lEhWfucJMs)
 - [謊言留聲機 Lie Gramophone - ANGEL (Official Video)](https://www.youtube.com/watch?v=YEDiLUkDto4)
+- [Mai Yamane - Tasogare - 1980](https://www.youtube.com/watch?v=IhCDK_pSjnk)
+- [逃跑计划Escape Plan - 夜空中最亮的星Brightest Star In The Night Sky](https://www.youtube.com/watch?v=fzuy63eCUKc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
