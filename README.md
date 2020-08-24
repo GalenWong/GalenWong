@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [逃跑计划Escape Plan - 夜空中最亮的星Brightest Star In The Night Sky](https://www.youtube.com/watch?v=fzuy63eCUKc)
-- [Junko Ohashi - I Love You So](https://www.youtube.com/watch?v=Q2QUngVGxmE)
 - [宋冬野 - 斑馬，斑馬 Music Video](https://www.youtube.com/watch?v=7q2DrrQ33OQ)
 - [你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)](https://www.youtube.com/watch?v=MJMfU2Od2T8)
 - [Junko Ohashi - Telephone Number (1984)](https://www.youtube.com/watch?v=I0JVRcJLea8)
+- [toconoma - Highwind (Official Visualizer)](https://www.youtube.com/watch?v=_-IINJ0UGR8)
+- [前前前世 (movie ver.) RADWIMPS MV](https://www.youtube.com/watch?v=PDSkFeMVNFs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
