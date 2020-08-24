@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
-- [DAOKO × 岡村靖幸『ステップアップLOVE』MUSIC VIDEO](https://www.youtube.com/watch?v=wsl8HS_lVHE)
 - [森七菜 スマイル　Music Video](https://www.youtube.com/watch?v=v7BY5m2wYx4)
 - [LUCKY TAPES - Peace and Magic (Audio)](https://www.youtube.com/watch?v=TTrUtxcLTAY)
 - [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
+- [原子邦妮 Astro Bunny 【謝謝你曾經讓我悲傷】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=iTIKzLyQDS0)
+- [東京事変 - キラーチューン](https://www.youtube.com/watch?v=lC8la4l4RhQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
