@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
-- [原子邦妮 Astro Bunny 【謝謝你曾經讓我悲傷】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=iTIKzLyQDS0)
 - [東京事変 - キラーチューン](https://www.youtube.com/watch?v=lC8la4l4RhQ)
 - [Tatsuro Yamashita - Ride on Time (1982)](https://www.youtube.com/watch?v=1rdlHKioR6A)
 - [🧠 ่ :::イルカポリス 海豚刑警『安平之光』Official Music Video 👾🌟 ่ :::](https://www.youtube.com/watch?v=ZrpZB8-VBD0)
+- [椎名林檎 - ありあまる富 from陰翳礼讃](https://www.youtube.com/watch?v=gAzD2-1QhaU)
+- [Mrs. GREEN APPLE - インフェルノ（Inferno）](https://www.youtube.com/watch?v=wfCcs0vLysk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
