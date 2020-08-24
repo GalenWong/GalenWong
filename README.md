@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [逃跑計劃 Escape Plan《 哪裡是你的擁抱 》Lyric Video](https://www.youtube.com/watch?v=MT2Qng_euzo)
-- [サイダーガール “メランコリー” Music Video](https://www.youtube.com/watch?v=Lve4n8aMKaQ)
 - [REMIX 7th Anniversary - We Believe [ 蛋堡 Softlipa + MATZKA ]](https://www.youtube.com/watch?v=1JogUXOjNOw)
 - [9m88 - Aim High (Official Music Video)](https://www.youtube.com/watch?v=dimqEPg0NpE)
 - [老王樂隊｜那些失眠的夜與難以忘懷的事 Sleepless nights and haunting memories (Official)](https://www.youtube.com/watch?v=CLgSrAOmVAw)
+- [莫文蔚 Karen Mok - 慢慢喜歡你](https://www.youtube.com/watch?v=-lEhWfucJMs)
+- [謊言留聲機 Lie Gramophone - ANGEL (Official Video)](https://www.youtube.com/watch?v=YEDiLUkDto4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
