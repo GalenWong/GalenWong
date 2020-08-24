@@ -114,7 +114,7 @@ Read how [Galen cooks food the Wong way](https://galenwong.github.io/blog/2020-0
 
 <img 
   alt="Choy sum fried rice" 
-  src="https://user-images.githubusercontent.com/33505320/91070000-b53ecb00-e668-11ea-8ee9-8cc325a4755a.jpg" 
+  src="https://user-images.githubusercontent.com/33505320/91070564-76f5db80-e669-11ea-8ee2-a59f2cb7d294.jpg" 
   width="100%"
 />
 
