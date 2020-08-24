@@ -7,7 +7,7 @@
 
 <img 
   style="vertical-align: middle; margin: 10px" 
-  src="https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/panda-ball.gif" 
+  src="https://user-images.githubusercontent.com/33505320/91068921-8f64f680-e667-11ea-8f52-7a4e9be96ffc.gif" 
   height="200px"
   align='right'
 /> 
@@ -80,6 +80,7 @@ studies in
 - [Frandé 法蘭黛樂團《該死的冷戰》Feat. 李英宏 aka DJ Didilong  Official Music Video](https://www.youtube.com/watch?v=NxngOIdRdqE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
+⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
 </td>
 </tr>
 <tr valign="top">
@@ -99,7 +100,8 @@ Follow me on
 
 <img 
   alt="Polar bear" 
-  src="https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/polar-bear.jpg" 
+  src="https://user-images.githubusercontent.com/33505320/91069823-714bc600-e668-11ea-9746-d81902b43fca.jpg" 
+  width="100%"
 />
 
 </td>
@@ -112,8 +114,8 @@ Read how [Galen cooks food the Wong way](https://galenwong.github.io/blog/2020-0
 
 <img 
   alt="Choy sum fried rice" 
-  src="https://raw.githubusercontent.com/GalenWong/GalenWong/master/images/garlic-choysum-fried-rice.jpg" 
-  width=400
+  src="https://user-images.githubusercontent.com/33505320/91070000-b53ecb00-e668-11ea-8ee9-8cc325a4755a.jpg" 
+  width="100%"
 />
 
 </td>
