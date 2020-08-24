@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Frandé 法蘭黛樂團《該死的冷戰》Feat. 李英宏 aka DJ Didilong  Official Music Video](https://www.youtube.com/watch?v=NxngOIdRdqE)
-- [原子邦妮 Astro Bunny 【忽然想你的時候】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=z5MoQzwis0I)
 - [【顏社】Leo王 - 雞腿便當 (Official Music Video)](https://www.youtube.com/watch?v=eimid7K4mJ0)
 - [【顏社】Leo王 - 快樂的甘蔗人 (Lyrics Music Video)](https://www.youtube.com/watch?v=ui4nJWGvSYg)
 - [Electric Guest - Troubleman](https://www.youtube.com/watch?v=3OC2aPCuzjo)
+- [渣泥ZANI〈想念結痂了 / Scars〉Official Audio](https://www.youtube.com/watch?v=TvWTO6rheAs)
+- [大象體操ElephantGym _ 銀河GALAXY【Official Music Video】](https://www.youtube.com/watch?v=FXzpYKIEk4E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
