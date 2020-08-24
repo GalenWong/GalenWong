@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [宋冬野   02 莉莉安](https://www.youtube.com/watch?v=FiJHoPrS4Y4)
-- [睡不著 Insomnia - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=vYn5imzO1PE)
 - [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
 - [DAOKO × 岡村靖幸『ステップアップLOVE』MUSIC VIDEO](https://www.youtube.com/watch?v=wsl8HS_lVHE)
 - [森七菜 スマイル　Music Video](https://www.youtube.com/watch?v=v7BY5m2wYx4)
+- [LUCKY TAPES - Peace and Magic (Audio)](https://www.youtube.com/watch?v=TTrUtxcLTAY)
+- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 </td>
