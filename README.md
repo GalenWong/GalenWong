@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES - 贅沢な罠 (Official Music Video)](https://www.youtube.com/watch?v=-f4KljoFSJk)
-- [美秀集團 Amazing Show－我要你愛 You are My Crazy Lover【Official Music Video】](https://www.youtube.com/watch?v=ouQwJj1V2pE)
 - [9m88 - 如果可以 If I Could (Official MV)](https://www.youtube.com/watch?v=2Bog__QWqF8)
 - [Tatsuro Yamashita - Magic Ways](https://www.youtube.com/watch?v=fekWiU3K_e0)
 - [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
+- [謊言留聲機 Lie Gramophone - 讓子彈飛 (Official Lyric Video)](https://www.youtube.com/watch?v=RYyjQwVnfIc)
+- [あいみょん - 朝陽【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=DSqZVdqd68o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
