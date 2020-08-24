@@ -59,11 +59,11 @@ studies in
 ## 📖 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeing My Virtual Music Taste on Github Profile](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
 - [Galen Cooks Food the Wong Way](https://galenwong.github.io/blog/2020-08-01-galen-cooks-food-the-wong-way/)
 - [My Two Cents on Fiber](https://galenwong.github.io/blog/2020-06-22-my-two-cents-on-fiber/)
 - [台灣音樂的反思——香港與粵語文化的輸出](https://galenwong.github.io/blog/2020-03-24-香港文化輸出/)
 - [The Pitfall of Material UI Theme with Gatsby](https://galenwong.github.io/blog/2020-02-27-mui-jss-rendering/)
-- [Nesterov Momentum Equivalence Derivation](https://galenwong.github.io/blog/2020-02-08-nesterov-momentum-equivalence/)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
