@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [女士優先 Lady First - 老莫 ILL MO X ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=ZLFMqje5o-A)
-- [Fkj - Earthquake (Official Audio)](https://www.youtube.com/watch?v=0lrhatsoVX4)
 - [FKJ - So Much to Me](https://www.youtube.com/watch?v=20H2E7AcIDs)
 - [POPO J【曖人】(L)over｜Official Music Video](https://www.youtube.com/watch?v=fnba1zinB1Q)
 - [Frandé 法蘭黛樂團《該死的冷戰》Feat. 李英宏 aka DJ Didilong  Official Music Video](https://www.youtube.com/watch?v=NxngOIdRdqE)
+- [原子邦妮 Astro Bunny 【忽然想你的時候】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=z5MoQzwis0I)
+- [【顏社】Leo王 - 雞腿便當 (Official Music Video)](https://www.youtube.com/watch?v=eimid7K4mJ0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
