@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
-- [魏如萱 waa wei [ 你啊你啊 Only You ] Official Music Video](https://www.youtube.com/watch?v=saiJbqHBuew)
 - [周杰倫 Jay Chou【手寫的從前 Handwritten Past】Official MV](https://www.youtube.com/watch?v=TMB6-YflpA4)
 - [Jay Chou 周杰倫【最長的電影 The Longest Movie】-Official Music Video](https://www.youtube.com/watch?v=2zxc27bvrO8)
 - [旺福 Won Fu《我當你空氣 You Are My Air》 Official Music Video](https://www.youtube.com/watch?v=1hKkAM-ADDU)
+- [Jay Chou 周杰倫【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
