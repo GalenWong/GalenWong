@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
-- [Vast & Hazy【拾起 Move On】Official Lyrics Video](https://www.youtube.com/watch?v=pBQK-Lwt1sA)
 - [荷爾蒙少年 Hormone Boys - 4:00A.M. (Official Lyric Video)](https://www.youtube.com/watch?v=YN8nNsHzDQ8)
 - [Zoology - Maroon](https://www.youtube.com/watch?v=0fIzfj7JLa8)
 - [薛之謙 Joker Xue【演員】官方完整版 MV](https://www.youtube.com/watch?v=XKuL5xaKZHM)
+- [夜貓組 Yeemao - 健康歌 Yeemao Song｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=fFdiMitwnLo)
+- [I Mean Us - Søulмaтe (Demo)](https://www.youtube.com/watch?v=AgrfgqV1lAs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
