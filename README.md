@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [薛之謙 Joker Xue【演員】官方完整版 MV](https://www.youtube.com/watch?v=XKuL5xaKZHM)
-- [夜貓組 Yeemao - 健康歌 Yeemao Song｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=fFdiMitwnLo)
 - [I Mean Us - Søulмaтe (Demo)](https://www.youtube.com/watch?v=AgrfgqV1lAs)
 - [大石碎胸口 - 万能青年旅店](https://www.youtube.com/watch?v=kZn4sz4rDJM)
 - [守夜人Night Keepers【謝謝演算法 Thanks to Algorithm】Official Music Video](https://www.youtube.com/watch?v=YlhwughBSJs)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
+- [ヨルシカ - だから僕は音楽を辞めた (Music Video)](https://www.youtube.com/watch?v=KTZ-y85Erus)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
