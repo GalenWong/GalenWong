@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [旺福 Won Fu《我當你空氣 You Are My Air》 Official Music Video](https://www.youtube.com/watch?v=1hKkAM-ADDU)
-- [Jay Chou 周杰倫【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
 - [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 - [無妄合作社 No-nonsense Collective－〈開店歌〉Official Music Video](https://www.youtube.com/watch?v=jZzzwd_CDQM)
 - [Jay Chou 周杰倫【彩虹 Rainbow】-Official Music Video](https://www.youtube.com/watch?v=WxZvXPTBC0A)
+- [周杰倫 Jay Chou【愛在西元前 Love before BC】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
+- [Jay Chou 周杰倫【東風破 Dong-Feng-Po】-Official Music Video](https://www.youtube.com/watch?v=qct0JLjaHDc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
