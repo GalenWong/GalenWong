@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - だから僕は音楽を辞めた (Music Video)](https://www.youtube.com/watch?v=KTZ-y85Erus)
-- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
 - [謊言留聲機 Lie Gramophone - 腦內飛 Endorphins Fly (Official Video)](https://www.youtube.com/watch?v=A9BdIs2gHkQ)
 - [I Mean Us - I Don't Know (Demo)](https://www.youtube.com/watch?v=21JrezZjggY)
 - [問題總部 It's Your Fault 【 Day 】 Official Music Video](https://www.youtube.com/watch?v=_RZYJtwxDiU)
+- [King Gnu - どろん](https://www.youtube.com/watch?v=gc0_Acq8dV4)
+- [Tomoko Aran - I'm In Love [Warner Bros. Records] 1983](https://www.youtube.com/watch?v=pE2D3LWADFg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
