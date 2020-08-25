@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [showmore - 1mm【Official Lyric Video】](https://www.youtube.com/watch?v=JF4JUQ4WnXg)
-- [KANA-BOON 『ないものねだり』Music Video](https://www.youtube.com/watch?v=UgS7vgquBvo)
 - [KIRINJI - killer tune kills me feat. YonYon](https://www.youtube.com/watch?v=Y36b8_WFejI)
 - [フレンズ「夜にダンス」](https://www.youtube.com/watch?v=P20NA5_nMfw)
 - [大象體操ElephantGym _ 月落moonset【Official Music Video】](https://www.youtube.com/watch?v=lKMavkUYRQg)
+- [東京事変 - 幕ノ内サディスティック](https://www.youtube.com/watch?v=i9I55MZLYYY)
+- [張學友 | 愛是永恒  (高清音)](https://www.youtube.com/watch?v=dR4Def1DqA4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
