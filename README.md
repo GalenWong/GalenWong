@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Mean Us - Søulмaтe (Demo)](https://www.youtube.com/watch?v=AgrfgqV1lAs)
-- [大石碎胸口 - 万能青年旅店](https://www.youtube.com/watch?v=kZn4sz4rDJM)
 - [守夜人Night Keepers【謝謝演算法 Thanks to Algorithm】Official Music Video](https://www.youtube.com/watch?v=YlhwughBSJs)
 - [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 - [ヨルシカ - だから僕は音楽を辞めた (Music Video)](https://www.youtube.com/watch?v=KTZ-y85Erus)
+- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
+- [謊言留聲機 Lie Gramophone - 腦內飛 Endorphins Fly (Official Video)](https://www.youtube.com/watch?v=A9BdIs2gHkQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
