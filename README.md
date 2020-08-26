@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫【擱淺 官方完整MV】Jay Chou "Step Aside" MV (Ge-Qian)](https://www.youtube.com/watch?v=YJfHuATJYsQ)
-- [周杰倫 Jay Chou【超人不會飛 Superman Can't Fly】Official MV](https://www.youtube.com/watch?v=4j0Fgmsxr-o)
 - [Jay Chou 周杰倫【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
 - [Jay Chou周杰倫【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 - [周杰倫 Jay Chou【安靜 Silence】Official MV](https://www.youtube.com/watch?v=1hI-7vj2FhE)
+- [周杰倫 Jay Chou【愛你沒差 Love you, no matter what】Official MV](https://www.youtube.com/watch?v=miBGaUagOz8)
+- [Jay Chou 周杰倫【楓Maple Leaf 】Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
