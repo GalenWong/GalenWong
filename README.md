@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou (特別演出: 派偉俊)【告白氣球 Love Confession】Official MV](https://www.youtube.com/watch?v=bu7nU9Mhpyo)
-- [好樂團 GoodBand ─《我把我的青春給你》Official Music Video](https://www.youtube.com/watch?v=9MMIB61e6sM)
 - [原子邦妮 Astro Bunny 【也許你不懂】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=o1xlxZMQX00)
 - [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
 - [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
+- [I Mean Us - 24 Years Old of You  [Official Audio]](https://www.youtube.com/watch?v=ekt-5yMYPuo)
+- [Jay Chou 周杰倫【哪裡都是你 You are everywhere】-Official Music Video](https://www.youtube.com/watch?v=yfn8sE9obWU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
