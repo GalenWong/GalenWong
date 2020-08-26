@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【七里香 Qi-Li-Xiang】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
-- [2019.08.30 9m88 feat.落日飛車 國國 - 無法度按奈(O.S:Why Not)平庸之上發片演唱會-20 @Legacy 台中](https://www.youtube.com/watch?v=JocLMB4zNYI)
 - [張學友 | 怎麼捨得你 (高清音)](https://www.youtube.com/watch?v=8tgxGX_qYnc)
 - [Jay Chou 周杰倫【天台的月光 Moonlight on the Rooftop】-Official Music Video](https://www.youtube.com/watch?v=GDBD6h8BWIc)
 - [傻子與白痴 - 你終究不愛這世界 Demo](https://www.youtube.com/watch?v=9KCDSxInPSU)
+- [周杰倫【龍捲風 官方完整MV】Jay Chou "Tornado" MV (Long-Juan-Feng)](https://www.youtube.com/watch?v=RPWDeLqsN0g)
+- [周杰倫 Jay Chou【夜曲 Nocturne】Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
