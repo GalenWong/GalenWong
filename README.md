@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video](https://www.youtube.com/watch?v=sHD_z90ZKV0)
-- [東京事変 - 赤の同盟 (Official Music Video)](https://www.youtube.com/watch?v=t67VbQhh9_A)
 - [落日飛車 Sunset Rollercoaster-Angel Disco Love](https://www.youtube.com/watch?v=4JQyv8TD-8Q)
 - [椎名林檎- 浴室 from 真空地帯](https://www.youtube.com/watch?v=-tgNbt59GUU)
 - [珂拉琪 Collage／這該死的拘執與愛](https://www.youtube.com/watch?v=utxHZq9Nxm4)
+- [Jay Chou 周杰倫【青花瓷 Blue and White Porcelain】-Official Music Video](https://www.youtube.com/watch?v=Z8Mqw0b9ADs)
+- [謊言留聲機 Lie Gramophone - 火燒厝 House on Fire (Official Lyrics Video)](https://www.youtube.com/watch?v=KR492DL5kqE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
