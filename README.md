@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [傻子與白痴 - 你終究不愛這世界 Demo](https://www.youtube.com/watch?v=9KCDSxInPSU)
-- [周杰倫【龍捲風 官方完整MV】Jay Chou "Tornado" MV (Long-Juan-Feng)](https://www.youtube.com/watch?v=RPWDeLqsN0g)
 - [周杰倫 Jay Chou【夜曲 Nocturne】Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
 - [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
 - [伍佰 Wu Bai&China Blue【夏夜晚風 Summer night wind】Official Music Video](https://www.youtube.com/watch?v=NYdl3-PxEhQ)
+- [周杰倫【可愛女人 官方完整MV】Jay Chou "Adorable Lady" MV (feat.徐若瑄Vivian) (Ke-Ai-Nu-Ren)](https://www.youtube.com/watch?v=87VUC4J_0Ps)
+- [怕胖團PAPUN BAND《 我沒有用，沒辦法給你想要的生活 》Official Music Video](https://www.youtube.com/watch?v=rlRSJNHS40s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
