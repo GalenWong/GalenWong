@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [問題總部 It's Your Fault 【 心臟痛 it won't stop hurting... 】 Official Music Video](https://www.youtube.com/watch?v=jZellTAQZr4)
-- [Jay Chou 周杰倫【白色風車 White Windmill】-Official Music Video](https://www.youtube.com/watch?v=K9CbHZLXPIA)
 - [張學友 | 離開以後  (高清音)](https://www.youtube.com/watch?v=Co20PYsl95g)
 - [Jay Chou 周杰倫【懦夫 Coward】-Official Music Video](https://www.youtube.com/watch?v=Xi_RBDWZaT0)
 - [周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV](https://www.youtube.com/watch?v=UBySINroNkw)
+- [Jay Chou 周杰倫【時光機 Time Machine】-Official Music Video](https://www.youtube.com/watch?v=nCfrfCzaB2A)
+- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
