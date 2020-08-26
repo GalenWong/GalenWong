@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
-- [張學友 | 情已逝 (高清音)](https://www.youtube.com/watch?v=DOd0kq0C-uY)
 - [周杰倫 Jay Chou【以父之名 In The Name of The Father】Official MV](https://www.youtube.com/watch?v=9q7JOQfcJQM)
 - [Jay Chou 周杰倫【我不配 Not Good Enough For You】-Official Music Video](https://www.youtube.com/watch?v=s-VFpsrbWLk)
 - [周杰倫 Jay Chou (特別演出: 派偉俊)【告白氣球 Love Confession】Official MV](https://www.youtube.com/watch?v=bu7nU9Mhpyo)
+- [好樂團 GoodBand ─《我把我的青春給你》Official Music Video](https://www.youtube.com/watch?v=9MMIB61e6sM)
+- [原子邦妮 Astro Bunny 【也許你不懂】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=o1xlxZMQX00)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
