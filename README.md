@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ゲスの極み乙女。 - 私以外私じゃないの](https://www.youtube.com/watch?v=Ae6gQmhaMn4)
-- [Short Stay-The Fur. (official video)](https://www.youtube.com/watch?v=DApvwDlkyOE)
 - [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
 - [拍謝少年 Sorry Youth -  暗流 Undercurrent ft. 安溥 Anpu｜2019大港開唱 Megaport Festival](https://www.youtube.com/watch?v=YYNPArbfNgQ)
 - [DNAの階段 - Hello Sleepwalkers（Official Audio + Lyrics)](https://www.youtube.com/watch?v=XVeOQRhxIDU)
+- [amazarashi『月曜日』“Monday” Music Video｜マンガ「月曜日の友達」主題歌](https://www.youtube.com/watch?v=fodRoRdDSug)
+- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
