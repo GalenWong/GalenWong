@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LiSA - 紅蓮華 / THE FIRST TAKE](https://www.youtube.com/watch?v=MpYy6wwqxoo)
-- [ヨルシカ - 盗作（Album Trailer）](https://www.youtube.com/watch?v=8Zf66WSPU9E)
 - [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
 - [PEARL CENTER × Soulflex - Mixed Emotions（Official Lyric Video）](https://www.youtube.com/watch?v=j5EYBkBnFAk)
 - [mabanua - Blurred [Official Music Video]](https://www.youtube.com/watch?v=vJ7kftr5kSw)
+- [張學友 | 等你等到我心痛  (高清音)](https://www.youtube.com/watch?v=K_N76y5elPM)
+- [indigo la End「チューリップ」](https://www.youtube.com/watch?v=kiTn9pgnj8I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
