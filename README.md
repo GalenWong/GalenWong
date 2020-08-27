@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [FKJ - Drops feat. Tom Bailey](https://www.youtube.com/watch?v=tayEofaRQIs)
-- [MONDO GROSSO / 惑星タントラ (Short Edit)](https://www.youtube.com/watch?v=PbcGp7SIpKA)
 - [WEAVER「６６番目の汽車に乗って」2012.5.17 Live at Shibuya Club QUATTRO](https://www.youtube.com/watch?v=8d7q5I2ScLk)
 - [All Because Of You - Lucky Tapes](https://www.youtube.com/watch?v=7N03CrTMo-o)
 - [indigo la End「夜漁り」](https://www.youtube.com/watch?v=ENG7KXI6Sb4)
+- [Limi - 我的夜晚是不是你的白天 (Official Audio)](https://www.youtube.com/watch?v=lkSMbg_QE9g)
+- [ゲスの極み乙女。 - 私以外私じゃないの](https://www.youtube.com/watch?v=Ae6gQmhaMn4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
