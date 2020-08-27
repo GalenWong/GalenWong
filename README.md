@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [WEAVER「６６番目の汽車に乗って」2012.5.17 Live at Shibuya Club QUATTRO](https://www.youtube.com/watch?v=8d7q5I2ScLk)
-- [All Because Of You - Lucky Tapes](https://www.youtube.com/watch?v=7N03CrTMo-o)
 - [indigo la End「夜漁り」](https://www.youtube.com/watch?v=ENG7KXI6Sb4)
 - [Limi - 我的夜晚是不是你的白天 (Official Audio)](https://www.youtube.com/watch?v=lkSMbg_QE9g)
 - [ゲスの極み乙女。 - 私以外私じゃないの](https://www.youtube.com/watch?v=Ae6gQmhaMn4)
+- [Short Stay-The Fur. (official video)](https://www.youtube.com/watch?v=DApvwDlkyOE)
+- [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
