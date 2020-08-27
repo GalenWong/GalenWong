@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunny Day Service - 愛し合い 感じ合い 眠り合う【Official Video】](https://www.youtube.com/watch?v=TgDFuS9F0jE)
-- [ずっと真夜中でいいのに。『お勉強しといてよ』MV（ZUTOMAYO - STUDY ME）](https://www.youtube.com/watch?v=Atvsg_zogxo)
 - [Moonchild - "The List" (Official Video)](https://www.youtube.com/watch?v=1eDvtvdoxJE)
 - [YeYe - 幸せにはならない（Official Music Video）](https://www.youtube.com/watch?v=EdUtRTZRzWI)
 - [Chet Faker - Gold (Official Music Video)](https://www.youtube.com/watch?v=hi4pzKvuEQM)
+- [majiko - ひび割れた世界 [MV]](https://www.youtube.com/watch?v=6rHySk9Kcuo)
+- [張學友 | 這麼近 那麼遠 (高清音)](https://www.youtube.com/watch?v=FKJsERz50OI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
