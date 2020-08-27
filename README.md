@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [J.Sheon - 別問很可怕 (Don't Ask)  |  Official Music Video](https://www.youtube.com/watch?v=tRa3fOlnN7k)
-- [Childish Gambino - Feels Like Summer](https://www.youtube.com/watch?v=F1B9Fk_SgI0)
 - [真夜中のジョーク - 間宮貴子(Takako Mamiya)](https://www.youtube.com/watch?v=nhuNb0XtRhQ)
 - [張震嶽 A-Yue【愛我別走 Love me,don’t go】Official Music Video](https://www.youtube.com/watch?v=zPeMFCDPgKE)
 - [LiSA - 紅蓮華 / THE FIRST TAKE](https://www.youtube.com/watch?v=MpYy6wwqxoo)
+- [ヨルシカ - 盗作（Album Trailer）](https://www.youtube.com/watch?v=8Zf66WSPU9E)
+- [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
