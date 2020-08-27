@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [mabanua - Blurred [Official Music Video]](https://www.youtube.com/watch?v=vJ7kftr5kSw)
-- [張學友 | 等你等到我心痛  (高清音)](https://www.youtube.com/watch?v=K_N76y5elPM)
 - [indigo la End「チューリップ」](https://www.youtube.com/watch?v=kiTn9pgnj8I)
 - [周杰倫Jay Chou X aMEI【不該 Shouldn't Be】Official MV](https://www.youtube.com/watch?v=_VxLOj3TB5k)
 - [Sunny Day Service - 愛し合い 感じ合い 眠り合う【Official Video】](https://www.youtube.com/watch?v=TgDFuS9F0jE)
+- [ずっと真夜中でいいのに。『お勉強しといてよ』MV（ZUTOMAYO - STUDY ME）](https://www.youtube.com/watch?v=Atvsg_zogxo)
+- [Moonchild - "The List" (Official Video)](https://www.youtube.com/watch?v=1eDvtvdoxJE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
