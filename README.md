@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Eric周興哲《以後別做朋友 The Distance of Love》Official Music Video](https://www.youtube.com/watch?v=Ew4VvF0DPMc)
-- [I Mean Us - 死宝貝 (Official Audio)](https://www.youtube.com/watch?v=L_jnT1I05qY)
 - [Official髭男dism - ラストソング［Studio Live Session］](https://www.youtube.com/watch?v=ajJKtzg--5g)
 - [King Gnu - It's a small world](https://www.youtube.com/watch?v=JBmzU_qn_G8)
 - [I Mean Us - 12345 I HATE YOU (Demo)](https://www.youtube.com/watch?v=YXofBp6AeSo)
+- [I Mean Us - EYƎ [Official Music Video]](https://www.youtube.com/watch?v=sBLVe2Fu1Qc)
+- [Jay Chou 周杰倫【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
