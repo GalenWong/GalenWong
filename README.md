@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [珂拉琪 Collage／這該死的拘執與愛](https://www.youtube.com/watch?v=utxHZq9Nxm4)
-- [Jay Chou 周杰倫【青花瓷 Blue and White Porcelain】-Official Music Video](https://www.youtube.com/watch?v=Z8Mqw0b9ADs)
 - [謊言留聲機 Lie Gramophone - 火燒厝 House on Fire (Official Lyrics Video)](https://www.youtube.com/watch?v=KR492DL5kqE)
 - [我在想你的時候睡著了 - 盧凱彤 + 張國璽](https://www.youtube.com/watch?v=l4cUp4EU_e8)
 - [Eric周興哲《以後別做朋友 The Distance of Love》Official Music Video](https://www.youtube.com/watch?v=Ew4VvF0DPMc)
+- [I Mean Us - 死宝貝 (Official Audio)](https://www.youtube.com/watch?v=L_jnT1I05qY)
+- [Official髭男dism - ラストソング［Studio Live Session］](https://www.youtube.com/watch?v=ajJKtzg--5g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
