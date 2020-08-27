@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [無妄合作社 No-nonsense Collective〈山頭 Utopia〉Official Music Video](https://www.youtube.com/watch?v=-58c2qlsIog)
-- [愛にできることはまだあるかい RADWIMPS MV](https://www.youtube.com/watch?v=EQ94zflNqn4)
 - [FKJ - Drops feat. Tom Bailey](https://www.youtube.com/watch?v=tayEofaRQIs)
 - [MONDO GROSSO / 惑星タントラ (Short Edit)](https://www.youtube.com/watch?v=PbcGp7SIpKA)
 - [WEAVER「６６番目の汽車に乗って」2012.5.17 Live at Shibuya Club QUATTRO](https://www.youtube.com/watch?v=8d7q5I2ScLk)
+- [All Because Of You - Lucky Tapes](https://www.youtube.com/watch?v=7N03CrTMo-o)
+- [indigo la End「夜漁り」](https://www.youtube.com/watch?v=ENG7KXI6Sb4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
