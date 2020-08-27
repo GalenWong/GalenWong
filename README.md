@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張學友 | 這麼近 那麼遠 (高清音)](https://www.youtube.com/watch?v=FKJsERz50OI)
-- [MP魔幻力量 [ 我還是愛著你 I still love you ] Official Music Video - 三立華劇「幸福兌換券」片尾曲](https://www.youtube.com/watch?v=Oc_VUUE9MHo)
 - [無妄合作社 No-nonsense Collective〈山頭 Utopia〉Official Music Video](https://www.youtube.com/watch?v=-58c2qlsIog)
 - [愛にできることはまだあるかい RADWIMPS MV](https://www.youtube.com/watch?v=EQ94zflNqn4)
 - [FKJ - Drops feat. Tom Bailey](https://www.youtube.com/watch?v=tayEofaRQIs)
+- [MONDO GROSSO / 惑星タントラ (Short Edit)](https://www.youtube.com/watch?v=PbcGp7SIpKA)
+- [WEAVER「６６番目の汽車に乗って」2012.5.17 Live at Shibuya Club QUATTRO](https://www.youtube.com/watch?v=8d7q5I2ScLk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
