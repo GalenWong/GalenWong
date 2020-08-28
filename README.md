@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [9m88 - 愛情雨 Love Rain (Official MV)](https://www.youtube.com/watch?v=YsIuLotD8H8)
-- [Mayday五月天 [ 溫柔 ] Official Music Video](https://www.youtube.com/watch?v=mtAc_bMYBsM)
 - [小人最新專輯/小人國 【變了好多】feat.Mc Hotdog 大支 J.Wu](https://www.youtube.com/watch?v=T8jZJt_vFPA)
 - [BEYOND【海闊天空】Music Video](https://www.youtube.com/watch?v=qu_FSptjRic)
 - [サカナクション - アイデンティティ（MUSIC VIDEO） -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=1awua0YrSRs)
+- [大象體操ElephantGym _ 頭,身體Head&Body【Official Music Video】](https://www.youtube.com/watch?v=tIKhqEXEt28)
+- [CosmosPeople 宇宙人 [ 心向夏天 Summer Festival ] Official Live Video](https://www.youtube.com/watch?v=EBr-1J2wd3Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
