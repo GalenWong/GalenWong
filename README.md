@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サカナクション - アイデンティティ（MUSIC VIDEO） -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=1awua0YrSRs)
-- [大象體操ElephantGym _ 頭,身體Head&Body【Official Music Video】](https://www.youtube.com/watch?v=tIKhqEXEt28)
 - [CosmosPeople 宇宙人 [ 心向夏天 Summer Festival ] Official Live Video](https://www.youtube.com/watch?v=EBr-1J2wd3Y)
 - [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
 - [张学友 - 一千个伤心的理由](https://www.youtube.com/watch?v=gEpjMDlrjcE)
+- [MAYDAY五月天 [ 終於結束的起點 Beginning of the End ]-右邊的她版 Official Music Video](https://www.youtube.com/watch?v=9tU9oGGc9ac)
+- [告五人 Accusefive【你要不要吃哈密瓜】Official Live Music Video](https://www.youtube.com/watch?v=TRDV0xw3j4Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
