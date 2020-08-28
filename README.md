@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師 MV「ピースサイン」Kenshi Yonezu / Peace Sign](https://www.youtube.com/watch?v=9aJVr5tTTWk)
-- [蔡健雅 Tanya Chua - Easy Come Easy Go feat. MC HotDog熱狗[Official Music Video]](https://www.youtube.com/watch?v=ae8Ov7tMZXY)
 - [toconoma - second lover](https://www.youtube.com/watch?v=z7Ns76e8iYU)
 - [滴妹全新暖心單曲【每一個我】Official Music Video ♥ 滴妹](https://www.youtube.com/watch?v=sEf0LuOI4yI)
 - [張學友 | 李香蘭 (高清音)](https://www.youtube.com/watch?v=N_cwacSuSao)
+- [deca joins | Go Slow【Official Music Video】](https://www.youtube.com/watch?v=ikn3Drf3PpU)
+- [Sunset Rollercoaster - Slow / Oriental (Official Video), 2018](https://www.youtube.com/watch?v=Dxq0IqhT3XI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
