@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サイダーガール - “エバーグリーン" Music Video](https://www.youtube.com/watch?v=8mFrhS3ywEE)
-- [ヨルシカ - ノーチラス (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=j83OVgv6woA)
 - [Your Name/Kimi no Na wa/君の名は。 Orchestra Concert: Nandemonaiya/なんでもないや (Movie and Credit Versions)](https://www.youtube.com/watch?v=M40SBBsSCIA)
 - [Reol - 第六感 / THE SIXTH SENSE Music Video](https://www.youtube.com/watch?v=Ue6VQTcKPQo)
 - [周杰倫 Jay Chou【說好不哭 Won't Cry】with 五月天阿信 (Mayday Ashin) Official MV](https://www.youtube.com/watch?v=HK7SPnGSxLM)
+- [鹿林號《 答案 The story of my heart 》Lyric Video](https://www.youtube.com/watch?v=KnJ6OOFtWuU)
+- [原子邦妮 Astro Bunny 【逃生口】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=CRHEU6RAh8Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
