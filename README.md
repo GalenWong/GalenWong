@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
-- [告五人Accusefive 【帶我去找夜生活 Night life.Take us to the light】（健康版）](https://www.youtube.com/watch?v=aYWliwPRsnQ)
 - [ETERNAL BLUE - 美波](https://www.youtube.com/watch?v=j8L9I5b8oyw)
 - [Omoinotake - Stand Alone (Music Bar Session)](https://www.youtube.com/watch?v=Xu46NUSUIpk)
 - [林俊傑 JJ Lin – 不為誰而作的歌 Twilight (華納 Official 高畫質 HD 官方完整版 MV)](https://www.youtube.com/watch?v=gd38-X3HpbM)
+- [F.I.R. [ 星火 Spark  ]電影「鬥魚」主題曲 Official Music Video](https://www.youtube.com/watch?v=3mEeKAdXAo4)
+- [張學友 | 心如刀割 (高清音)](https://www.youtube.com/watch?v=Ge76OPQ3jOk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
