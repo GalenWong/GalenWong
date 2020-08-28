@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [张学友 - 一千个伤心的理由](https://www.youtube.com/watch?v=gEpjMDlrjcE)
-- [MAYDAY五月天 [ 終於結束的起點 Beginning of the End ]-右邊的她版 Official Music Video](https://www.youtube.com/watch?v=9tU9oGGc9ac)
 - [告五人 Accusefive【你要不要吃哈密瓜】Official Live Music Video](https://www.youtube.com/watch?v=TRDV0xw3j4Y)
 - [I Mean Us - Johnny the Hero│CINEMA SESSIONS](https://www.youtube.com/watch?v=Fq__HNyL6ig)
 - [大象體操ElephantGym  feat. 洪申豪 _ 夜洋風景ocean in the night【Official Music Video】](https://www.youtube.com/watch?v=zE-LFH5LXNQ)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
+- [ShootUp-我是變態我愛你](https://www.youtube.com/watch?v=wc81oN2Bq3Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
