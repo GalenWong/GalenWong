@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ShootUp-我是變態我愛你](https://www.youtube.com/watch?v=wc81oN2Bq3Y)
-- [李權哲 Jerry Li X 夜貓組（春艷+Leo王）- 貓脾氣 CATS' MOOD](https://www.youtube.com/watch?v=vHrC-22HpdQ)
 - [周杰倫 Jay Chou【最後的戰役 The Final Battle】Official MV](https://www.youtube.com/watch?v=ZcShYmOhHM0)
 - [周杰倫 Jay Chou【簡單愛 Simple Love】Official MV](https://www.youtube.com/watch?v=Y4xCVlyCvX4)
 - [サイダーガール - “エバーグリーン" Music Video](https://www.youtube.com/watch?v=8mFrhS3ywEE)
+- [ヨルシカ - ノーチラス (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=j83OVgv6woA)
+- [Your Name/Kimi no Na wa/君の名は。 Orchestra Concert: Nandemonaiya/なんでもないや (Movie and Credit Versions)](https://www.youtube.com/watch?v=M40SBBsSCIA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
