@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunset Rollercoaster - Slow / Oriental (Official Video), 2018](https://www.youtube.com/watch?v=Dxq0IqhT3XI)
-- [卓義峯 Yifeng Zhuo - 再見煙火 Goodbye Firework【豐華唱片official 官方MV】](https://www.youtube.com/watch?v=yjWwfDW9IoA)
 - [【單曲推薦】【僕が死のうと思ったのは】【薇爾莉特】](https://www.youtube.com/watch?v=0HTAKT-JIaA)
 - [劇場版《夏目友人帳-緣結空蟬》主題曲 Uru - 「 remember」【中日歌詞】](https://www.youtube.com/watch?v=t6wBKcYIFGE)
 - [deca joins | 乏善可陳【Official Live Video】](https://www.youtube.com/watch?v=ZtL4thfsxEU)
+- [頑童MJ116 ESO冒險王 Just Believe 官方音樂錄影帶 Official MusicVideo](https://www.youtube.com/watch?v=zQsWXoypvak)
+- [李志-米店](https://www.youtube.com/watch?v=avYFDGd3Yd8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
