@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【單曲推薦】【僕が死のうと思ったのは】【薇爾莉特】](https://www.youtube.com/watch?v=0HTAKT-JIaA)
-- [劇場版《夏目友人帳-緣結空蟬》主題曲 Uru - 「 remember」【中日歌詞】](https://www.youtube.com/watch?v=t6wBKcYIFGE)
 - [deca joins | 乏善可陳【Official Live Video】](https://www.youtube.com/watch?v=ZtL4thfsxEU)
 - [頑童MJ116 ESO冒險王 Just Believe 官方音樂錄影帶 Official MusicVideo](https://www.youtube.com/watch?v=zQsWXoypvak)
 - [李志-米店](https://www.youtube.com/watch?v=avYFDGd3Yd8)
+- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
+- [9m88 - 愛情雨 Love Rain (Official MV)](https://www.youtube.com/watch?v=YsIuLotD8H8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
