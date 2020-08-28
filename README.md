@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張學友 | 李香蘭 (高清音)](https://www.youtube.com/watch?v=N_cwacSuSao)
-- [deca joins | Go Slow【Official Music Video】](https://www.youtube.com/watch?v=ikn3Drf3PpU)
 - [Sunset Rollercoaster - Slow / Oriental (Official Video), 2018](https://www.youtube.com/watch?v=Dxq0IqhT3XI)
 - [卓義峯 Yifeng Zhuo - 再見煙火 Goodbye Firework【豐華唱片official 官方MV】](https://www.youtube.com/watch?v=yjWwfDW9IoA)
 - [【單曲推薦】【僕が死のうと思ったのは】【薇爾莉特】](https://www.youtube.com/watch?v=0HTAKT-JIaA)
+- [劇場版《夏目友人帳-緣結空蟬》主題曲 Uru - 「 remember」【中日歌詞】](https://www.youtube.com/watch?v=t6wBKcYIFGE)
+- [deca joins | 乏善可陳【Official Live Video】](https://www.youtube.com/watch?v=ZtL4thfsxEU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
