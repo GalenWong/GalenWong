@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [toconoma - second lover](https://www.youtube.com/watch?v=z7Ns76e8iYU)
-- [滴妹全新暖心單曲【每一個我】Official Music Video ♥ 滴妹](https://www.youtube.com/watch?v=sEf0LuOI4yI)
 - [張學友 | 李香蘭 (高清音)](https://www.youtube.com/watch?v=N_cwacSuSao)
 - [deca joins | Go Slow【Official Music Video】](https://www.youtube.com/watch?v=ikn3Drf3PpU)
 - [Sunset Rollercoaster - Slow / Oriental (Official Video), 2018](https://www.youtube.com/watch?v=Dxq0IqhT3XI)
+- [卓義峯 Yifeng Zhuo - 再見煙火 Goodbye Firework【豐華唱片official 官方MV】](https://www.youtube.com/watch?v=yjWwfDW9IoA)
+- [【單曲推薦】【僕が死のうと思ったのは】【薇爾莉特】](https://www.youtube.com/watch?v=0HTAKT-JIaA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
