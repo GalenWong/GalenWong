@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 乏善可陳【Official Live Video】](https://www.youtube.com/watch?v=ZtL4thfsxEU)
-- [頑童MJ116 ESO冒險王 Just Believe 官方音樂錄影帶 Official MusicVideo](https://www.youtube.com/watch?v=zQsWXoypvak)
 - [李志-米店](https://www.youtube.com/watch?v=avYFDGd3Yd8)
 - [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
 - [9m88 - 愛情雨 Love Rain (Official MV)](https://www.youtube.com/watch?v=YsIuLotD8H8)
+- [Mayday五月天 [ 溫柔 ] Official Music Video](https://www.youtube.com/watch?v=mtAc_bMYBsM)
+- [小人最新專輯/小人國 【變了好多】feat.Mc Hotdog 大支 J.Wu](https://www.youtube.com/watch?v=T8jZJt_vFPA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
