@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【說好不哭 Won't Cry】with 五月天阿信 (Mayday Ashin) Official MV](https://www.youtube.com/watch?v=HK7SPnGSxLM)
-- [鹿林號《 答案 The story of my heart 》Lyric Video](https://www.youtube.com/watch?v=KnJ6OOFtWuU)
 - [原子邦妮 Astro Bunny 【逃生口】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=CRHEU6RAh8Y)
 - [拍謝少年 Sorry Youth -  暗流 Undercurrent (Official MV)](https://www.youtube.com/watch?v=Roxj9OR6ufk)
 - [四分衛 Quarterback《當我們不在一起 When We're Apart》Official Audio](https://www.youtube.com/watch?v=Mv9LBDu_vmg)
+- [伍佰 Wu Bai&China Blue【Last dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
+- [淺堤 Shallow Levée -【傳道的人 Seeker】Official Music Video](https://www.youtube.com/watch?v=LfETo92yIFs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
