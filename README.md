@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陌生人 Stranger - 蔡健雅 Tanya Chua｜Acoustic Guitar Cover by 倆人 Acoustic Too](https://www.youtube.com/watch?v=VjNTnoL6rAU)
-- [per se - 逝水如斯 (Official MV)](https://www.youtube.com/watch?v=eznbpqAlRy8)
 - [安全著陸 - 個人簡介](https://www.youtube.com/watch?v=0Wvl4DpL8AU)
 - [Crispy脆樂團 [ 過曝 Overexposure ] Official Music Video](https://www.youtube.com/watch?v=VxyOHeCoEGU)
 - [拍謝少年 Sorry Youth - "踅夜市" Live Session @基隆廟口夜市](https://www.youtube.com/watch?v=J7uzi6eXThI)
+- [mol-74 - 赤い頬【MV】](https://www.youtube.com/watch?v=kDgMehGbnsk)
+- [黄昏のBay City](https://www.youtube.com/watch?v=aQGvlemqUpE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
