@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [《等一個人咖啡》電影主題曲＿哈林庾澄慶【缺口】官方MV](https://www.youtube.com/watch?v=hjXrL7CuAvc)
-- [Fkj & Tom Misch - Losing My Way](https://www.youtube.com/watch?v=X4Q7d0CtYyk)
 - [魏如萱 waa wei [ 雪女 Yuki Onna ] Official Music Video](https://www.youtube.com/watch?v=lPtRvbbgrY8)
 - [deca joins | 藍色【Official Audio】](https://www.youtube.com/watch?v=EYbnzXvHfU8)
 - [Vast & Hazy 【求救訊號 I'm Not OK】Official Music Video](https://www.youtube.com/watch?v=0vv149qqciw)
+- [Yusobeit - 半島 (Official Music Video)](https://www.youtube.com/watch?v=-qBewIH0HSI)
+- [荷爾蒙少年 Hormone Boys - 黑色台北 Urban Noir (Official Music Video)](https://www.youtube.com/watch?v=35RMeCdpc4U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
