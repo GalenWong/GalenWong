@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [大象體操ElephantGym_遊戲GAMES](https://www.youtube.com/watch?v=AGnLA3-QLUE)
-- [薛之謙-演員+醜八怪 歌詞](https://www.youtube.com/watch?v=imNrp6vu0co)
 - [20180606 好樂團 - cover 你要不要吃哈密瓜](https://www.youtube.com/watch?v=TQGBbo6xLiQ)
 - [陳昇 - 不再讓你孤單 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=EZsIu4bIUZg)
 - [The Next Big Thing 2019 大團誕生：理想混蛋｜你討厭也沒關係](https://www.youtube.com/watch?v=tds1pOf1ju0)
+- [ネクライトーキーMV「こんがらがった！」](https://www.youtube.com/watch?v=G7_cFQrQNz8)
+- [妖怪人間 - 鄭宜農[歌詞字幕版]](https://www.youtube.com/watch?v=OYx9lYtkUcU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
