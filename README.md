@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [東京事変 - 永遠の不在証明](https://www.youtube.com/watch?v=zKBCSBfP9TI)
-- [田馥甄 Hebe Tien《或是一首歌 A Song for You》Official Music Video](https://www.youtube.com/watch?v=aOSYxTR6U3I)
 - [黃玠 X 黃小楨【你是不是像我一樣】Official Music Video](https://www.youtube.com/watch?v=1TVrd3H8t7c)
 - [淺堤 Shallow Levée -【多崎作 Colorless Youth】](https://www.youtube.com/watch?v=q6De6cMF-iU)
 - [大象體操ElephantGym_遊戲GAMES](https://www.youtube.com/watch?v=AGnLA3-QLUE)
+- [薛之謙-演員+醜八怪 歌詞](https://www.youtube.com/watch?v=imNrp6vu0co)
+- [20180606 好樂團 - cover 你要不要吃哈密瓜](https://www.youtube.com/watch?v=TQGBbo6xLiQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
