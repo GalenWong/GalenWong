@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張學友 | 妳的名字 我的姓氏 Acoustic (高清音)](https://www.youtube.com/watch?v=bwLfiD6TCNs)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video](https://www.youtube.com/watch?v=pd3eV-SG23E)
 - [李榮浩 Ronghao Li《在一起嘛好不好 Be With Me》Official Music Video](https://www.youtube.com/watch?v=7_lw9IHFOIY)
 - [陪我長大的周杰倫金曲串燒 Jay Chou Mashup｜Acoustic Guitar Cover by 倆人 Acoustic Too](https://www.youtube.com/watch?v=OQ1uNDkZ_60)
+- [東京事変 - 群青日和](https://www.youtube.com/watch?v=gD2mhJ3ByGQ)
+- [東京事変 - 永遠の不在証明](https://www.youtube.com/watch?v=zKBCSBfP9TI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
