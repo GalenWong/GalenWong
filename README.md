@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【逃生口】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=CRHEU6RAh8Y)
-- [拍謝少年 Sorry Youth -  暗流 Undercurrent (Official MV)](https://www.youtube.com/watch?v=Roxj9OR6ufk)
 - [四分衛 Quarterback《當我們不在一起 When We're Apart》Official Audio](https://www.youtube.com/watch?v=Mv9LBDu_vmg)
 - [伍佰 Wu Bai&China Blue【Last dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
 - [淺堤 Shallow Levée -【傳道的人 Seeker】Official Music Video](https://www.youtube.com/watch?v=LfETo92yIFs)
+- [草東沒有派對 - 爛泥](https://www.youtube.com/watch?v=QPY4h-nDIZ8)
+- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
