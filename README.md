@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椎名林檎 - 長く短い祭 from百鬼夜行](https://www.youtube.com/watch?v=YLfkgo-3_sk)
-- [TASH SULTANA - JUNGLE (LIVE BEDROOM RECORDING)](https://www.youtube.com/watch?v=Vn8phH0k5HI)
 - ["Sid and Geri" 9m88 - 九頭身日奈NINE HEAD HINANO](https://www.youtube.com/watch?v=SxM42jD8yWI)
 - [美秀集團 Amazing Show－捲菸【Official Music Video】](https://www.youtube.com/watch?v=S4JLJVVjevI)
 - [李友廷 Yo Lee [ 直到我遇見了你 Until I Met You ] Official Music Video](https://www.youtube.com/watch?v=oRJKbrYznpk)
+- [林俊傑 JJ Lin - 修煉愛情 Practice Love (華納official 高畫質HD官方完整版MV)](https://www.youtube.com/watch?v=LWV-f6dMN3Q)
+- [張學友 | 妳的名字 我的姓氏 Acoustic (高清音)](https://www.youtube.com/watch?v=bwLfiD6TCNs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
