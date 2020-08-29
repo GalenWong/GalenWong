@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 - [盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）](https://www.youtube.com/watch?v=m78lJuzftcc)
 - [【好樂團 GoodBand】－陪你的貓睡午覺 Demo](https://www.youtube.com/watch?v=rpqr5tq7MWs)
 - [《等一個人咖啡》電影主題曲＿哈林庾澄慶【缺口】官方MV](https://www.youtube.com/watch?v=hjXrL7CuAvc)
+- [Fkj & Tom Misch - Losing My Way](https://www.youtube.com/watch?v=X4Q7d0CtYyk)
+- [魏如萱 waa wei [ 雪女 Yuki Onna ] Official Music Video](https://www.youtube.com/watch?v=lPtRvbbgrY8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
