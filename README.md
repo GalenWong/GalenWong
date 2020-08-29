@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj - Vibin' Out with ((( O )))](https://www.youtube.com/watch?v=9Gq9N-sPdYg)
-- [下亞厘畢道 - my little airport](https://www.youtube.com/watch?v=6uVNW4UKeqc)
 - [椎名林檎 - 長く短い祭 from百鬼夜行](https://www.youtube.com/watch?v=YLfkgo-3_sk)
 - [TASH SULTANA - JUNGLE (LIVE BEDROOM RECORDING)](https://www.youtube.com/watch?v=Vn8phH0k5HI)
 - ["Sid and Geri" 9m88 - 九頭身日奈NINE HEAD HINANO](https://www.youtube.com/watch?v=SxM42jD8yWI)
+- [美秀集團 Amazing Show－捲菸【Official Music Video】](https://www.youtube.com/watch?v=S4JLJVVjevI)
+- [李友廷 Yo Lee [ 直到我遇見了你 Until I Met You ] Official Music Video](https://www.youtube.com/watch?v=oRJKbrYznpk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
