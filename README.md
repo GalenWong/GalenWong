@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [四分衛 Quarterback《當我們不在一起 When We're Apart》Official Audio](https://www.youtube.com/watch?v=Mv9LBDu_vmg)
-- [伍佰 Wu Bai&China Blue【Last dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
 - [淺堤 Shallow Levée -【傳道的人 Seeker】Official Music Video](https://www.youtube.com/watch?v=LfETo92yIFs)
 - [草東沒有派對 - 爛泥](https://www.youtube.com/watch?v=QPY4h-nDIZ8)
 - [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）](https://www.youtube.com/watch?v=m78lJuzftcc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
