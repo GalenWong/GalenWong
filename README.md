@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Vast & Hazy 【求救訊號 I'm Not OK】Official Music Video](https://www.youtube.com/watch?v=0vv149qqciw)
-- [Yusobeit - 半島 (Official Music Video)](https://www.youtube.com/watch?v=-qBewIH0HSI)
 - [荷爾蒙少年 Hormone Boys - 黑色台北 Urban Noir (Official Music Video)](https://www.youtube.com/watch?v=35RMeCdpc4U)
 - [Fkj - Tokyo](https://www.youtube.com/watch?v=U7GJY-7hVkY)
 - [陌生人 Stranger - 蔡健雅 Tanya Chua｜Acoustic Guitar Cover by 倆人 Acoustic Too](https://www.youtube.com/watch?v=VjNTnoL6rAU)
+- [per se - 逝水如斯 (Official MV)](https://www.youtube.com/watch?v=eznbpqAlRy8)
+- [安全著陸 - 個人簡介](https://www.youtube.com/watch?v=0Wvl4DpL8AU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
