@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [拍謝少年 Sorry Youth - "踅夜市" Live Session @基隆廟口夜市](https://www.youtube.com/watch?v=J7uzi6eXThI)
-- [mol-74 - 赤い頬【MV】](https://www.youtube.com/watch?v=kDgMehGbnsk)
 - [黄昏のBay City](https://www.youtube.com/watch?v=aQGvlemqUpE)
 - [きのこ帝国－金木犀の夜](https://www.youtube.com/watch?v=bdOGh2q4184)
 - [Fkj - Vibin' Out with ((( O )))](https://www.youtube.com/watch?v=9Gq9N-sPdYg)
+- [下亞厘畢道 - my little airport](https://www.youtube.com/watch?v=6uVNW4UKeqc)
+- [椎名林檎 - 長く短い祭 from百鬼夜行](https://www.youtube.com/watch?v=YLfkgo-3_sk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
