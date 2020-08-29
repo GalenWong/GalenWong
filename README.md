@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [20180606 好樂團 - cover 你要不要吃哈密瓜](https://www.youtube.com/watch?v=TQGBbo6xLiQ)
-- [陳昇 - 不再讓你孤單 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=EZsIu4bIUZg)
 - [The Next Big Thing 2019 大團誕生：理想混蛋｜你討厭也沒關係](https://www.youtube.com/watch?v=tds1pOf1ju0)
 - [ネクライトーキーMV「こんがらがった！」](https://www.youtube.com/watch?v=G7_cFQrQNz8)
 - [妖怪人間 - 鄭宜農[歌詞字幕版]](https://www.youtube.com/watch?v=OYx9lYtkUcU)
+- [四分衛  Quarterback '一首搖滾上月球  Rock Me To The Moon '(電影同名主題曲 Movie theme song) Official MV](https://www.youtube.com/watch?v=zyXkQ47YMjg)
+- [『城市唱遊 EP.20』好樂團 - 我把我的青春給你｜樂人 x Volkswagen](https://www.youtube.com/watch?v=3P8ODasFchE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
