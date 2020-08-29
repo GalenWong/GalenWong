@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陪我長大的周杰倫金曲串燒 Jay Chou Mashup｜Acoustic Guitar Cover by 倆人 Acoustic Too](https://www.youtube.com/watch?v=OQ1uNDkZ_60)
-- [東京事変 - 群青日和](https://www.youtube.com/watch?v=gD2mhJ3ByGQ)
 - [東京事変 - 永遠の不在証明](https://www.youtube.com/watch?v=zKBCSBfP9TI)
 - [田馥甄 Hebe Tien《或是一首歌 A Song for You》Official Music Video](https://www.youtube.com/watch?v=aOSYxTR6U3I)
 - [黃玠 X 黃小楨【你是不是像我一樣】Official Music Video](https://www.youtube.com/watch?v=1TVrd3H8t7c)
+- [淺堤 Shallow Levée -【多崎作 Colorless Youth】](https://www.youtube.com/watch?v=q6De6cMF-iU)
+- [大象體操ElephantGym_遊戲GAMES](https://www.youtube.com/watch?v=AGnLA3-QLUE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
