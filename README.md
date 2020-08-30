@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [隨性 Random 《想你點煙》Official Music Video](https://www.youtube.com/watch?v=m60hjpNtq5k)
-- [Aimer - Kataomoi](https://www.youtube.com/watch?v=zSOJk7ggJts)
 - [「巴黎情人」喬伊絲 - 我不知道 je ne sais pas](https://www.youtube.com/watch?v=x86kdIG5OuU)
 - [李榮浩 Ronghao Li《麻雀 Sparrow》Official Music Video](https://www.youtube.com/watch?v=2l4x_TvBKiw)
 - [大象體操ElephantGym _ 春雨Spring Rain【LIVE Video】](https://www.youtube.com/watch?v=j5Yo-AHvsv4)
+- [《中國新說唱》2019製作人全員回歸！Cypher《My Way》炸翻全場｜愛奇藝台灣站](https://www.youtube.com/watch?v=1vV1XOKi4gI)
+- [東京事変 - 「絶体絶命」 from ウルトラC](https://www.youtube.com/watch?v=eCQZevUHlj8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
