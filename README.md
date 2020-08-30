@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [江靜 Jiang Jing feat. 張震嶽 ayal komod【都挺好的 It's All Good】Official Music Video](https://www.youtube.com/watch?v=Ndl8QKr3sOQ)
-- [KIRINJI - Almond Eyes feat. 鎮座DOPENESS](https://www.youtube.com/watch?v=xB5SImW6mGA)
 - [周杰倫 Jay Chou【大笨鐘 Big Ben】Official MV](https://www.youtube.com/watch?v=-u4sPnpaFEA)
 - [李友廷 Yo Lee [ 都好 Whatsoever ] Official Music Video](https://www.youtube.com/watch?v=dPfrMVHTXVg)
 - [SHE IS SUMMER「嬉しくなっちゃって」](https://www.youtube.com/watch?v=zYAguZw9D9o)
+- [G.E.M.鄧紫棋【摩天動物園 City Zoo】Official Music Video](https://www.youtube.com/watch?v=A6gIat5xLWI)
+- [ABAO阿爆（阿仍仍)【tjakudain 無奈】 feat. 李英宏 aka Dj Didilong Official Music Video [English Lyrics Open CC]](https://www.youtube.com/watch?v=YoTYV4-qftw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
