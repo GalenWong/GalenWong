@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [藍色窗簾 Blue Curtain《 不想與你過了這樣的一生 》Lyric Video](https://www.youtube.com/watch?v=8tMB2y3XGtI)
-- [留聲玩具《 十二 》Lyric Video](https://www.youtube.com/watch?v=nRFHD0mJbJc)
 - [LUCKY TAPES – Actor (Official Music Video)](https://www.youtube.com/watch?v=EQApmmLyFqQ)
 - [周杰倫 Jay Chou【Mojito】★ Check out "J-Style Trip" on Netflix -Travelogue, Magic and Fun!](https://www.youtube.com/watch?v=-biOGdYiF-I)
 - [back number - 高嶺の花子さん (full)](https://www.youtube.com/watch?v=SII-S-zCg-c)
+- [狗柏 － 魯之歌](https://www.youtube.com/watch?v=-qWSk3JdUOI)
+- [Jay Chou 周杰倫【霍元甲 Fearless】-Official Music Video](https://www.youtube.com/watch?v=wr-6wwt8RXk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
