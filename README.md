@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [顯然樂隊 - 逍遙 Official Video](https://www.youtube.com/watch?v=-v8PXO4-scg)
-- [Yasuha - Flyday Chinatown](https://www.youtube.com/watch?v=o_TIdWRuixo)
 - [怕胖團 PA PUN BAND 『流浪王子』ＭＶ](https://www.youtube.com/watch?v=83QhoXtcWi0)
 - [mol-74 - 不安定なワルツ【MV】](https://www.youtube.com/watch?v=nEXU78ovCSQ)
 - [mol-74 - hazel【MV】](https://www.youtube.com/watch?v=G9piJZ6sYHc)
+- [落日飛車 Sunset Rollercoaster – Greedy (Live from YuChen Studio)](https://www.youtube.com/watch?v=bqozW947gZY)
+- [安溥 anpu - 外婆橋 apart from time : nana’s bridge｜Official Music Video](https://www.youtube.com/watch?v=ZBnmTxgXyfc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
