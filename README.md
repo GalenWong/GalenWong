@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [TENDRE - SIGN (Official Music Video)](https://www.youtube.com/watch?v=ihuOt81PG_o)
-- [VAVA - 我的新衣 My New Swag (Feat. Ty. & 王倩倩) (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=aknkofx2bHg)
 - [CosmosPeople 宇宙人 [ BonBonBonBon ] feat.熊仔 Official Music Video](https://www.youtube.com/watch?v=1M3JvH3jwE8)
 - [告五人 Accusefive  [ 新世界 kacauan ] feat.阿爆 ABAO Official Music Video](https://www.youtube.com/watch?v=LpFyeofOgI0)
 - [《糯米糰》長白襪上 完整MV](https://www.youtube.com/watch?v=9H0a3q9hhLk)
+- [Jay Chou 周杰倫【她的睫毛 Her Eyelashes】-Official Music Video](https://www.youtube.com/watch?v=gqzlB7Gla2E)
+- [Theseus忒修斯 - 駐水 [ tū tsuí ] Music Video](https://www.youtube.com/watch?v=ijF5AWcgnDk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
