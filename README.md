@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [TANK [ 你的情歌 Your Love Song ] Official Music Video (電影【你的情歌】主題曲)](https://www.youtube.com/watch?v=MeGrr-lWpxU)
-- [李榮浩 Ronghao Li《等著等著就老了 Wait Till Old》Official Music Video](https://www.youtube.com/watch?v=S0twBO8l3pI)
 - [Leo王 - 空空 Kong Kong｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=xritnWgUzI4)
 - [Trout Fresh/呂士軒 - 高分貝/High Decibels (Official Music Video)](https://www.youtube.com/watch?v=8denoJh5V1s)
 - [藍色窗簾 Blue Curtain《 不想與你過了這樣的一生 》Lyric Video](https://www.youtube.com/watch?v=8tMB2y3XGtI)
+- [留聲玩具《 十二 》Lyric Video](https://www.youtube.com/watch?v=nRFHD0mJbJc)
+- [LUCKY TAPES – Actor (Official Music Video)](https://www.youtube.com/watch?v=EQApmmLyFqQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
