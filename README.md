@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [mol-74 - hazel【MV】](https://www.youtube.com/watch?v=G9piJZ6sYHc)
-- [落日飛車 Sunset Rollercoaster – Greedy (Live from YuChen Studio)](https://www.youtube.com/watch?v=bqozW947gZY)
 - [安溥 anpu - 外婆橋 apart from time : nana’s bridge｜Official Music Video](https://www.youtube.com/watch?v=ZBnmTxgXyfc)
 - [盧廣仲 我愛你MV完整版](https://www.youtube.com/watch?v=YoA2YbbG1EQ)
 - [隨性 Random 《想你點煙》Official Music Video](https://www.youtube.com/watch?v=m60hjpNtq5k)
+- [Aimer - Kataomoi](https://www.youtube.com/watch?v=zSOJk7ggJts)
+- [「巴黎情人」喬伊絲 - 我不知道 je ne sais pas](https://www.youtube.com/watch?v=x86kdIG5OuU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
