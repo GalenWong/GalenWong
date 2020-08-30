@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【霍元甲 Fearless】-Official Music Video](https://www.youtube.com/watch?v=wr-6wwt8RXk)
-- [八三夭 831【想見你想見你想見你 Miss You 3000】電視劇「想見你상견니」片尾曲 Official Music Video](https://www.youtube.com/watch?v=4iRupuNet3Q)
 - [江靜 Jiang Jing feat. 張震嶽 ayal komod【都挺好的 It's All Good】Official Music Video](https://www.youtube.com/watch?v=Ndl8QKr3sOQ)
 - [KIRINJI - Almond Eyes feat. 鎮座DOPENESS](https://www.youtube.com/watch?v=xB5SImW6mGA)
 - [周杰倫 Jay Chou【大笨鐘 Big Ben】Official MV](https://www.youtube.com/watch?v=-u4sPnpaFEA)
+- [李友廷 Yo Lee [ 都好 Whatsoever ] Official Music Video](https://www.youtube.com/watch?v=dPfrMVHTXVg)
+- [SHE IS SUMMER「嬉しくなっちゃって」](https://www.youtube.com/watch?v=zYAguZw9D9o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
