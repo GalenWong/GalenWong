@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [SHE IS SUMMER「嬉しくなっちゃって」](https://www.youtube.com/watch?v=zYAguZw9D9o)
-- [G.E.M.鄧紫棋【摩天動物園 City Zoo】Official Music Video](https://www.youtube.com/watch?v=A6gIat5xLWI)
 - [ABAO阿爆（阿仍仍)【tjakudain 無奈】 feat. 李英宏 aka Dj Didilong Official Music Video [English Lyrics Open CC]](https://www.youtube.com/watch?v=YoTYV4-qftw)
 - [Marz23  -【那種人 That Kind Of Person】Official Music Video](https://www.youtube.com/watch?v=xbDZW21mczQ)
 - [TENDRE - SIGN (Official Music Video)](https://www.youtube.com/watch?v=ihuOt81PG_o)
+- [VAVA - 我的新衣 My New Swag (Feat. Ty. & 王倩倩) (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=aknkofx2bHg)
+- [CosmosPeople 宇宙人 [ BonBonBonBon ] feat.熊仔 Official Music Video](https://www.youtube.com/watch?v=1M3JvH3jwE8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
