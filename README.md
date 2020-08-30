@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [大象體操ElephantGym _ 春雨Spring Rain【LIVE Video】](https://www.youtube.com/watch?v=j5Yo-AHvsv4)
-- [《中國新說唱》2019製作人全員回歸！Cypher《My Way》炸翻全場｜愛奇藝台灣站](https://www.youtube.com/watch?v=1vV1XOKi4gI)
 - [東京事変 - 「絶体絶命」 from ウルトラC](https://www.youtube.com/watch?v=eCQZevUHlj8)
 - [‖ MV ‖ 黃于恩 溫妮(WINNI) --"問你喲(WINNI YO)"](https://www.youtube.com/watch?v=vtIRpyyx5xI)
 - [TANK [ 你的情歌 Your Love Song ] Official Music Video (電影【你的情歌】主題曲)](https://www.youtube.com/watch?v=MeGrr-lWpxU)
+- [李榮浩 Ronghao Li《等著等著就老了 Wait Till Old》Official Music Video](https://www.youtube.com/watch?v=S0twBO8l3pI)
+- [Leo王 - 空空 Kong Kong｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=xritnWgUzI4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
