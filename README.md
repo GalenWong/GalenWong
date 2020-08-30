@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [妖怪人間 - 鄭宜農[歌詞字幕版]](https://www.youtube.com/watch?v=OYx9lYtkUcU)
-- [四分衛  Quarterback '一首搖滾上月球  Rock Me To The Moon '(電影同名主題曲 Movie theme song) Official MV](https://www.youtube.com/watch?v=zyXkQ47YMjg)
 - [『城市唱遊 EP.20』好樂團 - 我把我的青春給你｜樂人 x Volkswagen](https://www.youtube.com/watch?v=3P8ODasFchE)
 - [日本の80年代シティポップ - 80'S Japanese City Pop   Vol.1](https://www.youtube.com/watch?v=Vh4n5yeKc8A)
 - [顯然樂隊 - 逍遙 Official Video](https://www.youtube.com/watch?v=-v8PXO4-scg)
+- [Yasuha - Flyday Chinatown](https://www.youtube.com/watch?v=o_TIdWRuixo)
+- [怕胖團 PA PUN BAND 『流浪王子』ＭＶ](https://www.youtube.com/watch?v=83QhoXtcWi0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
