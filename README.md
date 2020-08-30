@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES – Actor (Official Music Video)](https://www.youtube.com/watch?v=EQApmmLyFqQ)
-- [周杰倫 Jay Chou【Mojito】★ Check out "J-Style Trip" on Netflix -Travelogue, Magic and Fun!](https://www.youtube.com/watch?v=-biOGdYiF-I)
 - [back number - 高嶺の花子さん (full)](https://www.youtube.com/watch?v=SII-S-zCg-c)
 - [狗柏 － 魯之歌](https://www.youtube.com/watch?v=-qWSk3JdUOI)
 - [Jay Chou 周杰倫【霍元甲 Fearless】-Official Music Video](https://www.youtube.com/watch?v=wr-6wwt8RXk)
+- [八三夭 831【想見你想見你想見你 Miss You 3000】電視劇「想見你상견니」片尾曲 Official Music Video](https://www.youtube.com/watch?v=4iRupuNet3Q)
+- [江靜 Jiang Jing feat. 張震嶽 ayal komod【都挺好的 It's All Good】Official Music Video](https://www.youtube.com/watch?v=Ndl8QKr3sOQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
