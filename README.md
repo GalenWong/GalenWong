@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【大笨鐘 Big Ben】Official MV](https://www.youtube.com/watch?v=-u4sPnpaFEA)
-- [李友廷 Yo Lee [ 都好 Whatsoever ] Official Music Video](https://www.youtube.com/watch?v=dPfrMVHTXVg)
 - [SHE IS SUMMER「嬉しくなっちゃって」](https://www.youtube.com/watch?v=zYAguZw9D9o)
 - [G.E.M.鄧紫棋【摩天動物園 City Zoo】Official Music Video](https://www.youtube.com/watch?v=A6gIat5xLWI)
 - [ABAO阿爆（阿仍仍)【tjakudain 無奈】 feat. 李英宏 aka Dj Didilong Official Music Video [English Lyrics Open CC]](https://www.youtube.com/watch?v=YoTYV4-qftw)
+- [Marz23  -【那種人 That Kind Of Person】Official Music Video](https://www.youtube.com/watch?v=xbDZW21mczQ)
+- [TENDRE - SIGN (Official Music Video)](https://www.youtube.com/watch?v=ihuOt81PG_o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
