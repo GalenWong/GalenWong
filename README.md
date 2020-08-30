@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [《糯米糰》長白襪上 完整MV](https://www.youtube.com/watch?v=9H0a3q9hhLk)
-- [Jay Chou 周杰倫【她的睫毛 Her Eyelashes】-Official Music Video](https://www.youtube.com/watch?v=gqzlB7Gla2E)
 - [Theseus忒修斯 - 駐水 [ tū tsuí ] Music Video](https://www.youtube.com/watch?v=ijF5AWcgnDk)
 - [陳雪凝 - 綠色『說不痛苦那是假的，畢竟我的心也是肉做的。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=WY6nQK7zbsk)
 - [怕胖團PAPUN BAND 《 魚 》Music Video](https://www.youtube.com/watch?v=Dnz-BTz9eDU)
+- [透明雜誌-九月教室](https://www.youtube.com/watch?v=3gt6ZC9om7c)
+- [MyWay（Live）《動態歌詞》 中国新说唱](https://www.youtube.com/watch?v=mtDZ7SIIoME)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
