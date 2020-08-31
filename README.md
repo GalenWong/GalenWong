@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「ハローグッバイ」MusicVideo /  frederic“Hello  Goodbye”](https://www.youtube.com/watch?v=c9nUD4iwrSA)
-- [フレデリック「オドループ」Live at YOKOHAMA ARENA](https://www.youtube.com/watch?v=VwNPDISsjbU)
 - [顯然樂隊-新美街（2017demo）](https://www.youtube.com/watch?v=THMqkEMfBqw)
 - [【好樂團 GoodBand】 -或許我們都忘了最初說過的話 Demo](https://www.youtube.com/watch?v=gUKc9T5ImUc)
 - [Nulbarich – ain't on the map yet (Official Music Video)](https://www.youtube.com/watch?v=X4DnDmnwJoY)
+- [房東的貓 - 月亮擁抱我](https://www.youtube.com/watch?v=Oe_CGoqsas8)
+- [Vast & Hazy【我想成為你 Help Me Out】Official Lyrics Video](https://www.youtube.com/watch?v=nwMZSORP3pM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
