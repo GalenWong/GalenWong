@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Theseus忒修斯 - 駐水 [ tū tsuí ] Music Video](https://www.youtube.com/watch?v=ijF5AWcgnDk)
-- [陳雪凝 - 綠色『說不痛苦那是假的，畢竟我的心也是肉做的。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=WY6nQK7zbsk)
 - [怕胖團PAPUN BAND 《 魚 》Music Video](https://www.youtube.com/watch?v=Dnz-BTz9eDU)
 - [透明雜誌-九月教室](https://www.youtube.com/watch?v=3gt6ZC9om7c)
 - [MyWay（Live）《動態歌詞》 中国新说唱](https://www.youtube.com/watch?v=mtDZ7SIIoME)
+- [張學友 | 餓狼傳說 (高清音)](https://www.youtube.com/watch?v=Y-S3e_FvR1s)
+- [Eric周興哲《相信愛 Always Believe in Love》Official Music Video【內含血腥內容】](https://www.youtube.com/watch?v=GzheEyoZ5Ok)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
