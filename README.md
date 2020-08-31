@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YOASOBI「たぶん」Official Music  Video](https://www.youtube.com/watch?v=8iuLXODzL04)
-- [大象體操ElephantGym _ 被子 Quilt【Official Music Video】](https://www.youtube.com/watch?v=oQh4RMwKsFI)
 - [大象體操 Elephant Gym - 凝視 Gaze at Blue【Official Music Video】](https://www.youtube.com/watch?v=rAQu1CtcmzE)
 - [フレデリック「ハローグッバイ」MusicVideo /  frederic“Hello  Goodbye”](https://www.youtube.com/watch?v=c9nUD4iwrSA)
 - [フレデリック「オドループ」Live at YOKOHAMA ARENA](https://www.youtube.com/watch?v=VwNPDISsjbU)
+- [顯然樂隊-新美街（2017demo）](https://www.youtube.com/watch?v=THMqkEMfBqw)
+- [【好樂團 GoodBand】 -或許我們都忘了最初說過的話 Demo](https://www.youtube.com/watch?v=gUKc9T5ImUc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
