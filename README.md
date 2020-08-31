@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [RĒD°芮德-沒事啦nothing (Official music video)](https://www.youtube.com/watch?v=knPiZYRvgAM)
-- [20200807   洲際球場  Chill K歌主題日  卜學亮演唱【超跑情人夢】    Twitch版](https://www.youtube.com/watch?v=OdNpxB5SkGk)
 - [G.E.M.鄧紫棋【別勉強 Don’t Force It (feat. Eric周興哲)】Official Music Video](https://www.youtube.com/watch?v=6XSoVmT0qXo)
 - [【HowHow】 在我們的星球眼淚不超過三秒](https://www.youtube.com/watch?v=M2-PMj28Wro)
 - [YOASOBI「たぶん」Official Music  Video](https://www.youtube.com/watch?v=8iuLXODzL04)
+- [大象體操ElephantGym _ 被子 Quilt【Official Music Video】](https://www.youtube.com/watch?v=oQh4RMwKsFI)
+- [大象體操 Elephant Gym - 凝視 Gaze at Blue【Official Music Video】](https://www.youtube.com/watch?v=rAQu1CtcmzE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
