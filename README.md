@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [渣泥ZANI -【心碎東尼】Drum PlayThrough - 張家誠](https://www.youtube.com/watch?v=psARqEuhbuw)
-- [張懸【城市】完整版MV](https://www.youtube.com/watch?v=qJhUyV5K-jY)
 - [滅火器 Fire EX. - 長途夜車 Southbound Night Bus Lyric Video](https://www.youtube.com/watch?v=c9PEYJdwdwI)
 - [盧廣仲 Crowd Lu【愛情怎麼了嗎 Self-complacent】Official Music Video （電視劇《 月村歡迎你 》片頭曲）](https://www.youtube.com/watch?v=rD-T5pzH9b0)
 - [【鄭宜農 Enno Cheng –輕輕觸碰 The touch.】Official Music Video](https://www.youtube.com/watch?v=boFAGL1Fvwo)
+- [盧廣仲 Crowd Lu【一坪半 4.95m² Dream】Official Music Video](https://www.youtube.com/watch?v=GWG6H4fIEHQ)
+- [Suchmos - STAY TUNE [Official Music Video]](https://www.youtube.com/watch?v=PLgYflfgq0M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
