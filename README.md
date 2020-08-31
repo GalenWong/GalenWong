@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [盧廣仲 Crowd Lu【好想要揮霍】Good Morning & Good Evening 小巨蛋演唱會 Official Live Video](https://www.youtube.com/watch?v=G01YNxJLpbw)
-- [53 Thieves - after hours](https://www.youtube.com/watch?v=8cQSCIWHwRQ)
 - [G.E.M.鄧紫棋【透明 Selfless】Official Music Video](https://www.youtube.com/watch?v=-CwoylxqVPA)
 - [《中國新說唱2020》【純享】李大奔《噓Shush》｜愛奇藝台灣站](https://www.youtube.com/watch?v=9V15JPiaE_0)
 - [渣泥ZANI -【心碎東尼】Drum PlayThrough - 張家誠](https://www.youtube.com/watch?v=psARqEuhbuw)
+- [張懸【城市】完整版MV](https://www.youtube.com/watch?v=qJhUyV5K-jY)
+- [滅火器 Fire EX. - 長途夜車 Southbound Night Bus Lyric Video](https://www.youtube.com/watch?v=c9PEYJdwdwI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
