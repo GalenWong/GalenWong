@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [顯然樂隊-新美街（2017demo）](https://www.youtube.com/watch?v=THMqkEMfBqw)
-- [【好樂團 GoodBand】 -或許我們都忘了最初說過的話 Demo](https://www.youtube.com/watch?v=gUKc9T5ImUc)
 - [Nulbarich – ain't on the map yet (Official Music Video)](https://www.youtube.com/watch?v=X4DnDmnwJoY)
 - [房東的貓 - 月亮擁抱我](https://www.youtube.com/watch?v=Oe_CGoqsas8)
 - [Vast & Hazy【我想成為你 Help Me Out】Official Lyrics Video](https://www.youtube.com/watch?v=nwMZSORP3pM)
+- [deca joins鄭敬儒 cover 老歌 The End of the World + 情人的眼淚，2020/2/17 偏頗追加場](https://www.youtube.com/watch?v=u6LGfE1LiFs)
+- [L'indécis - Soulful](https://www.youtube.com/watch?v=7ZguAEoNpZw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
