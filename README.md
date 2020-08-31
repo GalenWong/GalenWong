@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Nulbarich – ain't on the map yet (Official Music Video)](https://www.youtube.com/watch?v=X4DnDmnwJoY)
-- [房東的貓 - 月亮擁抱我](https://www.youtube.com/watch?v=Oe_CGoqsas8)
 - [Vast & Hazy【我想成為你 Help Me Out】Official Lyrics Video](https://www.youtube.com/watch?v=nwMZSORP3pM)
 - [deca joins鄭敬儒 cover 老歌 The End of the World + 情人的眼淚，2020/2/17 偏頗追加場](https://www.youtube.com/watch?v=u6LGfE1LiFs)
 - [L'indécis - Soulful](https://www.youtube.com/watch?v=7ZguAEoNpZw)
+- [ポルカドットスティングレイ「新世紀」トレーラー](https://www.youtube.com/watch?v=QApsTuQEDTA)
+- [[歌詞] 張學友 - 只想一生跟你走](https://www.youtube.com/watch?v=LpxHlo_Oe0o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
