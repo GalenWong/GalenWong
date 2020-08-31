@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [馬尿創作曲3(雨天的咖啡店)](https://www.youtube.com/watch?v=2OMYVw7bZps)
-- [五月天 - 知足 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=7EAeS8mwa54)
 - [盧廣仲 Crowd Lu【好想要揮霍】Good Morning & Good Evening 小巨蛋演唱會 Official Live Video](https://www.youtube.com/watch?v=G01YNxJLpbw)
 - [53 Thieves - after hours](https://www.youtube.com/watch?v=8cQSCIWHwRQ)
 - [G.E.M.鄧紫棋【透明 Selfless】Official Music Video](https://www.youtube.com/watch?v=-CwoylxqVPA)
+- [《中國新說唱2020》【純享】李大奔《噓Shush》｜愛奇藝台灣站](https://www.youtube.com/watch?v=9V15JPiaE_0)
+- [渣泥ZANI -【心碎東尼】Drum PlayThrough - 張家誠](https://www.youtube.com/watch?v=psARqEuhbuw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
