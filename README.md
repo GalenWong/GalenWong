@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Suchmos - STAY TUNE [Official Music Video]](https://www.youtube.com/watch?v=PLgYflfgq0M)
-- [G.E.M.鄧紫棋【差不多姑娘 MISS SIMILAR 】Real Talk版 Official Music Video](https://www.youtube.com/watch?v=s4pxJ-1QLQg)
 - [deca joins | 一去不回來(demo)](https://www.youtube.com/watch?v=MrxI-lW7adU)
 - [唐貓 SUGARCAT【晴天雨天】Official Music Video](https://www.youtube.com/watch?v=Jo3MirE24E0)
 - [RĒD°芮德-沒事啦nothing (Official music video)](https://www.youtube.com/watch?v=knPiZYRvgAM)
+- [20200807   洲際球場  Chill K歌主題日  卜學亮演唱【超跑情人夢】    Twitch版](https://www.youtube.com/watch?v=OdNpxB5SkGk)
+- [G.E.M.鄧紫棋【別勉強 Don’t Force It (feat. Eric周興哲)】Official Music Video](https://www.youtube.com/watch?v=6XSoVmT0qXo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
