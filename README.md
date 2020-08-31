@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [無妄合作社 No-nonsense Collective〈二十一世紀的破青年 21st Century Post Youth〉](https://www.youtube.com/watch?v=qc3NXh42v5M)
-- [邱振哲PikA 【 太陽 】 Official Music Video（官方MV）](https://www.youtube.com/watch?v=7vlVjfMl_Nk)
 - [馬尿創作曲3(雨天的咖啡店)](https://www.youtube.com/watch?v=2OMYVw7bZps)
 - [五月天 - 知足 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=7EAeS8mwa54)
 - [盧廣仲 Crowd Lu【好想要揮霍】Good Morning & Good Evening 小巨蛋演唱會 Official Live Video](https://www.youtube.com/watch?v=G01YNxJLpbw)
+- [53 Thieves - after hours](https://www.youtube.com/watch?v=8cQSCIWHwRQ)
+- [G.E.M.鄧紫棋【透明 Selfless】Official Music Video](https://www.youtube.com/watch?v=-CwoylxqVPA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
