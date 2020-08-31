@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Eric周興哲《相信愛 Always Believe in Love》Official Music Video【內含血腥內容】](https://www.youtube.com/watch?v=GzheEyoZ5Ok)
-- [G.E.M.【倒數 TIK TOK】Official MV [HD] 鄧紫棋](https://www.youtube.com/watch?v=ma7r2HGqwXs)
 - [阿冗 - 與我無關【動態歌詞】「望眼欲穿 等不到你的晚安」♪](https://www.youtube.com/watch?v=8tuzFSXeKI0)
 - [Mary See the Future - 多雨的城市](https://www.youtube.com/watch?v=GgZaIqusssA)
 - [無妄合作社 No-nonsense Collective〈二十一世紀的破青年 21st Century Post Youth〉](https://www.youtube.com/watch?v=qc3NXh42v5M)
+- [邱振哲PikA 【 太陽 】 Official Music Video（官方MV）](https://www.youtube.com/watch?v=7vlVjfMl_Nk)
+- [馬尿創作曲3(雨天的咖啡店)](https://www.youtube.com/watch?v=2OMYVw7bZps)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
