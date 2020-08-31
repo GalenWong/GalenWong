@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [阿冗 - 與我無關【動態歌詞】「望眼欲穿 等不到你的晚安」♪](https://www.youtube.com/watch?v=8tuzFSXeKI0)
-- [Mary See the Future - 多雨的城市](https://www.youtube.com/watch?v=GgZaIqusssA)
 - [無妄合作社 No-nonsense Collective〈二十一世紀的破青年 21st Century Post Youth〉](https://www.youtube.com/watch?v=qc3NXh42v5M)
 - [邱振哲PikA 【 太陽 】 Official Music Video（官方MV）](https://www.youtube.com/watch?v=7vlVjfMl_Nk)
 - [馬尿創作曲3(雨天的咖啡店)](https://www.youtube.com/watch?v=2OMYVw7bZps)
+- [五月天 - 知足 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=7EAeS8mwa54)
+- [盧廣仲 Crowd Lu【好想要揮霍】Good Morning & Good Evening 小巨蛋演唱會 Official Live Video](https://www.youtube.com/watch?v=G01YNxJLpbw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
