@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【鄭宜農 Enno Cheng –輕輕觸碰 The touch.】Official Music Video](https://www.youtube.com/watch?v=boFAGL1Fvwo)
-- [盧廣仲 Crowd Lu【一坪半 4.95m² Dream】Official Music Video](https://www.youtube.com/watch?v=GWG6H4fIEHQ)
 - [Suchmos - STAY TUNE [Official Music Video]](https://www.youtube.com/watch?v=PLgYflfgq0M)
 - [G.E.M.鄧紫棋【差不多姑娘 MISS SIMILAR 】Real Talk版 Official Music Video](https://www.youtube.com/watch?v=s4pxJ-1QLQg)
 - [deca joins | 一去不回來(demo)](https://www.youtube.com/watch?v=MrxI-lW7adU)
+- [唐貓 SUGARCAT【晴天雨天】Official Music Video](https://www.youtube.com/watch?v=Jo3MirE24E0)
+- [RĒD°芮德-沒事啦nothing (Official music video)](https://www.youtube.com/watch?v=knPiZYRvgAM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
