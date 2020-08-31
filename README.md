@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Vast & Hazy【我想成為你 Help Me Out】Official Lyrics Video](https://www.youtube.com/watch?v=nwMZSORP3pM)
-- [deca joins鄭敬儒 cover 老歌 The End of the World + 情人的眼淚，2020/2/17 偏頗追加場](https://www.youtube.com/watch?v=u6LGfE1LiFs)
 - [L'indécis - Soulful](https://www.youtube.com/watch?v=7ZguAEoNpZw)
 - [ポルカドットスティングレイ「新世紀」トレーラー](https://www.youtube.com/watch?v=QApsTuQEDTA)
 - [[歌詞] 張學友 - 只想一生跟你走](https://www.youtube.com/watch?v=LpxHlo_Oe0o)
+- [小熱唱｜吃麥當勞減肥 feat.藍亦明](https://www.youtube.com/watch?v=ZHjr-Rkeadk)
+- [盧廣仲 クラウド・ルー【幾分之幾】日本語訳詞付き Official Music Video](https://www.youtube.com/watch?v=iDqKs5rCc3o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
