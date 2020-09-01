@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【HD】StarRingChild EP - Aimer - Even Heaven【中日字幕】](https://www.youtube.com/watch?v=PriV9gxTr60)
-- [莫宰羊 - 未接來電 missed call * M/V ***](https://www.youtube.com/watch?v=NXId3_EEGKY)
 - [美波「カワキヲアメク」MV](https://www.youtube.com/watch?v=0YF8vecQWYs)
 - [玖壹壹(Nine one one) - 來個蹦蹦‭ ‬Ft‭. ‬Ella‭ ‬陳嘉樺 Like Boom Boom Ft. Ella 官方MV首播](https://www.youtube.com/watch?v=R2V9sHAlLuQ)
 - [A Whisker Away - Ending Song Full『Usotsuki』By Yorushika](https://www.youtube.com/watch?v=_shJD_wXXfw)
+- [珂拉琪 Collage／這該死的拘執佮愛](https://www.youtube.com/watch?v=5h_mxY1At7E)
+- [【HD】DAWN - Aimer - Believe Be:leave【中日字幕】](https://www.youtube.com/watch?v=57DWCdJQRBk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
