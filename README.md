@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [田馥甄 Hebe Tien《懸日 Let It…》Official Music Video](https://www.youtube.com/watch?v=Nf1C1fSJG_8)
-- [【鄭宜農 Enno Cheng －〈就算我放棄了世界〉】Official Live Music Video@給天王星](https://www.youtube.com/watch?v=Re6tBJfi7qY)
 - [DSPS - 三月的街頭 Marching Alone (Official Music Video)](https://www.youtube.com/watch?v=9DCEeYKnHsU)
 - [張懸-自由](https://www.youtube.com/watch?v=4Bq68E1wTlU)
 - [ネクライトーキー MV「オシャレ大作戦」](https://www.youtube.com/watch?v=Aw1Awul1818)
+- [傷心欲絕 Wayne's So Sad - 沒有夜歸人 Dream By The Riverside](https://www.youtube.com/watch?v=6GQHDF4TbJs)
+- [Crispy脆樂團 [ 若無其事 Your Brave Face ] Official Music Video（種菜女神 插曲）](https://www.youtube.com/watch?v=DVUAd1OTflE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
