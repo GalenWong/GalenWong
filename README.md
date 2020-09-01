@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Crispy脆樂團 [ 若無其事 Your Brave Face ] Official Music Video（種菜女神 插曲）](https://www.youtube.com/watch?v=DVUAd1OTflE)
-- [Mary See the Future 先知瑪莉 ｜【Ariel】Official Audio](https://www.youtube.com/watch?v=RZ7yjPOWpec)
 - [田馥甄 Hebe Tien《皆可 Anything Goes》Official Music Video](https://www.youtube.com/watch?v=fT9BZh4LeO0)
 - [Galileo Galilei - Aoi Shiori](https://www.youtube.com/watch?v=T3bxbVGWy5k)
 - [【HD】StarRingChild EP - Aimer - Even Heaven【中日字幕】](https://www.youtube.com/watch?v=PriV9gxTr60)
+- [莫宰羊 - 未接來電 missed call * M/V ***](https://www.youtube.com/watch?v=NXId3_EEGKY)
+- [美波「カワキヲアメク」MV](https://www.youtube.com/watch?v=0YF8vecQWYs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
