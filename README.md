@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [傷心欲絕 Wayne's So Sad - 如果她離開你 你會不會瘋掉啊 Will You Go Crazy If She Leaves](https://www.youtube.com/watch?v=7LzDD2e_lgc)
-- [厭世少年 Angry Youth－我的世界垮下來 歌詞字幕版MV【Official Lyrics Video】](https://www.youtube.com/watch?v=mtbw57pyLY8)
 - [淺堤 Shallow Levée—【陷眠 Daydreaming】Official Music Video](https://www.youtube.com/watch?v=1sJ1bySWz94)
 - [何瑞康 ft. Vast & Hazy-刑者](https://www.youtube.com/watch?v=fwVCGGyoZWs)
 - [Mary See the Future 先知瑪莉｜【多雨的城市】(Rainy City 2020) Official Audio](https://www.youtube.com/watch?v=gLnU-4J0bJs)
+- [麋先生MIXER【愚公移山 On The Road】42th金穗獎創作版MV II](https://www.youtube.com/watch?v=iNYjk5nj_EA)
+- [透明雜誌-凌晨晚餐](https://www.youtube.com/watch?v=I8K5zwLR-zA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
