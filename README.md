@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [楊丞琳-青春住了誰&李榮浩-歌謠[歌詞]](https://www.youtube.com/watch?v=kQY6JQ7VtlA)
-- [陳綺貞 Cheer Chen 【小船 Impressionism】 Official Music Video](https://www.youtube.com/watch?v=Vfa7-qwyTTY)
 - [田馥甄 Hebe Tien《懸日 Let It…》Official Music Video](https://www.youtube.com/watch?v=Nf1C1fSJG_8)
 - [【鄭宜農 Enno Cheng －〈就算我放棄了世界〉】Official Live Music Video@給天王星](https://www.youtube.com/watch?v=Re6tBJfi7qY)
 - [DSPS - 三月的街頭 Marching Alone (Official Music Video)](https://www.youtube.com/watch?v=9DCEeYKnHsU)
+- [張懸-自由](https://www.youtube.com/watch?v=4Bq68E1wTlU)
+- [ネクライトーキー MV「オシャレ大作戦」](https://www.youtube.com/watch?v=Aw1Awul1818)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
