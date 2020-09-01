@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [盧廣仲 Crowd Lu 【港邊男兒】 Official Music Video](https://www.youtube.com/watch?v=kiZkWISXydI)
-- [Nulbarich - NEW ERA (Official Music Video)](https://www.youtube.com/watch?v=5pkBqmX2ymc)
 - [Tommy Guerrero | the endless road (Official Video)](https://www.youtube.com/watch?v=yNfeUUVjyCA)
 - [老王樂隊｜他們在鐵皮屋頂上奔跑 Running on the Rooftops (Official)](https://www.youtube.com/watch?v=z5x6IK1lF2A)
 - [ミツメ - 煙突](https://www.youtube.com/watch?v=_gQ_SBXPk3s)
+- [李眉蓁：我和韓國瑜不同，我就是我](https://www.youtube.com/watch?v=9gdIFUrCofI)
+- [傷心欲絕 Wayne's So Sad - 如果她離開你 你會不會瘋掉啊 Will You Go Crazy If She Leaves](https://www.youtube.com/watch?v=7LzDD2e_lgc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
