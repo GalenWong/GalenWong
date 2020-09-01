@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Lucie,Too - Lucky (Official Music Video)](https://www.youtube.com/watch?v=gHsUaS9r5R8)
-- [G.E.M.鄧紫棋【很久以後 Long After】MV （電影《可不可以，你也剛好喜歡我》主題曲)](https://www.youtube.com/watch?v=2BEFukvLZfI)
 - [盧廣仲 Crowd Lu 【港邊男兒】 Official Music Video](https://www.youtube.com/watch?v=kiZkWISXydI)
 - [Nulbarich - NEW ERA (Official Music Video)](https://www.youtube.com/watch?v=5pkBqmX2ymc)
 - [Tommy Guerrero | the endless road (Official Video)](https://www.youtube.com/watch?v=yNfeUUVjyCA)
+- [老王樂隊｜他們在鐵皮屋頂上奔跑 Running on the Rooftops (Official)](https://www.youtube.com/watch?v=z5x6IK1lF2A)
+- [ミツメ - 煙突](https://www.youtube.com/watch?v=_gQ_SBXPk3s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
