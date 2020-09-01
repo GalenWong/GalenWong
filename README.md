@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【HD】DAWN - Aimer - Believe Be:leave【中日字幕】](https://www.youtube.com/watch?v=57DWCdJQRBk)
-- [康士坦的變化球【擱淺的人】官方歌詞版MV](https://www.youtube.com/watch?v=NhJCYJs0XIA)
 - [椎名林檎 - 公然の秘密](https://www.youtube.com/watch?v=ETtDJz9t09U)
 - [toe "Song Silly" (Official Music Video）](https://www.youtube.com/watch?v=O1dtTVQQZTc)
 - [鄧福如 AFÜ -〈在我們的星球眼淚不超過三秒〉Official Music Video](https://www.youtube.com/watch?v=WVOA8MnOOvI)
+- [DAOKO 「anima」MUSIC VIDEO](https://www.youtube.com/watch?v=c-W4TP9pJN4)
+- [生物股長 - 最後的場景 (中文字幕版) 真人版電影《四月是你的謊言》主題曲](https://www.youtube.com/watch?v=h9kuadpy8ek)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
