@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [淺堤 Shallow Levée—【陷眠 Daydreaming】Official Music Video](https://www.youtube.com/watch?v=1sJ1bySWz94)
-- [何瑞康 ft. Vast & Hazy-刑者](https://www.youtube.com/watch?v=fwVCGGyoZWs)
 - [Mary See the Future 先知瑪莉｜【多雨的城市】(Rainy City 2020) Official Audio](https://www.youtube.com/watch?v=gLnU-4J0bJs)
 - [麋先生MIXER【愚公移山 On The Road】42th金穗獎創作版MV II](https://www.youtube.com/watch?v=iNYjk5nj_EA)
 - [透明雜誌-凌晨晚餐](https://www.youtube.com/watch?v=I8K5zwLR-zA)
+- [Black Pumas - Colors (Official Live Session)](https://www.youtube.com/watch?v=0G383538qzQ)
+- [楊丞琳-青春住了誰&李榮浩-歌謠[歌詞]](https://www.youtube.com/watch?v=kQY6JQ7VtlA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
