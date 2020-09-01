@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [盧廣仲 クラウド・ルー【幾分之幾】日本語訳詞付き Official Music Video](https://www.youtube.com/watch?v=iDqKs5rCc3o)
-- [noovy - 《心絲蟲 Heartworm》Official Music Video](https://www.youtube.com/watch?v=kf66G4X4xbU)
 - [淺堤 Shallow Levée -【永和 Dear Friends】Official Music Video](https://www.youtube.com/watch?v=MPqexQzi5SM)
 - [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
 - [陳綺貞 Cheer Chen【觀察者 Observer】Official Music Video](https://www.youtube.com/watch?v=M6brhS0zi-U)
+- [Frandé法蘭黛《你結婚了嗎》Official Lyric Video](https://www.youtube.com/watch?v=VYsOIAxIeQA)
+- [東京事変 - 「女の子は誰でも」 from Discovery](https://www.youtube.com/watch?v=MB2P7KYOr28)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
