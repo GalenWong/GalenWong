@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [A Whisker Away - Ending Song Full『Usotsuki』By Yorushika](https://www.youtube.com/watch?v=_shJD_wXXfw)
-- [珂拉琪 Collage／這該死的拘執佮愛](https://www.youtube.com/watch?v=5h_mxY1At7E)
 - [【HD】DAWN - Aimer - Believe Be:leave【中日字幕】](https://www.youtube.com/watch?v=57DWCdJQRBk)
 - [康士坦的變化球【擱淺的人】官方歌詞版MV](https://www.youtube.com/watch?v=NhJCYJs0XIA)
 - [椎名林檎 - 公然の秘密](https://www.youtube.com/watch?v=ETtDJz9t09U)
+- [toe "Song Silly" (Official Music Video）](https://www.youtube.com/watch?v=O1dtTVQQZTc)
+- [鄧福如 AFÜ -〈在我們的星球眼淚不超過三秒〉Official Music Video](https://www.youtube.com/watch?v=WVOA8MnOOvI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
