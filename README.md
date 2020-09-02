@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [生物股長 - 最後的場景 (中文字幕版) 真人版電影《四月是你的謊言》主題曲](https://www.youtube.com/watch?v=h9kuadpy8ek)
-- [椎名林檎 - 熱愛発覚中](https://www.youtube.com/watch?v=kw8FiEUgSII)
 - [【當下的力量】- 周國賢  Official Music Video (15April2018)](https://www.youtube.com/watch?v=e-4Sx2AEGSg)
 - [20200812 你吸到我空氣了 - deca joins & 陳嫺靜 - 黑暗之中閉上眼 &Talk & 輕輕](https://www.youtube.com/watch?v=IcgR_lLP5pA)
 - [Crispy脆樂團 -【編織星空的人Weaver of Stars】Official Music Video](https://www.youtube.com/watch?v=vyklSbH58u0)
+- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
+- [【纯享版】徐佳莹深情献唱《小半》 细腻嗓音醉人心扉 《歌手·当打之年》Singer 2020【湖南卫视官方HD】](https://www.youtube.com/watch?v=MfNz1-OD3Fc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
