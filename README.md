@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [渣泥ZANI -【半心】Official Music Video](https://www.youtube.com/watch?v=GedcwChv85k)
-- [國蛋GorDoN《Same Old Same Old》 (Official Audio)](https://www.youtube.com/watch?v=PO8RV3ZE-TE)
 - [Soft Lipa - 家常音樂 (Home Cookin) Official Music Video (YouTube版)](https://www.youtube.com/watch?v=Xx7lJt_Pdek)
 - [透明雜誌-性的地獄](https://www.youtube.com/watch?v=QDckLyotjeQ)
 - [淺堤shallow levée - 怪手【Official Music Video】](https://www.youtube.com/watch?v=7B2o2kbwM8o)
+- [何瑞康 Ray Kang【成為自己想成為的 BE YOURSELF】Official Music Video](https://www.youtube.com/watch?v=4riWXQmMa0g)
+- [K!ddingboi - 若即若離【Leave or stay】](https://www.youtube.com/watch?v=AZ37D8Sk8Pc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
