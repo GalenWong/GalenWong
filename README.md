@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [行星](https://www.youtube.com/watch?v=5J1lWsfhLYc)
-- [WHY NOT《無法度按奈》官方MV (Official Music Video)](https://www.youtube.com/watch?v=yRNia0_tbgY)
 - [純情夢](https://www.youtube.com/watch?v=VchlznMVbqI)
 - [別忘了那天我們醒著](https://www.youtube.com/watch?v=0B5YGV2sSkA)
 - [隔離Quarantine week 5:  小人/韓森  -【超級忍者龜】Lyric Video](https://www.youtube.com/watch?v=xhiZb9Lf6X4)
+- [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
+- [deca joins【夢】 Audio](https://www.youtube.com/watch?v=EtBNo6ugIj8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
