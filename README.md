@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Crispy脆樂團 -【編織星空的人Weaver of Stars】Official Music Video](https://www.youtube.com/watch?v=vyklSbH58u0)
-- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
 - [【纯享版】徐佳莹深情献唱《小半》 细腻嗓音醉人心扉 《歌手·当打之年》Singer 2020【湖南卫视官方HD】](https://www.youtube.com/watch?v=MfNz1-OD3Fc)
 - [イルカポリス 海豚刑警 - 城市逃亡羅曼史｜例假日](https://www.youtube.com/watch?v=jP9xvuqc7Xg)
 - [淺堤 Shallow Levée -【月光 Moonlight】( feat. deca joins 鄭敬儒 ) Official Music Video](https://www.youtube.com/watch?v=YM-Uo94JsXk)
+- [廖文強【在一片黑暗之中等你找到我 Save Me from the Dark】Official Lyric Video](https://www.youtube.com/watch?v=Ux2BqezFh3c)
+- [[繁中字幕]張懸 - 關於我愛你](https://www.youtube.com/watch?v=ie4G06Paj4E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
