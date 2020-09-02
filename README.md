@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [PiA吳蓓雅｜難搞 official MV](https://www.youtube.com/watch?v=Px6r_UK0XGo)
-- [world's end girlfriend / Girl / from "LAST WALTZ"](https://www.youtube.com/watch?v=5E-t0UvrNT0)
 - [my little airport - 迷人的頸巾](https://www.youtube.com/watch?v=cQDg_QizCE8)
 - [峇里島 (電影《誰先愛上他的》探尋情愛之歌)](https://www.youtube.com/watch?v=Xdza4AZvheA)
 - [巫賭](https://www.youtube.com/watch?v=75Kz2bY_zwU)
+- [一去不回來](https://www.youtube.com/watch?v=a8ja-BFJ7eQ)
+- [住進你的行李](https://www.youtube.com/watch?v=kNvtnmN5r_Q)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
