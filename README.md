@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [淺堤 Shallow Levée -【月光 Moonlight】( feat. deca joins 鄭敬儒 ) Official Music Video](https://www.youtube.com/watch?v=YM-Uo94JsXk)
-- [廖文強【在一片黑暗之中等你找到我 Save Me from the Dark】Official Lyric Video](https://www.youtube.com/watch?v=Ux2BqezFh3c)
 - [[繁中字幕]張懸 - 關於我愛你](https://www.youtube.com/watch?v=ie4G06Paj4E)
 - [Sparkle - movie ver.](https://www.youtube.com/watch?v=-J9FuvPmMoI)
 - [Miraininarenakatta Anoyoruni (Long Edition)](https://www.youtube.com/watch?v=tX3yIezJ2Ss)
+- [Don't cry Don't cry (Theme song of PTS drama series (On Children))](https://www.youtube.com/watch?v=94pDVsn0tVA)
+- [這是因為我們能感到疼痛](https://www.youtube.com/watch?v=0pGToNaYgvI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
