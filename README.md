@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [純情夢](https://www.youtube.com/watch?v=VchlznMVbqI)
-- [別忘了那天我們醒著](https://www.youtube.com/watch?v=0B5YGV2sSkA)
 - [隔離Quarantine week 5:  小人/韓森  -【超級忍者龜】Lyric Video](https://www.youtube.com/watch?v=xhiZb9Lf6X4)
 - [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
 - [deca joins【夢】 Audio](https://www.youtube.com/watch?v=EtBNo6ugIj8)
+- [Friday Night Plans - HONDA (Prod.Dr.Pay)](https://www.youtube.com/watch?v=v96sokSHeT4)
+- [渣泥ZANI -【半心】Official Music Video](https://www.youtube.com/watch?v=GedcwChv85k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
