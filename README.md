@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Miraininarenakatta Anoyoruni (Long Edition)](https://www.youtube.com/watch?v=tX3yIezJ2Ss)
-- [Don't cry Don't cry (Theme song of PTS drama series (On Children))](https://www.youtube.com/watch?v=94pDVsn0tVA)
 - [這是因為我們能感到疼痛](https://www.youtube.com/watch?v=0pGToNaYgvI)
 - [遠距](https://www.youtube.com/watch?v=bIYQc6xalwA)
 - [做事人](https://www.youtube.com/watch?v=9VXhXerpyXQ)
+- [蕭敬騰 Jam Hsiao《猴籠 Dance Monkey》Official Music Video](https://www.youtube.com/watch?v=033JQZV8cJU)
+- [Todomeo Sashite](https://www.youtube.com/watch?v=P3q54GbP1-c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
