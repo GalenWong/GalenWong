@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [巫賭](https://www.youtube.com/watch?v=75Kz2bY_zwU)
-- [一去不回來](https://www.youtube.com/watch?v=a8ja-BFJ7eQ)
 - [住進你的行李](https://www.youtube.com/watch?v=kNvtnmN5r_Q)
 - [給親戚看見我一個人食吉野家](https://www.youtube.com/watch?v=9hpxhS6wFHo)
 - [椅子樂團 The Chairs - 巴黎德州 Paris, Texas (Official Music Video)](https://www.youtube.com/watch?v=JbkUCkbPKUI)
+- [Spangle call Lilli line "nano - TK kaleidoscope Remix" (Official Music Video)](https://www.youtube.com/watch?v=0zUE1E3e7Mg)
+- [MAYDAY五月天 [ 倔強 Persistence ] Official Live Video](https://www.youtube.com/watch?v=w_OfGctVLdE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
