@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [這是因為我們能感到疼痛](https://www.youtube.com/watch?v=0pGToNaYgvI)
-- [遠距](https://www.youtube.com/watch?v=bIYQc6xalwA)
 - [做事人](https://www.youtube.com/watch?v=9VXhXerpyXQ)
 - [蕭敬騰 Jam Hsiao《猴籠 Dance Monkey》Official Music Video](https://www.youtube.com/watch?v=033JQZV8cJU)
 - [Todomeo Sashite](https://www.youtube.com/watch?v=P3q54GbP1-c)
+- [城市的浪漫運作](https://www.youtube.com/watch?v=-Sa92uGZx0k)
+- [ＨＯＮＥＹ](https://www.youtube.com/watch?v=0BvFVYCwZMk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
