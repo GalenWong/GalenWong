@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Todomeo Sashite](https://www.youtube.com/watch?v=P3q54GbP1-c)
-- [城市的浪漫運作](https://www.youtube.com/watch?v=-Sa92uGZx0k)
 - [ＨＯＮＥＹ](https://www.youtube.com/watch?v=0BvFVYCwZMk)
 - [Meguro](https://www.youtube.com/watch?v=mdAtHy7hi0U)
 - [行星](https://www.youtube.com/watch?v=5J1lWsfhLYc)
+- [WHY NOT《無法度按奈》官方MV (Official Music Video)](https://www.youtube.com/watch?v=yRNia0_tbgY)
+- [純情夢](https://www.youtube.com/watch?v=VchlznMVbqI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
