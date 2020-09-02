@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins【夢】 Audio](https://www.youtube.com/watch?v=EtBNo6ugIj8)
-- [Friday Night Plans - HONDA (Prod.Dr.Pay)](https://www.youtube.com/watch?v=v96sokSHeT4)
 - [渣泥ZANI -【半心】Official Music Video](https://www.youtube.com/watch?v=GedcwChv85k)
 - [國蛋GorDoN《Same Old Same Old》 (Official Audio)](https://www.youtube.com/watch?v=PO8RV3ZE-TE)
 - [Soft Lipa - 家常音樂 (Home Cookin) Official Music Video (YouTube版)](https://www.youtube.com/watch?v=Xx7lJt_Pdek)
+- [透明雜誌-性的地獄](https://www.youtube.com/watch?v=QDckLyotjeQ)
+- [淺堤shallow levée - 怪手【Official Music Video】](https://www.youtube.com/watch?v=7B2o2kbwM8o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
