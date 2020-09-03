@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Dreamcatcher(드림캐쳐) '데자부 (Deja Vu)' MV](https://www.youtube.com/watch?v=W761DtH1oRg)
-- [[MV] 마마무(MAMAMOO) - HIP](https://www.youtube.com/watch?v=KhTeiaCezwM)
 - [Dreamcatcher(드림캐쳐) 'BOCA' MV](https://www.youtube.com/watch?v=MZ4JGye4dQU)
 - [[Special Clip] Dreamcatcher(드림캐쳐) 'SAHARA' 자체 제작 MV](https://www.youtube.com/watch?v=BgLhbkKu1s4)
 - [【SUB】Clip：The Stage "HILOWEE" From Jello Rio | 李佳隆《嗨咯喂》纯享 | The Rap of China 中国新说唱2020 | iQIYI](https://www.youtube.com/watch?v=8adx-gquH3w)
+- [ネクライトーキーMV「北上のススメ」](https://www.youtube.com/watch?v=0l-qw9yRFOA)
+- [never young beach -あまり行かない喫茶店で(official video)](https://www.youtube.com/watch?v=62R6acSJZ3M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
