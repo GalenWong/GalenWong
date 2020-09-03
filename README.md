@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [渣泥ZANI〈PORTAL〉Official Audio](https://www.youtube.com/watch?v=ydDFIje_P_Q)
-- [陳綺貞 Cheer Chen【沙漏】Official Lyrics Video](https://www.youtube.com/watch?v=VkB50BrKkhI)
 - [告五人Accusefive【獨角獸】 官方歌詞版MV(Official Lyric Video)](https://www.youtube.com/watch?v=o5muvc-LOlA)
 - [back number - ハッピーエンド (full)](https://www.youtube.com/watch?v=T8y_RsF4TSw)
 - [不革命前夜 - NEE](https://www.youtube.com/watch?v=Dm2O_W6Rrss)
+- [Frandé 法蘭黛《我們一定會再相遇》Official Music Video ─ 電影「鬥魚」片尾曲](https://www.youtube.com/watch?v=8VUOq_esWIE)
+- [張懸 Deserts Xuan - 討人厭的字](https://www.youtube.com/watch?v=oY8ts68IMr4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
