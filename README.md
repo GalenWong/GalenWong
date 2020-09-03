@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Crispy脆樂團 [ 黑暗的盡頭 ] Official Music Video](https://www.youtube.com/watch?v=k20rL10W6Nk)
-- [9m88 and Fishdoll  - Air Doll (Music Produced by Fishdoll)](https://www.youtube.com/watch?v=wVVkzO0NQy0)
 - [海豚刑警 - 海豚刑警悲傷物語](https://www.youtube.com/watch?v=wSiBR4i9OtM)
 - [161203 No Party For Cao Dong草東沒有派對-我不知道你知不知道欸](https://www.youtube.com/watch?v=92YaZPV-N04)
 - [Dreamcatcher(드림캐쳐) '데자부 (Deja Vu)' MV](https://www.youtube.com/watch?v=W761DtH1oRg)
+- [[MV] 마마무(MAMAMOO) - HIP](https://www.youtube.com/watch?v=KhTeiaCezwM)
+- [Dreamcatcher(드림캐쳐) 'BOCA' MV](https://www.youtube.com/watch?v=MZ4JGye4dQU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
