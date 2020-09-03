@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [宋楚琳 Erin Song / 馬念先 Mars Ma《去年冬天 Last Winter》Official MV](https://www.youtube.com/watch?v=nIa_xJgFO38)
-- [9m88 - BB88 | 樂人 iCover Session](https://www.youtube.com/watch?v=g5DowpZgbN8)
 - [matryoshka - Monotonous Purgatory (MUSIC VIDEO)](https://www.youtube.com/watch?v=RaVu3IxxavA)
 - [椅子樂團 The Chairs - 手捧一杯酒 In Liquor│CINEMA SESSIONS](https://www.youtube.com/watch?v=wI-KkvbcAS8)
 - [9m88- 平庸之上 Beyond Mediocrity](https://www.youtube.com/watch?v=cXeyWYWFY6g)
+- [Men I Trust - Days Go By](https://www.youtube.com/watch?v=bCDQN8iDCzo)
+- [Dreamcatcher(드림캐쳐) _ Chase Me MV](https://www.youtube.com/watch?v=zihoyz0u_cs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
