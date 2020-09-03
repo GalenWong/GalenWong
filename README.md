@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Dreamcatcher(드림캐쳐) _ Chase Me MV](https://www.youtube.com/watch?v=zihoyz0u_cs)
-- [Mariya Takeuchi - Tell me, tell me (Night Tempo Edit)](https://www.youtube.com/watch?v=t2U2mUtTnzY)
 - [MAYDAY五月天 [ 溫柔 TENDERNESS ] feat.孫燕姿 Official Live Video](https://www.youtube.com/watch?v=IBIiRY8_2J0)
 - [糯米糰-濫情歌](https://www.youtube.com/watch?v=_OOJkrs9KU8)
 - [Dreamcatcher(드림캐쳐) 'Scream' MV](https://www.youtube.com/watch?v=FKlGHHhTOsQ)
+- [魏如萱 waa wei [ 彼個所在 Heaven ] Official Music Video](https://www.youtube.com/watch?v=86wypSCXK9M)
+- [Dreamcatcher(드림캐쳐) _ GOOD NIGHT MV](https://www.youtube.com/watch?v=Lxfl8LRab_I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
