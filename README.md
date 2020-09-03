@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [matryoshka - Monotonous Purgatory (MUSIC VIDEO)](https://www.youtube.com/watch?v=RaVu3IxxavA)
-- [椅子樂團 The Chairs - 手捧一杯酒 In Liquor│CINEMA SESSIONS](https://www.youtube.com/watch?v=wI-KkvbcAS8)
 - [9m88- 平庸之上 Beyond Mediocrity](https://www.youtube.com/watch?v=cXeyWYWFY6g)
 - [Men I Trust - Days Go By](https://www.youtube.com/watch?v=bCDQN8iDCzo)
 - [Dreamcatcher(드림캐쳐) _ Chase Me MV](https://www.youtube.com/watch?v=zihoyz0u_cs)
+- [Mariya Takeuchi - Tell me, tell me (Night Tempo Edit)](https://www.youtube.com/watch?v=t2U2mUtTnzY)
+- [MAYDAY五月天 [ 溫柔 TENDERNESS ] feat.孫燕姿 Official Live Video](https://www.youtube.com/watch?v=IBIiRY8_2J0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
