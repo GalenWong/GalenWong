@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [(Hi-Res Bootleg) 20160305_草東沒有派對 w/ 焦安溥_玫瑰色的你@LiveWareHouse_醜奴兒 專輯首發巡迴](https://www.youtube.com/watch?v=LtduGIuxWdI)
-- [【MV】鹿乃「HOPE」【OFFICIAL】](https://www.youtube.com/watch?v=QqSDGg_MlTw)
 - [aiko『Love Like Aloha Memories 砂浜に持って行かれた足』](https://www.youtube.com/watch?v=dQEfrOQ42Mo)
 - [厭世少年 Angry Youth－甲午戰爭【Official Music Video】](https://www.youtube.com/watch?v=nGF9ANRIYck)
 - [麋先生MIXER【霸道 Domineering】Official Music Video ─ Online game「蜀山縹緲錄」主題曲](https://www.youtube.com/watch?v=POVgB1S-9hc)
+- [美秀集團 Amazing Show－米兒 Mia【Official Music Video】 feat.鄭小韻](https://www.youtube.com/watch?v=nVjVpX3gRWk)
+- [為i篩檢](https://www.youtube.com/watch?v=CowDMFsMcQg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
