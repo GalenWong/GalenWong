@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [never young beach -あまり行かない喫茶店で(official video)](https://www.youtube.com/watch?v=62R6acSJZ3M)
-- [Tom Misch & Yussef Dayes - Tidal Wave [Official Video]](https://www.youtube.com/watch?v=o-llwv4pLrg)
 - [渣泥ZANI〈PORTAL〉Official Audio](https://www.youtube.com/watch?v=ydDFIje_P_Q)
 - [陳綺貞 Cheer Chen【沙漏】Official Lyrics Video](https://www.youtube.com/watch?v=VkB50BrKkhI)
 - [告五人Accusefive【獨角獸】 官方歌詞版MV(Official Lyric Video)](https://www.youtube.com/watch?v=o5muvc-LOlA)
+- [back number - ハッピーエンド (full)](https://www.youtube.com/watch?v=T8y_RsF4TSw)
+- [不革命前夜 - NEE](https://www.youtube.com/watch?v=Dm2O_W6Rrss)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
