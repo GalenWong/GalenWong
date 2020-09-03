@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [不革命前夜 - NEE](https://www.youtube.com/watch?v=Dm2O_W6Rrss)
-- [Frandé 法蘭黛《我們一定會再相遇》Official Music Video ─ 電影「鬥魚」片尾曲](https://www.youtube.com/watch?v=8VUOq_esWIE)
 - [張懸 Deserts Xuan - 討人厭的字](https://www.youtube.com/watch?v=oY8ts68IMr4)
 - [魏如萱 - IF](https://www.youtube.com/watch?v=-bAG05yxy_E)
 - [那我懂你意思了 - 不負責任 (男人) 的挽留 [Official Music Video]](https://www.youtube.com/watch?v=pL-Kuz-513I)
+- [厭世少年 Angry Youth－害羞男孩戀愛日記 feat.林以樂【Official Music Video】](https://www.youtube.com/watch?v=7M2TxIYXxoM)
+- [盧廣仲 Crowd Lu【善良的眼鏡 Kind Glasses】Official Music Video](https://www.youtube.com/watch?v=BwpdUBobThs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
