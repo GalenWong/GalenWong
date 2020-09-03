@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [那我懂你意思了 - 不負責任 (男人) 的挽留 [Official Music Video]](https://www.youtube.com/watch?v=pL-Kuz-513I)
-- [厭世少年 Angry Youth－害羞男孩戀愛日記 feat.林以樂【Official Music Video】](https://www.youtube.com/watch?v=7M2TxIYXxoM)
 - [盧廣仲 Crowd Lu【善良的眼鏡 Kind Glasses】Official Music Video](https://www.youtube.com/watch?v=BwpdUBobThs)
 - [南西肯恩 - 光 (Cover)｜例假日](https://www.youtube.com/watch?v=5sDQfXyZZtI)
 - [宋楚琳 Erin Song / 馬念先 Mars Ma《去年冬天 Last Winter》Official MV](https://www.youtube.com/watch?v=nIa_xJgFO38)
+- [9m88 - BB88 | 樂人 iCover Session](https://www.youtube.com/watch?v=g5DowpZgbN8)
+- [matryoshka - Monotonous Purgatory (MUSIC VIDEO)](https://www.youtube.com/watch?v=RaVu3IxxavA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
