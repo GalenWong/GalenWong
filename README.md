@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [為i篩檢](https://www.youtube.com/watch?v=CowDMFsMcQg)
-- [珂拉琪 Collage／葬予規路火烌猶在](https://www.youtube.com/watch?v=KSq5wxw9-9Q)
 - [拍謝少年 Sorry Youth - 兄弟沒夢不應該 Brothers Shouldn’t Live Without Dreams (Official MV)](https://www.youtube.com/watch?v=IQoXh8eaOHo)
 - [陳綺貞 Cheer Chen x 貓王收音機【旅行的意義 Travel is Meaningful】單曲發行15週年特別計劃](https://www.youtube.com/watch?v=Cyguwn_0uuY)
 - [Crispy脆樂團 [ 黑暗的盡頭 ] Official Music Video](https://www.youtube.com/watch?v=k20rL10W6Nk)
+- [9m88 and Fishdoll  - Air Doll (Music Produced by Fishdoll)](https://www.youtube.com/watch?v=wVVkzO0NQy0)
+- [海豚刑警 - 海豚刑警悲傷物語](https://www.youtube.com/watch?v=wSiBR4i9OtM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
