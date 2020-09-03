@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [海豚刑警 - 海豚刑警悲傷物語](https://www.youtube.com/watch?v=wSiBR4i9OtM)
-- [161203 No Party For Cao Dong草東沒有派對-我不知道你知不知道欸](https://www.youtube.com/watch?v=92YaZPV-N04)
 - [Dreamcatcher(드림캐쳐) '데자부 (Deja Vu)' MV](https://www.youtube.com/watch?v=W761DtH1oRg)
 - [[MV] 마마무(MAMAMOO) - HIP](https://www.youtube.com/watch?v=KhTeiaCezwM)
 - [Dreamcatcher(드림캐쳐) 'BOCA' MV](https://www.youtube.com/watch?v=MZ4JGye4dQU)
+- [[Special Clip] Dreamcatcher(드림캐쳐) 'SAHARA' 자체 제작 MV](https://www.youtube.com/watch?v=BgLhbkKu1s4)
+- [【SUB】Clip：The Stage "HILOWEE" From Jello Rio | 李佳隆《嗨咯喂》纯享 | The Rap of China 中国新说唱2020 | iQIYI](https://www.youtube.com/watch?v=8adx-gquH3w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
