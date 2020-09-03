@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [aiko『Love Like Aloha Memories 砂浜に持って行かれた足』](https://www.youtube.com/watch?v=dQEfrOQ42Mo)
-- [厭世少年 Angry Youth－甲午戰爭【Official Music Video】](https://www.youtube.com/watch?v=nGF9ANRIYck)
 - [麋先生MIXER【霸道 Domineering】Official Music Video ─ Online game「蜀山縹緲錄」主題曲](https://www.youtube.com/watch?v=POVgB1S-9hc)
 - [美秀集團 Amazing Show－米兒 Mia【Official Music Video】 feat.鄭小韻](https://www.youtube.com/watch?v=nVjVpX3gRWk)
 - [為i篩檢](https://www.youtube.com/watch?v=CowDMFsMcQg)
+- [珂拉琪 Collage／葬予規路火烌猶在](https://www.youtube.com/watch?v=KSq5wxw9-9Q)
+- [拍謝少年 Sorry Youth - 兄弟沒夢不應該 Brothers Shouldn’t Live Without Dreams (Official MV)](https://www.youtube.com/watch?v=IQoXh8eaOHo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
