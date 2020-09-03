@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椅子樂團 The Chairs - 巴黎德州 Paris, Texas (Official Music Video)](https://www.youtube.com/watch?v=JbkUCkbPKUI)
-- [Spangle call Lilli line "nano - TK kaleidoscope Remix" (Official Music Video)](https://www.youtube.com/watch?v=0zUE1E3e7Mg)
 - [MAYDAY五月天 [ 倔強 Persistence ] Official Live Video](https://www.youtube.com/watch?v=w_OfGctVLdE)
 - [離人 - 好樂團『台灣師範大學』 | 樂人Campus Voice](https://www.youtube.com/watch?v=ZjYv65WiJlk)
 - [老破麻Old Slut Distortion - 放空Spaced Out【Official Music Video】 (搖滾便宜貨紀念MV)](https://www.youtube.com/watch?v=Mw3rvycVqG4)
+- [never young beach - 明るい未来(official video)](https://www.youtube.com/watch?v=PL9-6rClgXs)
+- [(Hi-Res Bootleg) 20160305_草東沒有派對 w/ 焦安溥_玫瑰色的你@LiveWareHouse_醜奴兒 專輯首發巡迴](https://www.youtube.com/watch?v=LtduGIuxWdI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
