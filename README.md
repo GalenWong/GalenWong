@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [僕は今日も / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=LKyx3EYVlkA)
-- [2014.12.23 Dreamin Boy - Yogee New Waves](https://www.youtube.com/watch?v=Ff53SHX_XRE)
 - [Mega Shinnosuke - 桃源郷とタクシー  (Official Music Video)](https://www.youtube.com/watch?v=C2NEyroeugI)
 - [フレデリック「されどBGM」Official Lyric Video](https://www.youtube.com/watch?v=DIBA2x1oj4g)
 - [toconoma - DeLorean (Official Visualizer)](https://www.youtube.com/watch?v=JNaNSym4cXA)
+- [deca joins | 路【Official Music Video】](https://www.youtube.com/watch?v=wHNsSxYtCpE)
+- [宇多田ヒカル『HIKARU UTADA Live TOP FAN PICKS』](https://www.youtube.com/watch?v=bH81yFWKLkw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
