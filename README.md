@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [SHE IS SUMMER「海岸2号線」](https://www.youtube.com/watch?v=7LK3FyFCYQM)
-- [SUPERCAR - Lucky](https://www.youtube.com/watch?v=7F2mcVM1-QM)
 - [indigo la End「心雨」](https://www.youtube.com/watch?v=o4gUZ1pJZG0)
 - [草東沒有派對No Party For Cao Dong-醜＋頂樓 [live@5/20 Revolver Bar]](https://www.youtube.com/watch?v=Tq94pD4ZGVw)
 - [レルエ「火花」MV](https://www.youtube.com/watch?v=BCUOhpZhrpo)
+- [くるり - Tokyo OP](https://www.youtube.com/watch?v=YmT4MrFPB2I)
+- [植田真梨恵LIVE「きえるみたい」](https://www.youtube.com/watch?v=4CJe5fgFss0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
