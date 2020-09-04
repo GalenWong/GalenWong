@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [宇多田ヒカル『HIKARU UTADA Live TOP FAN PICKS』](https://www.youtube.com/watch?v=bH81yFWKLkw)
-- [FKJ Live - Improvisation (EM Sessions)](https://www.youtube.com/watch?v=XQbFtZdU7A8)
 - [SHE IS SUMMER「海岸2号線」](https://www.youtube.com/watch?v=7LK3FyFCYQM)
 - [SUPERCAR - Lucky](https://www.youtube.com/watch?v=7F2mcVM1-QM)
 - [indigo la End「心雨」](https://www.youtube.com/watch?v=o4gUZ1pJZG0)
+- [草東沒有派對No Party For Cao Dong-醜＋頂樓 [live@5/20 Revolver Bar]](https://www.youtube.com/watch?v=Tq94pD4ZGVw)
+- [レルエ「火花」MV](https://www.youtube.com/watch?v=BCUOhpZhrpo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
