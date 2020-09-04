@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [林宥嘉 Yoga Lin【憂愁】Live (Audio)](https://www.youtube.com/watch?v=wYHAOY96jRQ)
-- [EVERGLOW (에버글로우) - Adios MV](https://www.youtube.com/watch?v=4gX_p1VkgA4)
 - [東京事変 - 透明人間](https://www.youtube.com/watch?v=egGu_Zipwec)
 - [TWICE "Feel Special" M/V](https://www.youtube.com/watch?v=3ymwOvzhwHs)
 - [SHE IS SUMMER「NEW ME」](https://www.youtube.com/watch?v=yv74ZhIub9Y)
+- [ITZY “Not Shy” M/V](https://www.youtube.com/watch?v=wTowEKjDGkU)
+- [曽我部恵一 - 夏の夜の夢【Official Video】](https://www.youtube.com/watch?v=xDYfpsNAf98)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
