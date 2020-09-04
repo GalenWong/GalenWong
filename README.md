@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[Special Clip] Dreamcatcher(드림캐쳐) 'Red Sun'](https://www.youtube.com/watch?v=RKBJVdjOHUY)
-- [黃玠 X 女孩與機器人【因為你】Official Music Video](https://www.youtube.com/watch?v=tahO1rX-a2w)
 - [林宥嘉 Yoga Lin【憂愁】Live (Audio)](https://www.youtube.com/watch?v=wYHAOY96jRQ)
 - [EVERGLOW (에버글로우) - Adios MV](https://www.youtube.com/watch?v=4gX_p1VkgA4)
 - [東京事変 - 透明人間](https://www.youtube.com/watch?v=egGu_Zipwec)
+- [TWICE "Feel Special" M/V](https://www.youtube.com/watch?v=3ymwOvzhwHs)
+- [SHE IS SUMMER「NEW ME」](https://www.youtube.com/watch?v=yv74ZhIub9Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
