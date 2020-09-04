@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [黃于恩 溫妮(WINNI) --"問你喲(WINNI YO)" DANCE PERFORMANCE VIDEO](https://www.youtube.com/watch?v=qjkx2IGp5Vg)
-- [傷心欲絕 Wayne's So Sad  - 下一步絕望 Talk About Hope (Official Video)](https://www.youtube.com/watch?v=MKT3eKnwy7g)
 - [KIRINJI - 時間がない (Jikanga Nai) (MV)](https://www.youtube.com/watch?v=mgY7V-nB3VI)
 - [TF BOYS 青春修煉手冊 COVER BY 溫妮](https://www.youtube.com/watch?v=vy8Bg39iEsI)
 - [[MV] Dreamcatcher(드림캐쳐)_YOU AND I](https://www.youtube.com/watch?v=I5_BQAtwHws)
+- [[MV] 이달의 소녀 (LOONA) "Butterfly"](https://www.youtube.com/watch?v=XEOCbFJjRw0)
+- [tricot "DeDeDe" MV](https://www.youtube.com/watch?v=K7Bn_qjKVUs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
