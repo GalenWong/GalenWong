@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [indigo la End 「夜風とハヤブサ」](https://www.youtube.com/watch?v=eUY0R_wAhHU)
-- [Mary See the Future - Yes, You Are](https://www.youtube.com/watch?v=Ebelsd3ik3I)
 - [Dreamcatcher (드림캐쳐) 'PIRI' (피리) MV](https://www.youtube.com/watch?v=Pq_mbTSR-a0)
 - [TWICE "FANCY" M/V](https://www.youtube.com/watch?v=kOHB85vDuow)
 - [(여자)아이들((G)I-DLE) - 'LION' Official Music Video](https://www.youtube.com/watch?v=6oanIo_2Z4Q)
+- [Dreamcatcher(드림캐쳐) ‘R.o.S.E BLUE’ MV](https://www.youtube.com/watch?v=Lja79dlQiZI)
+- [[Special Clip] Dreamcatcher(드림캐쳐) 'Red Sun'](https://www.youtube.com/watch?v=RKBJVdjOHUY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
