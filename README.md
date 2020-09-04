@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [KIRINJI - 時間がない (Jikanga Nai) (MV)](https://www.youtube.com/watch?v=mgY7V-nB3VI)
-- [TF BOYS 青春修煉手冊 COVER BY 溫妮](https://www.youtube.com/watch?v=vy8Bg39iEsI)
 - [[MV] Dreamcatcher(드림캐쳐)_YOU AND I](https://www.youtube.com/watch?v=I5_BQAtwHws)
 - [[MV] 이달의 소녀 (LOONA) "Butterfly"](https://www.youtube.com/watch?v=XEOCbFJjRw0)
 - [tricot "DeDeDe" MV](https://www.youtube.com/watch?v=K7Bn_qjKVUs)
+- [ABAO阿爆（阿仍仍)【Kinakaian 母親的舌頭】feat. 林宜瑾, 丁立芬 共創Music Video ┃狠配 Very Mixer](https://www.youtube.com/watch?v=Tsh4lMH1fA8)
+- [植田真梨恵LIVE「優しい悪魔」](https://www.youtube.com/watch?v=XQyZpCKFJu8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
