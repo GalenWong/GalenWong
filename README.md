@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Mega Shinnosuke - 桃源郷とタクシー  (Official Music Video)](https://www.youtube.com/watch?v=C2NEyroeugI)
-- [フレデリック「されどBGM」Official Lyric Video](https://www.youtube.com/watch?v=DIBA2x1oj4g)
 - [toconoma - DeLorean (Official Visualizer)](https://www.youtube.com/watch?v=JNaNSym4cXA)
 - [deca joins | 路【Official Music Video】](https://www.youtube.com/watch?v=wHNsSxYtCpE)
 - [宇多田ヒカル『HIKARU UTADA Live TOP FAN PICKS』](https://www.youtube.com/watch?v=bH81yFWKLkw)
+- [FKJ Live - Improvisation (EM Sessions)](https://www.youtube.com/watch?v=XQbFtZdU7A8)
+- [SHE IS SUMMER「海岸2号線」](https://www.youtube.com/watch?v=7LK3FyFCYQM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
