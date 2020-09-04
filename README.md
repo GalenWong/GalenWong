@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [曽我部恵一 - 夏の夜の夢【Official Video】](https://www.youtube.com/watch?v=xDYfpsNAf98)
-- [[MV] 헤이즈(Heize) - 작사가 (Lyricist) / 일이 너무 잘 돼 (Things are going well)](https://www.youtube.com/watch?v=P9_nq8q6JDY)
 - [僕は今日も / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=LKyx3EYVlkA)
 - [2014.12.23 Dreamin Boy - Yogee New Waves](https://www.youtube.com/watch?v=Ff53SHX_XRE)
 - [Mega Shinnosuke - 桃源郷とタクシー  (Official Music Video)](https://www.youtube.com/watch?v=C2NEyroeugI)
+- [フレデリック「されどBGM」Official Lyric Video](https://www.youtube.com/watch?v=DIBA2x1oj4g)
+- [toconoma - DeLorean (Official Visualizer)](https://www.youtube.com/watch?v=JNaNSym4cXA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
