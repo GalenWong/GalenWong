@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [植田真梨恵LIVE「優しい悪魔」](https://www.youtube.com/watch?v=XQyZpCKFJu8)
-- [LITE / Ghost Dance](https://www.youtube.com/watch?v=Tc1yD9H7Rb8)
 - [ミツメ - なめらかな日々](https://www.youtube.com/watch?v=eOc_Z4G-hWo)
 - [鈴木雅之 - DADDY ! DADDY ! DO ! feat. 鈴木愛理 / THE FIRST TAKE](https://www.youtube.com/watch?v=qIBWRPqJcGQ)
 - [LUCKY TAPES - BLUE feat. kojikoji (Official Lyric Video) [short ver.]](https://www.youtube.com/watch?v=G1damuAr05c)
+- [Frederic「フレデリック」- SynkRock「シンクロック」](https://www.youtube.com/watch?v=nhNqTQsLgU8)
+- [周杰倫Jay Chou(ジェイ・チョウ)【等你下課Waiting For You】(君を待っている)](https://www.youtube.com/watch?v=QQucPUfXUQQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
