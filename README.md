@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [《我是唱作人2》GAI爺回歸！最新中國風創作《烈火戰馬》致敬醫護人員｜愛奇藝台灣站](https://www.youtube.com/watch?v=Pec9vuzzC34)
-- [【顏社】夜貓組（Leo王+春艷） - 妳是我的Wifi feat. 國蛋 GorDoN (Official Music Video)](https://www.youtube.com/watch?v=96KZZhIFIAs)
 - [Baby Cakes - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=CMSrmJi3dNE)
 - [淺堤 Shallow Levée—【石頭 Wish Upon A Star】Official Music Video](https://www.youtube.com/watch?v=A7xBp1rLuVI)
 - [Mary See the Future 先知瑪莉｜《梅雨季》台北｜Hellow](https://www.youtube.com/watch?v=KkcS35aYCXs)
+- [Triple G - 火花 (Prod. by Canvas) [Official Video]](https://www.youtube.com/watch?v=AmO7rAoKaBY)
+- [Mary See the Future 先知瑪莉｜《My Fake True Love》台北最終場｜Cheer](https://www.youtube.com/watch?v=aRamIUxqkn4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
