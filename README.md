@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [indigo la End 本人が"藍色好きさ"叩いてみた](https://www.youtube.com/watch?v=2KhexxMhJPE)
-- [周杰倫 Jay Chou【上海 一九四三 Shanghai 1943】Official MV](https://www.youtube.com/watch?v=CcfnZOJpbM4)
 - [“Helios” haruka nakamura feat.LUCA](https://www.youtube.com/watch?v=7oTqxphu6Yc)
 - [曽我部恵一 - 永久ミント機関](https://www.youtube.com/watch?v=Il1rmT9RyAM)
 - [FUBAR樂隊 | 豔紅【Official Audio】](https://www.youtube.com/watch?v=EG4ZS0Oo5m0)
+- [tricot「あふれる」（9才ワンマン／2019.09.24 at TSUTAYA O-EAST）YouTube Ver.](https://www.youtube.com/watch?v=x_Pe1zuuoIc)
+- [Sunny Day Service - I’m a boy【Official Video】](https://www.youtube.com/watch?v=-ABUE--ICBg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
