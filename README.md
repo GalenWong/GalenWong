@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [FUBAR樂隊 | 豔紅【Official Audio】](https://www.youtube.com/watch?v=EG4ZS0Oo5m0)
-- [tricot「あふれる」（9才ワンマン／2019.09.24 at TSUTAYA O-EAST）YouTube Ver.](https://www.youtube.com/watch?v=x_Pe1zuuoIc)
 - [Sunny Day Service - I’m a boy【Official Video】](https://www.youtube.com/watch?v=-ABUE--ICBg)
 - [夏のせい RADWIMPS MV](https://www.youtube.com/watch?v=Owqn2QrtOBU)
 - [indigo la End  "レナは朝を奪ったみたいだ" [full ver.] (Official Music Video)](https://www.youtube.com/watch?v=62-E-7BvlyA)
+- [木下百花 "ダンスナンバー" (Official Music Video)](https://www.youtube.com/watch?v=3hmOmWFE9W4)
+- [菅田将暉 『さよならエレジー』](https://www.youtube.com/watch?v=XSkpuDseenY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
