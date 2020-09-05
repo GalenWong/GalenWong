@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [菅田将暉 『さよならエレジー』](https://www.youtube.com/watch?v=XSkpuDseenY)
-- [珂拉琪 Collage／MALIYANG](https://www.youtube.com/watch?v=hk9k5mLluGY)
 - [tricot - potage | Audiotree live](https://www.youtube.com/watch?v=yU38oLPNpYk)
 - [印象派 | 常温じゃない関係 [2020 TOKYO MIX] (Official Music Video)](https://www.youtube.com/watch?v=tYyVjUSxJ6o)
 - [ねむるまち feat.yama  (Official Video)](https://www.youtube.com/watch?v=ePBjUMEeqBw)
+- [EVERGLOW (에버글로우) - DUN DUN MV](https://www.youtube.com/watch?v=NoYKBAajoyo)
+- [Red Velvet 레드벨벳 'Psycho' MV](https://www.youtube.com/watch?v=uR8Mrt1IpXg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
