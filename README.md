@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【咖廣新聲代】 SoulFa 靈魂沙發《 Polydream 》](https://www.youtube.com/watch?v=airqEhdGs5w)
-- [[MV] Lovelyz(러블리즈) _ Obliviate](https://www.youtube.com/watch?v=TArBtJ0IwCc)
 - [玖壹壹 癡情男子漢 COVER BY 黃于恩 溫妮](https://www.youtube.com/watch?v=TswH2ukbAD8)
 - [ゲスの極み乙女。「人生の針」](https://www.youtube.com/watch?v=V0DkktXsCpw)
 - [《我是唱作人2》GAI爺回歸！最新中國風創作《烈火戰馬》致敬醫護人員｜愛奇藝台灣站](https://www.youtube.com/watch?v=Pec9vuzzC34)
+- [【顏社】夜貓組（Leo王+春艷） - 妳是我的Wifi feat. 國蛋 GorDoN (Official Music Video)](https://www.youtube.com/watch?v=96KZZhIFIAs)
+- [Baby Cakes - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=CMSrmJi3dNE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
