@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Red Velvet 레드벨벳 'Psycho' MV](https://www.youtube.com/watch?v=uR8Mrt1IpXg)
-- [曽我部恵一 - 6月の歌【Official Video】](https://www.youtube.com/watch?v=AhL-vaXl_-M)
 - [드림캐쳐 (DREAMCATCHER) - Black Or White | Performance Video (4K) | MOVE RECㅣ딩고뮤직ㅣDingo Music](https://www.youtube.com/watch?v=-Q6iOxdsAbw)
 - [deca joins【快樂】 Audio](https://www.youtube.com/watch?v=QJ6u6lEHk2Q)
 - [レルエ「さよならマジョリティ」MV](https://www.youtube.com/watch?v=_uHaPS-JcG4)
+- [安心亞〈來追我男友吧〉Official Music Video](https://www.youtube.com/watch?v=DKMmZNX25hg)
+- [【咖廣新聲代】 SoulFa 靈魂沙發《 Polydream 》](https://www.youtube.com/watch?v=airqEhdGs5w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
