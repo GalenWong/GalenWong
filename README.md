@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Baby Cakes - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=CMSrmJi3dNE)
-- [淺堤 Shallow Levée—【石頭 Wish Upon A Star】Official Music Video](https://www.youtube.com/watch?v=A7xBp1rLuVI)
 - [Mary See the Future 先知瑪莉｜《梅雨季》台北｜Hellow](https://www.youtube.com/watch?v=KkcS35aYCXs)
 - [Triple G - 火花 (Prod. by Canvas) [Official Video]](https://www.youtube.com/watch?v=AmO7rAoKaBY)
 - [Mary See the Future 先知瑪莉｜《My Fake True Love》台北最終場｜Cheer](https://www.youtube.com/watch?v=aRamIUxqkn4)
+- [傷心欲絕 - 搖滾糾察小隊長【歌詞影像】](https://www.youtube.com/watch?v=uRlMMazE-Fk)
+- [ITZY(있지) 'WANNABE' Dance Cover BY WINNI溫妮 & MARIA阿部瑪利亞](https://www.youtube.com/watch?v=Pfg-GzFEi4o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
