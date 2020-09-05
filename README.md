@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[Special Clip] Dreamcatcher(드림캐쳐) '그리고 아무도 없었다'](https://www.youtube.com/watch?v=Nj5RiXNaqzc)
-- [海豚刑警 - 城市逃亡羅曼史](https://www.youtube.com/watch?v=_E5bFReQeAg)
 - [順風満帆](https://www.youtube.com/watch?v=QxMS9Sz97nw)
 - [SOLITARY [Vocal:大和田慧]](https://www.youtube.com/watch?v=4WHyeLfGuiA)
 - [巫堵](https://www.youtube.com/watch?v=2433j00VI2g)
+- [演出直擊＿國蛋GorDoN 篇｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=ZIiHJU6fREA)
+- [四季 (Shiki) （Geimori - Medley）](https://www.youtube.com/watch?v=-WmYyosfzlk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
