@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [PewDiePie - Frick a Creeper (Blip Blop) [Remix]](https://www.youtube.com/watch?v=d0cNFzoKTA0)
-- [PewDiePie   Hej Monika Remix by Party In Backyard](https://www.youtube.com/watch?v=Vk8UEWHYfEg)
 - [Congratulations](https://www.youtube.com/watch?v=PHgc8Q6qTjc)
 - [拍謝少年 Sorry Youth －骨力走傱 Running On (Live in 詹記麻辣火鍋-新莊總店)](https://www.youtube.com/watch?v=_ymz7g8gP54)
 - [bitch lasagna](https://www.youtube.com/watch?v=6Dh-RL__uN4)
+- [Lulu 黃路梓茵 -〈讓我們在一起吧〉Official Music Video](https://www.youtube.com/watch?v=0JCpSdi6gf4)
+- [【鄭宜農Enno Cheng feat 陳嫺靜Hsien Ching - 街仔路雨落袂停 At a rainy night （Would you walk me home?）】Music Video](https://www.youtube.com/watch?v=c79upw09pmk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
