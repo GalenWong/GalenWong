@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [See, You](https://www.youtube.com/watch?v=Uf3A6n1yAbQ)
-- [傷心欲絕 Wayne's So Sad - 遜到簡直是個藝術品 The Art of Embarrassment](https://www.youtube.com/watch?v=Q9OnIs867uw)
 - [Go Slow](https://www.youtube.com/watch?v=BUEAg0sb-G0)
 - [散去的時候](https://www.youtube.com/watch?v=sxfd3OBOdKs)
 - [愛我就給我](https://www.youtube.com/watch?v=NNUZpJeM5Q8)
+- [醉難寫的歌](https://www.youtube.com/watch?v=96XFDcUoI9c)
+- [靠窗座位](https://www.youtube.com/watch?v=3jt1RFCZBcI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
