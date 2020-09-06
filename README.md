@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [tofubeats / トーフビーツ -「BABY」](https://www.youtube.com/watch?v=e_K-8acKFNU)
-- [tofubeats - LONELY NIGHTS](https://www.youtube.com/watch?v=etXw2kp_QQI)
 - [chelmico「Disco (Bad dance doesn't matter)」【Official Music Video】](https://www.youtube.com/watch?v=4gQ0ALMOkBs)
 - [tofubeats - クラブ (CLUB)](https://www.youtube.com/watch?v=liVy1B3ENYc)
 - [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [You Say Goodbye Easily](https://www.youtube.com/watch?v=5JLBYV5qt3Y)
+- [空白頁面](https://www.youtube.com/watch?v=53fB76kr0nE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
