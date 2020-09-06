@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [月旁月光](https://www.youtube.com/watch?v=iAP-0NjaHJU)
-- [Lady (2020)](https://www.youtube.com/watch?v=s857ala8x00)
 - [En Mi Cuarto](https://www.youtube.com/watch?v=2OE_9s2WO9k)
 - [我还年轻 我还年轻](https://www.youtube.com/watch?v=5q3QcyCUFGo)
 - [【顏社】蛋堡 Soft Lipa - 少年維持著煩惱 (Official Music Video)](https://www.youtube.com/watch?v=gwsJfT5bYVU)
+- [陳粒 06 貪得](https://www.youtube.com/watch?v=tUZa9mzi0WE)
+- [Karen O - The Moon Song (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=KPUavQEltEY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
