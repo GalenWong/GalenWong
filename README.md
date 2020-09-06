@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [愛我就給我](https://www.youtube.com/watch?v=NNUZpJeM5Q8)
-- [醉難寫的歌](https://www.youtube.com/watch?v=96XFDcUoI9c)
 - [靠窗座位](https://www.youtube.com/watch?v=3jt1RFCZBcI)
 - [直到你帶走我](https://www.youtube.com/watch?v=H3fd5fZj3Ys)
 - [月旁月光](https://www.youtube.com/watch?v=iAP-0NjaHJU)
+- [Lady (2020)](https://www.youtube.com/watch?v=s857ala8x00)
+- [En Mi Cuarto](https://www.youtube.com/watch?v=2OE_9s2WO9k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
