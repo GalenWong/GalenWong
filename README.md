@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [逃生口THEXIT 賴慈泓 - 我在洗澡的時候我唱著情歌](https://www.youtube.com/watch?v=O1fzHaoUq7w)
-- [PUZZLEMAN LIVE - 摩摩喳喳｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=Gm-4beRHcXc)
 - [椅子樂團The Chairs - Slow Down](https://www.youtube.com/watch?v=bUpP3QP2EYg)
 - [椅子樂團 The Chairs - 【後山舞曲 The Formosan Dance(Blues Rock Ver.)】 (Official Music Video)](https://www.youtube.com/watch?v=8SkmEKKGZVc)
 - [浴室 (2019 Reprise)](https://www.youtube.com/watch?v=3kYy-6a6MSY)
+- [Shadow](https://www.youtube.com/watch?v=ienn67dDjM8)
+- [PewDiePie - Frick a Creeper (Blip Blop) [Remix]](https://www.youtube.com/watch?v=d0cNFzoKTA0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
