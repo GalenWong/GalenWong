@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】蛋堡 Soft Lipa - 少年維持著煩惱 (Official Music Video)](https://www.youtube.com/watch?v=gwsJfT5bYVU)
-- [陳粒 06 貪得](https://www.youtube.com/watch?v=tUZa9mzi0WE)
 - [Karen O - The Moon Song (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=KPUavQEltEY)
 - [過於喧囂的孤獨](https://www.youtube.com/watch?v=usFm0IZFJKc)
 - [楼房来四散起，路不见狗相连](https://www.youtube.com/watch?v=un6gZFMf8IQ)
+- [只記得你曾存在 (Feat. MC.Mark_MC.DAGO)](https://www.youtube.com/watch?v=0Mmh35MecJI)
+- [friDay Mode](https://www.youtube.com/watch?v=bCps8C5eqGo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
