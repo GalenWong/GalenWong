@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [iri -「Sparkle」（Music Video）](https://www.youtube.com/watch?v=s2lrXYmpi7w)
-- [珂拉琪 Collage／萬千花蕊慈母悲哀](https://www.youtube.com/watch?v=kkUWlcjmOew)
 - [tofubeats - RUN REMIX (feat.KREVA & VaVa)](https://www.youtube.com/watch?v=55LLfrWR97A)
 - [BRADIO-幸せのシャナナ (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=RCzBN-kUPHo)
 - [瘦子E.SO【Something I Don't Need】Official Music Video](https://www.youtube.com/watch?v=8FS9MvbXoUc)
+- [【顏社】李英宏 aka DJ Didilong - 水哥 ft.蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=FYsZd9v853U)
+- [水源 Xueiyuan - 風來吹 Wind Blowing│CINEMA SESSIONS](https://www.youtube.com/watch?v=Crin4Ebor08)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
