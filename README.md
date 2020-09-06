@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [浴室 (2019 Reprise)](https://www.youtube.com/watch?v=3kYy-6a6MSY)
-- [Shadow](https://www.youtube.com/watch?v=ienn67dDjM8)
 - [PewDiePie - Frick a Creeper (Blip Blop) [Remix]](https://www.youtube.com/watch?v=d0cNFzoKTA0)
 - [PewDiePie   Hej Monika Remix by Party In Backyard](https://www.youtube.com/watch?v=Vk8UEWHYfEg)
 - [Congratulations](https://www.youtube.com/watch?v=PHgc8Q6qTjc)
+- [拍謝少年 Sorry Youth －骨力走傱 Running On (Live in 詹記麻辣火鍋-新莊總店)](https://www.youtube.com/watch?v=_ymz7g8gP54)
+- [bitch lasagna](https://www.youtube.com/watch?v=6Dh-RL__uN4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
