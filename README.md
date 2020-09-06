@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【鄭宜農Enno Cheng feat 陳嫺靜Hsien Ching - 街仔路雨落袂停 At a rainy night （Would you walk me home?）】Music Video](https://www.youtube.com/watch?v=c79upw09pmk)
-- [周杰倫 Jay Chou【傻笑 Smile】Official MV](https://www.youtube.com/watch?v=rKFtivD7Rvw)
 - [Mary See the Future 先知瑪莉 ｜【Ariel】Music Session｜feat. 聖皓、宇庭、易祺](https://www.youtube.com/watch?v=Uxxmo8ETaS4)
 - [163 braces - 飛機場的10:30 (Cover)｜例假日](https://www.youtube.com/watch?v=y_oFumwbj3k)
 - [iri -「Sparkle」（Music Video）](https://www.youtube.com/watch?v=s2lrXYmpi7w)
+- [珂拉琪 Collage／萬千花蕊慈母悲哀](https://www.youtube.com/watch?v=kkUWlcjmOew)
+- [tofubeats - RUN REMIX (feat.KREVA & VaVa)](https://www.youtube.com/watch?v=55LLfrWR97A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
