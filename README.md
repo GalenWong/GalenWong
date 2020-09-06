@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Mary See the Future 先知瑪莉 ｜【Ariel】Music Session｜feat. 聖皓、宇庭、易祺](https://www.youtube.com/watch?v=Uxxmo8ETaS4)
-- [163 braces - 飛機場的10:30 (Cover)｜例假日](https://www.youtube.com/watch?v=y_oFumwbj3k)
 - [iri -「Sparkle」（Music Video）](https://www.youtube.com/watch?v=s2lrXYmpi7w)
 - [珂拉琪 Collage／萬千花蕊慈母悲哀](https://www.youtube.com/watch?v=kkUWlcjmOew)
 - [tofubeats - RUN REMIX (feat.KREVA & VaVa)](https://www.youtube.com/watch?v=55LLfrWR97A)
+- [BRADIO-幸せのシャナナ (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=RCzBN-kUPHo)
+- [瘦子E.SO【Something I Don't Need】Official Music Video](https://www.youtube.com/watch?v=8FS9MvbXoUc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
