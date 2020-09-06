@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [chelmico「Disco (Bad dance doesn't matter)」【Official Music Video】](https://www.youtube.com/watch?v=4gQ0ALMOkBs)
-- [tofubeats - クラブ (CLUB)](https://www.youtube.com/watch?v=liVy1B3ENYc)
 - [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 - [You Say Goodbye Easily](https://www.youtube.com/watch?v=5JLBYV5qt3Y)
 - [空白頁面](https://www.youtube.com/watch?v=53fB76kr0nE)
+- [眼睛裡](https://www.youtube.com/watch?v=s4pIMKEKd6k)
+- [See, You](https://www.youtube.com/watch?v=Uf3A6n1yAbQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
