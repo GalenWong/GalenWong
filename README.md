@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椅子樂團The Chairs - Slow Down](https://www.youtube.com/watch?v=bUpP3QP2EYg)
-- [椅子樂團 The Chairs - 【後山舞曲 The Formosan Dance(Blues Rock Ver.)】 (Official Music Video)](https://www.youtube.com/watch?v=8SkmEKKGZVc)
 - [浴室 (2019 Reprise)](https://www.youtube.com/watch?v=3kYy-6a6MSY)
 - [Shadow](https://www.youtube.com/watch?v=ienn67dDjM8)
 - [PewDiePie - Frick a Creeper (Blip Blop) [Remix]](https://www.youtube.com/watch?v=d0cNFzoKTA0)
+- [PewDiePie   Hej Monika Remix by Party In Backyard](https://www.youtube.com/watch?v=Vk8UEWHYfEg)
+- [Congratulations](https://www.youtube.com/watch?v=PHgc8Q6qTjc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
