@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [靠窗座位](https://www.youtube.com/watch?v=3jt1RFCZBcI)
-- [直到你帶走我](https://www.youtube.com/watch?v=H3fd5fZj3Ys)
 - [月旁月光](https://www.youtube.com/watch?v=iAP-0NjaHJU)
 - [Lady (2020)](https://www.youtube.com/watch?v=s857ala8x00)
 - [En Mi Cuarto](https://www.youtube.com/watch?v=2OE_9s2WO9k)
+- [我还年轻 我还年轻](https://www.youtube.com/watch?v=5q3QcyCUFGo)
+- [【顏社】蛋堡 Soft Lipa - 少年維持著煩惱 (Official Music Video)](https://www.youtube.com/watch?v=gwsJfT5bYVU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
