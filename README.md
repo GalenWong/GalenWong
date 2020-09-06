@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Karen O - The Moon Song (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=KPUavQEltEY)
-- [過於喧囂的孤獨](https://www.youtube.com/watch?v=usFm0IZFJKc)
 - [楼房来四散起，路不见狗相连](https://www.youtube.com/watch?v=un6gZFMf8IQ)
 - [只記得你曾存在 (Feat. MC.Mark_MC.DAGO)](https://www.youtube.com/watch?v=0Mmh35MecJI)
 - [friDay Mode](https://www.youtube.com/watch?v=bCps8C5eqGo)
+- [失蹤 - Bolly 阮禾茜 × Julia 吳卓源 × Chillaxe × rgry  |  Official MV](https://www.youtube.com/watch?v=-JCE1DojAAY)
+- [逃生口THEXIT 賴慈泓 - 我在洗澡的時候我唱著情歌](https://www.youtube.com/watch?v=O1fzHaoUq7w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
