@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [曾博恩 Brian Tseng -【早餐店阿姨 Breakfast Aunty 】 feat. ?te ｜ Official Music Video](https://www.youtube.com/watch?v=dPjdmPAhJWs)
-- [deca joins【如果你冷+夢】(張雨生cover)2018.12.07@HOU Live](https://www.youtube.com/watch?v=Jzs502Ct3oY)
 - [Rain or Shine - STACO ft. Brandyce｜Official Audio](https://www.youtube.com/watch?v=hmwUTntVC-M)
 - [李榮浩 Ronghao Li - 就這樣 That is it (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=eGr3nLMwbAk)
 - [Lamp　恋は月の蔭に](https://www.youtube.com/watch?v=j2tZQ75uB0U)
+- [瘦子E.SO【伯父 Bo Fu】Official Music Video](https://www.youtube.com/watch?v=EcKUVuOifTg)
+- [陳珊妮 低調人生 (官方導演完整版)](https://www.youtube.com/watch?v=sjOpUUuMcWs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
