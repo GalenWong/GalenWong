@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [王苑之 - 哥歌 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=RPYUF8bMo_A)
-- [山姆 Someshit - 你以為你是誰｜例假日](https://www.youtube.com/watch?v=S6zL29sEbQ0)
 - [【手繪歌詞】魏如萱－買你](https://www.youtube.com/watch?v=RaVmdj8fb88)
 - [琳誼01 cover［方大同 三人遊］](https://www.youtube.com/watch?v=av-PiF8oWf0)
 - [王菲 - 嗶一聲之後 (wakeupcover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=pJnMAgRoBAI)
+- [孔雀眼 JADE EYES【鮮紅】MV](https://www.youtube.com/watch?v=lnJMnGI6BXo)
+- [守夜人 Night Keepers - 我睡不著｜例假日](https://www.youtube.com/watch?v=H_YjOJ96qpY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
