@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [夢](https://www.youtube.com/watch?v=6Gn1l4xmyrg)
-- [陶喆 - 沙灘 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=OsF0KOtnTOM)
 - [王苑之 - 哥歌 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=RPYUF8bMo_A)
 - [山姆 Someshit - 你以為你是誰｜例假日](https://www.youtube.com/watch?v=S6zL29sEbQ0)
 - [【手繪歌詞】魏如萱－買你](https://www.youtube.com/watch?v=RaVmdj8fb88)
+- [琳誼01 cover［方大同 三人遊］](https://www.youtube.com/watch?v=av-PiF8oWf0)
+- [王菲 - 嗶一聲之後 (wakeupcover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=pJnMAgRoBAI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
