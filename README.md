@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [tofubeats - RUN REMIX (feat.KREVA & VaVa)](https://www.youtube.com/watch?v=55LLfrWR97A)
-- [BRADIO-幸せのシャナナ (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=RCzBN-kUPHo)
 - [瘦子E.SO【Something I Don't Need】Official Music Video](https://www.youtube.com/watch?v=8FS9MvbXoUc)
 - [【顏社】李英宏 aka DJ Didilong - 水哥 ft.蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=FYsZd9v853U)
 - [水源 Xueiyuan - 風來吹 Wind Blowing│CINEMA SESSIONS](https://www.youtube.com/watch?v=Crin4Ebor08)
+- [Tizzy Bac - [ 我所深愛的人們 ] Official Music Video](https://www.youtube.com/watch?v=GGhfyFrxHv8)
+- [曾博恩 Brian Tseng -【早餐店阿姨 Breakfast Aunty 】 feat. ?te ｜ Official Music Video](https://www.youtube.com/watch?v=dPjdmPAhJWs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
