@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [瘦子E.SO【Something I Don't Need】Official Music Video](https://www.youtube.com/watch?v=8FS9MvbXoUc)
-- [【顏社】李英宏 aka DJ Didilong - 水哥 ft.蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=FYsZd9v853U)
 - [水源 Xueiyuan - 風來吹 Wind Blowing│CINEMA SESSIONS](https://www.youtube.com/watch?v=Crin4Ebor08)
 - [Tizzy Bac - [ 我所深愛的人們 ] Official Music Video](https://www.youtube.com/watch?v=GGhfyFrxHv8)
 - [曾博恩 Brian Tseng -【早餐店阿姨 Breakfast Aunty 】 feat. ?te ｜ Official Music Video](https://www.youtube.com/watch?v=dPjdmPAhJWs)
+- [deca joins【如果你冷+夢】(張雨生cover)2018.12.07@HOU Live](https://www.youtube.com/watch?v=Jzs502Ct3oY)
+- [Rain or Shine - STACO ft. Brandyce｜Official Audio](https://www.youtube.com/watch?v=hmwUTntVC-M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
