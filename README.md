@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [王菲 - 嗶一聲之後 (wakeupcover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=pJnMAgRoBAI)
-- [孔雀眼 JADE EYES【鮮紅】MV](https://www.youtube.com/watch?v=lnJMnGI6BXo)
 - [守夜人 Night Keepers - 我睡不著｜例假日](https://www.youtube.com/watch?v=H_YjOJ96qpY)
 - [年輕的茶餐廳老闆娘](https://www.youtube.com/watch?v=3CktAAvLc5Y)
 - [降雨機率](https://www.youtube.com/watch?v=j4npG6FhShA)
+- [tofubeats / トーフビーツ -「朝が来るまで終わる事のないダンスを」](https://www.youtube.com/watch?v=WexkMxIzqwo)
+- [Mine All Day (Minecraft Music Video)](https://www.youtube.com/watch?v=UAlIq7BKNxg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
