@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [守夜人 Night Keepers - 我睡不著｜例假日](https://www.youtube.com/watch?v=H_YjOJ96qpY)
-- [年輕的茶餐廳老闆娘](https://www.youtube.com/watch?v=3CktAAvLc5Y)
 - [降雨機率](https://www.youtube.com/watch?v=j4npG6FhShA)
 - [tofubeats / トーフビーツ -「朝が来るまで終わる事のないダンスを」](https://www.youtube.com/watch?v=WexkMxIzqwo)
 - [Mine All Day (Minecraft Music Video)](https://www.youtube.com/watch?v=UAlIq7BKNxg)
+- [Noisestorm - Crab Rave [Monstercat Release]](https://www.youtube.com/watch?v=LDU_Txk06tM)
+- [Initial D - Deja Vu](https://www.youtube.com/watch?v=dv13gl0a-FA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
