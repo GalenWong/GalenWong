@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [宋德鶴 iron horn - 別再掩飾你的厭世【Official Music Video】](https://www.youtube.com/watch?v=M0X4W16A3j8)
-- [告五人 - 愚人遊戲 (Demo)](https://www.youtube.com/watch?v=TZozsauw3xI)
 - [川流](https://www.youtube.com/watch?v=KleykaDn9q0)
 - [悲傷峇里島](https://www.youtube.com/watch?v=GwT5N3eU-to)
 - [說我愛你的一百種方式（《與少年他》音樂合輯）](https://www.youtube.com/watch?v=z5Q1yyjtPo4)
+- [Hotbox](https://www.youtube.com/watch?v=W6W_aWg06qs)
+- [I'm Good](https://www.youtube.com/watch?v=Npk2Z_-Rm8c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
