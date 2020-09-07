@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【手繪歌詞】魏如萱－買你](https://www.youtube.com/watch?v=RaVmdj8fb88)
-- [琳誼01 cover［方大同 三人遊］](https://www.youtube.com/watch?v=av-PiF8oWf0)
 - [王菲 - 嗶一聲之後 (wakeupcover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=pJnMAgRoBAI)
 - [孔雀眼 JADE EYES【鮮紅】MV](https://www.youtube.com/watch?v=lnJMnGI6BXo)
 - [守夜人 Night Keepers - 我睡不著｜例假日](https://www.youtube.com/watch?v=H_YjOJ96qpY)
+- [年輕的茶餐廳老闆娘](https://www.youtube.com/watch?v=3CktAAvLc5Y)
+- [降雨機率](https://www.youtube.com/watch?v=j4npG6FhShA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
