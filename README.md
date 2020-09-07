@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Lamp　恋は月の蔭に](https://www.youtube.com/watch?v=j2tZQ75uB0U)
-- [瘦子E.SO【伯父 Bo Fu】Official Music Video](https://www.youtube.com/watch?v=EcKUVuOifTg)
 - [陳珊妮 低調人生 (官方導演完整版)](https://www.youtube.com/watch?v=sjOpUUuMcWs)
 - [隨性 Random《重新開始》Official Music Video](https://www.youtube.com/watch?v=beHaWz7d264)
 - [傷心欲絕 Wayne's So Sad - 留職停薪 Unpaid Leave](https://www.youtube.com/watch?v=chkpcD_7aPU)
+- [渣泥ZANI〈REAL樣 / The Real Deal〉Official Audio](https://www.youtube.com/watch?v=Kv17vpSindc)
+- [Theseus忒修斯 Feat. 流氓阿德 - 憨孫仔 Letter Music Video](https://www.youtube.com/watch?v=wD11cgzEa4A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
