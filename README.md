@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Mine All Day (Minecraft Music Video)](https://www.youtube.com/watch?v=UAlIq7BKNxg)
-- [Noisestorm - Crab Rave [Monstercat Release]](https://www.youtube.com/watch?v=LDU_Txk06tM)
 - [Initial D - Deja Vu](https://www.youtube.com/watch?v=dv13gl0a-FA)
 - [Kero Kero Bonito - Flamingo](https://www.youtube.com/watch?v=rY-FJvRqK0E)
 - [tofubeats - ディスコの神様 feat.藤井隆(official MV)](https://www.youtube.com/watch?v=4TtiPT8mwJ0)
+- [Trout Fresh/呂士軒『誤入奇途』 - 06 灑小朋友 ft. 阿達](https://www.youtube.com/watch?v=ioHEjoS11xI)
+- [琳誼01 cover ［ WHYNOT 無法度按捺］](https://www.youtube.com/watch?v=7X46xYZkKSI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
