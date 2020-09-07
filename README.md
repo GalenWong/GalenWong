@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [傷心欲絕 Wayne's So Sad - 留職停薪 Unpaid Leave](https://www.youtube.com/watch?v=chkpcD_7aPU)
-- [渣泥ZANI〈REAL樣 / The Real Deal〉Official Audio](https://www.youtube.com/watch?v=Kv17vpSindc)
 - [Theseus忒修斯 Feat. 流氓阿德 - 憨孫仔 Letter Music Video](https://www.youtube.com/watch?v=wD11cgzEa4A)
 - [Dreamcatcher(드림캐쳐) '날아올라 (Fly high)' MV](https://www.youtube.com/watch?v=39yeTdIuKJU)
 - [【顏社】李英宏 aka DJ Didilong - 蘆樂佛尼亞 (Official Music Video)](https://www.youtube.com/watch?v=kQoSae_FjZ0)
+- [台北嘻哈故事 - 蛋堡 feat. 9m88/ØZI  | 4K UHD Live](https://www.youtube.com/watch?v=ZOcERaKxoTM)
+- [宋德鶴 iron horn - 別再掩飾你的厭世【Official Music Video】](https://www.youtube.com/watch?v=M0X4W16A3j8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
