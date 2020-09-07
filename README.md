@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tempalay "そなちね" (Official Music Video)](https://www.youtube.com/watch?v=Aa5onMizfco)
-- [藤井 風(Fujii Kaze) - "帰ろう"(Kaerou) Official Video](https://www.youtube.com/watch?v=goU1Ei8I8uk)
 - [夢](https://www.youtube.com/watch?v=6Gn1l4xmyrg)
 - [陶喆 - 沙灘 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=OsF0KOtnTOM)
 - [王苑之 - 哥歌 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=RPYUF8bMo_A)
+- [山姆 Someshit - 你以為你是誰｜例假日](https://www.youtube.com/watch?v=S6zL29sEbQ0)
+- [【手繪歌詞】魏如萱－買你](https://www.youtube.com/watch?v=RaVmdj8fb88)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
