@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Rain or Shine - STACO ft. Brandyce｜Official Audio](https://www.youtube.com/watch?v=hmwUTntVC-M)
-- [李榮浩 Ronghao Li - 就這樣 That is it (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=eGr3nLMwbAk)
 - [Lamp　恋は月の蔭に](https://www.youtube.com/watch?v=j2tZQ75uB0U)
 - [瘦子E.SO【伯父 Bo Fu】Official Music Video](https://www.youtube.com/watch?v=EcKUVuOifTg)
 - [陳珊妮 低調人生 (官方導演完整版)](https://www.youtube.com/watch?v=sjOpUUuMcWs)
+- [隨性 Random《重新開始》Official Music Video](https://www.youtube.com/watch?v=beHaWz7d264)
+- [傷心欲絕 Wayne's So Sad - 留職停薪 Unpaid Leave](https://www.youtube.com/watch?v=chkpcD_7aPU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
