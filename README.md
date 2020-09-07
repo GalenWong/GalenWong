@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [說我愛你的一百種方式（《與少年他》音樂合輯）](https://www.youtube.com/watch?v=z5Q1yyjtPo4)
-- [Hotbox](https://www.youtube.com/watch?v=W6W_aWg06qs)
 - [I'm Good](https://www.youtube.com/watch?v=Npk2Z_-Rm8c)
 - [群青](https://www.youtube.com/watch?v=h1Ebp1_f6Q0)
 - [yama - 春を告げる (Official Video)](https://www.youtube.com/watch?v=DC6JppqHkaM)
+- [空音 / Hug feat. kojikoji (Album ver.) -Official Music Video-](https://www.youtube.com/watch?v=syHCwaounPc)
+- [Tempalay "そなちね" (Official Music Video)](https://www.youtube.com/watch?v=Aa5onMizfco)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
