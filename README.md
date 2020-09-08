@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サカナクション - 僕と花（MUSIC VIDEO） -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=scV4N5tkWbU)
-- [サカナクション - エンドレス（MUSIC VIDEO） -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=HZZk2Mq_yjA)
 - [サカナクション - アルクアラウンド（MUSIC VIDEO） -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=vS6wzjpCvec)
 - [サカナクション / ネイティブダンサー](https://www.youtube.com/watch?v=IiqfKF9BlcI)
 - [御祭騒ぎ→長く短い祭 (from 百鬼夜行)](https://www.youtube.com/watch?v=YtKx-5YLs30)
+- [サカナクション / 新宝島　-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=LIlZCmETvsY)
+- [ポルカドットスティングレイ「ICHIDAIJI」MV](https://www.youtube.com/watch?v=WJW7kS9AAI4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
