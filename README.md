@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
-- [Yogee New Waves / SAYONARAMATA (Official MV)](https://www.youtube.com/watch?v=TSSJ8HTiNDU)
 - [4:00A.M.](https://www.youtube.com/watch?v=ejvUU6mxiFw)
 - [(한글자막) MIki Matsubara - 真夜中のドア / Stay with me](https://www.youtube.com/watch?v=9Dx3zuha4-0)
 - [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
+- [Aiobahn - ここにいる (I'm Here) (feat. rionos) [Stephen Walking Remix / Official Audio]](https://www.youtube.com/watch?v=63jACiwo61c)
+- [Anamanaguchi - Kei ft. POCHI (SUMMER SINGLES 2020)](https://www.youtube.com/watch?v=hqfqVU_WTD8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
