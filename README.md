@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [御祭騒ぎ→長く短い祭 (from 百鬼夜行)](https://www.youtube.com/watch?v=YtKx-5YLs30)
-- [サカナクション / 新宝島　-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=LIlZCmETvsY)
 - [ポルカドットスティングレイ「ICHIDAIJI」MV](https://www.youtube.com/watch?v=WJW7kS9AAI4)
 - [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
 - [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
+- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
+- [守夜人 Night Keepers 【 活在自己的世界 In My Universe 】Official  Music Video](https://www.youtube.com/watch?v=vTvPtgUs_Bc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
