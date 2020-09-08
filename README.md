@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [never get back (feat. 原田郁子)](https://www.youtube.com/watch?v=Xefl8vCuyoE)
-- [In the Spring, When the Anemone Bloom](https://www.youtube.com/watch?v=fGm44vNcA1Q)
 - [The Reason Why](https://www.youtube.com/watch?v=K3YQ1NRrAdI)
 - [N.G.S](https://www.youtube.com/watch?v=Z2dVPxK4Fk0)
 - [The Next Big Thing 2015 大團誕生：草東沒有派對｜勇敢的人](https://www.youtube.com/watch?v=G4zpC4hkTC0)
+- [Theseus 忒修斯《 If we were sparkling stars 如果我們都是繁星 》Lyric Video](https://www.youtube.com/watch?v=ql6TrFwXvH8)
+- [與浪之間 (Waves)](https://www.youtube.com/watch?v=Ogu03jXQpho)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
