@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [tofubeats - ディスコの神様 feat.藤井隆(official MV)](https://www.youtube.com/watch?v=4TtiPT8mwJ0)
-- [Trout Fresh/呂士軒『誤入奇途』 - 06 灑小朋友 ft. 阿達](https://www.youtube.com/watch?v=ioHEjoS11xI)
 - [琳誼01 cover ［ WHYNOT 無法度按捺］](https://www.youtube.com/watch?v=7X46xYZkKSI)
 - [Jabba the Hutt (PewDiePie Song) by Schmoyoho](https://www.youtube.com/watch?v=lxw3C5HJ2XU)
 - [BROFIST (PewDiePie Song, By Roomie)](https://www.youtube.com/watch?v=5pEPpNpbnCI)
+- [【ㄎㄨㄢˊ時代】 美秀集團 Amazing Show | 我要你愛 You are My Crazy Lover | 實踐ㄎㄨㄢˊ Choreography](https://www.youtube.com/watch?v=YVAVsDRK3W0)
+- [estha feat. Nachi Sakaue - Reflected Snow (MZC Remix)](https://www.youtube.com/watch?v=f2mNoONQ-d8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
