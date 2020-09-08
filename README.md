@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [estha feat. Nachi Sakaue - Reflected Snow (MZC Remix)](https://www.youtube.com/watch?v=f2mNoONQ-d8)
-- [「Kimi to iu Hana / 君という花」 (ASIAN-KUNG FU GENERATION) Cover by KANA-BOON](https://www.youtube.com/watch?v=jmqu_PKUabo)
 - [Find yourself and grow](https://www.youtube.com/watch?v=895MzDtil0M)
 - [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
 - [Love Song of New Century](https://www.youtube.com/watch?v=0tEdZodhW0o)
+- [Memories of the Ruins](https://www.youtube.com/watch?v=cpCR_l0wqWM)
+- [Rabbit in Backyard](https://www.youtube.com/watch?v=SXF1fZKMCqM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
