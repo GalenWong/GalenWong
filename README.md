@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Love Song of New Century](https://www.youtube.com/watch?v=0tEdZodhW0o)
-- [Memories of the Ruins](https://www.youtube.com/watch?v=cpCR_l0wqWM)
 - [Rabbit in Backyard](https://www.youtube.com/watch?v=SXF1fZKMCqM)
 - [Magic Disc](https://www.youtube.com/watch?v=yqkTHNViK08)
 - [never get back (feat. 原田郁子)](https://www.youtube.com/watch?v=Xefl8vCuyoE)
+- [In the Spring, When the Anemone Bloom](https://www.youtube.com/watch?v=fGm44vNcA1Q)
+- [The Reason Why](https://www.youtube.com/watch?v=K3YQ1NRrAdI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
