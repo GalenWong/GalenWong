@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
-- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
 - [守夜人 Night Keepers 【 活在自己的世界 In My Universe 】Official  Music Video](https://www.youtube.com/watch?v=vTvPtgUs_Bc)
 - [陳綺貞 Cheer Chen【每天都是一種練習A Practice】Official Music Video (太陽巡迴演唱會live版)](https://www.youtube.com/watch?v=E9u0EBdQThw)
 - [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
+- [Yogee New Waves / SAYONARAMATA (Official MV)](https://www.youtube.com/watch?v=TSSJ8HTiNDU)
+- [4:00A.M.](https://www.youtube.com/watch?v=ejvUU6mxiFw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
