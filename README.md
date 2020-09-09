@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Dreamcatcher(드림캐쳐) 'What' MV](https://www.youtube.com/watch?v=pN0dkjp1deQ)
-- [亜蘭知子　浮遊空間　Midnight Pretenders](https://www.youtube.com/watch?v=QicgfPt_k6M)
 - [Tatsuro Yamashita - Kiss kara Hajimaru Mystery (Night Tempo Edit)](https://www.youtube.com/watch?v=wB6eNch9frQ)
 - [CLC(씨엘씨) - 'HELICOPTER' Official Music Video](https://www.youtube.com/watch?v=NeUODC6F7zk)
 - [DIZIWASTRIPPY / 空気公団](https://www.youtube.com/watch?v=CMX823Mb4_8)
+- [軌跡](https://www.youtube.com/watch?v=dMIQfW6XQ-A)
+- [Qin Ai De](https://www.youtube.com/watch?v=hhNBrmx69G8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
