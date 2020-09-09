@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tatsuro Yamashita - Kiss kara Hajimaru Mystery (Night Tempo Edit)](https://www.youtube.com/watch?v=wB6eNch9frQ)
-- [CLC(씨엘씨) - 'HELICOPTER' Official Music Video](https://www.youtube.com/watch?v=NeUODC6F7zk)
 - [DIZIWASTRIPPY / 空気公団](https://www.youtube.com/watch?v=CMX823Mb4_8)
 - [軌跡](https://www.youtube.com/watch?v=dMIQfW6XQ-A)
 - [Qin Ai De](https://www.youtube.com/watch?v=hhNBrmx69G8)
+- [[Official MV] 甜梅號 - 站在太陽上 / Sugar Plum Ferry - Feet On The Sun](https://www.youtube.com/watch?v=MF4V6iG9ydI)
+- [Tizzy Bac - [ 鐵之貝克2.0 ] Official Music Video](https://www.youtube.com/watch?v=5YSJTmlSlG4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
