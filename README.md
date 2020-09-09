@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Serrini 《放棄治療》You Go Gurl ♥ Official MV](https://www.youtube.com/watch?v=Dg-n_naw2jo)
-- [CICADA（シケイダ）- YES](https://www.youtube.com/watch?v=ckCyjJoD4Bs)
 - [Cicada - 當叢花毅然綻放 Blooms in Dark《邊境消逝》Coastland](https://www.youtube.com/watch?v=A2drYr5DMaY)
 - [守夜人 Night Keepers [ Bring the Light ] full version](https://www.youtube.com/watch?v=NLMoPrHJwxA)
 - [hoogway - Two Years](https://www.youtube.com/watch?v=X5M3x4-A0dQ)
+- [Angelina](https://www.youtube.com/watch?v=M2G0u6xCeKg)
+- [原子邦妮 Astro Bunny 【浮生】官方歌詞 MV (Lyric)](https://www.youtube.com/watch?v=B3NaGko93hU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
