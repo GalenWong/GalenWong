@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Clock Work](https://www.youtube.com/watch?v=OiVWX4MWjDU)
-- [Blues of the Imaginary Creature](https://www.youtube.com/watch?v=jT3w3p5v0AM)
 - [World Apart](https://www.youtube.com/watch?v=gMB4QNhopl8)
 - [康姆士樂團 COM'Z [ 一樣 ] Official Music Video](https://www.youtube.com/watch?v=FhIxgu0HZmo)
 - [樂團的夏天第9期純享 刺猬樂隊開場《盼暖春來》](https://www.youtube.com/watch?v=W903RZFLBOQ)
+- [張懸 Deserts Xuan - 兒歌](https://www.youtube.com/watch?v=D-XSrJaTQ8Q)
+- [轉身 Turn Around - 余尚儒 Ru Yu｜Original by 倆人 Acoustic Too](https://www.youtube.com/watch?v=R3MsKkcBuTY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
