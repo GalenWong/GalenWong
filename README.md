@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Qin Ai De](https://www.youtube.com/watch?v=hhNBrmx69G8)
-- [[Official MV] 甜梅號 - 站在太陽上 / Sugar Plum Ferry - Feet On The Sun](https://www.youtube.com/watch?v=MF4V6iG9ydI)
 - [Tizzy Bac - [ 鐵之貝克2.0 ] Official Music Video](https://www.youtube.com/watch?v=5YSJTmlSlG4)
 - [《 給時間多點時間 》怕胖團PAPUN BAND  MUSIC VIDEO](https://www.youtube.com/watch?v=KhF5D2SsxTU)
 - [Deca Joins - 夜間獨白 / TOKYO ACOUSTIC SESSION](https://www.youtube.com/watch?v=qbGO-LQwTKg)
+- [木眼鏡 Wooden Glasses – 錯過 Failure  (Official Music Video)](https://www.youtube.com/watch?v=umZNqC5IkC0)
+- [如果雲知道─許茹芸 Cover By 好樂團GoodBand](https://www.youtube.com/watch?v=GjEiL6QMEek)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
