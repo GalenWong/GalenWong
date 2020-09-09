@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Best Acoustic Japanese Song — Minami (美波) ~ Honest Diary [正直日記] Lyrics](https://www.youtube.com/watch?v=BQ08u2WXWeg)
-- [やなぎなぎ - ONE's hope (中日字幕)](https://www.youtube.com/watch?v=2GP_dqbNxOU)
 - [カフカ - Ice Candy(MV)](https://www.youtube.com/watch?v=shufsgsm3PI)
 - [うさぎ大爆発](https://www.youtube.com/watch?v=W8UL2O0b2Qc)
 - [nyankobrq - Go On [Black Cat]](https://www.youtube.com/watch?v=mlQYrWPzAnw)
+- [Re: Re:](https://www.youtube.com/watch?v=BGo6lNU9UMM)
+- [Goodbye Soldier](https://www.youtube.com/watch?v=c7P0aIcYmbY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
