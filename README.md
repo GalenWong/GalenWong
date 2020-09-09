@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
-- [Aiobahn - ここにいる (I'm Here) (feat. rionos) [Stephen Walking Remix / Official Audio]](https://www.youtube.com/watch?v=63jACiwo61c)
 - [Anamanaguchi - Kei ft. POCHI (SUMMER SINGLES 2020)](https://www.youtube.com/watch?v=hqfqVU_WTD8)
 - [Dancing Girl](https://www.youtube.com/watch?v=d9AHhDhnTss)
 - [Shikisai Toshi](https://www.youtube.com/watch?v=tr0cZrQ22lM)
+- [シシド・カフカ ／ ラヴコリーダ](https://www.youtube.com/watch?v=qhPLK1Tn1GQ)
+- [Best Acoustic Japanese Song — Minami (美波) ~ Honest Diary [正直日記] Lyrics](https://www.youtube.com/watch?v=BQ08u2WXWeg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
