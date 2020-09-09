@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ループ＆ループ](https://www.youtube.com/watch?v=M4bq0Rp1jjM)
-- [All Right, Pt. 2](https://www.youtube.com/watch?v=ybTSghLnyHE)
 - [Clock Work](https://www.youtube.com/watch?v=OiVWX4MWjDU)
 - [Blues of the Imaginary Creature](https://www.youtube.com/watch?v=jT3w3p5v0AM)
 - [World Apart](https://www.youtube.com/watch?v=gMB4QNhopl8)
+- [康姆士樂團 COM'Z [ 一樣 ] Official Music Video](https://www.youtube.com/watch?v=FhIxgu0HZmo)
+- [樂團的夏天第9期純享 刺猬樂隊開場《盼暖春來》](https://www.youtube.com/watch?v=W903RZFLBOQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
