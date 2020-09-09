@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [hoogway - Two Years](https://www.youtube.com/watch?v=X5M3x4-A0dQ)
-- [Angelina](https://www.youtube.com/watch?v=M2G0u6xCeKg)
 - [原子邦妮 Astro Bunny 【浮生】官方歌詞 MV (Lyric)](https://www.youtube.com/watch?v=B3NaGko93hU)
 - [ニガミ17才「ただし、BGM」MV  (Nigami 17th birthday!!  "tadashi BGM" )](https://www.youtube.com/watch?v=lZJnkNUX6nI)
 - [Dreamcatcher(드림캐쳐) 'What' MV](https://www.youtube.com/watch?v=pN0dkjp1deQ)
+- [亜蘭知子　浮遊空間　Midnight Pretenders](https://www.youtube.com/watch?v=QicgfPt_k6M)
+- [Tatsuro Yamashita - Kiss kara Hajimaru Mystery (Night Tempo Edit)](https://www.youtube.com/watch?v=wB6eNch9frQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
