@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [カフカ - Ice Candy(MV)](https://www.youtube.com/watch?v=shufsgsm3PI)
-- [うさぎ大爆発](https://www.youtube.com/watch?v=W8UL2O0b2Qc)
 - [nyankobrq - Go On [Black Cat]](https://www.youtube.com/watch?v=mlQYrWPzAnw)
 - [Re: Re:](https://www.youtube.com/watch?v=BGo6lNU9UMM)
 - [Goodbye Soldier](https://www.youtube.com/watch?v=c7P0aIcYmbY)
+- [lost and found](https://www.youtube.com/watch?v=9wwmb64M1UU)
+- [Neoteny](https://www.youtube.com/watch?v=-KuyLgxHNUw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
