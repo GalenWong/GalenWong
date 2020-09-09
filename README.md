@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [轉身 Turn Around - 余尚儒 Ru Yu｜Original by 倆人 Acoustic Too](https://www.youtube.com/watch?v=R3MsKkcBuTY)
-- [SoulFa靈魂沙發 - 44 Seconds Road Movie｜Official Music Video](https://www.youtube.com/watch?v=FKN8W6-zjZ0)
 - [Coldplay - Yellow cover “週末彈唱系列” (Jasmine)](https://www.youtube.com/watch?v=t0ZTBJc79iI)
 - [第十屆金音創作獎頒獎典禮 節目四【Free Your Mind】金音十年女子限定樂團](https://www.youtube.com/watch?v=dECmx7C2SS0)
 - [Serrini 《放棄治療》You Go Gurl ♥ Official MV](https://www.youtube.com/watch?v=Dg-n_naw2jo)
+- [CICADA（シケイダ）- YES](https://www.youtube.com/watch?v=ckCyjJoD4Bs)
+- [Cicada - 當叢花毅然綻放 Blooms in Dark《邊境消逝》Coastland](https://www.youtube.com/watch?v=A2drYr5DMaY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
