@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tizzy Bac - [ 鐵之貝克2.0 ] Official Music Video](https://www.youtube.com/watch?v=5YSJTmlSlG4)
 - [《 給時間多點時間 》怕胖團PAPUN BAND  MUSIC VIDEO](https://www.youtube.com/watch?v=KhF5D2SsxTU)
 - [Deca Joins - 夜間獨白 / TOKYO ACOUSTIC SESSION](https://www.youtube.com/watch?v=qbGO-LQwTKg)
 - [木眼鏡 Wooden Glasses – 錯過 Failure  (Official Music Video)](https://www.youtube.com/watch?v=umZNqC5IkC0)
 - [如果雲知道─許茹芸 Cover By 好樂團GoodBand](https://www.youtube.com/watch?v=GjEiL6QMEek)
+- [魏如萱 waa wei [ 曬傷 Sunburn ] Official Music Video（種菜女神 片頭曲）](https://www.youtube.com/watch?v=9m11WVge8s8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
