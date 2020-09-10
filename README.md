@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Shakka - When Will I See You Again (Amtrac Remix)](https://www.youtube.com/watch?v=E-4Dtd6mC-c)
-- [Sade - Kiss of Life (KAYTRANADA Edit)](https://www.youtube.com/watch?v=x2tUXts-1wM)
 - [ASIAN KUNG-FU GENERATION - Haruka Kanata (Video Clip)](https://www.youtube.com/watch?v=nJ6A6GC_ki4)
 - [The Wisely Brothers / メイプルカナダ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=dcnj1OFksdk)
 - [MONSUNE - OUTTA MY MIND](https://www.youtube.com/watch?v=SjgMmo6_DH0)
+- [Phum Viphurit - Softly Spoken [Official Video]](https://www.youtube.com/watch?v=84-NvRbtfrQ)
+- [Sun Rai - San Francisco Street](https://www.youtube.com/watch?v=9zEl-FQLI4A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
