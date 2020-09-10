@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tightrope](https://www.youtube.com/watch?v=BqIMVt_dxZs)
-- [Black Out](https://www.youtube.com/watch?v=x0tOmsw0_9o)
 - [Eternal Glider](https://www.youtube.com/watch?v=t3TG7ykkl_A)
 - [Butterfly](https://www.youtube.com/watch?v=vcr2BNKRUY4)
 - [After Dark](https://www.youtube.com/watch?v=v9elvcWUMgI)
+- [ミツメ - "停滞夜" ("mitsume Autumn Camp" at 渋谷WWW X)](https://www.youtube.com/watch?v=z43mAcTI3kE)
+- [jizue「grass」Live at Daikanyama UNIT, Tokyo](https://www.youtube.com/watch?v=HJJE9FhG528)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
