@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【雨下一整晚 Rain All Night】Official MV](https://www.youtube.com/watch?v=jOxzAsnx9-0)
-- [Yorushika - Usotsuki [A Whisker Away ED] (Lyrics)](https://www.youtube.com/watch?v=LAlzrCndEv8)
 - [ASIAN KUNG-FU GENERATION 『スリープ』](https://www.youtube.com/watch?v=pGz4FoG2Z70)
 - [Mary See the Future 先知瑪莉｜任何時候 Silent Moments（Official Video）](https://www.youtube.com/watch?v=P8L_P1YU3-c)
 - [amazarashi - 古いSF映画（Furui SF Eiga）](https://www.youtube.com/watch?v=nBRt57nh_cY)
+- [IZ*ONE (아이즈원) - 'FIESTA' MV](https://www.youtube.com/watch?v=eDEFolvLn0A)
+- [UCLA](https://www.youtube.com/watch?v=LEdhbnbY3z8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
