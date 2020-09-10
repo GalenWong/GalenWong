@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [太空浪子](https://www.youtube.com/watch?v=Lnwft6w-rcI)
-- [朋友朋友](https://www.youtube.com/watch?v=McS2bmcwB0E)
 - [Netflix & Chill _ 桃子Jaye](https://www.youtube.com/watch?v=mEuxSC5WUiI)
 - [茄子蛋EggPlantEgg - 親愛的無情孫小美 Dear Heartless (Official Music Video)](https://www.youtube.com/watch?v=UXHTGeGkZwU)
 - [美秀集團 Amazing Show－細粒的目睭【Official Lyrics Video】](https://www.youtube.com/watch?v=p_fEh6dBAG0)
+- [ASIAN KUNG-FU GENERATION - Soredewa, Mata Ashita (Video Clip)](https://www.youtube.com/watch?v=gWKZ9E9piXI)
+- [周杰倫 Jay Chou【雨下一整晚 Rain All Night】Official MV](https://www.youtube.com/watch?v=jOxzAsnx9-0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
