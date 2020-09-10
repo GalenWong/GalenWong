@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jenevieve - Baby Powder (Official Video)](https://www.youtube.com/watch?v=O1Qh7j1yD8Y)
-- [53 Thieves - dreamin'](https://www.youtube.com/watch?v=pefZ5_qDZCI)
 - [The Marías - Ruthless](https://www.youtube.com/watch?v=3moMHMhiq7c)
 - [【MV】SUKISHA / 恋する幽霊 (The Ghost in Love)](https://www.youtube.com/watch?v=IWMmd767yoo)
 - [TENDRE - HOPE（YouTube Edition）](https://www.youtube.com/watch?v=Ul9EL6odqaI)
+- [The fin. - Circle On The Snows (Official Video)](https://www.youtube.com/watch?v=bjSrmCQSDHs)
+- [おかもとえみ - HIT NUMBER（EVISBEATSとPUNCH REMIX）](https://www.youtube.com/watch?v=q78jG9yfvrc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
