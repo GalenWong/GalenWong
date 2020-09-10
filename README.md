@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Kanashimi Hitotsumo Nokosanaide](https://www.youtube.com/watch?v=ZXNsvLq_muQ)
-- [Living in the Now](https://www.youtube.com/watch?v=bNo7bJCYs6g)
 - [After Images of Summer](https://www.youtube.com/watch?v=JrQepxz4NOY)
 - [Galileo Galilei - Good Shoes](https://www.youtube.com/watch?v=wNPucAs2cdw)
 - [[MV] 마마무(MAMAMOO) - Wind flower](https://www.youtube.com/watch?v=uOZ2r_UAfdc)
+- [ibrahim - bullet train fantasy (w/ luvbird)](https://www.youtube.com/watch?v=pDf_xg1BdX8)
+- [Galileo Galilei - Arigatou, Gomen ne](https://www.youtube.com/watch?v=hsCISF5dfw8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
