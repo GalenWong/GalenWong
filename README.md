@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Galileo Galilei - Arigatou, Gomen ne](https://www.youtube.com/watch?v=hsCISF5dfw8)
-- [ASIAN KUNG-FU GENERATION - Rewrite (Video Clip)](https://www.youtube.com/watch?v=ZmeudwRMrsU)
 - [Shakka - When Will I See You Again (Amtrac Remix)](https://www.youtube.com/watch?v=E-4Dtd6mC-c)
 - [Sade - Kiss of Life (KAYTRANADA Edit)](https://www.youtube.com/watch?v=x2tUXts-1wM)
 - [ASIAN KUNG-FU GENERATION - Haruka Kanata (Video Clip)](https://www.youtube.com/watch?v=nJ6A6GC_ki4)
+- [The Wisely Brothers / メイプルカナダ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=dcnj1OFksdk)
+- [MONSUNE - OUTTA MY MIND](https://www.youtube.com/watch?v=SjgMmo6_DH0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
