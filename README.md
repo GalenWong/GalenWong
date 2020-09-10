@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[MV] 마마무(MAMAMOO) - Wind flower](https://www.youtube.com/watch?v=uOZ2r_UAfdc)
-- [ibrahim - bullet train fantasy (w/ luvbird)](https://www.youtube.com/watch?v=pDf_xg1BdX8)
 - [Galileo Galilei - Arigatou, Gomen ne](https://www.youtube.com/watch?v=hsCISF5dfw8)
 - [ASIAN KUNG-FU GENERATION - Rewrite (Video Clip)](https://www.youtube.com/watch?v=ZmeudwRMrsU)
 - [Shakka - When Will I See You Again (Amtrac Remix)](https://www.youtube.com/watch?v=E-4Dtd6mC-c)
+- [Sade - Kiss of Life (KAYTRANADA Edit)](https://www.youtube.com/watch?v=x2tUXts-1wM)
+- [ASIAN KUNG-FU GENERATION - Haruka Kanata (Video Clip)](https://www.youtube.com/watch?v=nJ6A6GC_ki4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
