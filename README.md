@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BRADIO-Flyers【TVアニメ「デス・パレード」OP曲】(OFFICIAL VIDEO)](https://www.youtube.com/watch?v=9wh8FgsEtNQ)
-- [Low Hum - Comatose](https://www.youtube.com/watch?v=JRLFr6THaTI)
 - [Tightrope](https://www.youtube.com/watch?v=BqIMVt_dxZs)
 - [Black Out](https://www.youtube.com/watch?v=x0tOmsw0_9o)
 - [Eternal Glider](https://www.youtube.com/watch?v=t3TG7ykkl_A)
+- [Butterfly](https://www.youtube.com/watch?v=vcr2BNKRUY4)
+- [After Dark](https://www.youtube.com/watch?v=v9elvcWUMgI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
