@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [amazarashi - 古いSF映画（Furui SF Eiga）](https://www.youtube.com/watch?v=nBRt57nh_cY)
-- [IZ*ONE (아이즈원) - 'FIESTA' MV](https://www.youtube.com/watch?v=eDEFolvLn0A)
 - [UCLA](https://www.youtube.com/watch?v=LEdhbnbY3z8)
 - [My World](https://www.youtube.com/watch?v=dLbRV7eDHzQ)
 - [Kanashimi Hitotsumo Nokosanaide](https://www.youtube.com/watch?v=ZXNsvLq_muQ)
+- [Living in the Now](https://www.youtube.com/watch?v=bNo7bJCYs6g)
+- [After Images of Summer](https://www.youtube.com/watch?v=JrQepxz4NOY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
