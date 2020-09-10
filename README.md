@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [UCLA](https://www.youtube.com/watch?v=LEdhbnbY3z8)
-- [My World](https://www.youtube.com/watch?v=dLbRV7eDHzQ)
 - [Kanashimi Hitotsumo Nokosanaide](https://www.youtube.com/watch?v=ZXNsvLq_muQ)
 - [Living in the Now](https://www.youtube.com/watch?v=bNo7bJCYs6g)
 - [After Images of Summer](https://www.youtube.com/watch?v=JrQepxz4NOY)
+- [Galileo Galilei - Good Shoes](https://www.youtube.com/watch?v=wNPucAs2cdw)
+- [[MV] 마마무(MAMAMOO) - Wind flower](https://www.youtube.com/watch?v=uOZ2r_UAfdc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
