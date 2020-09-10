@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [MONSUNE - OUTTA MY MIND](https://www.youtube.com/watch?v=SjgMmo6_DH0)
-- [Phum Viphurit - Softly Spoken [Official Video]](https://www.youtube.com/watch?v=84-NvRbtfrQ)
 - [Sun Rai - San Francisco Street](https://www.youtube.com/watch?v=9zEl-FQLI4A)
 - [L'indécis - Full Performance (Chillhop Live Session)](https://www.youtube.com/watch?v=lneQpcssBcA)
 - [Jenevieve - Baby Powder (Official Video)](https://www.youtube.com/watch?v=O1Qh7j1yD8Y)
+- [53 Thieves - dreamin'](https://www.youtube.com/watch?v=pefZ5_qDZCI)
+- [The Marías - Ruthless](https://www.youtube.com/watch?v=3moMHMhiq7c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
