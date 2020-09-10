@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [TENDRE - HOPE（YouTube Edition）](https://www.youtube.com/watch?v=Ul9EL6odqaI)
-- [The fin. - Circle On The Snows (Official Video)](https://www.youtube.com/watch?v=bjSrmCQSDHs)
 - [おかもとえみ - HIT NUMBER（EVISBEATSとPUNCH REMIX）](https://www.youtube.com/watch?v=q78jG9yfvrc)
 - [Dontcry x Nokiaa - Stray [chill & lo-fi beats]](https://www.youtube.com/watch?v=A0bBcwPSGLU)
 - [Nulbarich - LUCK (Official Music Video)](https://www.youtube.com/watch?v=sa5yZaZ1caQ)
+- [The Marías - Loverboy (Live)](https://www.youtube.com/watch?v=LBGYHUHctiQ)
+- [BRADIO-Flyers【TVアニメ「デス・パレード」OP曲】(OFFICIAL VIDEO)](https://www.youtube.com/watch?v=9wh8FgsEtNQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
