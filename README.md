@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ASIAN KUNG-FU GENERATION 『スリープ』](https://www.youtube.com/watch?v=pGz4FoG2Z70)
-- [Mary See the Future 先知瑪莉｜任何時候 Silent Moments（Official Video）](https://www.youtube.com/watch?v=P8L_P1YU3-c)
 - [amazarashi - 古いSF映画（Furui SF Eiga）](https://www.youtube.com/watch?v=nBRt57nh_cY)
 - [IZ*ONE (아이즈원) - 'FIESTA' MV](https://www.youtube.com/watch?v=eDEFolvLn0A)
 - [UCLA](https://www.youtube.com/watch?v=LEdhbnbY3z8)
+- [My World](https://www.youtube.com/watch?v=dLbRV7eDHzQ)
+- [Kanashimi Hitotsumo Nokosanaide](https://www.youtube.com/watch?v=ZXNsvLq_muQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
