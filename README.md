@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [TOKYO HEALTH CLUB「supermarket」](https://www.youtube.com/watch?v=ErLSUsqERm8)
-- [Polaris "SEASON" (Official Music Video)](https://www.youtube.com/watch?v=zCbQUQcPSuc)
 - [Fern. - Kaori (Official Music Video)](https://www.youtube.com/watch?v=ZlkL2HHLbMY)
 - [maco marets - Sparkle (Official Video) | Created by Jardin](https://www.youtube.com/watch?v=ljDsRM7-lhY)
 - [Bob Moses & ZHU - Desire (Official Video)](https://www.youtube.com/watch?v=cRSqM-67EiE)
+- [唐貓 SUGARCAT【12345】Feat. 異鄉人 Official Music Video](https://www.youtube.com/watch?v=EK_38vjMPKw)
+- [maco marets - Forest Song (Official Video)](https://www.youtube.com/watch?v=SZdzIH2nC7U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
