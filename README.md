@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方HD] 瑞瑪席丹Rima Zeidan - 《你 知不知道》歌詞版MV](https://www.youtube.com/watch?v=irt3DkA0YzE)
-- [ASIAN KUNG-FU GENERATION - Blue Train](https://www.youtube.com/watch?v=x9nkiTeuYRo)
 - [Home Made Kazoku - Thank You!!](https://www.youtube.com/watch?v=BvYuf4r-8xk)
 - [ASIAN KUNG-FU GENERATION - Soranin](https://www.youtube.com/watch?v=xZD1B1TskXs)
 - [麋先生 - 麋途 | 樂人Session](https://www.youtube.com/watch?v=QuJSy5N7GHs)
+- [傻子與白痴 - 十九 Demo](https://www.youtube.com/watch?v=DVFvTvN-1S4)
+- [淺堤 Shallow Levée -【信天翁 Albatross】Official Music Video](https://www.youtube.com/watch?v=P1fxIJ78vbw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
