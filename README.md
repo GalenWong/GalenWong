@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Kirin J Callinan - Big Enough (Official Video) ft. Alex Cameron, Molly Lewis, Jimmy Barnes](https://www.youtube.com/watch?v=rvrZJ5C_Nwg)
-- [【鄭宜農 Enno Cheng －〈591〉】Official Music Video](https://www.youtube.com/watch?v=RiU2684ZObg)
 - [공원소녀 GWSN 'BAZOOKA!' MV](https://www.youtube.com/watch?v=wMj3sLP_azg)
 - [YONLAPA - Last Trip [Official Music Video]](https://www.youtube.com/watch?v=3yXiv93K1ow)
 - [Circus](https://www.youtube.com/watch?v=TY4c5Pboq1I)
+- [Blood Circulator](https://www.youtube.com/watch?v=PL7eSlcS9E4)
+- [No Name](https://www.youtube.com/watch?v=xiOvVy1rFCU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
