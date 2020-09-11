@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [After Dark](https://www.youtube.com/watch?v=v9elvcWUMgI)
-- [ミツメ - "停滞夜" ("mitsume Autumn Camp" at 渋谷WWW X)](https://www.youtube.com/watch?v=z43mAcTI3kE)
 - [jizue「grass」Live at Daikanyama UNIT, Tokyo](https://www.youtube.com/watch?v=HJJE9FhG528)
 - [dryhope - White Oak [chill hip hop beats]](https://www.youtube.com/watch?v=QEWV6fiYaDU)
 - [D.A.N. - Shadows (Official Video)](https://www.youtube.com/watch?v=4KkGfjUY6nk)
+- [Her's - Cool With You (Official Audio)](https://www.youtube.com/watch?v=ZoYOJ_2F5Jg)
+- [TOKYO HEALTH CLUB「supermarket」](https://www.youtube.com/watch?v=ErLSUsqERm8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
