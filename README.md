@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [maco marets - Forest Song (Official Video)](https://www.youtube.com/watch?v=SZdzIH2nC7U)
-- [崎山蒼志 - 国 (Music Bar Session)](https://www.youtube.com/watch?v=fAuFnfbDwbE)
 - [ØZI -【THE PEDESTAL Ch.1: The Free Fall | 樂園的基石 第ㄧ章: 自由下墜 】[LIVE SESSION]](https://www.youtube.com/watch?v=vc-yLGi0WM4)
 - [New oil deals "veloceでまた会いましょう" (Official Music Video)](https://www.youtube.com/watch?v=u-EbKm3wZSg)
 - [Blu-Swing  Sum](https://www.youtube.com/watch?v=KDHe8eQjDOc)
+- [92914 - Okinawa (Audio)](https://www.youtube.com/watch?v=KzHOPckFmwc)
+- [Disclosure, Kehlani, Syd - Birthday](https://www.youtube.com/watch?v=pFtk274nHX4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
