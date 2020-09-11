@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [jizue「grass」Live at Daikanyama UNIT, Tokyo](https://www.youtube.com/watch?v=HJJE9FhG528)
-- [dryhope - White Oak [chill hip hop beats]](https://www.youtube.com/watch?v=QEWV6fiYaDU)
 - [D.A.N. - Shadows (Official Video)](https://www.youtube.com/watch?v=4KkGfjUY6nk)
 - [Her's - Cool With You (Official Audio)](https://www.youtube.com/watch?v=ZoYOJ_2F5Jg)
 - [TOKYO HEALTH CLUB「supermarket」](https://www.youtube.com/watch?v=ErLSUsqERm8)
+- [Polaris "SEASON" (Official Music Video)](https://www.youtube.com/watch?v=zCbQUQcPSuc)
+- [Fern. - Kaori (Official Music Video)](https://www.youtube.com/watch?v=ZlkL2HHLbMY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
