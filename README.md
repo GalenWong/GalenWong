@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [淺堤 Shallow Levée -【信天翁 Albatross】Official Music Video](https://www.youtube.com/watch?v=P1fxIJ78vbw)
-- [柯智棠 Kowen & 洪佩瑜 [ 舞伴 Dancing Partners ] Official Music Video](https://www.youtube.com/watch?v=vwbXm4Hc3QQ)
 - [【日文中字】向井太一 / リセット (Reset)](https://www.youtube.com/watch?v=-Zz-bOy-79s)
 - [Fkj & Pomo - Lucky Star (live)](https://www.youtube.com/watch?v=ioA5SVVgGd4)
 - [53 Thieves - After Hours (Full EP)](https://www.youtube.com/watch?v=uKSAqOZpaQs)
+- [王心凌 Cyndi Wang –〈MY! CYNDI!〉Official Music Video](https://www.youtube.com/watch?v=e9W_c9-QEbs)
+- [Kirin J Callinan - Big Enough (Official Video) ft. Alex Cameron, Molly Lewis, Jimmy Barnes](https://www.youtube.com/watch?v=rvrZJ5C_Nwg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
