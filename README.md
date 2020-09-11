@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Circus](https://www.youtube.com/watch?v=TY4c5Pboq1I)
-- [Blood Circulator](https://www.youtube.com/watch?v=PL7eSlcS9E4)
 - [No Name](https://www.youtube.com/watch?v=xiOvVy1rFCU)
 - [Motor Pool](https://www.youtube.com/watch?v=2qMgVI_dSUI)
 - [Rainbow Flag](https://www.youtube.com/watch?v=UfkZFwexZ6o)
+- [Again](https://www.youtube.com/watch?v=JUewJm2ssBw)
+- [如果可以 If I Could](https://www.youtube.com/watch?v=IxnPSjtRz8E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
