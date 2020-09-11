@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [No Name](https://www.youtube.com/watch?v=xiOvVy1rFCU)
-- [Motor Pool](https://www.youtube.com/watch?v=2qMgVI_dSUI)
 - [Rainbow Flag](https://www.youtube.com/watch?v=UfkZFwexZ6o)
 - [Again](https://www.youtube.com/watch?v=JUewJm2ssBw)
 - [如果可以 If I Could](https://www.youtube.com/watch?v=IxnPSjtRz8E)
+- [驕傲的鯨魚](https://www.youtube.com/watch?v=IvhWJhd7KNo)
+- [法蘭西多士](https://www.youtube.com/watch?v=VWH8v14wplM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
