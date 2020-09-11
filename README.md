@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [麋先生 - 麋途 | 樂人Session](https://www.youtube.com/watch?v=QuJSy5N7GHs)
-- [傻子與白痴 - 十九 Demo](https://www.youtube.com/watch?v=DVFvTvN-1S4)
 - [淺堤 Shallow Levée -【信天翁 Albatross】Official Music Video](https://www.youtube.com/watch?v=P1fxIJ78vbw)
 - [柯智棠 Kowen & 洪佩瑜 [ 舞伴 Dancing Partners ] Official Music Video](https://www.youtube.com/watch?v=vwbXm4Hc3QQ)
 - [【日文中字】向井太一 / リセット (Reset)](https://www.youtube.com/watch?v=-Zz-bOy-79s)
+- [Fkj & Pomo - Lucky Star (live)](https://www.youtube.com/watch?v=ioA5SVVgGd4)
+- [53 Thieves - After Hours (Full EP)](https://www.youtube.com/watch?v=uKSAqOZpaQs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
