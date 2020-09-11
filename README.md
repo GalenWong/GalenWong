@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [CINDY - Angel Touch (1990) - Track 7 - 私達を信じていて](https://www.youtube.com/watch?v=2ak_dM2EHKE)
-- [ミツメ - "トニック・ラブ" ("mitsume Autumn Camp" at 渋谷WWW X)](https://www.youtube.com/watch?v=FtoDrlByHhM)
 - [Life is Fun - Ft. Boyinaband (Official Music Video)](https://www.youtube.com/watch?v=CAb_bCtKuXg)
 - [OH MY DAYUM ft. @Daym Drops](https://www.youtube.com/watch?v=DcJFdCmN98s)
 - [[avex官方HD] 瑞瑪席丹Rima Zeidan - 《你 知不知道》歌詞版MV](https://www.youtube.com/watch?v=irt3DkA0YzE)
+- [ASIAN KUNG-FU GENERATION - Blue Train](https://www.youtube.com/watch?v=x9nkiTeuYRo)
+- [Home Made Kazoku - Thank You!!](https://www.youtube.com/watch?v=BvYuf4r-8xk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
