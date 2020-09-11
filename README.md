@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fern. - Kaori (Official Music Video)](https://www.youtube.com/watch?v=ZlkL2HHLbMY)
-- [maco marets - Sparkle (Official Video) | Created by Jardin](https://www.youtube.com/watch?v=ljDsRM7-lhY)
 - [Bob Moses & ZHU - Desire (Official Video)](https://www.youtube.com/watch?v=cRSqM-67EiE)
 - [唐貓 SUGARCAT【12345】Feat. 異鄉人 Official Music Video](https://www.youtube.com/watch?v=EK_38vjMPKw)
 - [maco marets - Forest Song (Official Video)](https://www.youtube.com/watch?v=SZdzIH2nC7U)
+- [崎山蒼志 - 国 (Music Bar Session)](https://www.youtube.com/watch?v=fAuFnfbDwbE)
+- [ØZI -【THE PEDESTAL Ch.1: The Free Fall | 樂園的基石 第ㄧ章: 自由下墜 】[LIVE SESSION]](https://www.youtube.com/watch?v=vc-yLGi0WM4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
