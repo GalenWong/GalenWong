@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Blu-Swing  Sum](https://www.youtube.com/watch?v=KDHe8eQjDOc)
-- [92914 - Okinawa (Audio)](https://www.youtube.com/watch?v=KzHOPckFmwc)
 - [Disclosure, Kehlani, Syd - Birthday](https://www.youtube.com/watch?v=pFtk274nHX4)
 - [MALIYA -  EP「ruby」&「selene」Official Teaser](https://www.youtube.com/watch?v=rOa5eGvYBOs)
 - [92914 - Moonlight (Audio)](https://www.youtube.com/watch?v=CBrYbMKGbVw)
+- [Samurai Champloo - Shiki No Uta (HQ)](https://www.youtube.com/watch?v=cNplZrRSjeI)
+- [CINDY - Angel Touch (1990) - Track 7 - 私達を信じていて](https://www.youtube.com/watch?v=2ak_dM2EHKE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
