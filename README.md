@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [吃貨必聽！全天下吃貨的主題曲！彤彤首張單曲MV【吃貨】Official MV 4K](https://www.youtube.com/watch?v=OGV4sAaSEUU)
-- [閨蜜情歌?! 終於跟魚乾合唱了!【世界上的另一個我】♥ 滴妹](https://www.youtube.com/watch?v=9eGVGG8oSDk)
 - [G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋](https://www.youtube.com/watch?v=T4SimnaiktU)
 - [【七月半】How哥宇宙 (Official Music Video)](https://www.youtube.com/watch?v=Kh5pPTTpji4)
 - [【魚乾】錄音室單曲 - [ 貓理不理毛 ] _ Official MV](https://www.youtube.com/watch?v=IWuSAxIBaUM)
+- [琳誼01 cover［YOASOBI ハルジオン / 春紫苑］](https://www.youtube.com/watch?v=iQLqtHs7pd8)
+- [曾博恩 x DJ Hauer -【TAIWAN】| Official Music Video](https://www.youtube.com/watch?v=AN0rQR0RlOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
