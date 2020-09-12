@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [午夜夢迴](https://www.youtube.com/watch?v=ehlNbVsBbhA)
-- [ポルカドットスティングレイ「女神」MV](https://www.youtube.com/watch?v=DDtGQ9danyQ)
 - [全糖的戀愛滋味! 滴妹的首張單曲MV!【最好的樣子】Official Music Video](https://www.youtube.com/watch?v=0winbqGH7Ps)
 - [【魚乾】錄音室單曲 - [ 失戀慶功宴 ] _ Official MV (4K畫質)](https://www.youtube.com/watch?v=3oB-dqHDv0Q)
 - [破百位創作者大合唱『彩虹』力挺婚姻平權！【黃氏兄弟】Cover](https://www.youtube.com/watch?v=iu10TkjDFxA)
+- [聖結石Saint【真的不想嘴】Official MV 4K feat.聖嫂Dodo](https://www.youtube.com/watch?v=fWuq67-VSTM)
+- [吃貨必聽！全天下吃貨的主題曲！彤彤首張單曲MV【吃貨】Official MV 4K](https://www.youtube.com/watch?v=OGV4sAaSEUU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
