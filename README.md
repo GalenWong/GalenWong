@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [曾博恩 x DJ Hauer -【TAIWAN】| Official Music Video](https://www.youtube.com/watch?v=AN0rQR0RlOM)
-- [G.E.M.【來自天堂的魔鬼 AWAY】Official MV [HD] 鄧紫棋](https://www.youtube.com/watch?v=FWtbGkpdoP4)
 - [琳誼01 cover［Ice paper 心如止水］是不是會上癮，拜託慢些降落](https://www.youtube.com/watch?v=DXjE_nNOB-o)
 - [接個吻，開一槍、沈以誠、薛明媛 - 失眠飛行【動態歌詞Lyrics】](https://www.youtube.com/watch?v=a4eR-5OJ-7Q)
 - [琳誼01 cover【陳雪凝 你的酒館對我打了烊】](https://www.youtube.com/watch?v=2CbRauQolAk)
+- [MJ116 敞篷車](https://www.youtube.com/watch?v=oZHe_EMgnWU)
+- [ポルカドットスティングレイ「パンドラボックス」MV](https://www.youtube.com/watch?v=-zlq6eMycLA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
