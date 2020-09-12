@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [破百位創作者大合唱『彩虹』力挺婚姻平權！【黃氏兄弟】Cover](https://www.youtube.com/watch?v=iu10TkjDFxA)
-- [聖結石Saint【真的不想嘴】Official MV 4K feat.聖嫂Dodo](https://www.youtube.com/watch?v=fWuq67-VSTM)
 - [吃貨必聽！全天下吃貨的主題曲！彤彤首張單曲MV【吃貨】Official MV 4K](https://www.youtube.com/watch?v=OGV4sAaSEUU)
 - [閨蜜情歌?! 終於跟魚乾合唱了!【世界上的另一個我】♥ 滴妹](https://www.youtube.com/watch?v=9eGVGG8oSDk)
 - [G.E.M.【光年之外 LIGHT YEARS AWAY 】MV (電影《太空潛航者 Passengers》中文主題曲) [HD] 鄧紫棋](https://www.youtube.com/watch?v=T4SimnaiktU)
+- [【七月半】How哥宇宙 (Official Music Video)](https://www.youtube.com/watch?v=Kh5pPTTpji4)
+- [【魚乾】錄音室單曲 - [ 貓理不理毛 ] _ Official MV](https://www.youtube.com/watch?v=IWuSAxIBaUM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
