@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [如果可以 If I Could](https://www.youtube.com/watch?v=IxnPSjtRz8E)
-- [驕傲的鯨魚](https://www.youtube.com/watch?v=IvhWJhd7KNo)
 - [法蘭西多士](https://www.youtube.com/watch?v=VWH8v14wplM)
 - [Aimyon[愛繆]- 朝陽 (華納official HD 高畫質官方中字版)](https://www.youtube.com/watch?v=WegWZYATHl0)
 - [李友廷yoLee《趕快去睡》demo](https://www.youtube.com/watch?v=FDALbtECIv8)
+- [蛋堡 Soft Lipa X JABBERLOOP - 過程 (歌詞)](https://www.youtube.com/watch?v=zZjZBl_J8kg)
+- [NINI - Listen to me 聽我說(Official Music Video )](https://www.youtube.com/watch?v=dGLjvLFGdro)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
