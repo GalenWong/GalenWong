@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [李友廷yoLee《趕快去睡》demo](https://www.youtube.com/watch?v=FDALbtECIv8)
-- [蛋堡 Soft Lipa X JABBERLOOP - 過程 (歌詞)](https://www.youtube.com/watch?v=zZjZBl_J8kg)
 - [NINI - Listen to me 聽我說(Official Music Video )](https://www.youtube.com/watch?v=dGLjvLFGdro)
 - [風](https://www.youtube.com/watch?v=Pw4iFEQ2cVQ)
 - [我想和你瞎 ft. 馬念先](https://www.youtube.com/watch?v=WVXD3_nb0Yk)
+- [A Lost Dog and Beats of the Rain](https://www.youtube.com/watch?v=-gc6owB69Mo)
+- [I Don't Wanna Say Goodbye](https://www.youtube.com/watch?v=jJEbbWFPpb8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
