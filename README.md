@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [我想和你瞎 ft. 馬念先](https://www.youtube.com/watch?v=WVXD3_nb0Yk)
-- [A Lost Dog and Beats of the Rain](https://www.youtube.com/watch?v=-gc6owB69Mo)
 - [I Don't Wanna Say Goodbye](https://www.youtube.com/watch?v=jJEbbWFPpb8)
 - [午夜夢迴](https://www.youtube.com/watch?v=ehlNbVsBbhA)
 - [ポルカドットスティングレイ「女神」MV](https://www.youtube.com/watch?v=DDtGQ9danyQ)
+- [全糖的戀愛滋味! 滴妹的首張單曲MV!【最好的樣子】Official Music Video](https://www.youtube.com/watch?v=0winbqGH7Ps)
+- [【魚乾】錄音室單曲 - [ 失戀慶功宴 ] _ Official MV (4K畫質)](https://www.youtube.com/watch?v=3oB-dqHDv0Q)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
