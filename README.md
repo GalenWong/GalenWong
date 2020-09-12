@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [琳誼01 cover【陳雪凝 你的酒館對我打了烊】](https://www.youtube.com/watch?v=2CbRauQolAk)
-- [MJ116 敞篷車](https://www.youtube.com/watch?v=oZHe_EMgnWU)
 - [ポルカドットスティングレイ「パンドラボックス」MV](https://www.youtube.com/watch?v=-zlq6eMycLA)
 - [ポルカドットスティングレイ「レム」MV](https://www.youtube.com/watch?v=Cez10v5lhB4)
 - [ポルカドットスティングレイ「シンクロニシカ」MV](https://www.youtube.com/watch?v=EQL9mZtIY5o)
+- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
+- [toconoma - relive](https://www.youtube.com/watch?v=XLvp2HzCtOo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
