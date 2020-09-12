@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [NINI - Listen to me 聽我說(Official Music Video )](https://www.youtube.com/watch?v=dGLjvLFGdro)
-- [風](https://www.youtube.com/watch?v=Pw4iFEQ2cVQ)
 - [我想和你瞎 ft. 馬念先](https://www.youtube.com/watch?v=WVXD3_nb0Yk)
 - [A Lost Dog and Beats of the Rain](https://www.youtube.com/watch?v=-gc6owB69Mo)
 - [I Don't Wanna Say Goodbye](https://www.youtube.com/watch?v=jJEbbWFPpb8)
+- [午夜夢迴](https://www.youtube.com/watch?v=ehlNbVsBbhA)
+- [ポルカドットスティングレイ「女神」MV](https://www.youtube.com/watch?v=DDtGQ9danyQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
