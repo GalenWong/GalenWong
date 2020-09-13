@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunny Day Service - クリスマス【Official Video】](https://www.youtube.com/watch?v=oHosarYxncQ)
-- [フレデリック「オンリーワンダー」MusicVideo / frederic“ONLYWONDER”](https://www.youtube.com/watch?v=oCrwzN6eb4Q)
 - [Thank you, my twilight (Fool on cool Version)](https://www.youtube.com/watch?v=sEVTw66txkE)
 - [white summer and green bicycle, red hair with black guitar (Fool on cool Version)](https://www.youtube.com/watch?v=BRQczKo9Ks4)
 - [《中國新說唱2020》純享：BrantB白景屹&Kyra Z《冷血》](https://www.youtube.com/watch?v=YrnLP9Dd-Pg)
+- [《中國新說唱2020》陸燃超燃學GAI「你這樣HIP-HOP嗎？」Ugly Z 放狠話要讓星球爆炸](https://www.youtube.com/watch?v=cgst29_oBmE)
+- [PUZZLEMAN LIVE - 失眠的動物園與布朗克斯女孩｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=s6izCe_JRXc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
