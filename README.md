@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【浪漫手機 Romantic Cellphone】-Official Music Video](https://www.youtube.com/watch?v=Kbvu9Vt5_eE)
-- [美秀集團 Amazing Show－總裁水鴛鴦(demo ver.) feat.厭世少年大便](https://www.youtube.com/watch?v=Vym9PJgwJdU)
 - [楊丞琳 Rainie Yang -〈BAD LADY〉Official HD MV](https://www.youtube.com/watch?v=o166gvlkCao)
 - [[MV] MAMAMOO(마마무) _ WANNA BE MYSELF](https://www.youtube.com/watch?v=KBuvtmMfdN8)
 - [玖壹壹(Nine one one) - LOCAL 官方MV首播](https://www.youtube.com/watch?v=YB7rz_2R2rs)
+- [Crazy Sunshine - The Pillows](https://www.youtube.com/watch?v=YeLqjJWG1tY)
+- [Sunny Day Service - クリスマス【Official Video】](https://www.youtube.com/watch?v=oHosarYxncQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
