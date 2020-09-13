@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「エレクトリック・パブリック」MV](https://www.youtube.com/watch?v=S5st_BGFpLI)
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
 - [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
 - [【Hwa Sa - Maria Cover /Dance Cover 】反骨女孩DD69出道囉🔥 @抱歉了培根  @我是蕾菈I'm Lyla @小廢物語謙   @Aries艾瑞絲  @琳妲-林羿禎](https://www.youtube.com/watch?v=HxdMQumXQv4)
 - [Jay Chou 周杰倫【浪漫手機 Romantic Cellphone】-Official Music Video](https://www.youtube.com/watch?v=Kbvu9Vt5_eE)
+- [美秀集團 Amazing Show－總裁水鴛鴦(demo ver.) feat.厭世少年大便](https://www.youtube.com/watch?v=Vym9PJgwJdU)
+- [楊丞琳 Rainie Yang -〈BAD LADY〉Official HD MV](https://www.youtube.com/watch?v=o166gvlkCao)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
