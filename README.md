@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
-- [【Hwa Sa - Maria Cover /Dance Cover 】反骨女孩DD69出道囉🔥 @抱歉了培根  @我是蕾菈I'm Lyla @小廢物語謙   @Aries艾瑞絲  @琳妲-林羿禎](https://www.youtube.com/watch?v=HxdMQumXQv4)
 - [Jay Chou 周杰倫【浪漫手機 Romantic Cellphone】-Official Music Video](https://www.youtube.com/watch?v=Kbvu9Vt5_eE)
 - [美秀集團 Amazing Show－總裁水鴛鴦(demo ver.) feat.厭世少年大便](https://www.youtube.com/watch?v=Vym9PJgwJdU)
 - [楊丞琳 Rainie Yang -〈BAD LADY〉Official HD MV](https://www.youtube.com/watch?v=o166gvlkCao)
+- [[MV] MAMAMOO(마마무) _ WANNA BE MYSELF](https://www.youtube.com/watch?v=KBuvtmMfdN8)
+- [玖壹壹(Nine one one) - LOCAL 官方MV首播](https://www.youtube.com/watch?v=YB7rz_2R2rs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
