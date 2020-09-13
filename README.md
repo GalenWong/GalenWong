@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [玖壹壹(Nine one one) - LOCAL 官方MV首播](https://www.youtube.com/watch?v=YB7rz_2R2rs)
-- [Crazy Sunshine - The Pillows](https://www.youtube.com/watch?v=YeLqjJWG1tY)
 - [Sunny Day Service - クリスマス【Official Video】](https://www.youtube.com/watch?v=oHosarYxncQ)
 - [フレデリック「オンリーワンダー」MusicVideo / frederic“ONLYWONDER”](https://www.youtube.com/watch?v=oCrwzN6eb4Q)
 - [Thank you, my twilight (Fool on cool Version)](https://www.youtube.com/watch?v=sEVTw66txkE)
+- [white summer and green bicycle, red hair with black guitar (Fool on cool Version)](https://www.youtube.com/watch?v=BRQczKo9Ks4)
+- [《中國新說唱2020》純享：BrantB白景屹&Kyra Z《冷血》](https://www.youtube.com/watch?v=YrnLP9Dd-Pg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
