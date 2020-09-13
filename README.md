@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [謊言留聲機 Lie Gramophone - 分手夜 Break-up Night (feat. LALA 徐佳瑩) Official Video](https://www.youtube.com/watch?v=4z9o8GwxBz8)
-- [DSPS - 冬天再去見你 (Official Music Video)](https://www.youtube.com/watch?v=0io32VRxmQI)
 - [ポルカドットスティングレイ「エレクトリック・パブリック」MV](https://www.youtube.com/watch?v=S5st_BGFpLI)
 - [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
 - [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [【Hwa Sa - Maria Cover /Dance Cover 】反骨女孩DD69出道囉🔥 @抱歉了培根  @我是蕾菈I'm Lyla @小廢物語謙   @Aries艾瑞絲  @琳妲-林羿禎](https://www.youtube.com/watch?v=HxdMQumXQv4)
+- [Jay Chou 周杰倫【浪漫手機 Romantic Cellphone】-Official Music Video](https://www.youtube.com/watch?v=Kbvu9Vt5_eE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
