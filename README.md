@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [toconoma - relive](https://www.youtube.com/watch?v=XLvp2HzCtOo)
-- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
 - [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
 - [SoulFa靈魂沙發 - Polydream｜Official Music Video](https://www.youtube.com/watch?v=NDAdelnlrHQ)
 - [再等一下就天亮了](https://www.youtube.com/watch?v=aTfxVdELRq8)
+- [告五人/Accusefive  在這座城市遺失了你 歌詞Lyrics   與你相遇 是在一個單純美好的世界](https://www.youtube.com/watch?v=lWLHG_mcDw4)
+- [ポルカドットスティングレイ「トゲめくスピカ」MV (Polkadot Stingray / A Stinging Spica)](https://www.youtube.com/watch?v=kJHkiuenKEE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
