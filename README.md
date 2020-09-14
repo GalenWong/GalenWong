@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師  MV「 灰色と青（ ＋菅田将暉 ）」](https://www.youtube.com/watch?v=gJX2iy6nhHc)
-- [ポルカドットスティングレイ「阿吽」MV](https://www.youtube.com/watch?v=YNBezN_dTQ4)
 - [Yogee New Waves / CLIMAXNIGHT(Super Mellow ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=gyII7pYrYp0)
 - [大象體操ElephantGym _ 中途Midway【Official Music Video】](https://www.youtube.com/watch?v=lIBGM7uYNfs)
 - [Ophelia](https://www.youtube.com/watch?v=9WiHNige6Ds)
+- [最寂寞的時候](https://www.youtube.com/watch?v=BA6neFqmidg)
+- [ten thousand ways of not going back](https://www.youtube.com/watch?v=LZ9mzTjmDnk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
