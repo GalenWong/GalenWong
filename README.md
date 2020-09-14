@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Control T 【Mr.Gray 灰色先生 demo】(Official lyric video)](https://www.youtube.com/watch?v=JFXby7yfGGw)
-- [Control T 【再見之前 demo】(Official lyric video)](https://www.youtube.com/watch?v=M48YLlRd7K4)
 - [韋禮安 WeiBird《I Wrote a Song for You》Official Music Video](https://www.youtube.com/watch?v=VjnSYxdgkAA)
 - [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
 - [米津玄師  MV「 灰色と青（ ＋菅田将暉 ）」](https://www.youtube.com/watch?v=gJX2iy6nhHc)
+- [ポルカドットスティングレイ「阿吽」MV](https://www.youtube.com/watch?v=YNBezN_dTQ4)
+- [Yogee New Waves / CLIMAXNIGHT(Super Mellow ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=gyII7pYrYp0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
