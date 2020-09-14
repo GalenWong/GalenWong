@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yogee New Waves / CLIMAXNIGHT(Super Mellow ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=gyII7pYrYp0)
-- [大象體操ElephantGym _ 中途Midway【Official Music Video】](https://www.youtube.com/watch?v=lIBGM7uYNfs)
 - [Ophelia](https://www.youtube.com/watch?v=9WiHNige6Ds)
 - [最寂寞的時候](https://www.youtube.com/watch?v=BA6neFqmidg)
 - [ten thousand ways of not going back](https://www.youtube.com/watch?v=LZ9mzTjmDnk)
+- [Those Nights - Dj Jaidah [Lofi Hip Hop/Chill Beats]](https://www.youtube.com/watch?v=bGW6y-TCY1M)
+- [あいみょん - マシマロ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=jq0c35eLyFw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
