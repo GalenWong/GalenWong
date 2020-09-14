@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [南西肯恩 - 塵緣｜例假日](https://www.youtube.com/watch?v=wfO6fyIk0NM)
-- [小老婆](https://www.youtube.com/watch?v=5UUSlAOQyvg)
 - [山海](https://www.youtube.com/watch?v=3Jec0Q1gsOo)
 - [Lonely Boy (feat. TYSON YOSHI)](https://www.youtube.com/watch?v=BwxUISsza5U)
 - [Lulu黃路梓茵-《腿之歌》（中文版） Official Music Video](https://www.youtube.com/watch?v=wPCOPC9P8fY)
+- [全新單曲【我的新座位】不專心前傳 Official Music Video【黃氏兄弟】](https://www.youtube.com/watch?v=ZWYFHrJj4dI)
+- [Rocketman - Lost Film [Official Video]](https://www.youtube.com/watch?v=TG0Q9aphWx8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
