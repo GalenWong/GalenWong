@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Lulu黃路梓茵-《腿之歌》（中文版） Official Music Video](https://www.youtube.com/watch?v=wPCOPC9P8fY)
-- [全新單曲【我的新座位】不專心前傳 Official Music Video【黃氏兄弟】](https://www.youtube.com/watch?v=ZWYFHrJj4dI)
 - [Rocketman - Lost Film [Official Video]](https://www.youtube.com/watch?v=TG0Q9aphWx8)
 - [HONNE - Day 1 ◑](https://www.youtube.com/watch?v=hWOB5QYcmh0)
 - [淺堤 shallow levée  -【高雄 Kaohsiung】Official Live Video](https://www.youtube.com/watch?v=VeX2ZCAdkhw)
+- [Lauv - Paris in the Rain [Official Video]](https://www.youtube.com/watch?v=kOCkne-Bku4)
+- [Elohim - Hallucinating (Official Video)](https://www.youtube.com/watch?v=DzOpGMg8g5M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
