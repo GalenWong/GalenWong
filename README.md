@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tessa Violet - Crush (Official Music Video)](https://www.youtube.com/watch?v=SiAuAJBZuGs)
-- [YONLAPA - Let Me Go [Official MV]](https://www.youtube.com/watch?v=Gia9cX6gReo)
 - [Aimer《星屑ビーナス》中/日歌詞 (Cover by 春茶 )](https://www.youtube.com/watch?v=PB7mZlFRTWw)
 - [half•alive - still feel. [VIDEO]](https://www.youtube.com/watch?v=KOOhPfMbuIQ)
 - [貝克小姐Miss Bac. - 四月七號 Official Music Video](https://www.youtube.com/watch?v=mbllaZuvhDs)
+- [Mary See the Future - Cheer](https://www.youtube.com/watch?v=0UtyRFjzW9E)
+- [Control T 【Mr.Gray 灰色先生 demo】(Official lyric video)](https://www.youtube.com/watch?v=JFXby7yfGGw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
