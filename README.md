@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Aimer《星屑ビーナス》中/日歌詞 (Cover by 春茶 )](https://www.youtube.com/watch?v=PB7mZlFRTWw)
-- [half•alive - still feel. [VIDEO]](https://www.youtube.com/watch?v=KOOhPfMbuIQ)
 - [貝克小姐Miss Bac. - 四月七號 Official Music Video](https://www.youtube.com/watch?v=mbllaZuvhDs)
 - [Mary See the Future - Cheer](https://www.youtube.com/watch?v=0UtyRFjzW9E)
 - [Control T 【Mr.Gray 灰色先生 demo】(Official lyric video)](https://www.youtube.com/watch?v=JFXby7yfGGw)
+- [Control T 【再見之前 demo】(Official lyric video)](https://www.youtube.com/watch?v=M48YLlRd7K4)
+- [韋禮安 WeiBird《I Wrote a Song for You》Official Music Video](https://www.youtube.com/watch?v=VjnSYxdgkAA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
