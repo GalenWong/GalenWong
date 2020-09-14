@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [PUZZLEMAN LIVE - 失眠的動物園與布朗克斯女孩｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=s6izCe_JRXc)
-- [SJIN/史今『想入非非』-  06 事後 ft. Julia Wu/吳卓源](https://www.youtube.com/watch?v=NyL4fkEI6kw)
 - [【鄭宜農 Enno Cheng – 酒店關門之後 Last Order 】Music Video](https://www.youtube.com/watch?v=959sAgsZok0)
 - [Limi - 二分之一 One of Two (Official Music Video)](https://www.youtube.com/watch?v=7EwKOaNG2LU)
 - [【鄭宜農 Enno Cheng – 雲端漫舞 Her  】Music Video](https://www.youtube.com/watch?v=blPCP-CdNuk)
+- [Our Shame 凹與山 & 李漫 - 一切好事都會發生 Good Things Happen（Official Video）](https://www.youtube.com/watch?v=UH2nDs8JKAU)
+- [Limi - 我害你 (Official Audio)](https://www.youtube.com/watch?v=oesndpr0o1o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
