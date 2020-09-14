@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Rocketman - Lost Film [Official Video]](https://www.youtube.com/watch?v=TG0Q9aphWx8)
-- [HONNE - Day 1 ◑](https://www.youtube.com/watch?v=hWOB5QYcmh0)
 - [淺堤 shallow levée  -【高雄 Kaohsiung】Official Live Video](https://www.youtube.com/watch?v=VeX2ZCAdkhw)
 - [Lauv - Paris in the Rain [Official Video]](https://www.youtube.com/watch?v=kOCkne-Bku4)
 - [Elohim - Hallucinating (Official Video)](https://www.youtube.com/watch?v=DzOpGMg8g5M)
+- [boy pablo - Everytime](https://www.youtube.com/watch?v=Lzi7ljJiLJQ)
+- [Tessa Violet - Crush (Official Music Video)](https://www.youtube.com/watch?v=SiAuAJBZuGs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
