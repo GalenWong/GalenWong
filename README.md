@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [淺堤 shallow levée  -【高雄 Kaohsiung】Official Live Video](https://www.youtube.com/watch?v=VeX2ZCAdkhw)
-- [Lauv - Paris in the Rain [Official Video]](https://www.youtube.com/watch?v=kOCkne-Bku4)
 - [Elohim - Hallucinating (Official Video)](https://www.youtube.com/watch?v=DzOpGMg8g5M)
 - [boy pablo - Everytime](https://www.youtube.com/watch?v=Lzi7ljJiLJQ)
 - [Tessa Violet - Crush (Official Music Video)](https://www.youtube.com/watch?v=SiAuAJBZuGs)
+- [YONLAPA - Let Me Go [Official MV]](https://www.youtube.com/watch?v=Gia9cX6gReo)
+- [Aimer《星屑ビーナス》中/日歌詞 (Cover by 春茶 )](https://www.youtube.com/watch?v=PB7mZlFRTWw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
