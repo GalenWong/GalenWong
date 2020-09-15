@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師 MV「Flamingo」](https://www.youtube.com/watch?v=Uh6dkL1M9DM)
-- [King Gnu - 傘  OFFICIAL AUDIO](https://www.youtube.com/watch?v=g4_nRpHotMo)
 - [岡崎体育 - YES , エクレア / THE FIRST TAKE FES vol.1](https://www.youtube.com/watch?v=W34CoKVr_eg)
 - [くるり - 琥珀色の街、上海蟹の朝](https://www.youtube.com/watch?v=NyddMMiViZc)
 - [フレデリック 「オワラセナイト」 Music Video | Frederic"OWARASE NIGHT"](https://www.youtube.com/watch?v=Q3sigAJXG1E)
+- [My Jinji](https://www.youtube.com/watch?v=X_k53NIp0QU)
+- [サカナクション / 多分、風。 -New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=8lx0vLTH_yg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
