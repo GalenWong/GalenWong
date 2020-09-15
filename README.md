@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [郭頂  Guo Ding × 山形瑞秋 Rachael Yamagata《It's Always The Little Things》](https://www.youtube.com/watch?v=1iQlnqgwcac)
-- [Tokyo | JazzHop](https://www.youtube.com/watch?v=4ZDhE82OO04)
 - [Room307 - "My Bonnie" (Official Video)](https://www.youtube.com/watch?v=-C7feQke-KY)
 - [kiki vivi lily × SUKISHA - Blue in Green [Official Video]](https://www.youtube.com/watch?v=nvwx4FSI2wo)
 - [【顏社】Leo王 - 朋友朋友+ 時間的奶昔(Official Music Video)](https://www.youtube.com/watch?v=Jyz2wC_cj24)
+- [とけた電球 "いらない" (Official Music Video)](https://www.youtube.com/watch?v=tu0KEB_Qias)
+- [Serph "luck"](https://www.youtube.com/watch?v=ufzL5iKmi0I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
