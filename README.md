@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [田馥甄 Hebe Tien《諷刺的情書 The Irony of Love》Official Music Video](https://www.youtube.com/watch?v=o2zUZmUmwUg)
-- [Midnight Adventures](https://www.youtube.com/watch?v=3Kuw0ZwI0WY)
 - [5AM IN ＴＯＫＹＯ -  Mellow chill ' jazz hip hop beats](https://www.youtube.com/watch?v=liHgt4CbodY)
 - [Stray Sheep](https://www.youtube.com/watch?v=s5mpKn_bGN0)
 - [Little Busters](https://www.youtube.com/watch?v=eJgr39GhLLw)
+- [レキシ / きらきら武士 feat. Deyonna](https://www.youtube.com/watch?v=Mzkf1OGgSz8)
+- [椎名林檎 - 至上の人生～どん底まで](https://www.youtube.com/watch?v=zTa8hrDZki8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
