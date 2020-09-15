@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック 「オワラセナイト」 Music Video | Frederic"OWARASE NIGHT"](https://www.youtube.com/watch?v=Q3sigAJXG1E)
-- [My Jinji](https://www.youtube.com/watch?v=X_k53NIp0QU)
 - [サカナクション / 多分、風。 -New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=8lx0vLTH_yg)
 - [あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=0xSiBpUdW4E)
 - [ポルカドットスティングレイ「ヒミツ」MV](https://www.youtube.com/watch?v=D199Zpv6d6M)
+- [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
+- [Limi - 白雲間(Official Audio)](https://www.youtube.com/watch?v=vuwwP_Z12Uk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
