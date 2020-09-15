@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「ヒミツ」MV](https://www.youtube.com/watch?v=D199Zpv6d6M)
-- [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
 - [Limi - 白雲間(Official Audio)](https://www.youtube.com/watch?v=vuwwP_Z12Uk)
 - [ØZI -【B.O.】feat. 9m88 Cover - FeedbackStudio X Alaze X 蝶香](https://www.youtube.com/watch?v=7hza_psHGo4)
 - [孔雀眼 JADE EYES【VIVIAN】歌詞 MV](https://www.youtube.com/watch?v=rMYct5ZSERc)
+- [ヨルシカ - パレード (Music Video)](https://www.youtube.com/watch?v=ry3Tupx4BL4)
+- [We Can Dance -The Fur. (official video)](https://www.youtube.com/watch?v=Vxj7cPvxtxk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
