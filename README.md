@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Serph "luck"](https://www.youtube.com/watch?v=ufzL5iKmi0I)
-- [サカナクション - ミュージック（MUSIC VIDEO） -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=iVstp5Ozw2o)
 - [Soft Lipa 蛋堡-回到過去](https://www.youtube.com/watch?v=m1ple6Y_C_A)
 - [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 - [荷爾蒙少年 Hormone Boys《 4:00A.M. 》Lyric Video](https://www.youtube.com/watch?v=AQWYfvgh_ws)
+- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
