@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椎名林檎 - 至上の人生～どん底まで](https://www.youtube.com/watch?v=zTa8hrDZki8)
-- [東京事変 – 閃光少女＜from ウルトラC＞](https://www.youtube.com/watch?v=keZotlnOjcc)
 - [米津玄師 MV「Flamingo」](https://www.youtube.com/watch?v=Uh6dkL1M9DM)
 - [King Gnu - 傘  OFFICIAL AUDIO](https://www.youtube.com/watch?v=g4_nRpHotMo)
 - [岡崎体育 - YES , エクレア / THE FIRST TAKE FES vol.1](https://www.youtube.com/watch?v=W34CoKVr_eg)
+- [くるり - 琥珀色の街、上海蟹の朝](https://www.youtube.com/watch?v=NyddMMiViZc)
+- [フレデリック 「オワラセナイト」 Music Video | Frederic"OWARASE NIGHT"](https://www.youtube.com/watch?v=Q3sigAJXG1E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
