@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「夜明けのオレンジ」MV](https://www.youtube.com/watch?v=elpURvNVx-k)
-- [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
 - [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
 - [ヨルシカ - 靴の花火 (Music Video)](https://www.youtube.com/watch?v=BCt9lS_Uv_Y)
 - [米津玄師 MV「感電」](https://www.youtube.com/watch?v=UFQEttrn6CQ)
+- [フレデリック「スキライズム」Music Video / frederic “Sukiraism” -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=YZdDKQHLu50)
+- [フレデリック「Wake Me Up」Music Video / frederic “Wake Me Up”](https://www.youtube.com/watch?v=F_whVm9LYiE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
