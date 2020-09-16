@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [We Can Dance -The Fur. (official video)](https://www.youtube.com/watch?v=Vxj7cPvxtxk)
-- [春野 - 鳳仙花 feat. 初音ミク](https://www.youtube.com/watch?v=GZ9LdGs-4mk)
 - [ポルカドットスティングレイ「FREE」MV](https://www.youtube.com/watch?v=C0F4MzdKt9g)
 - [ポルカドットスティングレイ「SQUEEZE」×「ラッコズ」MV](https://www.youtube.com/watch?v=stLSX-pTdsI)
 - [ポルカドットスティングレイ「夜明けのオレンジ」MV](https://www.youtube.com/watch?v=elpURvNVx-k)
+- [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
+- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
