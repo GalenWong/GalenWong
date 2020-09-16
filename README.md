@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Limi - 白雲間(Official Audio)](https://www.youtube.com/watch?v=vuwwP_Z12Uk)
-- [ØZI -【B.O.】feat. 9m88 Cover - FeedbackStudio X Alaze X 蝶香](https://www.youtube.com/watch?v=7hza_psHGo4)
 - [孔雀眼 JADE EYES【VIVIAN】歌詞 MV](https://www.youtube.com/watch?v=rMYct5ZSERc)
 - [ヨルシカ - パレード (Music Video)](https://www.youtube.com/watch?v=ry3Tupx4BL4)
 - [We Can Dance -The Fur. (official video)](https://www.youtube.com/watch?v=Vxj7cPvxtxk)
+- [春野 - 鳳仙花 feat. 初音ミク](https://www.youtube.com/watch?v=GZ9LdGs-4mk)
+- [ポルカドットスティングレイ「FREE」MV](https://www.youtube.com/watch?v=C0F4MzdKt9g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
