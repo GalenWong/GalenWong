@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 靴の花火 (Music Video)](https://www.youtube.com/watch?v=BCt9lS_Uv_Y)
-- [米津玄師 MV「感電」](https://www.youtube.com/watch?v=UFQEttrn6CQ)
 - [フレデリック「スキライズム」Music Video / frederic “Sukiraism” -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=YZdDKQHLu50)
 - [フレデリック「Wake Me Up」Music Video / frederic “Wake Me Up”](https://www.youtube.com/watch?v=F_whVm9LYiE)
 - [李云迪演奏现场突然停电，看大师如何“神救场”！网友：太狠了   ▏音乐猛抬头Music](https://www.youtube.com/watch?v=K7DbEj78LBY)
+- [《中國新說唱2020》純享：GAI周延《烈火戰馬》串燒公演太炸開口跪｜愛奇藝](https://www.youtube.com/watch?v=rVv-WBulc8s)
+- [Trout Fresh/呂士軒 - 保持帥哥 (Official Music Video)](https://www.youtube.com/watch?v=N1fyvw4dRis)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
