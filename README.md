@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ずっと真夜中でいいのに。『正義』／ナツコ Natsuko (cover)](https://www.youtube.com/watch?v=-a7QkU_hzv0)
-- [瑕疵VICE - 拆穿 (Official Lyrics Video)](https://www.youtube.com/watch?v=AtlEXfwIJhs)
 - [鄭宜農家裡的小巡迴： 2017,你。2020，宅錄不插電](https://www.youtube.com/watch?v=ckoyua5spmk)
 - [Mariya Takeuchi 竹内 まりや Plastic Love](https://www.youtube.com/watch?v=3bNITQR4Uso)
 - [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
+- [椎名林檎 - 丸の内サディスティック (Live 下剋上エクスタシー)](https://www.youtube.com/watch?v=FlPXeVU3nhM)
+- [米津玄師 MV「カムパネルラ」](https://www.youtube.com/watch?v=XeFQJ6-XoD0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
