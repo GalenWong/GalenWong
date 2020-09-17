@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
-- [Memoir](https://www.youtube.com/watch?v=xn06UQigCMk)
 - [ヨルシカ - 思想犯（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=ENcnYh79dUY)
 - [Sunny Day Service - セツナ【Official Video】](https://www.youtube.com/watch?v=gfmoWR6jQ0M)
 - [Fkj & Masego - Tadow](https://www.youtube.com/watch?v=hC8CH0Z3L54)
+- [サカナクション / ナイロンの糸](https://www.youtube.com/watch?v=NIOiwV1qj-k)
+- [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
