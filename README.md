@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
-- [フレデリック「TOGENKYO」Music Video / frederic“TOGENKYO”  -2nd Full Album「フレデリズム2」 2019/2/20 Release-](https://www.youtube.com/watch?v=OfBd8kxo4mQ)
 - [ポルカドットスティングレイ「人魚」MV](https://www.youtube.com/watch?v=rudHfB6hatw)
 - [Official髭男dism - Stand By You［Official Video］](https://www.youtube.com/watch?v=22mOCjkwQjM)
 - [【藍月 Blue Moon】歌詞版 MV](https://www.youtube.com/watch?v=WeXiSowarAQ)
+- [廖文強【兩杯 Sober】Official Music Video](https://www.youtube.com/watch?v=bUZdUklAo6U)
+- [田馥甄 Hebe Tien  -  或是一首歌 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=8GRUNWZQ9EA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
