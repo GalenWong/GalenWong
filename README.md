@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【㊗️200万再生突破記念‼︎】フレデリックっぽい曲『エンドレステップ』【よかろうもんver.】](https://www.youtube.com/watch?v=guifJqof_LI)
-- [Official髭男dism - 115万キロのフィルム［Official Audio］](https://www.youtube.com/watch?v=ReCnlwVZj1M)
 - [tofubeats - WHAT YOU GOT (視聴動画)](https://www.youtube.com/watch?v=JaOc5TBkjo4)
 - [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
 - [ずっと真夜中でいいのに。『正義』／ナツコ Natsuko (cover)](https://www.youtube.com/watch?v=-a7QkU_hzv0)
+- [瑕疵VICE - 拆穿 (Official Lyrics Video)](https://www.youtube.com/watch?v=AtlEXfwIJhs)
+- [鄭宜農家裡的小巡迴： 2017,你。2020，宅錄不插電](https://www.youtube.com/watch?v=ckoyua5spmk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
