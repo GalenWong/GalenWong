@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj & Masego - Tadow](https://www.youtube.com/watch?v=hC8CH0Z3L54)
-- [サカナクション / ナイロンの糸](https://www.youtube.com/watch?v=NIOiwV1qj-k)
 - [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
 - [ポルカドットスティングレイ「バケノカワ」MV](https://www.youtube.com/watch?v=Z_fz6oeeG1M)
 - [Yogee New Waves / C.A.M.P.(Stoned Forest ver.)@IMAGE CLUB](https://www.youtube.com/watch?v=WMmbDJTyuSs)
+- [フレデリック「リリリピート」Music Video / frederic“Rererepeat”](https://www.youtube.com/watch?v=VjAxLbmy83E)
+- [海豚刑警 - marry lonely Disco night A.K.A 做愛之歌](https://www.youtube.com/watch?v=Z8TgOQaenwY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
