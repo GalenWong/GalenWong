@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [《中國新說唱2020》純享：吳亦凡《I'm Outcha Remix》人間發電站升級核電廠｜愛奇藝](https://www.youtube.com/watch?v=T1A6eblxxIw)
-- [Official髭男dism - イエスタデイ［Official Video］](https://www.youtube.com/watch?v=DuMqFknYHBs)
 - [琳誼01 cover【美秀集團 擋一根】或許變了的是我，或許我沒變](https://www.youtube.com/watch?v=Q8qMgSv2Wgk)
 - [琳誼01 cover［G.E.M.鄧紫棋 #摩天動物園］](https://www.youtube.com/watch?v=eqaGyQAdfNQ)
 - [琳誼01 cover 【林俊傑 醉赤壁】](https://www.youtube.com/watch?v=yb7f2M5-qKI)
+- [あいみょん - 君はロックを聴かない 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=ARwVe1MYAUA)
+- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
