@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [「中日歌詞」昨日之歌 ED/ Ending - 「籠の中に鳥」ユアネス](https://www.youtube.com/watch?v=B81c-PM1OnA)
-- [Control T 【終歸知往 demo】(Official lyric video)](https://www.youtube.com/watch?v=R5DNRcVrYmk)
 - [邱振哲 - 太陽 (Cover) By 琳誼 01](https://www.youtube.com/watch?v=-nLdd1dVyv8)
 - [美婷 OHMYMEITING x Goose 我鳥【行星戀 PARALLEL】歌詞版 MV](https://www.youtube.com/watch?v=pRmz5jjfsIc)
 - [Vising《 拼圖 》Lyric Video](https://www.youtube.com/watch?v=peEAo2J7SuU)
+- [原子邦妮 Astro Bunny 【為什麼長大是那麼的痛】隱藏版](https://www.youtube.com/watch?v=28dYu37lkZc)
+- [TRASH樂團《別忘了那天我們醒著 Don't Forget We Were Awake That Day》Official 完整版 MV [HD]](https://www.youtube.com/watch?v=K_WdWZ24YH8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
