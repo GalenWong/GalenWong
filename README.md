@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【星晴 Starry Mood】-Official Music Video](https://www.youtube.com/watch?v=sTNJsIcPSvE)
-- [吳青峰〈費洛蒙小姐〉Official MV](https://www.youtube.com/watch?v=2cX7SzDSA5o)
 - [荷爾蒙少年 Hormone Boys - 貳拾 The first day of my twenty (Official Music Video)](https://www.youtube.com/watch?v=uMjocTw7g3k)
 - [Tom Misch - It Runs Through Me | A COLORS SHOW](https://www.youtube.com/watch?v=ilNEqmfUyzI)
 - [他們說我是沒有用的年輕人(cover)](https://www.youtube.com/watch?v=5e4T0VqmLqQ)
+- [周杰倫 Jay Chou【爺爺泡的茶 Grandpa's Tea】Official MV](https://www.youtube.com/watch?v=LdPjnubLRN0)
+- [《中國新說唱2020》純享：吳亦凡《I'm Outcha Remix》人間發電站升級核電廠｜愛奇藝](https://www.youtube.com/watch?v=T1A6eblxxIw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
