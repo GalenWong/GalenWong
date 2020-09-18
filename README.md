@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [田馥甄 Hebe Tien  -  或是一首歌 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=8GRUNWZQ9EA)
-- [Bii 畢書盡 - 逆時光的浪 cover «愛上哥們»插曲](https://www.youtube.com/watch?v=o69SBNYFjck)
 - [「中日歌詞」昨日之歌 ED/ Ending - 「籠の中に鳥」ユアネス](https://www.youtube.com/watch?v=B81c-PM1OnA)
 - [Control T 【終歸知往 demo】(Official lyric video)](https://www.youtube.com/watch?v=R5DNRcVrYmk)
 - [邱振哲 - 太陽 (Cover) By 琳誼 01](https://www.youtube.com/watch?v=-nLdd1dVyv8)
+- [美婷 OHMYMEITING x Goose 我鳥【行星戀 PARALLEL】歌詞版 MV](https://www.youtube.com/watch?v=pRmz5jjfsIc)
+- [Vising《 拼圖 》Lyric Video](https://www.youtube.com/watch?v=peEAo2J7SuU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
