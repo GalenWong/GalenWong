@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [夜間獨白](https://www.youtube.com/watch?v=yf8vHUSHumY)
-- [荷爾蒙少年 Hormone Boys - 午後迷茫2017 Meshes of the Afternoon (Official Live Music Video)](https://www.youtube.com/watch?v=PzsPQh2P4Yg)
 - [簡答題](https://www.youtube.com/watch?v=OXZr1s67J6w)
 - [Jay Chou 周杰倫【千里之外 Far Away】-Official Music Video(ft.費玉清)](https://www.youtube.com/watch?v=ocDo3ySyHSI)
 - [Jay Chou 周杰倫【星晴 Starry Mood】-Official Music Video](https://www.youtube.com/watch?v=sTNJsIcPSvE)
+- [吳青峰〈費洛蒙小姐〉Official MV](https://www.youtube.com/watch?v=2cX7SzDSA5o)
+- [荷爾蒙少年 Hormone Boys - 貳拾 The first day of my twenty (Official Music Video)](https://www.youtube.com/watch?v=uMjocTw7g3k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
