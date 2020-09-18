@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Vising《 拼圖 》Lyric Video](https://www.youtube.com/watch?v=peEAo2J7SuU)
-- [原子邦妮 Astro Bunny 【為什麼長大是那麼的痛】隱藏版](https://www.youtube.com/watch?v=28dYu37lkZc)
 - [TRASH樂團《別忘了那天我們醒著 Don't Forget We Were Awake That Day》Official 完整版 MV [HD]](https://www.youtube.com/watch?v=K_WdWZ24YH8)
 - [Official髭男dism - SWEET TWEET［Official Video］](https://www.youtube.com/watch?v=qrtKLNTB71c)
 - [夜間獨白](https://www.youtube.com/watch?v=yf8vHUSHumY)
+- [荷爾蒙少年 Hormone Boys - 午後迷茫2017 Meshes of the Afternoon (Official Live Music Video)](https://www.youtube.com/watch?v=PzsPQh2P4Yg)
+- [簡答題](https://www.youtube.com/watch?v=OXZr1s67J6w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
