@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「人魚」MV](https://www.youtube.com/watch?v=rudHfB6hatw)
-- [Official髭男dism - Stand By You［Official Video］](https://www.youtube.com/watch?v=22mOCjkwQjM)
 - [【藍月 Blue Moon】歌詞版 MV](https://www.youtube.com/watch?v=WeXiSowarAQ)
 - [廖文強【兩杯 Sober】Official Music Video](https://www.youtube.com/watch?v=bUZdUklAo6U)
 - [田馥甄 Hebe Tien  -  或是一首歌 (bedtimecover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=8GRUNWZQ9EA)
+- [Bii 畢書盡 - 逆時光的浪 cover «愛上哥們»插曲](https://www.youtube.com/watch?v=o69SBNYFjck)
+- [「中日歌詞」昨日之歌 ED/ Ending - 「籠の中に鳥」ユアネス](https://www.youtube.com/watch?v=B81c-PM1OnA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
