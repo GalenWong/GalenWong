@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [琳誼01 cover 【林俊傑 醉赤壁】](https://www.youtube.com/watch?v=yb7f2M5-qKI)
-- [あいみょん - 君はロックを聴かない 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=ARwVe1MYAUA)
 - [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
 - [ヨルシカ - 盗作（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=CS4f3jawFxY)
 - [Yogee New Waves / Bluemin' Days  (Official MV)](https://www.youtube.com/watch?v=od7FH9dlfok)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [フレデリックっぽい曲作ってみた『エンドレステップ』#14](https://www.youtube.com/watch?v=9kTtJ0BTPco)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
