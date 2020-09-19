@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【專家模式】Official Music Video ｜ 【黃氏兄弟】2020年全新單曲](https://www.youtube.com/watch?v=x8AP-2aLEeE)
-- [蔡依林 Jolin Tsai《怪美的 UGLY BEAUTY》Official Music Video](https://www.youtube.com/watch?v=-wIHmPAvMBo)
 - [王心凌 Cyndi Wang - 心電心 Heart To Heart (官方完整版 MV)](https://www.youtube.com/watch?v=k195bqvmXpY)
 - [THE MUFFIN SONG (asdfmovie feat. Schmoyoho)](https://www.youtube.com/watch?v=LACbVhgtx9I)
 - [Kiminouta](https://www.youtube.com/watch?v=GqWfaGovcp4)
+- [Rokutouseino Yoru](https://www.youtube.com/watch?v=4pSaONpZrwc)
+- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
