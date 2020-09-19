@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fever - Julia Wu 吳卓源｜Official Music Video](https://www.youtube.com/watch?v=bsilceYOgQA)
-- [張若凡《 赤道上有知更鳥 Hear it, Heartbeats 》 Official Music](https://www.youtube.com/watch?v=MyQWQ0Ody1E)
 - [魏如萱 waa wei [ 一刀兩刃 A Sword with Two Blades ] Official Music Video](https://www.youtube.com/watch?v=UO59CClN3lQ)
 - [脆樂團Crispy-念舊](https://www.youtube.com/watch?v=2SVQrNfcZxQ)
 - [莫文蔚 Karen Mok -忽然之間  Cover (Jasmine)](https://www.youtube.com/watch?v=1QoDfdQ3SzQ)
+- [琳誼01【茄子蛋 Happy!!!運將情歌】](https://www.youtube.com/watch?v=8khOXHToPzA)
+- [Money Bag](https://www.youtube.com/watch?v=Q3SlpGlsLek)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
