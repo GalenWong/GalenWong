@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Kiminouta](https://www.youtube.com/watch?v=GqWfaGovcp4)
-- [Rokutouseino Yoru](https://www.youtube.com/watch?v=4pSaONpZrwc)
 - [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
 - [Unknown Mortal Orchestra - Hunnybee (Official Video)](https://www.youtube.com/watch?v=IJrKlSkxRHA)
 - [あいみょん – ハルノヒ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=pfGI91CFtRg)
+- [米津玄師  MV「Lemon」](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
+- [Yogee New Waves / World is Mine(Official MV)](https://www.youtube.com/watch?v=-vSTk_4Bzfc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
