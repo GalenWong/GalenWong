@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [あいみょん - 愛を伝えたいだとか 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=9qRCARM_LfE)
-- [サカナクション / 忘れられないの](https://www.youtube.com/watch?v=BxqYUbNR-c0)
 - [BABYMETAL - Starlight (Official)](https://www.youtube.com/watch?v=hPVx7IazcEw)
 - [BABYMETAL - KARATE (OFFICIAL)](https://www.youtube.com/watch?v=GvD3CHA48pA)
 - [Wagakki Band - 焔 (Homura) + 暁ノ糸 (Akatsuki no Ito) / 1st JAPAN Tour 2015 Hibiya Yagai Ongakudo](https://www.youtube.com/watch?v=ponTbDDMYjw)
+- [BABYMETAL - THE ONE (OFFICIAL)](https://www.youtube.com/watch?v=TZRvO0S-TLU)
+- [TRiDENT『Continue』MV【exガールズロックバンド革命】](https://www.youtube.com/watch?v=azQVVhMUz58)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
