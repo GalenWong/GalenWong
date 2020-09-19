@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリックっぽい曲作ってみた『エンドレステップ』#14](https://www.youtube.com/watch?v=9kTtJ0BTPco)
-- [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
 - [綺夢 - Julia Wu 吳卓源｜Official Music Video](https://www.youtube.com/watch?v=qQhi1x9kXYc)
 - [【HD】あなたの番です - Aimer - STAND-ALONE【中日字幕】](https://www.youtube.com/watch?v=LgDdPbcgtdw)
 - [擁抱─五月天 Cover By 好樂團GoodBand](https://www.youtube.com/watch?v=jKrer4uuvgU)
+- [勇气 - 棉子 歌詞 Lyrics HD 高音質「我爱你, 无畏人海的拥挤 ♪」|| CN - 流行音乐](https://www.youtube.com/watch?v=cKCD1vSE9tw)
+- [Fever - Julia Wu 吳卓源｜Official Music Video](https://www.youtube.com/watch?v=bsilceYOgQA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
