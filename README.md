@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [王心凌 Cyndi Wang - 心電心 Heart To Heart (官方完整版 MV)](https://www.youtube.com/watch?v=k195bqvmXpY)
-- [THE MUFFIN SONG (asdfmovie feat. Schmoyoho)](https://www.youtube.com/watch?v=LACbVhgtx9I)
 - [Kiminouta](https://www.youtube.com/watch?v=GqWfaGovcp4)
 - [Rokutouseino Yoru](https://www.youtube.com/watch?v=4pSaONpZrwc)
 - [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
+- [Unknown Mortal Orchestra - Hunnybee (Official Video)](https://www.youtube.com/watch?v=IJrKlSkxRHA)
+- [あいみょん – ハルノヒ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=pfGI91CFtRg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
