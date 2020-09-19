@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [綺夢 - Julia Wu 吳卓源｜Official Music Video](https://www.youtube.com/watch?v=qQhi1x9kXYc)
-- [【HD】あなたの番です - Aimer - STAND-ALONE【中日字幕】](https://www.youtube.com/watch?v=LgDdPbcgtdw)
 - [擁抱─五月天 Cover By 好樂團GoodBand](https://www.youtube.com/watch?v=jKrer4uuvgU)
 - [勇气 - 棉子 歌詞 Lyrics HD 高音質「我爱你, 无畏人海的拥挤 ♪」|| CN - 流行音乐](https://www.youtube.com/watch?v=cKCD1vSE9tw)
 - [Fever - Julia Wu 吳卓源｜Official Music Video](https://www.youtube.com/watch?v=bsilceYOgQA)
+- [張若凡《 赤道上有知更鳥 Hear it, Heartbeats 》 Official Music](https://www.youtube.com/watch?v=MyQWQ0Ody1E)
+- [魏如萱 waa wei [ 一刀兩刃 A Sword with Two Blades ] Official Music Video](https://www.youtube.com/watch?v=UO59CClN3lQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
