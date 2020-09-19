@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [TRiDENT『Continue』MV【exガールズロックバンド革命】](https://www.youtube.com/watch?v=azQVVhMUz58)
-- [BABYMETAL - ギミチョコ！！- Gimme chocolate!! (OFFICIAL)](https://www.youtube.com/watch?v=WIKqgE4BwAY)
 - [BABYMETAL - NO RAIN, NO RAINBOW 【Live Blu-ray/DVD 「LEGEND - S - BAPTISM XX -」】](https://www.youtube.com/watch?v=pDgqo6fcliY)
 - [BABYMETAL -  Catch Me If You Can「かくれんぼ」Full Live compilation](https://www.youtube.com/watch?v=H_yATzyi-3g)
 - [BABYMETAL - LEGEND - METAL GALAXY Trailer](https://www.youtube.com/watch?v=BCBUzVMohlc)
+- [BABYMETAL - Road of Resistance - Live in Japan (OFFICIAL)](https://www.youtube.com/watch?v=zTEYUFgLveY)
+- [BABYMETAL - PA PA YA!! (feat. F.HERO)  (OFFICIAL)](https://www.youtube.com/watch?v=oO7Y8NsnkRg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
