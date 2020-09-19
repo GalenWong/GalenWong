@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yogee New Waves / World is Mine(Official MV)](https://www.youtube.com/watch?v=-vSTk_4Bzfc)
-- [Yogee New Waves / Like Sixteen Candles(Official MV)](https://www.youtube.com/watch?v=J8bW8kqgjm8)
 - [あいみょん - 愛を伝えたいだとか 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=9qRCARM_LfE)
 - [サカナクション / 忘れられないの](https://www.youtube.com/watch?v=BxqYUbNR-c0)
 - [BABYMETAL - Starlight (Official)](https://www.youtube.com/watch?v=hPVx7IazcEw)
+- [BABYMETAL - KARATE (OFFICIAL)](https://www.youtube.com/watch?v=GvD3CHA48pA)
+- [Wagakki Band - 焔 (Homura) + 暁ノ糸 (Akatsuki no Ito) / 1st JAPAN Tour 2015 Hibiya Yagai Ongakudo](https://www.youtube.com/watch?v=ponTbDDMYjw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
