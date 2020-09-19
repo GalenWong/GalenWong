@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BABYMETAL - Starlight (Official)](https://www.youtube.com/watch?v=hPVx7IazcEw)
-- [BABYMETAL - KARATE (OFFICIAL)](https://www.youtube.com/watch?v=GvD3CHA48pA)
 - [Wagakki Band - 焔 (Homura) + 暁ノ糸 (Akatsuki no Ito) / 1st JAPAN Tour 2015 Hibiya Yagai Ongakudo](https://www.youtube.com/watch?v=ponTbDDMYjw)
 - [BABYMETAL - THE ONE (OFFICIAL)](https://www.youtube.com/watch?v=TZRvO0S-TLU)
 - [TRiDENT『Continue』MV【exガールズロックバンド革命】](https://www.youtube.com/watch?v=azQVVhMUz58)
+- [BABYMETAL - ギミチョコ！！- Gimme chocolate!! (OFFICIAL)](https://www.youtube.com/watch?v=WIKqgE4BwAY)
+- [BABYMETAL - NO RAIN, NO RAINBOW 【Live Blu-ray/DVD 「LEGEND - S - BAPTISM XX -」】](https://www.youtube.com/watch?v=pDgqo6fcliY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
