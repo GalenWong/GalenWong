@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BAND-MAID / Thrill(スリル)](https://www.youtube.com/watch?v=Uds7g3M-4lQ)
-- [BABYMETAL - Elevator Girl [English ver.]  (OFFICIAL Live Music Video)](https://www.youtube.com/watch?v=Q48bwxyqVpQ)
 - [BABYMETAL - ヘドバンギャー！！- Headbangeeeeerrrrr!!!!!!! (OFFICIAL)](https://www.youtube.com/watch?v=2IzR_ClTE8Y)
 - [舉刀自盡](https://www.youtube.com/watch?v=SWVwCnqAR44)
 - [電火王](https://www.youtube.com/watch?v=5yazkUb6zrk)
+- [魏如萱 waa wei 【還是要相信愛情啊混蛋們】Official Music Video](https://www.youtube.com/watch?v=WyCsnn3woRg)
+- [把回忆拼好给你](https://www.youtube.com/watch?v=fp_WwwB3OBA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
