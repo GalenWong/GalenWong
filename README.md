@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [fox capture plan / 疾走する閃光](https://www.youtube.com/watch?v=KFstP0C9sVk)
-- [toconoma - orbit](https://www.youtube.com/watch?v=4JwS2mzzgos)
 - [toconoma - seesaw](https://www.youtube.com/watch?v=JZM50cFuHxU)
 - [fox capture plan / エイジアン・ダンサー](https://www.youtube.com/watch?v=L54q_24LvY8)
 - [Schroeder-Headz  「NEWDAYS」 （PV）](https://www.youtube.com/watch?v=JgkROiwnNIU)
+- [Sunset Rollercoaster - My Jinji](https://www.youtube.com/watch?v=CbwYZCga50U)
+- [toconoma - Vermelho do sol](https://www.youtube.com/watch?v=dKWeR8JcTgg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
