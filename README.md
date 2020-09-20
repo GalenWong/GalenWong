@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [那我懂你意思了 - 遺忘不是我們的專長](https://www.youtube.com/watch?v=kWl_qY-tXhY)
-- [DeFrank - Make Sense/Undertow](https://www.youtube.com/watch?v=nB0SGFAxYAc)
 - [蘇打綠 sodagreen -【頻率】小巨蛋演唱會版 Official Music Video](https://www.youtube.com/watch?v=OCdbpCKBx70)
 - [[LIVE] 혁오 (HYUKOH) _ Silverhair Express @ HYUKOH 2020 WORLD TOUR [through love] - SEOUL](https://www.youtube.com/watch?v=Boj4g7IuTjo)
 - [《说唱新世代》純享：午夜蠕动子队《人间普通指南》｜说唱新世代 bilibili](https://www.youtube.com/watch?v=iI3EHGiGCHA)
+- [「願你與心愛的人，能夠百年好合」一首為911襲擊而寫的歌 「ハナミズキ 花水木」/ 一青窈【中日歌詞】](https://www.youtube.com/watch?v=cF41ruHAwco)
+- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer’s love song】Official Music Video (LIVE版)](https://www.youtube.com/watch?v=Oznj0yIIGxc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
