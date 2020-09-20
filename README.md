@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BABYMETAL - PA PA YA!! (feat. F.HERO)  (OFFICIAL)](https://www.youtube.com/watch?v=oO7Y8NsnkRg)
-- [NINGEN ISU /  Heartless Scat（人間椅子 / 無情のスキャット）](https://www.youtube.com/watch?v=CbI79e5iZKs)
 - [BABYMETAL - DA DA DANCE (feat. Tak Matsumoto) (OFFICIAL)](https://www.youtube.com/watch?v=qMKlj_1zbYc)
 - [BABYMETAL - メギツネ - MEGITSUNE (OFFICIAL)](https://www.youtube.com/watch?v=cK3NMZAUKGw)
 - [BAND-MAID / Thrill(スリル)](https://www.youtube.com/watch?v=Uds7g3M-4lQ)
+- [BABYMETAL - Elevator Girl [English ver.]  (OFFICIAL Live Music Video)](https://www.youtube.com/watch?v=Q48bwxyqVpQ)
+- [BABYMETAL - ヘドバンギャー！！- Headbangeeeeerrrrr!!!!!!! (OFFICIAL)](https://www.youtube.com/watch?v=2IzR_ClTE8Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
