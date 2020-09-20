@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [toconoma - seesaw](https://www.youtube.com/watch?v=JZM50cFuHxU)
-- [fox capture plan / エイジアン・ダンサー](https://www.youtube.com/watch?v=L54q_24LvY8)
 - [Schroeder-Headz  「NEWDAYS」 （PV）](https://www.youtube.com/watch?v=JgkROiwnNIU)
 - [Sunset Rollercoaster - My Jinji](https://www.youtube.com/watch?v=CbwYZCga50U)
 - [toconoma - Vermelho do sol](https://www.youtube.com/watch?v=dKWeR8JcTgg)
+- [黃明志 To 伍佰【五百】@亞洲通才 2020 Asian Polymath](https://www.youtube.com/watch?v=778oM7Vs5_o)
+- [春艷 Chunyan - 你要我 Ni Yao Wo｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=gNRIxbt0XtU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
