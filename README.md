@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [春艷 Chunyan - 你要我 Ni Yao Wo｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=gNRIxbt0XtU)
-- [守夜人 Night Keepers - 活在自己的世界｜例假日](https://www.youtube.com/watch?v=ElvMTD3G7bU)
 - [流氓阿德2014最新力作_ 無路用的咖小  Lyric MV](https://www.youtube.com/watch?v=IQgjJ_313GE)
 - [房東的貓《 往往 》Lyric Video](https://www.youtube.com/watch?v=IzsQcjOn108)
 - [拾參樂團〈數位藍莓〉Official Music Video](https://www.youtube.com/watch?v=QWj_VBFY3Yw)
+- [南西肯恩 Neci Ken《那麼我想再擁有自己》 2020 EP 小巡迴紀錄](https://www.youtube.com/watch?v=_T9LnTnue8M)
+- [[還願]預告片插曲 - 情歌 DRUM COVER「殺了它，順便殺了我，拜託你了...」](https://www.youtube.com/watch?v=eUIT_H5uRrw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
