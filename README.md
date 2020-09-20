@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BABYMETAL - ヘドバンギャー！！- Headbangeeeeerrrrr!!!!!!! (OFFICIAL)](https://www.youtube.com/watch?v=2IzR_ClTE8Y)
-- [舉刀自盡](https://www.youtube.com/watch?v=SWVwCnqAR44)
 - [電火王](https://www.youtube.com/watch?v=5yazkUb6zrk)
 - [魏如萱 waa wei 【還是要相信愛情啊混蛋們】Official Music Video](https://www.youtube.com/watch?v=WyCsnn3woRg)
 - [把回忆拼好给你](https://www.youtube.com/watch?v=fp_WwwB3OBA)
+- [SURL(설) - 눈 SNOW Live Video (착플리 Ver.)](https://www.youtube.com/watch?v=xLHpt9gxK8o)
+- [[히든 라이브] 안병웅의 숨은 띵곡 몰아듣기 ( Mary Jane, Click Clack, Kill Like, 증오, 조퇴 )](https://www.youtube.com/watch?v=ZQqZWb4is6k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
