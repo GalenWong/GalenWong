@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【飛鳥和蟬 -任然】cover by 岑霏Fei Fei（隨唱系列）](https://www.youtube.com/watch?v=oIUgxGvPzzw)
-- [fox capture plan / Butterfly Effect](https://www.youtube.com/watch?v=8cMhQ_teEoY)
 - [fox capture plan / 疾走する閃光](https://www.youtube.com/watch?v=KFstP0C9sVk)
 - [toconoma - orbit](https://www.youtube.com/watch?v=4JwS2mzzgos)
 - [toconoma - seesaw](https://www.youtube.com/watch?v=JZM50cFuHxU)
+- [fox capture plan / エイジアン・ダンサー](https://www.youtube.com/watch?v=L54q_24LvY8)
+- [Schroeder-Headz  「NEWDAYS」 （PV）](https://www.youtube.com/watch?v=JgkROiwnNIU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
