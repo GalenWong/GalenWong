@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [《说唱新世代》純享：午夜蠕动子队《人间普通指南》｜说唱新世代 bilibili](https://www.youtube.com/watch?v=iI3EHGiGCHA)
-- [「願你與心愛的人，能夠百年好合」一首為911襲擊而寫的歌 「ハナミズキ 花水木」/ 一青窈【中日歌詞】](https://www.youtube.com/watch?v=cF41ruHAwco)
 - [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer’s love song】Official Music Video (LIVE版)](https://www.youtube.com/watch?v=Oznj0yIIGxc)
 - [Khalil Fong (方大同) － Fake Monk (假行僧) Official Lyric Video](https://www.youtube.com/watch?v=teXcXp3IPz8)
 - [【飛鳥和蟬 -任然】cover by 岑霏Fei Fei（隨唱系列）](https://www.youtube.com/watch?v=oIUgxGvPzzw)
+- [fox capture plan / Butterfly Effect](https://www.youtube.com/watch?v=8cMhQ_teEoY)
+- [fox capture plan / 疾走する閃光](https://www.youtube.com/watch?v=KFstP0C9sVk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
