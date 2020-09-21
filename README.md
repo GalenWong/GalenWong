@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [愚青《 舊詞 》Lyric Video](https://www.youtube.com/watch?v=iJLugesj0W0)
-- [品冠- 我以為 cover 《台劇下一站，幸福插曲》 (Jasmine)](https://www.youtube.com/watch?v=dBkzu4rfCfg)
 - [【官方正式版MV】夢然《少年》『我還是從前那個少年 Miya 』](https://www.youtube.com/watch?v=efKva-XmV48)
 - [小潘潘（潘柚彤）、小峰峰（陳峰） - 學貓叫 Say Meow Meow（官方版MV）](https://www.youtube.com/watch?v=OHbwkZgkBIU)
 - [红色的河（旅行团 & 吳青峰）](https://www.youtube.com/watch?v=88H6QzCV7ZY)
+- [Sid and Geri x 9m88-"巴黎，我想跟你一起去"Let's Go To Paris From New York](https://www.youtube.com/watch?v=m2SY6sUsDXo)
+- [Hokkaido 《北海道之小樽日记》](https://www.youtube.com/watch?v=IHENIg8Se7M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
