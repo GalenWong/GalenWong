@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Theseus 忒修斯 - 憨孫仔 gōng sun-á Music Video](https://www.youtube.com/watch?v=9TmAF5PVbBY)
-- [達康.come 白晝之夜 晚安曲](https://www.youtube.com/watch?v=B4q_W3iYPwY)
 - [失蹤人口](https://www.youtube.com/watch?v=KvSdKxNQCpw)
 - [老王樂隊｜不知反省 Did it Again (Official)](https://www.youtube.com/watch?v=mmaO8sLYeAc)
 - [米津玄師 MV「海の幽霊」Spirits of the Sea](https://www.youtube.com/watch?v=1s84rIhPuhk)
+- [守夜人Night Keepers 【 Night Light 】Official Music Video](https://www.youtube.com/watch?v=2Y3LFj3LS_4)
+- [Control T 【為我留的光 Gleam Along the Way】(Official Music Video)](https://www.youtube.com/watch?v=RtS9w4gGRJI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
