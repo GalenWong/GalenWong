@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サカナクション - さよならはエモーション （MUSIC VIDEO）-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=87wf45zW5NA)
-- [mol-74 - アルカレミア【MV】](https://www.youtube.com/watch?v=LDn-Fims8js)
 - [Theseus 忒修斯 - 憨孫仔 gōng sun-á Music Video](https://www.youtube.com/watch?v=9TmAF5PVbBY)
 - [達康.come 白晝之夜 晚安曲](https://www.youtube.com/watch?v=B4q_W3iYPwY)
 - [失蹤人口](https://www.youtube.com/watch?v=KvSdKxNQCpw)
+- [老王樂隊｜不知反省 Did it Again (Official)](https://www.youtube.com/watch?v=mmaO8sLYeAc)
+- [米津玄師 MV「海の幽霊」Spirits of the Sea](https://www.youtube.com/watch?v=1s84rIhPuhk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
