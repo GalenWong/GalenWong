@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [红色的河（旅行团 & 吳青峰）](https://www.youtube.com/watch?v=88H6QzCV7ZY)
-- [Sid and Geri x 9m88-"巴黎，我想跟你一起去"Let's Go To Paris From New York](https://www.youtube.com/watch?v=m2SY6sUsDXo)
 - [Hokkaido 《北海道之小樽日记》](https://www.youtube.com/watch?v=IHENIg8Se7M)
 - [Ningen Isu / Namahage  (人間椅子/なまはげ）](https://www.youtube.com/watch?v=CLoUY1kA4ZY)
 - [ICE 冰块 -《Something Real》【OFFICIAL MV】](https://www.youtube.com/watch?v=1PX7LYikSvM)
+- [Eve『闇夜』／ナツコ Natsuko (cover)](https://www.youtube.com/watch?v=eZiFqLK5PIc)
+- [ずっと真夜中でいいのに。『眩しいDNAだけ』／ナツコ Natsuko (cover)](https://www.youtube.com/watch?v=pEBMl9FtqsU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
