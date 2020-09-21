@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ICE 冰块 -《Something Real》【OFFICIAL MV】](https://www.youtube.com/watch?v=1PX7LYikSvM)
-- [Eve『闇夜』／ナツコ Natsuko (cover)](https://www.youtube.com/watch?v=eZiFqLK5PIc)
 - [ずっと真夜中でいいのに。『眩しいDNAだけ』／ナツコ Natsuko (cover)](https://www.youtube.com/watch?v=pEBMl9FtqsU)
 - [Frandé 法蘭黛樂團《可是啊》](https://www.youtube.com/watch?v=-Jpt_22Bya4)
 - [サカナクション - さよならはエモーション （MUSIC VIDEO）-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=87wf45zW5NA)
+- [mol-74 - アルカレミア【MV】](https://www.youtube.com/watch?v=LDn-Fims8js)
+- [Theseus 忒修斯 - 憨孫仔 gōng sun-á Music Video](https://www.youtube.com/watch?v=9TmAF5PVbBY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
