@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tatsuro Yamashita 山下 達郎 - kissからはじまるミステリー](https://www.youtube.com/watch?v=9zl_J9hF6yo)
 - [【MV繁中字】 Sondia -  大人 (Grown Ups/어른) [ 我的大叔 나의 아저씨 OST]  [Chinese Sub]](https://www.youtube.com/watch?v=0-MV9K4FXog)
 - [獨角仙的夢](https://www.youtube.com/watch?v=0jllMaBPMsI)
 - [愚青《 舊詞 》Lyric Video](https://www.youtube.com/watch?v=iJLugesj0W0)
 - [品冠- 我以為 cover 《台劇下一站，幸福插曲》 (Jasmine)](https://www.youtube.com/watch?v=dBkzu4rfCfg)
+- [【官方正式版MV】夢然《少年》『我還是從前那個少年 Miya 』](https://www.youtube.com/watch?v=efKva-XmV48)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
