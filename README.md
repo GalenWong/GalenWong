@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Control T 【為我留的光 Gleam Along the Way】(Official Music Video)](https://www.youtube.com/watch?v=RtS9w4gGRJI)
-- [蒸發](https://www.youtube.com/watch?v=fTqTgNrO2iI)
 - [陪你的貓睡午覺](https://www.youtube.com/watch?v=mNlckrovW3E)
 - [noovy -《早鳥 Rising》Official Music Video](https://www.youtube.com/watch?v=JNr8KiVaUFI)
 - [the morning glory](https://www.youtube.com/watch?v=8aQg1LKSMsU)
+- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
