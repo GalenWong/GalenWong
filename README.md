@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陪你的貓睡午覺](https://www.youtube.com/watch?v=mNlckrovW3E)
-- [noovy -《早鳥 Rising》Official Music Video](https://www.youtube.com/watch?v=JNr8KiVaUFI)
 - [the morning glory](https://www.youtube.com/watch?v=8aQg1LKSMsU)
 - [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
 - [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [嘘とカメレオン「されど奇術師は賽を振る」MV](https://www.youtube.com/watch?v=lscuxZT45Io)
+- [大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】](https://www.youtube.com/watch?v=saccx5dTmKU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
