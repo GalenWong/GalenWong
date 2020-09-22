@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師 MV「海の幽霊」Spirits of the Sea](https://www.youtube.com/watch?v=1s84rIhPuhk)
-- [守夜人Night Keepers 【 Night Light 】Official Music Video](https://www.youtube.com/watch?v=2Y3LFj3LS_4)
 - [Control T 【為我留的光 Gleam Along the Way】(Official Music Video)](https://www.youtube.com/watch?v=RtS9w4gGRJI)
 - [蒸發](https://www.youtube.com/watch?v=fTqTgNrO2iI)
 - [陪你的貓睡午覺](https://www.youtube.com/watch?v=mNlckrovW3E)
+- [noovy -《早鳥 Rising》Official Music Video](https://www.youtube.com/watch?v=JNr8KiVaUFI)
+- [the morning glory](https://www.youtube.com/watch?v=8aQg1LKSMsU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
