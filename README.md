@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「飄々とエモーション」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=qaOVcOq2McE)
-- [Control T 【成為 demo】(Official lyric video)](https://www.youtube.com/watch?v=lXPRJz_xYxo)
 - [Constant & Change 康士坦的變化球 - 在你死後才想起曾經答應陪你去散步](https://www.youtube.com/watch?v=jVN8ZT283ow)
 - [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
 - [ヨルシカ - 雲と幽霊 (MUSIC VIDEO)](https://www.youtube.com/watch?v=JJaCwW4HyVs)
+- [Fkj - Skyline](https://www.youtube.com/watch?v=qU5FWU0SH0o)
+- [YOASOBI「夜に駆ける」 Official Music Video](https://www.youtube.com/watch?v=x8VYWazR5mE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
