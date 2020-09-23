@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[Official Music Video] Perfume 「Time Warp」](https://www.youtube.com/watch?v=7M4EwGf-lH0)
-- [サカナクション - 蓮の花 （MUSIC VIDEO）-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=VjpBaiJlJ5I)
 - [サカナクション「スローモーション」MUSIC VIDEO  -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=_aqs6HrGroM)
 - [ヨルシカ - 雨とカプチーノ(Official Video)](https://www.youtube.com/watch?v=PWbRleMGagU)
 - [展榮展瑞 K.R BROS - 夜式人生  Night Owls (官方完整版MV) Official Music Video](https://www.youtube.com/watch?v=o_rJEXm49H0)
+- [【多想告訴你】畢業歌MV ｜ Official Music Video  不專心結局【黃氏兄弟】](https://www.youtube.com/watch?v=BT2tg7QphVU)
+- [黃阿瑪相遇十週年主題曲【怎麼可能忘了你】志銘與狸貓｜重返2009相遇故事 Official MV](https://www.youtube.com/watch?v=agpAxwxeIk4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
