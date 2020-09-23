@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [黃阿瑪相遇十週年主題曲【怎麼可能忘了你】志銘與狸貓｜重返2009相遇故事 Official MV](https://www.youtube.com/watch?v=agpAxwxeIk4)
-- [The Verkkars - EZ4ENCE (kannatusvideo)](https://www.youtube.com/watch?v=kPkT0jMjEu8)
 - [サカナクション / ホーリーダンス　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=CWe7oDJgtrQ)
 - [mol-74 - エイプリル【MV】](https://www.youtube.com/watch?v=HTjiTJm7jjg)
 - [フレデリック「たりないeye」Music Video / frederic“Tarinai eye”](https://www.youtube.com/watch?v=0m2mfFhUg8w)
+- [あいみょん –真夏の夜の匂いがする【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EQva8xKAZ7s)
+- [ヨルシカ - 花に亡霊（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=9lVPAWLWtWc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
