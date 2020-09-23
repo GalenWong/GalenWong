@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [李英宏×Leo王×落日飛車 cover 我是一隻魚（任賢齊），2019/12/25 蓬萊仙車報佳音](https://www.youtube.com/watch?v=bTDqMgfH-qg)
-- [好樂團 - 我們一樣可惜](https://www.youtube.com/watch?v=RpOQYAIy1-Y)
 - [サカナクション / 目が明く藍色　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=Xcj-SVs31cQ)
 - [房東的貓 - 如常](https://www.youtube.com/watch?v=Sl6ZQxoABSI)
 - [Sunset Rollercoaster - Summum Bonum / New Drug | Audiotree Live](https://www.youtube.com/watch?v=Hf3UoGpO838)
+- [謊言留聲機 Lie Gramophone - 公路電影 Those Days ( Official Music Video )](https://www.youtube.com/watch?v=sUQ-hQVpHPM)
+- [原子邦妮 Astro Bunny 【這樣我就能忘記你了】Official Music Video](https://www.youtube.com/watch?v=n-hy9MswmcA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
