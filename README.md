@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
-- [Men I Trust - Show Me How](https://www.youtube.com/watch?v=OZRYzH0Q0pU)
 - [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
 - [[Special Clip] Dreamcatcher(드림캐쳐) 'Break The Wall' 자체 제작 MV](https://www.youtube.com/watch?v=TqcPjwKU_zc)
 - [Jay Chou 周杰倫【蒲公英的約定 A Dandelion's Promise】-Official Music Video](https://www.youtube.com/watch?v=VitJnr3IySc)
+- [[MV] 이달의 소녀 (LOONA) "So What"](https://www.youtube.com/watch?v=GEo5bmUKFvI)
+- [[Official Music Video] Perfume 「Time Warp」](https://www.youtube.com/watch?v=7M4EwGf-lH0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
