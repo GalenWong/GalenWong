@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【這樣我就能忘記你了】Official Music Video](https://www.youtube.com/watch?v=n-hy9MswmcA)
-- [Official髭男dism - コーヒーとシロップ［Official Video］](https://www.youtube.com/watch?v=Vho5jBUfR28)
 - [SHE IS SUMMER「CALL ME IN YOUR SUMMER」](https://www.youtube.com/watch?v=H7fjqfSU0bY)
 - [椎名林檎 - 熱愛発覚中from百鬼夜行](https://www.youtube.com/watch?v=H_nCw1WMFs4)
 - [ヨルシカ - 準透明少年 (MUSIC VIDEO)](https://www.youtube.com/watch?v=9ypEFXTakV8)
+- [Mary See the Future｜禮拜天情人 Sunday Lover](https://www.youtube.com/watch?v=Z6u9hR0TykQ)
+- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
