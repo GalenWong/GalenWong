@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 雲と幽霊 (MUSIC VIDEO)](https://www.youtube.com/watch?v=JJaCwW4HyVs)
-- [Fkj - Skyline](https://www.youtube.com/watch?v=qU5FWU0SH0o)
 - [YOASOBI「夜に駆ける」 Official Music Video](https://www.youtube.com/watch?v=x8VYWazR5mE)
 - [King Gnu - 飛行艇](https://www.youtube.com/watch?v=MSv7NbfbtU8)
 - [李英宏×Leo王×落日飛車 cover 我是一隻魚（任賢齊），2019/12/25 蓬萊仙車報佳音](https://www.youtube.com/watch?v=bTDqMgfH-qg)
+- [好樂團 - 我們一樣可惜](https://www.youtube.com/watch?v=RpOQYAIy1-Y)
+- [サカナクション / 目が明く藍色　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=Xcj-SVs31cQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
