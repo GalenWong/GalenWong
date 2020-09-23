@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
-- [[Special Clip] Dreamcatcher(드림캐쳐) 'Break The Wall' 자체 제작 MV](https://www.youtube.com/watch?v=TqcPjwKU_zc)
 - [Jay Chou 周杰倫【蒲公英的約定 A Dandelion's Promise】-Official Music Video](https://www.youtube.com/watch?v=VitJnr3IySc)
 - [[MV] 이달의 소녀 (LOONA) "So What"](https://www.youtube.com/watch?v=GEo5bmUKFvI)
 - [[Official Music Video] Perfume 「Time Warp」](https://www.youtube.com/watch?v=7M4EwGf-lH0)
+- [サカナクション - 蓮の花 （MUSIC VIDEO）-New Album「834.194」(6/19 release)-](https://www.youtube.com/watch?v=VjpBaiJlJ5I)
+- [サカナクション「スローモーション」MUSIC VIDEO  -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=_aqs6HrGroM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
