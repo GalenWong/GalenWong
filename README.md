@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 準透明少年 (MUSIC VIDEO)](https://www.youtube.com/watch?v=9ypEFXTakV8)
-- [Mary See the Future｜禮拜天情人 Sunday Lover](https://www.youtube.com/watch?v=Z6u9hR0TykQ)
 - [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
 - [Men I Trust - Show Me How](https://www.youtube.com/watch?v=OZRYzH0Q0pU)
 - [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
+- [[Special Clip] Dreamcatcher(드림캐쳐) 'Break The Wall' 자체 제작 MV](https://www.youtube.com/watch?v=TqcPjwKU_zc)
+- [Jay Chou 周杰倫【蒲公英的約定 A Dandelion's Promise】-Official Music Video](https://www.youtube.com/watch?v=VitJnr3IySc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
