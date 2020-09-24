@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sakanaction - Yoru no Higashigawa (Light Sap Edit)](https://www.youtube.com/watch?v=o06rD2mifaw)
-- [瀬戸際のマーマレード / Nao Kodama × Kan Sano（Official Music Video）](https://www.youtube.com/watch?v=LqmaTZhWYo0)
 - [サニーデイ・サービス「あじさい」](https://www.youtube.com/watch?v=WwK437Zw1l0)
 - [ラブリーサマーちゃん「私の好きなもの」振り付け動画](https://www.youtube.com/watch?v=KLTrO0Foz10)
 - [Ghost like girlfriend – BAKE NO KAWA【Official Music Video】](https://www.youtube.com/watch?v=nw9BLjGqLLA)
+- [[MV] SUNMI(선미) _ Siren(사이렌)](https://www.youtube.com/watch?v=TNWMZIf7eSg)
+- [Takeuchi Anna - No Scrubs（TLC Cover） (Music Bar Session)](https://www.youtube.com/watch?v=vMM6nDUBpAI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
