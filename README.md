@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Ghost like girlfriend – BAKE NO KAWA【Official Music Video】](https://www.youtube.com/watch?v=nw9BLjGqLLA)
-- [[MV] SUNMI(선미) _ Siren(사이렌)](https://www.youtube.com/watch?v=TNWMZIf7eSg)
 - [Takeuchi Anna - No Scrubs（TLC Cover） (Music Bar Session)](https://www.youtube.com/watch?v=vMM6nDUBpAI)
 - [山口一郎（サカナクション） - DJ @ NF in 森、道、市場 2018](https://www.youtube.com/watch?v=ENIJj76FxLU)
 - [KASHIWA Daisuke / april.#19 (MUSIC VIDEO) "from Re:"](https://www.youtube.com/watch?v=feShpPLivK0)
+- [浪漫革命『Lovely moon night』Official MV](https://www.youtube.com/watch?v=0S_L3fl6F9w)
+- [七尾旅人(TAVITO NANAO) "TELE〇POTION" (Official Music Video)](https://www.youtube.com/watch?v=Tc7N8jVVaOk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
