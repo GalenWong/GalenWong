@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [おかん"人として" （Official Music Video）OKAN"作為人" 日/繁中字幕](https://www.youtube.com/watch?v=HAy3jQodfq8)
-- [Frederic - Uwasa no Kemuri no Onnanoko](https://www.youtube.com/watch?v=Sl04vzB8E7g)
 - [Lucie,Too: Brand New Wave short  session](https://www.youtube.com/watch?v=Ry8R8WB4Dxc)
 - [【MV】SUKISHA / 心に花を (A Flower in Your Heart)](https://www.youtube.com/watch?v=9liaUCpfyFE)
 - [The fin. - Through The Deep (Offical Video)](https://www.youtube.com/watch?v=hEWmDP8Oyhg)
+- [SASUKE｢J-POPは終わらない｣ LIVE AT フロムニューエイジアツアー](https://www.youtube.com/watch?v=oRVhmAPoEoo)
+- [ORESAMA / 綺麗なものばかり Dressup cover #2](https://www.youtube.com/watch?v=V_hjYzRCjvM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
