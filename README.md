@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [KASHIWA Daisuke / april.#19 (MUSIC VIDEO) "from Re:"](https://www.youtube.com/watch?v=feShpPLivK0)
-- [浪漫革命『Lovely moon night』Official MV](https://www.youtube.com/watch?v=0S_L3fl6F9w)
 - [七尾旅人(TAVITO NANAO) "TELE〇POTION" (Official Music Video)](https://www.youtube.com/watch?v=Tc7N8jVVaOk)
 - [Superorganism - Everybody Wants To Be Famous (Cedric Gervais Remix) (Official Audio)](https://www.youtube.com/watch?v=ji0MSbV6M-8)
 - [おかん"人として" （Official Music Video）OKAN"作為人" 日/繁中字幕](https://www.youtube.com/watch?v=HAy3jQodfq8)
+- [Frederic - Uwasa no Kemuri no Onnanoko](https://www.youtube.com/watch?v=Sl04vzB8E7g)
+- [Lucie,Too: Brand New Wave short  session](https://www.youtube.com/watch?v=Ry8R8WB4Dxc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
