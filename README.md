@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Takeuchi Anna - No Scrubs（TLC Cover） (Music Bar Session)](https://www.youtube.com/watch?v=vMM6nDUBpAI)
-- [山口一郎（サカナクション） - DJ @ NF in 森、道、市場 2018](https://www.youtube.com/watch?v=ENIJj76FxLU)
 - [KASHIWA Daisuke / april.#19 (MUSIC VIDEO) "from Re:"](https://www.youtube.com/watch?v=feShpPLivK0)
 - [浪漫革命『Lovely moon night』Official MV](https://www.youtube.com/watch?v=0S_L3fl6F9w)
 - [七尾旅人(TAVITO NANAO) "TELE〇POTION" (Official Music Video)](https://www.youtube.com/watch?v=Tc7N8jVVaOk)
+- [Superorganism - Everybody Wants To Be Famous (Cedric Gervais Remix) (Official Audio)](https://www.youtube.com/watch?v=ji0MSbV6M-8)
+- [おかん"人として" （Official Music Video）OKAN"作為人" 日/繁中字幕](https://www.youtube.com/watch?v=HAy3jQodfq8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
