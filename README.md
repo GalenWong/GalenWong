@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [髭男っぽい曲作ってみた2『イニエスタデス』#33](https://www.youtube.com/watch?v=a8cvPRd7k0o)
-- [植田真梨恵 AL『ハートブレイカー』 トレ－ラー](https://www.youtube.com/watch?v=Sk42TcK5-v4)
 - [ITZY "ICY" M/V](https://www.youtube.com/watch?v=zndvqTc4P9I)
 - [植田真梨恵「わかんないのはいやだ」PV](https://www.youtube.com/watch?v=vJvoZfeGN-0)
 - [”summer end feat.claquepot”   WEB CM 2020 summer ver.](https://www.youtube.com/watch?v=feVBzF02Yf4)
+- [Jay Chou 周杰倫【迷迭香 Rosemary】-Official Music Video](https://www.youtube.com/watch?v=K0Myfz5phlY)
+- [泉まくら『いかれたBaby』 - フィッシュマンズcover -](https://www.youtube.com/watch?v=ohKJx4hA_P4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
