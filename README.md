@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [French 79 - Hometown [Official Video]](https://www.youtube.com/watch?v=yAv5pLO37mE)
-- [Senseless](https://www.youtube.com/watch?v=DoaMdmVMuZw)
 - [Awesome City Club / 最後の口づけの続きの口づけを](https://www.youtube.com/watch?v=e4QzKKKSdEM)
 - [Yunomi & Nakanojojo - Honey Ginger [Premiere] (Lyrics Video)](https://www.youtube.com/watch?v=87i719PTwcQ)
 - [The pillows - Last Dinosaur (HQ)](https://www.youtube.com/watch?v=R9i1f_vt43c)
+- [SHE IS SUMMER / 綺麗にきみをあいしてたい  music festival in Thailand POW FEST  2020 LIVE ver.](https://www.youtube.com/watch?v=CXjot8r05l4)
+- [Mac Miller - Good News](https://www.youtube.com/watch?v=aIHF7u9Wwiw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
