@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [NINGEN ISU / The Colour out of Space (人間椅子 / 宇宙からの色)](https://www.youtube.com/watch?v=1JY89ZxVqEg)
-- [[BabyMetal]syncopation"2set"](https://www.youtube.com/watch?v=M3WkxYql4PM)
 - [仮谷せいら - ONE S'MORE (Music Video)](https://www.youtube.com/watch?v=gsF7ApuGmUQ)
 - [《神一樣的存在 Existing like God》Official Music Video](https://www.youtube.com/watch?v=75Ur_VtrJgw)
 - [Yokogao](https://www.youtube.com/watch?v=DjZyiEruMAQ)
+- [Tempo de sonhar (feat. kiki vivi lily)](https://www.youtube.com/watch?v=6HpWEECz4IU)
+- [ラブリーサマーちゃん「AH!」Music Video](https://www.youtube.com/watch?v=foG6QlVJIc8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
