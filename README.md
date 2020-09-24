@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [The fin. - Through The Deep (Offical Video)](https://www.youtube.com/watch?v=hEWmDP8Oyhg)
-- [SASUKE｢J-POPは終わらない｣ LIVE AT フロムニューエイジアツアー](https://www.youtube.com/watch?v=oRVhmAPoEoo)
 - [ORESAMA / 綺麗なものばかり Dressup cover #2](https://www.youtube.com/watch?v=V_hjYzRCjvM)
 - [kamome sano - lollipop (Official Music Video)](https://www.youtube.com/watch?v=elUr1BHuyms)
 - [indigo la End 本人が「ほころびごっこ」叩いて・弾いてみた](https://www.youtube.com/watch?v=hvC0ix9Q8nY)
+- [サカナクション / 三日月サンセット　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=4BZMWcCj_98)
+- [NINGEN ISU / The Colour out of Space (人間椅子 / 宇宙からの色)](https://www.youtube.com/watch?v=1JY89ZxVqEg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
