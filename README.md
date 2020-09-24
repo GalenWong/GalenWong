@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Mac Miller - Good News](https://www.youtube.com/watch?v=aIHF7u9Wwiw)
-- [FRDC × Yuhei Takahata「RAINY CHINA GIRL」/ASOVISION　#４](https://www.youtube.com/watch?v=VwpJV_w6w_4)
 - [[MV] 이달의 소녀 (LOONA) "Hi High"](https://www.youtube.com/watch?v=846cjX0ZTrk)
 - [[MV] 이달의 소녀/츄 (LOONA/Chuu) "Heart Attack"](https://www.youtube.com/watch?v=BVVfMFS3mgc)
 - [髭男っぽい曲作ってみた2『イニエスタデス』#33](https://www.youtube.com/watch?v=a8cvPRd7k0o)
+- [植田真梨恵 AL『ハートブレイカー』 トレ－ラー](https://www.youtube.com/watch?v=Sk42TcK5-v4)
+- [ITZY "ICY" M/V](https://www.youtube.com/watch?v=zndvqTc4P9I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
