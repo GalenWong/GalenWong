@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yokogao](https://www.youtube.com/watch?v=DjZyiEruMAQ)
-- [Tempo de sonhar (feat. kiki vivi lily)](https://www.youtube.com/watch?v=6HpWEECz4IU)
 - [ラブリーサマーちゃん「AH!」Music Video](https://www.youtube.com/watch?v=foG6QlVJIc8)
 - [10th Anniversary Visionary Open-air Live「ナツヨノマジック」全曲ダイジェスト](https://www.youtube.com/watch?v=kh56NUn5G-o)
 - [French 79 - Hometown [Official Video]](https://www.youtube.com/watch?v=yAv5pLO37mE)
+- [Senseless](https://www.youtube.com/watch?v=DoaMdmVMuZw)
+- [Awesome City Club / 最後の口づけの続きの口づけを](https://www.youtube.com/watch?v=e4QzKKKSdEM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
