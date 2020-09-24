@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [The pillows - Last Dinosaur (HQ)](https://www.youtube.com/watch?v=R9i1f_vt43c)
-- [SHE IS SUMMER / 綺麗にきみをあいしてたい  music festival in Thailand POW FEST  2020 LIVE ver.](https://www.youtube.com/watch?v=CXjot8r05l4)
 - [Mac Miller - Good News](https://www.youtube.com/watch?v=aIHF7u9Wwiw)
 - [FRDC × Yuhei Takahata「RAINY CHINA GIRL」/ASOVISION　#４](https://www.youtube.com/watch?v=VwpJV_w6w_4)
 - [[MV] 이달의 소녀 (LOONA) "Hi High"](https://www.youtube.com/watch?v=846cjX0ZTrk)
+- [[MV] 이달의 소녀/츄 (LOONA/Chuu) "Heart Attack"](https://www.youtube.com/watch?v=BVVfMFS3mgc)
+- [髭男っぽい曲作ってみた2『イニエスタデス』#33](https://www.youtube.com/watch?v=a8cvPRd7k0o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
