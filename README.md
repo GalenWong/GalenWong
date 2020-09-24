@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「たりないeye」Music Video / frederic“Tarinai eye”](https://www.youtube.com/watch?v=0m2mfFhUg8w)
-- [あいみょん –真夏の夜の匂いがする【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EQva8xKAZ7s)
 - [ヨルシカ - 花に亡霊（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=9lVPAWLWtWc)
 - [サイダーガール / 寝ぐせ (Demo ver.)](https://www.youtube.com/watch?v=FOb8UysongE)
 - [Sakanaction - Yoru no Higashigawa (Light Sap Edit)](https://www.youtube.com/watch?v=o06rD2mifaw)
+- [瀬戸際のマーマレード / Nao Kodama × Kan Sano（Official Music Video）](https://www.youtube.com/watch?v=LqmaTZhWYo0)
+- [サニーデイ・サービス「あじさい」](https://www.youtube.com/watch?v=WwK437Zw1l0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
