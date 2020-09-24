@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [仮谷せいら - ONE S'MORE (Music Video)](https://www.youtube.com/watch?v=gsF7ApuGmUQ)
-- [《神一樣的存在 Existing like God》Official Music Video](https://www.youtube.com/watch?v=75Ur_VtrJgw)
 - [Yokogao](https://www.youtube.com/watch?v=DjZyiEruMAQ)
 - [Tempo de sonhar (feat. kiki vivi lily)](https://www.youtube.com/watch?v=6HpWEECz4IU)
 - [ラブリーサマーちゃん「AH!」Music Video](https://www.youtube.com/watch?v=foG6QlVJIc8)
+- [10th Anniversary Visionary Open-air Live「ナツヨノマジック」全曲ダイジェスト](https://www.youtube.com/watch?v=kh56NUn5G-o)
+- [French 79 - Hometown [Official Video]](https://www.youtube.com/watch?v=yAv5pLO37mE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
