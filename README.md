@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 花に亡霊（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=9lVPAWLWtWc)
-- [サイダーガール / 寝ぐせ (Demo ver.)](https://www.youtube.com/watch?v=FOb8UysongE)
 - [Sakanaction - Yoru no Higashigawa (Light Sap Edit)](https://www.youtube.com/watch?v=o06rD2mifaw)
 - [瀬戸際のマーマレード / Nao Kodama × Kan Sano（Official Music Video）](https://www.youtube.com/watch?v=LqmaTZhWYo0)
 - [サニーデイ・サービス「あじさい」](https://www.youtube.com/watch?v=WwK437Zw1l0)
+- [ラブリーサマーちゃん「私の好きなもの」振り付け動画](https://www.youtube.com/watch?v=KLTrO0Foz10)
+- [Ghost like girlfriend – BAKE NO KAWA【Official Music Video】](https://www.youtube.com/watch?v=nw9BLjGqLLA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
