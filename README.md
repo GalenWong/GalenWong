@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ORESAMA / 綺麗なものばかり Dressup cover #2](https://www.youtube.com/watch?v=V_hjYzRCjvM)
-- [kamome sano - lollipop (Official Music Video)](https://www.youtube.com/watch?v=elUr1BHuyms)
 - [indigo la End 本人が「ほころびごっこ」叩いて・弾いてみた](https://www.youtube.com/watch?v=hvC0ix9Q8nY)
 - [サカナクション / 三日月サンセット　-BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=4BZMWcCj_98)
 - [NINGEN ISU / The Colour out of Space (人間椅子 / 宇宙からの色)](https://www.youtube.com/watch?v=1JY89ZxVqEg)
+- [[BabyMetal]syncopation"2set"](https://www.youtube.com/watch?v=M3WkxYql4PM)
+- [仮谷せいら - ONE S'MORE (Music Video)](https://www.youtube.com/watch?v=gsF7ApuGmUQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
