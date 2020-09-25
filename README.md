@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Shiawase Syndrome](https://www.youtube.com/watch?v=Gz5K43W8oYY)
-- [Everybody Loves The Sunshine](https://www.youtube.com/watch?v=lZ8zu1aRYA8)
 - [Hakubi - もう一つの世界 【Short Video】](https://www.youtube.com/watch?v=GwJjf-r0YFM)
 - [Joanna Wang 王若琳 -《我只在乎你 I Only Care About You》Official Music Video](https://www.youtube.com/watch?v=ja2plHvNSjI)
 - [Lucie,Too - EGOIST (Official Music Video)](https://www.youtube.com/watch?v=-yfvCvFtVxE)
+- [讀模系女子樂團 Silent Siren - 戀雪 中文字幕 MV](https://www.youtube.com/watch?v=cID8aSNwLo0)
+- [マリンブルーの庭園](https://www.youtube.com/watch?v=EyLBmyh0xfg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
