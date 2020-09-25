@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【Studio Live】竹内アンナ / ALRIGHT 〜 Free! Free! Free!【Digest】](https://www.youtube.com/watch?v=NpbqDNXA3pE)
-- [Saruagari city pop](https://www.youtube.com/watch?v=sihd6YiBRMk)
 - [Matane](https://www.youtube.com/watch?v=WkJPd2d8Xpg)
 - [Lucie,Too - ゆらゆら (Yura Yura | Official Tour Video)](https://www.youtube.com/watch?v=QEKg2bwzxd0)
 - [Shiawase Syndrome](https://www.youtube.com/watch?v=Gz5K43W8oYY)
+- [Everybody Loves The Sunshine](https://www.youtube.com/watch?v=lZ8zu1aRYA8)
+- [Hakubi - もう一つの世界 【Short Video】](https://www.youtube.com/watch?v=GwJjf-r0YFM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
