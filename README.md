@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [”summer end feat.claquepot”   WEB CM 2020 summer ver.](https://www.youtube.com/watch?v=feVBzF02Yf4)
-- [Jay Chou 周杰倫【迷迭香 Rosemary】-Official Music Video](https://www.youtube.com/watch?v=K0Myfz5phlY)
 - [泉まくら『いかれたBaby』 - フィッシュマンズcover -](https://www.youtube.com/watch?v=ohKJx4hA_P4)
 - [植田真梨恵「REVOLVER」MV](https://www.youtube.com/watch?v=SYFy5YWNF_M)
 - [サカナクション / モス(SAKANAQUARIUM 2019"834.194")](https://www.youtube.com/watch?v=7jy8bGlSZaM)
+- [Official髭男dism - HELLO［Official Video］](https://www.youtube.com/watch?v=p1qM75a9FeE)
+- [Official髭男dism - 愛なんだが・・・［Official Video］](https://www.youtube.com/watch?v=i68HdrqOPcE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
