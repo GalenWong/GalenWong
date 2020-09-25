@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [マリンブルーの庭園](https://www.youtube.com/watch?v=EyLBmyh0xfg)
-- [【MV】ポップしなないで「おやすみシューゲイザー」](https://www.youtube.com/watch?v=6X0L5IwRWB4)
 - [ずっと真夜中でいいのに。『低血ボルト』MV（ZUTOMAYO - FASTENING）](https://www.youtube.com/watch?v=COll6PdtI5w)
 - [植田真梨恵「いいこのバースデーソング」MV](https://www.youtube.com/watch?v=9jk17Vo45fE)
 - [tricot『おもてなし』MV](https://www.youtube.com/watch?v=8RnoV1XZRFw)
+- [ずっと真夜中でいいのに。『秒針を噛む』MV](https://www.youtube.com/watch?v=GJI4Gv7NbmE)
+- [Perfume 「FAKE IT」 from LIVE Blu-ray/DVD](https://www.youtube.com/watch?v=fq138eWTdpw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
