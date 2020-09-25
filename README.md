@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [キュウソネコカミ - 「馬乗りマウンティング」](https://www.youtube.com/watch?v=3x83YDv_fcw)
-- [「NAMiDA / 涙」 MV](https://www.youtube.com/watch?v=-pauqt1exDw)
 - [uchuu; - LET IT DIE [Official Music Video]](https://www.youtube.com/watch?v=KK9Lg3MAEPM)
 - [NoisyCell「Pieces」MV（Full version）](https://www.youtube.com/watch?v=FYjRzqr8kMw)
 - [Crispy Camera Club / Marty, My Dreams【Official Music Video】](https://www.youtube.com/watch?v=wYMedBq4E7E)
+- [アルカラ - 水曜日のマネキンは笑う](https://www.youtube.com/watch?v=rwbFD_R1aPw)
+- [BALLOND'OR  MV【C.R.E.A.M】](https://www.youtube.com/watch?v=vT5IyHj5Ql4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
