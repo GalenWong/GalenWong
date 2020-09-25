@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [「勿忘にくちづけ」-蝶矢編- (監督 東市篤憲)](https://www.youtube.com/watch?v=Fr62j2BFFMY)
-- [SECONDWALL "言葉" MV](https://www.youtube.com/watch?v=E7I7nREchHc)
 - [【Studio Live】竹内アンナ / ALRIGHT 〜 Free! Free! Free!【Digest】](https://www.youtube.com/watch?v=NpbqDNXA3pE)
 - [Saruagari city pop](https://www.youtube.com/watch?v=sihd6YiBRMk)
 - [Matane](https://www.youtube.com/watch?v=WkJPd2d8Xpg)
+- [Lucie,Too - ゆらゆら (Yura Yura | Official Tour Video)](https://www.youtube.com/watch?v=QEKg2bwzxd0)
+- [Shiawase Syndrome](https://www.youtube.com/watch?v=Gz5K43W8oYY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
