@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DOGMA  / やまもとひかる【Official Music Video】](https://www.youtube.com/watch?v=kY9Wl6Qn7e4)
-- [モーモールルギャバンLIVE「サノバ・ビッチェ」2018/2/9](https://www.youtube.com/watch?v=d6plQ3scVAA)
 - [リーガルリリー - 『ぶらんこ (Lycanthrope)』Music Video](https://www.youtube.com/watch?v=I_caw-9nmIw)
 - [KANA-BOON vs フレデリック MASHUP!!](https://www.youtube.com/watch?v=MOHDgq5nlKg)
 - [Nothing's Carved In Stone - Like a Shooting Star【Bass Cover】](https://www.youtube.com/watch?v=7lW1nvinVag)
+- [vivid undress 「生きて生きて(IKITE IKITE)」 MV](https://www.youtube.com/watch?v=kV9sH2YhY4s)
+- [「勿忘にくちづけ」-蝶矢編- (監督 東市篤憲)](https://www.youtube.com/watch?v=Fr62j2BFFMY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
