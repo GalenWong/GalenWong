@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [泉まくら『いかれたBaby』 - フィッシュマンズcover -](https://www.youtube.com/watch?v=ohKJx4hA_P4)
-- [植田真梨恵「REVOLVER」MV](https://www.youtube.com/watch?v=SYFy5YWNF_M)
 - [サカナクション / モス(SAKANAQUARIUM 2019"834.194")](https://www.youtube.com/watch?v=7jy8bGlSZaM)
 - [Official髭男dism - HELLO［Official Video］](https://www.youtube.com/watch?v=p1qM75a9FeE)
 - [Official髭男dism - 愛なんだが・・・［Official Video］](https://www.youtube.com/watch?v=i68HdrqOPcE)
+- [YeYe - うんざりですよ（Official Music Video）](https://www.youtube.com/watch?v=Hjq2gsW5wWg)
+- [少年よ我に帰れ](https://www.youtube.com/watch?v=9liVljr-1cs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
