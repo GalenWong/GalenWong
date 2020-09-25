@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [サイダーガール “ID” Music Video](https://www.youtube.com/watch?v=Lavdgx5xHZg)
-- [04 KITAKU BEATS - Frederic [FREDERHYTHM] - 2016](https://www.youtube.com/watch?v=uaW7BqaxkSg)
 - [パスピエ「YES/NO」Music Video - 最優秀作品](https://www.youtube.com/watch?v=NyhZ0EIfyWw)
 - [Lucie,Too - あなたの光 (Official Music Video)  / Anata no Hikari(Your Hope)](https://www.youtube.com/watch?v=tVexWExfRjA)
 - [キュウソネコカミ - 「馬乗りマウンティング」](https://www.youtube.com/watch?v=3x83YDv_fcw)
+- [「NAMiDA / 涙」 MV](https://www.youtube.com/watch?v=-pauqt1exDw)
+- [uchuu; - LET IT DIE [Official Music Video]](https://www.youtube.com/watch?v=KK9Lg3MAEPM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
