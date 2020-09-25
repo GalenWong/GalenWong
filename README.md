@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [リーガルリリー - 『ぶらんこ (Lycanthrope)』Music Video](https://www.youtube.com/watch?v=I_caw-9nmIw)
-- [KANA-BOON vs フレデリック MASHUP!!](https://www.youtube.com/watch?v=MOHDgq5nlKg)
 - [Nothing's Carved In Stone - Like a Shooting Star【Bass Cover】](https://www.youtube.com/watch?v=7lW1nvinVag)
 - [vivid undress 「生きて生きて(IKITE IKITE)」 MV](https://www.youtube.com/watch?v=kV9sH2YhY4s)
 - [「勿忘にくちづけ」-蝶矢編- (監督 東市篤憲)](https://www.youtube.com/watch?v=Fr62j2BFFMY)
+- [SECONDWALL "言葉" MV](https://www.youtube.com/watch?v=E7I7nREchHc)
+- [【Studio Live】竹内アンナ / ALRIGHT 〜 Free! Free! Free!【Digest】](https://www.youtube.com/watch?v=NpbqDNXA3pE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
