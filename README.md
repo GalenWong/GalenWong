@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [uchuu; - LET IT DIE [Official Music Video]](https://www.youtube.com/watch?v=KK9Lg3MAEPM)
-- [NoisyCell「Pieces」MV（Full version）](https://www.youtube.com/watch?v=FYjRzqr8kMw)
 - [Crispy Camera Club / Marty, My Dreams【Official Music Video】](https://www.youtube.com/watch?v=wYMedBq4E7E)
 - [アルカラ - 水曜日のマネキンは笑う](https://www.youtube.com/watch?v=rwbFD_R1aPw)
 - [BALLOND'OR  MV【C.R.E.A.M】](https://www.youtube.com/watch?v=vT5IyHj5Ql4)
+- [05 USO - Frederic [OTOTUNE] - 2015](https://www.youtube.com/watch?v=G4g75i2sy-k)
+- [DOGMA  / やまもとひかる【Official Music Video】](https://www.youtube.com/watch?v=kY9Wl6Qn7e4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
