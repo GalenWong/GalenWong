@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Crispy Camera Club / Marty, My Dreams【Official Music Video】](https://www.youtube.com/watch?v=wYMedBq4E7E)
-- [アルカラ - 水曜日のマネキンは笑う](https://www.youtube.com/watch?v=rwbFD_R1aPw)
 - [BALLOND'OR  MV【C.R.E.A.M】](https://www.youtube.com/watch?v=vT5IyHj5Ql4)
 - [05 USO - Frederic [OTOTUNE] - 2015](https://www.youtube.com/watch?v=G4g75i2sy-k)
 - [DOGMA  / やまもとひかる【Official Music Video】](https://www.youtube.com/watch?v=kY9Wl6Qn7e4)
+- [モーモールルギャバンLIVE「サノバ・ビッチェ」2018/2/9](https://www.youtube.com/watch?v=d6plQ3scVAA)
+- [リーガルリリー - 『ぶらんこ (Lycanthrope)』Music Video](https://www.youtube.com/watch?v=I_caw-9nmIw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
