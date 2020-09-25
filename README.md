@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [少年よ我に帰れ](https://www.youtube.com/watch?v=9liVljr-1cs)
-- [Blue](https://www.youtube.com/watch?v=cAOn7L6yy1E)
 - [More Light](https://www.youtube.com/watch?v=LAqrh2iXhM8)
 - [ばらの花 × ネイティブダンサー　 (Movie Edit)](https://www.youtube.com/watch?v=o1ejjWtBDSo)
 - [サイダーガール “ID” Music Video](https://www.youtube.com/watch?v=Lavdgx5xHZg)
+- [04 KITAKU BEATS - Frederic [FREDERHYTHM] - 2016](https://www.youtube.com/watch?v=uaW7BqaxkSg)
+- [パスピエ「YES/NO」Music Video - 最優秀作品](https://www.youtube.com/watch?v=NyhZ0EIfyWw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
