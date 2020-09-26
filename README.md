@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [林宥嘉 Yoga Lin [ 讓世界毀滅 Let it Die ] Official Music Video](https://www.youtube.com/watch?v=O9IsApvPA1s)
-- [王貳浪- 像魚 cover (Jasmine)](https://www.youtube.com/watch?v=3JomYjQfd-k)
 - [林宥嘉 Yoga Lin [ 天真有邪 Spoiled Innocence ] Official Music Video](https://www.youtube.com/watch?v=hrdQ_6K6oXk)
 - [十豆彡 / 容祖兒 - 這就是愛嗎 + 沈以誠 - 雨 (翻唱) AlvinWCH 黃志宏](https://www.youtube.com/watch?v=Fd2_dlVZdGk)
 - [杀死那个石家庄人 - 万能青年旅店](https://www.youtube.com/watch?v=xbq-_2TqHVQ)
+- [ASIAN KUNG-FU GENERATION - Boys & Girls](https://www.youtube.com/watch?v=oqw00bxN_4w)
+- [Santé - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=megYQRIb5qw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
