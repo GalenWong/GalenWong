@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ミミズ  / majiko【Bass Cover】](https://www.youtube.com/watch?v=kusQZje1TKI)
-- [Alaska Jam / FASHION【Official Music Video】](https://www.youtube.com/watch?v=snV-UeDlBL0)
 - [シナリオアート 『ハローグッバイ』Music Video](https://www.youtube.com/watch?v=sGPHbgqv7TM)
 - [分手愛(Beats by TEN)](https://www.youtube.com/watch?v=HpFx3MrOcRE)
 - [淺堤 Shallow Levée -【火車 Train】Live Music Video](https://www.youtube.com/watch?v=LaM95KFI0r4)
+- [動靜樂團-相信未來](https://www.youtube.com/watch?v=2uvR8-GBjDs)
+- [flumpool [ 夜は眠れるかい?（夜晚能安然入眠嗎?）] Official Music Video](https://www.youtube.com/watch?v=308kgzwY5D4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
