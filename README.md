@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [麋先生MIXER【囝仔 Kid】Official Music Video](https://www.youtube.com/watch?v=Kvi58jj2d1Q)
-- [Chinese Football － 電動少女  ［Official Music Video］](https://www.youtube.com/watch?v=X2goYUJpq9k)
 - [旺福 男右女左 全曲試聽](https://www.youtube.com/watch?v=rJVLdjgAyqo)
 - [告五人Accusefive【迷霧之子】Official Music Video](https://www.youtube.com/watch?v=LnJEaPnVmz4)
 - [[avex官方HD] JADE - All Right 官方完整版MV](https://www.youtube.com/watch?v=peb_mZN7hXU)
+- [植田真梨恵「ふれたら消えてしまう」PV](https://www.youtube.com/watch?v=gR7ko81rA-8)
+- [陳奕迅 Eason Chan -《你給我聽好》MV](https://www.youtube.com/watch?v=T9V45IhnMRU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
