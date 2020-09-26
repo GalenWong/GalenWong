@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [于文文《體面》動態歌詞版  【前任3:再見前任 插曲】](https://www.youtube.com/watch?v=sg_WE0ToJjM)
-- [Jay Chou 周杰倫【外婆 Grandma】-Official Music Video](https://www.youtube.com/watch?v=Ur-x4pZT1Rk)
 - [張紫豪 - 可不可以『不希望我的未來不是你，只願意和你永遠不分離。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=hgIDXTmmgDg)
 - [PG One - Kill The One (Lyric Video)](https://www.youtube.com/watch?v=XViTnWDg6Qo)
 - [張震嶽 A-Yue【認輸】Official Music Video](https://www.youtube.com/watch?v=mTmdrMDlWMs)
+- [赵紫骅--《可乐》『可能你不快乐 可惜你不快乐  可能是我的爱情它来的太晚了』](https://www.youtube.com/watch?v=hKM8JG6ek2M)
+- [Ed Sheeran - How Would You Feel (Paean) cover (Jasmine)](https://www.youtube.com/watch?v=emokzJF-1UE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
