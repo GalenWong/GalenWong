@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Ed Sheeran - How Would You Feel (Paean) cover (Jasmine)](https://www.youtube.com/watch?v=emokzJF-1UE)
-- [陳粒 - 小半 cover (Jasmine)](https://www.youtube.com/watch?v=S8utGfb1wBs)
 - [Khalil Fong (方大同) -  Close To You (千紙鶴) Official Music Video](https://www.youtube.com/watch?v=4n1XN7E-ZSY)
 - [JiaJia家家 [ 何妨 Why Not ] feat.茄子蛋 - 夢的國度版 Official Music Video](https://www.youtube.com/watch?v=BFTCHpO_pSY)
 - [蔡旻佑 - 我可以 cover (Jasmine)](https://www.youtube.com/watch?v=lq88RjGNaBo)
+- [蛋堡/Soft Lipa - 台北嘻哈故事 金音獎 Live](https://www.youtube.com/watch?v=5dYl9L7HThM)
+- [林宥嘉 Yoga Lin [ 讓世界毀滅 Let it Die ] Official Music Video](https://www.youtube.com/watch?v=O9IsApvPA1s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
