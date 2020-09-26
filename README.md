@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [tricot『おもてなし』MV](https://www.youtube.com/watch?v=8RnoV1XZRFw)
-- [ずっと真夜中でいいのに。『秒針を噛む』MV](https://www.youtube.com/watch?v=GJI4Gv7NbmE)
 - [Perfume 「FAKE IT」 from LIVE Blu-ray/DVD](https://www.youtube.com/watch?v=fq138eWTdpw)
 - [Lucie,Too - オレンジ (LIVE）](https://www.youtube.com/watch?v=3DrUilKPJ4I)
 - [Tokyo lights](https://www.youtube.com/watch?v=Ly4MXjjmsgI)
+- [赤い公園 - 交信](https://www.youtube.com/watch?v=ORCrKF8YMhQ)
+- [サイダーガール/なまけもの](https://www.youtube.com/watch?v=Spr6QIlDvdE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
