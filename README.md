@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [魏如萱 waa wei - 刻在我心底的名字（盧廣仲） cover 【電影《刻在你心底的名字》主題曲】](https://www.youtube.com/watch?v=4hxO8-YdB6s)
-- [天堂有多遠? My Dearest Alien](https://www.youtube.com/watch?v=bDL_FBJQnHk)
 - [于文文《體面》動態歌詞版  【前任3:再見前任 插曲】](https://www.youtube.com/watch?v=sg_WE0ToJjM)
 - [Jay Chou 周杰倫【外婆 Grandma】-Official Music Video](https://www.youtube.com/watch?v=Ur-x4pZT1Rk)
 - [張紫豪 - 可不可以『不希望我的未來不是你，只願意和你永遠不分離。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=hgIDXTmmgDg)
+- [PG One - Kill The One (Lyric Video)](https://www.youtube.com/watch?v=XViTnWDg6Qo)
+- [張震嶽 A-Yue【認輸】Official Music Video](https://www.youtube.com/watch?v=mTmdrMDlWMs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
