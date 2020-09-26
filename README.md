@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Perfume 「FAKE IT」 from LIVE Blu-ray/DVD](https://www.youtube.com/watch?v=fq138eWTdpw)
-- [Lucie,Too - オレンジ (LIVE）](https://www.youtube.com/watch?v=3DrUilKPJ4I)
 - [Tokyo lights](https://www.youtube.com/watch?v=Ly4MXjjmsgI)
 - [赤い公園 - 交信](https://www.youtube.com/watch?v=ORCrKF8YMhQ)
 - [サイダーガール/なまけもの](https://www.youtube.com/watch?v=Spr6QIlDvdE)
+- [BRADIO-FUNKASISTA (OFFICIAL LIVE VIDEO)](https://www.youtube.com/watch?v=0-eT3N5doaw)
+- [植田真梨恵「ダイニング」PV](https://www.youtube.com/watch?v=h5qIy25I8fM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
