@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [WEAVER　「トキドキセカイ」](https://www.youtube.com/watch?v=gYBgzr1hDHQ)
-- [カラスは真っ白"fake!fake!"/A crow is white"fake!fake!"(Official Music Video)【English Sub】](https://www.youtube.com/watch?v=c-M7cvJy1IY)
 - [フレデリック - 峠の幽霊_MV](https://www.youtube.com/watch?v=tW7psfCXkTw)
 - [hitorie - Shutter Doll](https://www.youtube.com/watch?v=dZzm5AgkVVI)
 - [ミミズ  / majiko【Bass Cover】](https://www.youtube.com/watch?v=kusQZje1TKI)
+- [Alaska Jam / FASHION【Official Music Video】](https://www.youtube.com/watch?v=snV-UeDlBL0)
+- [シナリオアート 『ハローグッバイ』Music Video](https://www.youtube.com/watch?v=sGPHbgqv7TM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
