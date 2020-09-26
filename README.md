@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [flumpool [ 夜は眠れるかい?（夜晚能安然入眠嗎?）] Official Music Video](https://www.youtube.com/watch?v=308kgzwY5D4)
-- [怕胖團PAPUN BAND 『天天開心』Music Video](https://www.youtube.com/watch?v=ZYuR7iy-fYY)
 - [麋先生MIXER【囝仔 Kid】Official Music Video](https://www.youtube.com/watch?v=Kvi58jj2d1Q)
 - [Chinese Football － 電動少女  ［Official Music Video］](https://www.youtube.com/watch?v=X2goYUJpq9k)
 - [旺福 男右女左 全曲試聽](https://www.youtube.com/watch?v=rJVLdjgAyqo)
+- [告五人Accusefive【迷霧之子】Official Music Video](https://www.youtube.com/watch?v=LnJEaPnVmz4)
+- [[avex官方HD] JADE - All Right 官方完整版MV](https://www.youtube.com/watch?v=peb_mZN7hXU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
