@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック - 峠の幽霊_MV](https://www.youtube.com/watch?v=tW7psfCXkTw)
-- [hitorie - Shutter Doll](https://www.youtube.com/watch?v=dZzm5AgkVVI)
 - [ミミズ  / majiko【Bass Cover】](https://www.youtube.com/watch?v=kusQZje1TKI)
 - [Alaska Jam / FASHION【Official Music Video】](https://www.youtube.com/watch?v=snV-UeDlBL0)
 - [シナリオアート 『ハローグッバイ』Music Video](https://www.youtube.com/watch?v=sGPHbgqv7TM)
+- [分手愛(Beats by TEN)](https://www.youtube.com/watch?v=HpFx3MrOcRE)
+- [淺堤 Shallow Levée -【火車 Train】Live Music Video](https://www.youtube.com/watch?v=LaM95KFI0r4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
