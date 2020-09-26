@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方HD] JADE - All Right 官方完整版MV](https://www.youtube.com/watch?v=peb_mZN7hXU)
-- [植田真梨恵「ふれたら消えてしまう」PV](https://www.youtube.com/watch?v=gR7ko81rA-8)
 - [陳奕迅 Eason Chan -《你給我聽好》MV](https://www.youtube.com/watch?v=T9V45IhnMRU)
 - [[MV] 이달의 소녀/김립 (LOONA/Kim Lip) "Eclipse"](https://www.youtube.com/watch?v=_qJEoSa3Ie0)
 - [魏如萱 waa wei - 刻在我心底的名字（盧廣仲） cover 【電影《刻在你心底的名字》主題曲】](https://www.youtube.com/watch?v=4hxO8-YdB6s)
+- [天堂有多遠? My Dearest Alien](https://www.youtube.com/watch?v=bDL_FBJQnHk)
+- [于文文《體面》動態歌詞版  【前任3:再見前任 插曲】](https://www.youtube.com/watch?v=sg_WE0ToJjM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
