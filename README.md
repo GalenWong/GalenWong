@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan -《你給我聽好》MV](https://www.youtube.com/watch?v=T9V45IhnMRU)
-- [[MV] 이달의 소녀/김립 (LOONA/Kim Lip) "Eclipse"](https://www.youtube.com/watch?v=_qJEoSa3Ie0)
 - [魏如萱 waa wei - 刻在我心底的名字（盧廣仲） cover 【電影《刻在你心底的名字》主題曲】](https://www.youtube.com/watch?v=4hxO8-YdB6s)
 - [天堂有多遠? My Dearest Alien](https://www.youtube.com/watch?v=bDL_FBJQnHk)
 - [于文文《體面》動態歌詞版  【前任3:再見前任 插曲】](https://www.youtube.com/watch?v=sg_WE0ToJjM)
+- [Jay Chou 周杰倫【外婆 Grandma】-Official Music Video](https://www.youtube.com/watch?v=Ur-x4pZT1Rk)
+- [張紫豪 - 可不可以『不希望我的未來不是你，只願意和你永遠不分離。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=hgIDXTmmgDg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
