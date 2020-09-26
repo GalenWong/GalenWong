@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [植田真梨恵「ダイニング」PV](https://www.youtube.com/watch?v=h5qIy25I8fM)
-- [Lucie,Too - 最後の日 (Official Music Video)  / Saigo No Hi(The Last Day)](https://www.youtube.com/watch?v=x_pgoF01_8U)
 - [WEAVER　「トキドキセカイ」](https://www.youtube.com/watch?v=gYBgzr1hDHQ)
 - [カラスは真っ白"fake!fake!"/A crow is white"fake!fake!"(Official Music Video)【English Sub】](https://www.youtube.com/watch?v=c-M7cvJy1IY)
 - [フレデリック - 峠の幽霊_MV](https://www.youtube.com/watch?v=tW7psfCXkTw)
+- [hitorie - Shutter Doll](https://www.youtube.com/watch?v=dZzm5AgkVVI)
+- [ミミズ  / majiko【Bass Cover】](https://www.youtube.com/watch?v=kusQZje1TKI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
