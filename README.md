@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [萬能青年旅店 - 不萬能的喜劇](https://www.youtube.com/watch?v=-U6VE4ibdF0)
-- [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
 - [陳綺貞 Cheer Chen 【傷害 Hurt】 Official Music Video](https://www.youtube.com/watch?v=fWzmKHElUqY)
 - [io - 我思故我在 (COGITO ERGO SUM) OFFICIAL MUSIC VIDEO HD](https://www.youtube.com/watch?v=qK3d8N1y2VM)
 - [遠行 Distant Journey  作曲 Composer ｜林生祥 Lin Sheng-Xiang 作詞 Lyrics｜鍾孟宏 Mong-Hong Chung](https://www.youtube.com/watch?v=MYK-S7686XA)
+- [终于找到这首“哇啊啊啊”的歌，旋律太魔性了，根本顶不住！](https://www.youtube.com/watch?v=jOf3qdK4-tk)
+- [原諒我不明白你的悲傷](https://www.youtube.com/watch?v=iwa6eCc3gCk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
