@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [cero  / Summer Soul【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=lfETQNfBAD4)
-- [踮起腳尖愛 - 洪佩瑜](https://www.youtube.com/watch?v=tLDk2DueeMI)
 - [陳奕迅【苦瓜】MV](https://www.youtube.com/watch?v=UdWlBBqiC7I)
 - [林宥嘉 Yoga Lin [ 兜圈 ] Official Music Video (偶像劇｢必娶女人｣片尾曲)](https://www.youtube.com/watch?v=Mqr-kjvXsk8)
 - [陳奕迅 Eason Chan - 《無條件》MV](https://www.youtube.com/watch?v=jzGaS5kWj0U)
+- [cero / Orphans【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=c_SLGBJgDNE)
+- [任然 - 飛鳥和蟬 (翻唱) AlvinWCH 黃志宏](https://www.youtube.com/watch?v=wZogJq9pt_s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
