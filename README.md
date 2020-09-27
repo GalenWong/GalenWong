@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Santé - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=megYQRIb5qw)
-- [阿冗 - 你的答案『也許我只能沉默，眼淚濕潤眼眶可又不甘懦弱。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=ye4jAQ0uxcQ)
 - [茄子蛋EggPlantEgg - 日常 Everyday Life (Official Music Video)](https://www.youtube.com/watch?v=_vGN_dFtAQI)
 - [ASIAN KUNG-FU GENERATION - Kouya Wo Aruke](https://www.youtube.com/watch?v=KGM-BO0mklY)
 - [HEBE TIEN 田馥甄 [你就不要想起我 You Better Not Think About Me] Official MV HD](https://www.youtube.com/watch?v=GsKbnsUN2RE)
+- [茄子蛋EggPlantEgg - Happy!!! 運將情歌 Happy!!! Drivers Love Song (Official Music Video)](https://www.youtube.com/watch?v=ulKrn-3GraI)
+- [林宥嘉Yoga Lin [浪費 Unrequited] Official MV HD](https://www.youtube.com/watch?v=LTzy8NF3BDo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
