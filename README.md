@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [遠行 Distant Journey  作曲 Composer ｜林生祥 Lin Sheng-Xiang 作詞 Lyrics｜鍾孟宏 Mong-Hong Chung](https://www.youtube.com/watch?v=MYK-S7686XA)
-- [终于找到这首“哇啊啊啊”的歌，旋律太魔性了，根本顶不住！](https://www.youtube.com/watch?v=jOf3qdK4-tk)
 - [原諒我不明白你的悲傷](https://www.youtube.com/watch?v=iwa6eCc3gCk)
 - [同一種調調](https://www.youtube.com/watch?v=HXhEsi2uCZs)
 - [鍾明軒 Mitchell『當我說真話的時候我感到自由 I feel free when I’m saying the truth』official music video](https://www.youtube.com/watch?v=j5mZHRC50eY)
+- [黃氏兄弟【不專心】首張單曲MV ｜ Official Music Video](https://www.youtube.com/watch?v=0GzLgn2fgcI)
+- [梯田](https://www.youtube.com/watch?v=QUe29NYmfFo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
