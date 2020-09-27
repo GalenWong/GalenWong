@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [梯田](https://www.youtube.com/watch?v=QUe29NYmfFo)
-- [MAYDAY五月天 [ 挪威的森林 ]  feat.伍佰 Wu Bai  Life Tour no. 119 壓軸加班曲](https://www.youtube.com/watch?v=ShYLgpfW7aU)
 - [ずっと真夜中でいいのに。『Ham』MV（ZUTOMAYO - Ham）](https://www.youtube.com/watch?v=ouLndhBRL4w)
 - [ALiƎN 留給地球的最後一首友情歌，願大家一起將正能量傳出去！ #扛得住](https://www.youtube.com/watch?v=YGRIMzUKmt8)
 - [【認識的哥哥】徐玄帥翻跳BLACKPINK 超強清唱神複製Rosé唱腔](https://www.youtube.com/watch?v=enbDImqShZ8)
+- [拍謝少年 Sorry Youth - "山盟" Live @ 山盟海誓音樂祭](https://www.youtube.com/watch?v=dDbblbhzEio)
+- [馬念先 Ma Nian-Xian【寫一首情歌給我】Official Music Video](https://www.youtube.com/watch?v=Jv_YFXCjIkI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
