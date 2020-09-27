@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [HEBE TIEN 田馥甄 [你就不要想起我 You Better Not Think About Me] Official MV HD](https://www.youtube.com/watch?v=GsKbnsUN2RE)
-- [茄子蛋EggPlantEgg - Happy!!! 運將情歌 Happy!!! Drivers Love Song (Official Music Video)](https://www.youtube.com/watch?v=ulKrn-3GraI)
 - [林宥嘉Yoga Lin [浪費 Unrequited] Official MV HD](https://www.youtube.com/watch?v=LTzy8NF3BDo)
 - [李榮浩 Ronghao Li - 喜劇之王 King of Comedy (Official 高畫質 HD 官方完整版 MV)](https://www.youtube.com/watch?v=ijLLmE_sFkY)
 - [陳奕迅 + 王菲 【因為愛情】MV](https://www.youtube.com/watch?v=VdwAkhNdZi8)
+- [Yogee New Waves / Hello Ethiopia (PV)](https://www.youtube.com/watch?v=iZDJ7X3Q8UA)
+- [cero  / Summer Soul【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=lfETQNfBAD4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
