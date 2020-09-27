@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【認識的哥哥】徐玄帥翻跳BLACKPINK 超強清唱神複製Rosé唱腔](https://www.youtube.com/watch?v=enbDImqShZ8)
 - [拍謝少年 Sorry Youth - "山盟" Live @ 山盟海誓音樂祭](https://www.youtube.com/watch?v=dDbblbhzEio)
 - [馬念先 Ma Nian-Xian【寫一首情歌給我】Official Music Video](https://www.youtube.com/watch?v=Jv_YFXCjIkI)
 - [PUZZLEMAN LIVE - 香草奶昔｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=pp67Y2aKLqY)
 - [林宥嘉Yoga Lin - 少女 Otomen [Official Music Video]](https://www.youtube.com/watch?v=Vs9A65M3v-k)
+- [告五人 Accusefive - 在这座城市遗失了你 demo［歌词］](https://www.youtube.com/watch?v=La6hAYGTrhs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
