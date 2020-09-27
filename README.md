@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [伍佰 feat. 蛋堡/soft Lipa/杜振熙 - 史詩中的白鴿Mashup remix (完整版)](https://www.youtube.com/watch?v=xXdgW9VEPVM)
-- [Hello Nico〈看不見？〉MV](https://www.youtube.com/watch?v=hoa0DX-8Z6M)
 - [十万嬉皮 - 万能青年旅店](https://www.youtube.com/watch?v=xJ8pCMmq8Jk)
 - [伍佰 & China Blue《讓水倒流》 Official Music Video](https://www.youtube.com/watch?v=_dW66owaCJs)
 - [萬能青年旅店 - 不萬能的喜劇](https://www.youtube.com/watch?v=-U6VE4ibdF0)
+- [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
+- [陳綺貞 Cheer Chen 【傷害 Hurt】 Official Music Video](https://www.youtube.com/watch?v=fWzmKHElUqY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
