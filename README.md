@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 + 王菲 【因為愛情】MV](https://www.youtube.com/watch?v=VdwAkhNdZi8)
-- [Yogee New Waves / Hello Ethiopia (PV)](https://www.youtube.com/watch?v=iZDJ7X3Q8UA)
 - [cero  / Summer Soul【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=lfETQNfBAD4)
 - [踮起腳尖愛 - 洪佩瑜](https://www.youtube.com/watch?v=tLDk2DueeMI)
 - [陳奕迅【苦瓜】MV](https://www.youtube.com/watch?v=UdWlBBqiC7I)
+- [林宥嘉 Yoga Lin [ 兜圈 ] Official Music Video (偶像劇｢必娶女人｣片尾曲)](https://www.youtube.com/watch?v=Mqr-kjvXsk8)
+- [陳奕迅 Eason Chan - 《無條件》MV](https://www.youtube.com/watch?v=jzGaS5kWj0U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
