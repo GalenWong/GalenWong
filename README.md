@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [十万嬉皮 - 万能青年旅店](https://www.youtube.com/watch?v=xJ8pCMmq8Jk)
-- [伍佰 & China Blue《讓水倒流》 Official Music Video](https://www.youtube.com/watch?v=_dW66owaCJs)
 - [萬能青年旅店 - 不萬能的喜劇](https://www.youtube.com/watch?v=-U6VE4ibdF0)
 - [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
 - [陳綺貞 Cheer Chen 【傷害 Hurt】 Official Music Video](https://www.youtube.com/watch?v=fWzmKHElUqY)
+- [io - 我思故我在 (COGITO ERGO SUM) OFFICIAL MUSIC VIDEO HD](https://www.youtube.com/watch?v=qK3d8N1y2VM)
+- [遠行 Distant Journey  作曲 Composer ｜林生祥 Lin Sheng-Xiang 作詞 Lyrics｜鍾孟宏 Mong-Hong Chung](https://www.youtube.com/watch?v=MYK-S7686XA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
