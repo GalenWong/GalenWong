@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan 《我們》Us [Official MV]](https://www.youtube.com/watch?v=dhjomo8W6Lc)
-- [萬能青年旅店 烏雲典當記](https://www.youtube.com/watch?v=WJ23dfni16o)
 - [明日之子導師開場秀【依然睡公主】- G.E.M.鄧紫棋](https://www.youtube.com/watch?v=WqbheYOjOr0)
 - [萬能青年旅店-在這顆行星所有的酒館](https://www.youtube.com/watch?v=OOctKfavncY)
 - [伍佰 feat. 蛋堡/soft Lipa/杜振熙 - 史詩中的白鴿Mashup remix (完整版)](https://www.youtube.com/watch?v=xXdgW9VEPVM)
+- [Hello Nico〈看不見？〉MV](https://www.youtube.com/watch?v=hoa0DX-8Z6M)
+- [十万嬉皮 - 万能青年旅店](https://www.youtube.com/watch?v=xJ8pCMmq8Jk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
