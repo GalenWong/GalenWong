@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原諒我不明白你的悲傷](https://www.youtube.com/watch?v=iwa6eCc3gCk)
-- [同一種調調](https://www.youtube.com/watch?v=HXhEsi2uCZs)
 - [鍾明軒 Mitchell『當我說真話的時候我感到自由 I feel free when I’m saying the truth』official music video](https://www.youtube.com/watch?v=j5mZHRC50eY)
 - [黃氏兄弟【不專心】首張單曲MV ｜ Official Music Video](https://www.youtube.com/watch?v=0GzLgn2fgcI)
 - [梯田](https://www.youtube.com/watch?v=QUe29NYmfFo)
+- [MAYDAY五月天 [ 挪威的森林 ]  feat.伍佰 Wu Bai  Life Tour no. 119 壓軸加班曲](https://www.youtube.com/watch?v=ShYLgpfW7aU)
+- [ずっと真夜中でいいのに。『Ham』MV（ZUTOMAYO - Ham）](https://www.youtube.com/watch?v=ouLndhBRL4w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
