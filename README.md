@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan - 《無條件》MV](https://www.youtube.com/watch?v=jzGaS5kWj0U)
-- [cero / Orphans【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=c_SLGBJgDNE)
 - [任然 - 飛鳥和蟬 (翻唱) AlvinWCH 黃志宏](https://www.youtube.com/watch?v=wZogJq9pt_s)
 - [張國榮 Leslie Cheung -《春夏秋冬 A Balloon’s Journey》MV](https://www.youtube.com/watch?v=iU1mnIMlcZk)
 - [陳奕迅 Eason Chan 《我們》Us [Official MV]](https://www.youtube.com/watch?v=dhjomo8W6Lc)
+- [萬能青年旅店 烏雲典當記](https://www.youtube.com/watch?v=WJ23dfni16o)
+- [明日之子導師開場秀【依然睡公主】- G.E.M.鄧紫棋](https://www.youtube.com/watch?v=WqbheYOjOr0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
