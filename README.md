@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [滅火器 Fire EX.－Song For You](https://www.youtube.com/watch?v=u8Vr1X2eskw)
-- [草莓救星 - 09 這樣的我](https://www.youtube.com/watch?v=CSY9leY7Tnc)
 - [怕胖團PAPUN BAND《 2049 》Music Video](https://www.youtube.com/watch?v=R7SwfeHxAoc)
 - [tofubeats「ふめつのこころ」](https://www.youtube.com/watch?v=W4TtTzSxqv8)
 - [bohemianvoodoo "Adria Blue" 【Music Video】](https://www.youtube.com/watch?v=gjDrEdEzfQc)
+- [tofubeats - 水星 feat.オノマトペ大臣(PV)](https://www.youtube.com/watch?v=NOjmN-ZHlBQ)
+- [PREP - Who's Got You Singing Again (Official Video)](https://www.youtube.com/watch?v=h-Yiku4Al48)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
