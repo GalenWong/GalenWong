@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [麋先生MIXER【愚公移山 On The Road】42th金穗獎創作版MV I](https://www.youtube.com/watch?v=UmT1qlxS1Es)
-- [好樂團 GoodBand ─《棲身之地》Official Audio（Live in Legacy）](https://www.youtube.com/watch?v=2-o6KEWoKsw)
 - [顯然樂隊-我只是想要被喜歡 Official Video](https://www.youtube.com/watch?v=ApIkonNk48s)
 - [SoulFa靈魂沙發 - Hear Hear｜Official Music Video](https://www.youtube.com/watch?v=g_1SUgRo2s4)
 - [《明天會更好》cover 蕭小M  feat.網紅朋友們](https://www.youtube.com/watch?v=HR3VgyhiVxI)
+- [Crispy脆樂團 [ Deja Vu ] feat. 熊仔 Official Music Video](https://www.youtube.com/watch?v=i7syPKahNfs)
+- [ヨルシカ - 藍二乗 (Music Video)](https://www.youtube.com/watch?v=4MoRLTAJY_0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
