@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「逃避行」Music Video / frederic “Tohiko” -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=M1iXjgaYh1w)
-- [Yogee New Waves / CAN YOU FEEL IT (Official MV)](https://www.youtube.com/watch?v=rwpMn7w4WE0)
 - [宋冬野《董小姐》繁體中字 Official MV](https://www.youtube.com/watch?v=AG8HtuOjkH0)
 - [あいみょん - 満月の夜なら 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=OVKKtwDReEA)
 - [Official髭男dism - LADY［Official Video］](https://www.youtube.com/watch?v=0nzgi6dz8VY)
+- [あいみょん - ふたりの世界 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=WsEOnichYgI)
+- [傷心欲絕 Wayne's So Sad - 悲劇成癮CEO The CEO of Sad-addict](https://www.youtube.com/watch?v=_xlNNqclYOI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
