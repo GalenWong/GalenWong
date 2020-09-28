@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [東京事変 - 「能動的三分間」 from ウルトラC](https://www.youtube.com/watch?v=28uWiQ_Q5LY)
-- [怕胖團PAPUN BAND 《 想想當初吧 》Music Video](https://www.youtube.com/watch?v=ZU6pcdQBUEM)
 - [披星戴月的想你  用九柑仔店版](https://www.youtube.com/watch?v=bWgjyfT--Pc)
 - [陳綺貞 Cheer Chen【下個星期去英國 Go To England Next Week】Official Music Video](https://www.youtube.com/watch?v=sAtziErzpcU)
 - [9m88 ft. 馬念先 - 你朝我的方向走來，2019/8/28 《平庸之上》專輯發片場@Legacy Taipei](https://www.youtube.com/watch?v=who8sxn8W04)
+- [Hello Nico-你是被抹去的那一段風景](https://www.youtube.com/watch?v=LBn8SB0EbrQ)
+- [麋先生MIXER【愚公移山 On The Road】42th金穗獎創作版MV I](https://www.youtube.com/watch?v=UmT1qlxS1Es)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
