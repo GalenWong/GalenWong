@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [SLAV KING - Boris vs. DJ Blyatman](https://www.youtube.com/watch?v=QIjKijhv1OU)
-- [I went to JAPAN just to play these songs...](https://www.youtube.com/watch?v=ElYd3atad9k)
 - [The Coconut Song - (Da Coconut Nut)](https://www.youtube.com/watch?v=w0AOGeqOnFY)
 - [PewDiePie - Floor Gang (Remix)](https://www.youtube.com/watch?v=ot7q_my379o)
 - [東京事変 - 修羅場](https://www.youtube.com/watch?v=TlgDgNDSZYE)
+- [椎名林檎 - 神様、仏様 from百鬼夜行](https://www.youtube.com/watch?v=IZs1-CiqUj4)
+- [東京事変 - 「能動的三分間」 from ウルトラC](https://www.youtube.com/watch?v=28uWiQ_Q5LY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
