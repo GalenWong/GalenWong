@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Official髭男dism - LADY［Official Video］](https://www.youtube.com/watch?v=0nzgi6dz8VY)
-- [あいみょん - ふたりの世界 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=WsEOnichYgI)
 - [傷心欲絕 Wayne's So Sad - 悲劇成癮CEO The CEO of Sad-addict](https://www.youtube.com/watch?v=_xlNNqclYOI)
 - [toe - "Dual Harmonics"](https://www.youtube.com/watch?v=FHv53DVH48Y)
 - [草東沒有派對-【鬼】Cover by 鄭康亮ft.愛人眼睛](https://www.youtube.com/watch?v=Pn4ua9gOg3Q)
+- [CosmosPeople宇宙人 [ 如果我們還在一起  What If We ] Official Music Video](https://www.youtube.com/watch?v=mBB_67OxXIo)
+- [JC - 說散就散 Lyrics Video](https://www.youtube.com/watch?v=zOEISgh7k_g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
