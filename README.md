@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [PREP - Who's Got You Singing Again (Official Video)](https://www.youtube.com/watch?v=h-Yiku4Al48)
-- [toconoma"Yellow Surf" live MV](https://www.youtube.com/watch?v=eXZ6hq1IWCA)
 - [bohemianvoodoo "Golden Forest" 【Music Video】](https://www.youtube.com/watch?v=-oWccnrIqKo)
 - [bohemianvoodoo "El Ron Zacapa" 【Music Video】](https://www.youtube.com/watch?v=z2knnB8oedc)
 - [SLAV KING - Boris vs. DJ Blyatman](https://www.youtube.com/watch?v=QIjKijhv1OU)
+- [I went to JAPAN just to play these songs...](https://www.youtube.com/watch?v=ElYd3atad9k)
+- [The Coconut Song - (Da Coconut Nut)](https://www.youtube.com/watch?v=w0AOGeqOnFY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
