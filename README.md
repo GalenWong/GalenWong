@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [bohemianvoodoo "Adria Blue" 【Music Video】](https://www.youtube.com/watch?v=gjDrEdEzfQc)
-- [tofubeats - 水星 feat.オノマトペ大臣(PV)](https://www.youtube.com/watch?v=NOjmN-ZHlBQ)
 - [PREP - Who's Got You Singing Again (Official Video)](https://www.youtube.com/watch?v=h-Yiku4Al48)
 - [toconoma"Yellow Surf" live MV](https://www.youtube.com/watch?v=eXZ6hq1IWCA)
 - [bohemianvoodoo "Golden Forest" 【Music Video】](https://www.youtube.com/watch?v=-oWccnrIqKo)
+- [bohemianvoodoo "El Ron Zacapa" 【Music Video】](https://www.youtube.com/watch?v=z2knnB8oedc)
+- [SLAV KING - Boris vs. DJ Blyatman](https://www.youtube.com/watch?v=QIjKijhv1OU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
