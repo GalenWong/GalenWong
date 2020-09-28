@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [PUZZLEMAN LIVE - 香草奶昔｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=pp67Y2aKLqY)
-- [林宥嘉Yoga Lin - 少女 Otomen [Official Music Video]](https://www.youtube.com/watch?v=Vs9A65M3v-k)
 - [告五人 Accusefive - 在这座城市遗失了你 demo［歌词］](https://www.youtube.com/watch?v=La6hAYGTrhs)
 - [麋先生Mixer-麋途](https://www.youtube.com/watch?v=gGoKepKMW20)
 - [滅火器 Fire EX.－Song For You](https://www.youtube.com/watch?v=u8Vr1X2eskw)
+- [草莓救星 - 09 這樣的我](https://www.youtube.com/watch?v=CSY9leY7Tnc)
+- [怕胖團PAPUN BAND《 2049 》Music Video](https://www.youtube.com/watch?v=R7SwfeHxAoc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
