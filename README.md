@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人 Accusefive - 在这座城市遗失了你 demo［歌词］](https://www.youtube.com/watch?v=La6hAYGTrhs)
-- [麋先生Mixer-麋途](https://www.youtube.com/watch?v=gGoKepKMW20)
 - [滅火器 Fire EX.－Song For You](https://www.youtube.com/watch?v=u8Vr1X2eskw)
 - [草莓救星 - 09 這樣的我](https://www.youtube.com/watch?v=CSY9leY7Tnc)
 - [怕胖團PAPUN BAND《 2049 》Music Video](https://www.youtube.com/watch?v=R7SwfeHxAoc)
+- [tofubeats「ふめつのこころ」](https://www.youtube.com/watch?v=W4TtTzSxqv8)
+- [bohemianvoodoo "Adria Blue" 【Music Video】](https://www.youtube.com/watch?v=gjDrEdEzfQc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
