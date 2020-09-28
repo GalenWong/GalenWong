@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [怕胖團PAPUN BAND《 2049 》Music Video](https://www.youtube.com/watch?v=R7SwfeHxAoc)
-- [tofubeats「ふめつのこころ」](https://www.youtube.com/watch?v=W4TtTzSxqv8)
 - [bohemianvoodoo "Adria Blue" 【Music Video】](https://www.youtube.com/watch?v=gjDrEdEzfQc)
 - [tofubeats - 水星 feat.オノマトペ大臣(PV)](https://www.youtube.com/watch?v=NOjmN-ZHlBQ)
 - [PREP - Who's Got You Singing Again (Official Video)](https://www.youtube.com/watch?v=h-Yiku4Al48)
+- [toconoma"Yellow Surf" live MV](https://www.youtube.com/watch?v=eXZ6hq1IWCA)
+- [bohemianvoodoo "Golden Forest" 【Music Video】](https://www.youtube.com/watch?v=-oWccnrIqKo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
