@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [9m88 ft. 馬念先 - 你朝我的方向走來，2019/8/28 《平庸之上》專輯發片場@Legacy Taipei](https://www.youtube.com/watch?v=who8sxn8W04)
-- [Hello Nico-你是被抹去的那一段風景](https://www.youtube.com/watch?v=LBn8SB0EbrQ)
 - [麋先生MIXER【愚公移山 On The Road】42th金穗獎創作版MV I](https://www.youtube.com/watch?v=UmT1qlxS1Es)
 - [好樂團 GoodBand ─《棲身之地》Official Audio（Live in Legacy）](https://www.youtube.com/watch?v=2-o6KEWoKsw)
 - [顯然樂隊-我只是想要被喜歡 Official Video](https://www.youtube.com/watch?v=ApIkonNk48s)
+- [SoulFa靈魂沙發 - Hear Hear｜Official Music Video](https://www.youtube.com/watch?v=g_1SUgRo2s4)
+- [《明天會更好》cover 蕭小M  feat.網紅朋友們](https://www.youtube.com/watch?v=HR3VgyhiVxI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
