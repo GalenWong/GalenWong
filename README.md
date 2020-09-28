@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [JC - 說散就散 Lyrics Video](https://www.youtube.com/watch?v=zOEISgh7k_g)
-- [黃玠瑋 Zooey Wonder - 暖陽｜例假日](https://www.youtube.com/watch?v=TpF-WunfbGI)
 - [Modern Loneliness - Lauv (Cover)](https://www.youtube.com/watch?v=fhYw-UUpANM)
 - [A-Lin《有一種悲傷 A Kind of Sorrow》Official Music Video - 電影『比悲傷更悲傷的故事 More Than Blue 』主題曲](https://www.youtube.com/watch?v=BRcudpJzy1I)
 - [KANA-BOON - Silhouette](https://www.youtube.com/watch?v=dlFA0Zq1k2A)
+- [ヨルシカ - 春ひさぎ（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=F3cXxqgbx9Y)
+- [Ves](https://www.youtube.com/watch?v=-uoQikOiKDo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
