@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [《明天會更好》cover 蕭小M  feat.網紅朋友們](https://www.youtube.com/watch?v=HR3VgyhiVxI)
-- [Crispy脆樂團 [ Deja Vu ] feat. 熊仔 Official Music Video](https://www.youtube.com/watch?v=i7syPKahNfs)
 - [ヨルシカ - 藍二乗 (Music Video)](https://www.youtube.com/watch?v=4MoRLTAJY_0)
 - [Official髭男dism - Tell Me Baby［Official Video］](https://www.youtube.com/watch?v=3IDvi4buNdk)
 - [安溥 anpu ft. 草東沒有派對 No Party For Cao Dong-在](https://www.youtube.com/watch?v=9U-r6_p-jps)
+- [昏鴉 - 王國三部曲之壹 《萬中選一的青年》Lyrics Video](https://www.youtube.com/watch?v=DA5NLKYDxfQ)
+- [フレデリック「逃避行」Music Video / frederic “Tohiko” -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=M1iXjgaYh1w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
