@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [顯然樂隊-我只是想要被喜歡 Official Video](https://www.youtube.com/watch?v=ApIkonNk48s)
-- [SoulFa靈魂沙發 - Hear Hear｜Official Music Video](https://www.youtube.com/watch?v=g_1SUgRo2s4)
 - [《明天會更好》cover 蕭小M  feat.網紅朋友們](https://www.youtube.com/watch?v=HR3VgyhiVxI)
 - [Crispy脆樂團 [ Deja Vu ] feat. 熊仔 Official Music Video](https://www.youtube.com/watch?v=i7syPKahNfs)
 - [ヨルシカ - 藍二乗 (Music Video)](https://www.youtube.com/watch?v=4MoRLTAJY_0)
+- [Official髭男dism - Tell Me Baby［Official Video］](https://www.youtube.com/watch?v=3IDvi4buNdk)
+- [安溥 anpu ft. 草東沒有派對 No Party For Cao Dong-在](https://www.youtube.com/watch?v=9U-r6_p-jps)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
