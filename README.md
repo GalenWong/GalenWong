@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [親愛的無情孫小美](https://www.youtube.com/watch?v=M1BC3B_BUqk)
-- [宋冬野  -  郭源潮   Music Video](https://www.youtube.com/watch?v=RQsM2uvXow8)
 - [淡水海邊](https://www.youtube.com/watch?v=vtHZm3KPlYE)
 - [雙刀](https://www.youtube.com/watch?v=0SmVUP3Nk4s)
 - [林宥嘉Yoga Lin [成全 Step aside] Official Live](https://www.youtube.com/watch?v=JfnQ8qtcDyQ)
+- [周興哲 - 我很快樂 cover (Jasmine)](https://www.youtube.com/watch?v=_S9KpF7U5Yo)
+- [Full House](https://www.youtube.com/watch?v=P8z0oxSG19I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
