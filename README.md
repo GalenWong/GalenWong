@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Allyson 陳瑾緗 -《一兆個理由 Being Lazy》Official Music Video](https://www.youtube.com/watch?v=uP1oCL5Ka1c)
-- [(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' Official Music Video](https://www.youtube.com/watch?v=OKNXn2qCEws)
 - [Khalil Fong (方大同) - Definition of Love (關於愛的定義) Official Audio](https://www.youtube.com/watch?v=-1LqgvBMAhQ)
 - [Apink 에이핑크 덤더럼(Dumhdurum) Music Video Official](https://www.youtube.com/watch?v=WqzTRK5GPWQ)
 - [Triple G - 棉花糖 [Official MV]](https://www.youtube.com/watch?v=Y3m4Fx2u3-8)
+- [Franklin Telescope - Run (Official Music Video)](https://www.youtube.com/watch?v=GT1EKADf__k)
+- [【HD】鋼之鍊金術師 Fullmetal Alchemist: Brotherhood OP3 - スキマスイッチ - Golden Time Lover【中日字幕】](https://www.youtube.com/watch?v=TgbqBx4NthI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
