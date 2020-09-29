@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【滴妹翻唱】All Falls Down by Alan Walker feat. Noah Cyrus & Digital Farm Animals ♥ 滴妹](https://www.youtube.com/watch?v=NI7UfyDzv_Y)
-- [ESNO / 夕暮れパラレリズム feat.daoko【MUSIC VIDEO】](https://www.youtube.com/watch?v=GWsZIjTvJUE)
 - [大象體操ElephantGym _ 青蛙Frog【Official Live Video】](https://www.youtube.com/watch?v=VSsFBFDADRI)
 - [Youth With You青春有你2蔡徐坤合作舞台《情人》KUN’s Collaborative Performance Pure Cut: “Lover”！](https://www.youtube.com/watch?v=jaHgW0qbWtQ)
 - [黃明志Ft. 王力宏【漂向北方】@亞洲通車 2016 Crossover Asia](https://www.youtube.com/watch?v=qIF8xvSA0Gw)
+- [HoneyComeBear - Clockwise](https://www.youtube.com/watch?v=B3pO4ai9Ec8)
+- [Mudai (Unplugged)](https://www.youtube.com/watch?v=kkAq_WAZjWs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
