@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【HD】鋼之鍊金術師 Fullmetal Alchemist: Brotherhood OP3 - スキマスイッチ - Golden Time Lover【中日字幕】](https://www.youtube.com/watch?v=TgbqBx4NthI)
-- [戰犯 春艷Chunyan - 大男孩主義 (Big Boy Style) Official MV](https://www.youtube.com/watch?v=1aTxjbHnmLs)
 - [supercell - Kimino Shiranai Monogatari](https://www.youtube.com/watch?v=eLPs_w-FepA)
 - [[MV] MAMAMOO(마마무) _ Egotistic(너나 해)](https://www.youtube.com/watch?v=pHtxTSiPh5I)
 - [The Hertz  -《末日快車》97km/h (Official Music Video)](https://www.youtube.com/watch?v=HoOVbHGiE1Y)
+- [光景消逝 The Hindsight -〈噬愛〉Official Music Video ​](https://www.youtube.com/watch?v=jNBPNyCtbMo)
+- [(여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video](https://www.youtube.com/watch?v=om3n2ni8luE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
