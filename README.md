@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [(여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video](https://www.youtube.com/watch?v=om3n2ni8luE)
-- [鄉愁](https://www.youtube.com/watch?v=4ATmaQVCfkw)
 - [想不起你的名字](https://www.youtube.com/watch?v=h4-jDH4mzgY)
 - [床邊故事](https://www.youtube.com/watch?v=F7tCW0wiLk4)
 - [存在](https://www.youtube.com/watch?v=HQ2gyBNKbyk)
+- [你是我的OK繃](https://www.youtube.com/watch?v=IlkVOq3LZR4)
+- [親愛的無情孫小美](https://www.youtube.com/watch?v=M1BC3B_BUqk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
