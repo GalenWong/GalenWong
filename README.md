@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [KANA-BOON - Silhouette](https://www.youtube.com/watch?v=dlFA0Zq1k2A)
-- [ヨルシカ - 春ひさぎ（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=F3cXxqgbx9Y)
 - [Ves](https://www.youtube.com/watch?v=-uoQikOiKDo)
 - [走在冷風中](https://www.youtube.com/watch?v=hotCnQ8vggU)
 - [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
+- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
+- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
