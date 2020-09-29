@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Ves](https://www.youtube.com/watch?v=-uoQikOiKDo)
-- [走在冷風中](https://www.youtube.com/watch?v=hotCnQ8vggU)
 - [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
 - [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
 - [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
+- [Haruka Nakamura ft Nujabes - Let Go - 2013 [Melodica]](https://www.youtube.com/watch?v=yQw1JtS75vQ)
+- [【滴妹翻唱】All Falls Down by Alan Walker feat. Noah Cyrus & Digital Farm Animals ♥ 滴妹](https://www.youtube.com/watch?v=NI7UfyDzv_Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
