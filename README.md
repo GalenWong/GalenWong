@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [supercell - Kimino Shiranai Monogatari](https://www.youtube.com/watch?v=eLPs_w-FepA)
-- [[MV] MAMAMOO(마마무) _ Egotistic(너나 해)](https://www.youtube.com/watch?v=pHtxTSiPh5I)
 - [The Hertz  -《末日快車》97km/h (Official Music Video)](https://www.youtube.com/watch?v=HoOVbHGiE1Y)
 - [光景消逝 The Hindsight -〈噬愛〉Official Music Video ​](https://www.youtube.com/watch?v=jNBPNyCtbMo)
 - [(여자)아이들((G)I-DLE) - 'Oh my god' Official Music Video](https://www.youtube.com/watch?v=om3n2ni8luE)
+- [鄉愁](https://www.youtube.com/watch?v=4ATmaQVCfkw)
+- [想不起你的名字](https://www.youtube.com/watch?v=h4-jDH4mzgY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
