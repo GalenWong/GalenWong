@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [黃明志Ft. 王力宏【漂向北方】@亞洲通車 2016 Crossover Asia](https://www.youtube.com/watch?v=qIF8xvSA0Gw)
-- [HoneyComeBear - Clockwise](https://www.youtube.com/watch?v=B3pO4ai9Ec8)
 - [Mudai (Unplugged)](https://www.youtube.com/watch?v=kkAq_WAZjWs)
 - [Full Moon Again](https://www.youtube.com/watch?v=09a5UJ8HmpU)
 - [Jeremy Zucker - comethru (Official Video)](https://www.youtube.com/watch?v=jO2viLEW-1A)
+- [fox capture plan / 衝動の粒子](https://www.youtube.com/watch?v=Zww88qOSpZs)
+- [Allyson 陳瑾緗 -《一兆個理由 Being Lazy》Official Music Video](https://www.youtube.com/watch?v=uP1oCL5Ka1c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
