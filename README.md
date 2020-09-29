@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Mudai (Unplugged)](https://www.youtube.com/watch?v=kkAq_WAZjWs)
-- [Full Moon Again](https://www.youtube.com/watch?v=09a5UJ8HmpU)
 - [Jeremy Zucker - comethru (Official Video)](https://www.youtube.com/watch?v=jO2viLEW-1A)
 - [fox capture plan / 衝動の粒子](https://www.youtube.com/watch?v=Zww88qOSpZs)
 - [Allyson 陳瑾緗 -《一兆個理由 Being Lazy》Official Music Video](https://www.youtube.com/watch?v=uP1oCL5Ka1c)
+- [(여자)아이들((G)I-DLE) - '한(一)(HANN(Alone))' Official Music Video](https://www.youtube.com/watch?v=OKNXn2qCEws)
+- [Khalil Fong (方大同) - Definition of Love (關於愛的定義) Official Audio](https://www.youtube.com/watch?v=-1LqgvBMAhQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
