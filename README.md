@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [淡水海邊](https://www.youtube.com/watch?v=vtHZm3KPlYE)
-- [雙刀](https://www.youtube.com/watch?v=0SmVUP3Nk4s)
 - [林宥嘉Yoga Lin [成全 Step aside] Official Live](https://www.youtube.com/watch?v=JfnQ8qtcDyQ)
 - [周興哲 - 我很快樂 cover (Jasmine)](https://www.youtube.com/watch?v=_S9KpF7U5Yo)
 - [Full House](https://www.youtube.com/watch?v=P8z0oxSG19I)
+- [無關拯救的事](https://www.youtube.com/watch?v=mjLpvns5lIo)
+- [魔鬼中的天使+你就不要想起我](https://www.youtube.com/watch?v=LLXRGvWSGV0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
