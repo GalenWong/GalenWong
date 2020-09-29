@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [魔鬼中的天使+你就不要想起我](https://www.youtube.com/watch?v=LLXRGvWSGV0)
-- [煙花易冷](https://www.youtube.com/watch?v=akLc2fdLWdY)
 - [给抱着盒子的姑娘](https://www.youtube.com/watch?v=HnJwXNUain8)
 - [Official髭男dism - 宿命［Official Video］](https://www.youtube.com/watch?v=-kgOFJG881I)
 - [Cazzo - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=CM-6FJlYHI4)
+- [Mrs. GREEN APPLE - 青と夏](https://www.youtube.com/watch?v=m34DPnRUfMU)
+- [YOASOBI「あの夢をなぞって」 Official Music Video](https://www.youtube.com/watch?v=sAuEeM_6zpk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
