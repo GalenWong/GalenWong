@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [聽風](https://www.youtube.com/watch?v=FnjRVFDO6xQ)
 - [HANCE - 夜と嘘 / The Night and the Lie (Official Music Video)](https://www.youtube.com/watch?v=RmMeOpdhU4M)
 - [HARUHI／應變 (中文字幕版) 電影《如果這世界貓消失了》主題曲](https://www.youtube.com/watch?v=PLKdsZhan_A)
 - [CAGNET - Deeper & Deeper [Live Video] LONG VACATION](https://www.youtube.com/watch?v=iDKKuxdHRkg)
 - [METAFIVE  「Musical Chairs」](https://www.youtube.com/watch?v=91DqAOAx2tU)
+- [TOSHIKI HAYASHI(%C) - rose](https://www.youtube.com/watch?v=l0ugeRWt_VQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
