@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [CAGNET - Deeper & Deeper [Live Video] LONG VACATION](https://www.youtube.com/watch?v=iDKKuxdHRkg)
-- [METAFIVE  「Musical Chairs」](https://www.youtube.com/watch?v=91DqAOAx2tU)
 - [TOSHIKI HAYASHI(%C) - rose](https://www.youtube.com/watch?v=l0ugeRWt_VQ)
 - [Summer](https://www.youtube.com/watch?v=mJm44xHkgBM)
 - [Breezin'](https://www.youtube.com/watch?v=D0VTZlkxaEk)
+- [Dancing In The Moonlight](https://www.youtube.com/watch?v=BxbGS6OkXDU)
+- [Fkj - 10 Years Ago (Official Audio)](https://www.youtube.com/watch?v=rqScfATfNnc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
