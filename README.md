@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj - 10 Years Ago (Official Audio)](https://www.youtube.com/watch?v=rqScfATfNnc)
 - [須田景凪「veil」MV](https://www.youtube.com/watch?v=n7VZxg9pxkg)
 - [潘瑋柏 Will Pan《巴比倫 Babylon》Official Music Video](https://www.youtube.com/watch?v=I7I49VtqrrM)
 - [[MV] 이달의 소녀/Olivia Hye (LOONA/올리비아 혜) "Egoist (Feat. JinSoul)"](https://www.youtube.com/watch?v=UkY8HvgvBJ8)
 - [羊毛とおはな「月見草」](https://www.youtube.com/watch?v=LrP4uG9Dek4)
+- [郁可唯 Yisa Yu [ 十年如一日One Decade As One Day ] Official Music Video](https://www.youtube.com/watch?v=hhoRgpKhpUc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
