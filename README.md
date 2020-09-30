@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [桑田佳祐 – 明日晴れるかな（Full ver.）](https://www.youtube.com/watch?v=vjj16qog4vQ)
-- [《中國新說唱2020》純享：張靚穎《Dear Jane Ⅱ》公演失誤全場心疼不捨｜愛奇藝](https://www.youtube.com/watch?v=WIsmU4XM26Y)
 - [Fkj Live at La Fée Electricité, Paris](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
 - [Lady](https://www.youtube.com/watch?v=zXg0Dg4ZRTU)
 - [Friends](https://www.youtube.com/watch?v=xeCcdzRbuJw)
+- [Zion.t - Holding onto the end of the night(infinity challenge) FULL VER.](https://www.youtube.com/watch?v=h4N3wzwgMXc)
+- [李友廷 Yo Lee [ 想怎樣 Quarrel Love ] feat. 魏如萱 waa wei Official Music Video](https://www.youtube.com/watch?v=oj3XSsdeI9o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
