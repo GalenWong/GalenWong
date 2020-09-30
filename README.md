@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [李友廷 Yo Lee [ 想怎樣 Quarrel Love ] feat. 魏如萱 waa wei Official Music Video](https://www.youtube.com/watch?v=oj3XSsdeI9o)
-- [NiziU  『Make you happy』 M/V](https://www.youtube.com/watch?v=QW28YKqdxe0)
 - [ラブリー](https://www.youtube.com/watch?v=EysClVwt_XY)
 - [モンスター feat. 秦基博 (オリジナル)](https://www.youtube.com/watch?v=Q_n-rWetk0w)
 - [LA･LA･LA･LOVE SONG](https://www.youtube.com/watch?v=oas4xZmaBww)
+- [聽風](https://www.youtube.com/watch?v=FnjRVFDO6xQ)
+- [HANCE - 夜と嘘 / The Night and the Lie (Official Music Video)](https://www.youtube.com/watch?v=RmMeOpdhU4M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
