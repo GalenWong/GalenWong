@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Friends](https://www.youtube.com/watch?v=xeCcdzRbuJw)
-- [Zion.t - Holding onto the end of the night(infinity challenge) FULL VER.](https://www.youtube.com/watch?v=h4N3wzwgMXc)
 - [李友廷 Yo Lee [ 想怎樣 Quarrel Love ] feat. 魏如萱 waa wei Official Music Video](https://www.youtube.com/watch?v=oj3XSsdeI9o)
 - [NiziU  『Make you happy』 M/V](https://www.youtube.com/watch?v=QW28YKqdxe0)
 - [ラブリー](https://www.youtube.com/watch?v=EysClVwt_XY)
+- [モンスター feat. 秦基博 (オリジナル)](https://www.youtube.com/watch?v=Q_n-rWetk0w)
+- [LA･LA･LA･LOVE SONG](https://www.youtube.com/watch?v=oas4xZmaBww)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
