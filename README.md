@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Cazzo - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=CM-6FJlYHI4)
 - [Mrs. GREEN APPLE - 青と夏](https://www.youtube.com/watch?v=m34DPnRUfMU)
 - [YOASOBI「あの夢をなぞって」 Official Music Video](https://www.youtube.com/watch?v=sAuEeM_6zpk)
 - [桑田佳祐 – 明日晴れるかな（Full ver.）](https://www.youtube.com/watch?v=vjj16qog4vQ)
 - [《中國新說唱2020》純享：張靚穎《Dear Jane Ⅱ》公演失誤全場心疼不捨｜愛奇藝](https://www.youtube.com/watch?v=WIsmU4XM26Y)
+- [Fkj Live at La Fée Electricité, Paris](https://www.youtube.com/watch?v=xuc9C-C6Ldw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
