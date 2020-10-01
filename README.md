@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Phum Viphurit - Hello, Anxiety [Official Video]](https://www.youtube.com/watch?v=b7ffmtnuSGM)
-- [Phum Viphurit - Long Gone [Official Video]](https://www.youtube.com/watch?v=hTBPPSNGYi8)
 - [Fkj - Ylang Ylang](https://www.youtube.com/watch?v=EfgAd6iHApE)
 - [ヨルシカ - ヒッチコック (MUSIC VIDEO)](https://www.youtube.com/watch?v=t7MBzMP4OzY)
 - [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
+- [あいみょん - 生きていたんだよな 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EEMwA8KZAqg)
+- [Tatsuro Yamashita "Sparkle" (Japanese Funk - 1982)](https://www.youtube.com/watch?v=7ijMDQgvW0o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
