@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [黃玠瑋 Zooey Wonder - 再也不見｜例假日](https://www.youtube.com/watch?v=qGU6uwy98rA)
-- [Season](https://www.youtube.com/watch?v=ML1Fbejl1SM)
 - [Sakamichi](https://www.youtube.com/watch?v=qypjoJKS8w4)
 - [RADWIMPS - 祈跡 [歌詞付き] [和訳] [Sub Español] [Romaji]](https://www.youtube.com/watch?v=fG9tIq3Nw4Y)
 - [「中日歌詞」やくしまるえつこ -「放課後ディストラクション 」TV『 高分少女』ED](https://www.youtube.com/watch?v=fIC4_ZsGQ3o)
+- [米津玄師 MV「LOSER」](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
+- [mol-74 - ％ 【MV】](https://www.youtube.com/watch?v=IRWGgOATTUQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
