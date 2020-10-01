@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [『Ryuichi Sakamoto | Art Box Project 2020』Teaser](https://www.youtube.com/watch?v=pyoej0V1dq0)
-- [Toe - グッドバイ Goodbye Feat. Toki Asako](https://www.youtube.com/watch?v=XBzoHdb1-Qw)
 - [椎名林檎 - 長く短い祭](https://www.youtube.com/watch?v=3LVAmMxICoA)
 - [老王樂隊｜你啊你啊 Cover -TME特別翻唱企劃「返場」之「華語金曲：10 20 30」【原唱：waawei 魏如萱 】](https://www.youtube.com/watch?v=e69jHUyhqZk)
 - [＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo](https://www.youtube.com/watch?v=C-o8pTi6vd8)
+- [柚子YUZU - 光榮之橋  (華納official 官方中字版)](https://www.youtube.com/watch?v=82MRwsaGCYU)
+- [想吃什麼就吃 (feat. 廚佛瑞德）)](https://www.youtube.com/watch?v=nlFwJLCnqgY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
