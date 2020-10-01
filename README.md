@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sakamichi](https://www.youtube.com/watch?v=qypjoJKS8w4)
-- [RADWIMPS - 祈跡 [歌詞付き] [和訳] [Sub Español] [Romaji]](https://www.youtube.com/watch?v=fG9tIq3Nw4Y)
 - [「中日歌詞」やくしまるえつこ -「放課後ディストラクション 」TV『 高分少女』ED](https://www.youtube.com/watch?v=fIC4_ZsGQ3o)
 - [米津玄師 MV「LOSER」](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
 - [mol-74 - ％ 【MV】](https://www.youtube.com/watch?v=IRWGgOATTUQ)
+- [Tatsuro Yamashita "LOVE SPACE" (Live 1978) 山下達郎 ラブ・スペイス](https://www.youtube.com/watch?v=GIb3rPJjY9k)
+- [mol-74 - グレイッシュ 【MV】](https://www.youtube.com/watch?v=xcbbCJcnnOU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
