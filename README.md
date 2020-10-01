@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo](https://www.youtube.com/watch?v=C-o8pTi6vd8)
-- [柚子YUZU - 光榮之橋  (華納official 官方中字版)](https://www.youtube.com/watch?v=82MRwsaGCYU)
 - [想吃什麼就吃 (feat. 廚佛瑞德）)](https://www.youtube.com/watch?v=nlFwJLCnqgY)
 - [Hadashide Summer](https://www.youtube.com/watch?v=6ftSLH5G9EY)
 - [平井堅-輕閉雙眼  (在世界的中心呼喊愛情)](https://www.youtube.com/watch?v=MAgMXB80vEQ)
+- [如果我是一首歌](https://www.youtube.com/watch?v=8E4dPUWSVnk)
+- [米津玄師 MV「春雷」Shunrai](https://www.youtube.com/watch?v=zkNzxsaCunU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
