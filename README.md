@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [郁可唯 Yisa Yu [ 十年如一日One Decade As One Day ] Official Music Video](https://www.youtube.com/watch?v=hhoRgpKhpUc)
-- [bonobos - THANK YOU FOR THE MUSIC (Nui!)](https://www.youtube.com/watch?v=8hG22soNSAw)
 - [CosmosPeople 宇宙人 [ 先這樣 Uh ] Official Lyrics Video](https://www.youtube.com/watch?v=z1jTD6KXMPc)
 - [南瓜妮歌迷俱樂部〈山坡上的薩滿 Dimethyltryptamine〉直式歌詞MV](https://www.youtube.com/watch?v=f0TcQbATRtg)
 - [『Ryuichi Sakamoto | Art Box Project 2020』Teaser](https://www.youtube.com/watch?v=pyoej0V1dq0)
+- [Toe - グッドバイ Goodbye Feat. Toki Asako](https://www.youtube.com/watch?v=XBzoHdb1-Qw)
+- [椎名林檎 - 長く短い祭](https://www.youtube.com/watch?v=3LVAmMxICoA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
