@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj - Ylang Ylang](https://www.youtube.com/watch?v=EfgAd6iHApE)
-- [ヨルシカ - ヒッチコック (MUSIC VIDEO)](https://www.youtube.com/watch?v=t7MBzMP4OzY)
 - [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 - [あいみょん - 生きていたんだよな 【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=EEMwA8KZAqg)
 - [Tatsuro Yamashita "Sparkle" (Japanese Funk - 1982)](https://www.youtube.com/watch?v=7ijMDQgvW0o)
+- [拍謝少年 Sorry Youth - "輸贏囥一邊" Put the Game Aside (Live Session)](https://www.youtube.com/watch?v=FU3z1lqgi3s)
+- [Sunny Day Service - 卒業【Official Video】](https://www.youtube.com/watch?v=8It4hXiUZ94)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
