@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [宇多田ヒカル - 二時間だけのバカンス featuring 椎名林檎](https://www.youtube.com/watch?v=UPdlfIhzPEo)
 - [9m88 - Hello Bye Bye (Official MV)](https://www.youtube.com/watch?v=eHKl1DaeiOQ)
 - [傲七爷 - 是想你的声音啊「你快听滴答滴滴答滴滴答滴，是雨滴的声音」【動態歌詞/Lyrics Video】](https://www.youtube.com/watch?v=TcFl0jQCJmg)
 - [SECONDWALL "Beautiful Lie" MV](https://www.youtube.com/watch?v=GEsN9F7IP4M)
 - [反骨神曲-痘痘那邊舞蹈版來啦!!│WACKYBOYS│反骨男孩│](https://www.youtube.com/watch?v=T0pM0hdm4E4)
+- [Phum Viphurit - Hello, Anxiety [Official Video]](https://www.youtube.com/watch?v=b7ffmtnuSGM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
