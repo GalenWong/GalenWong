@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [mol-74 - グレイッシュ 【MV】](https://www.youtube.com/watch?v=xcbbCJcnnOU)
-- [Official髭男dism - Laughter［Official Video］](https://www.youtube.com/watch?v=kff_DXor7jc)
 - [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
 - [あいみょん - 今夜このまま【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=mH6LoI63buY)
 - [【Music Video】ロンググッドバイ](https://www.youtube.com/watch?v=oje0pfsevBE)
+- [ワールズエンド。『新世界RPG』](https://www.youtube.com/watch?v=avKepa9TTlk)
+- [蘇打綠 sodagreen - 【控制狂】](https://www.youtube.com/watch?v=Wf9Ui3M2mdU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
