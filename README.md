@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [CosmosPeople 宇宙人 [ 先這樣 Uh ] Official Lyrics Video](https://www.youtube.com/watch?v=z1jTD6KXMPc)
-- [南瓜妮歌迷俱樂部〈山坡上的薩滿 Dimethyltryptamine〉直式歌詞MV](https://www.youtube.com/watch?v=f0TcQbATRtg)
 - [『Ryuichi Sakamoto | Art Box Project 2020』Teaser](https://www.youtube.com/watch?v=pyoej0V1dq0)
 - [Toe - グッドバイ Goodbye Feat. Toki Asako](https://www.youtube.com/watch?v=XBzoHdb1-Qw)
 - [椎名林檎 - 長く短い祭](https://www.youtube.com/watch?v=3LVAmMxICoA)
+- [老王樂隊｜你啊你啊 Cover -TME特別翻唱企劃「返場」之「華語金曲：10 20 30」【原唱：waawei 魏如萱 】](https://www.youtube.com/watch?v=e69jHUyhqZk)
+- [＜ノラガミARAGOTO＞OPテーマ  THE ORAL CIGARETTES「狂乱 Hey Kids!!」MusicVideo](https://www.youtube.com/watch?v=C-o8pTi6vd8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
