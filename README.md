@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [SECONDWALL "Beautiful Lie" MV](https://www.youtube.com/watch?v=GEsN9F7IP4M)
-- [反骨神曲-痘痘那邊舞蹈版來啦!!│WACKYBOYS│反骨男孩│](https://www.youtube.com/watch?v=T0pM0hdm4E4)
 - [Phum Viphurit - Hello, Anxiety [Official Video]](https://www.youtube.com/watch?v=b7ffmtnuSGM)
 - [Phum Viphurit - Long Gone [Official Video]](https://www.youtube.com/watch?v=hTBPPSNGYi8)
 - [Fkj - Ylang Ylang](https://www.youtube.com/watch?v=EfgAd6iHApE)
+- [ヨルシカ - ヒッチコック (MUSIC VIDEO)](https://www.youtube.com/watch?v=t7MBzMP4OzY)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
