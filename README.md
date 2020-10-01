@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tatsuro Yamashita "Sparkle" (Japanese Funk - 1982)](https://www.youtube.com/watch?v=7ijMDQgvW0o)
-- [拍謝少年 Sorry Youth - "輸贏囥一邊" Put the Game Aside (Live Session)](https://www.youtube.com/watch?v=FU3z1lqgi3s)
 - [Sunny Day Service - 卒業【Official Video】](https://www.youtube.com/watch?v=8It4hXiUZ94)
 - [Angela Aki - 手紙~拜啟 給十五歲的你~ 電影《再會吧！青春小鳥》主題曲](https://www.youtube.com/watch?v=siQJhIp-UTU)
 - [落日飛車Sunset Rollercoaster 新歌Candle Light (ft. HYUKOH)，2020/9/24 颱風騎士 Typhoon Riders@Legacy Taipei](https://www.youtube.com/watch?v=B4cj5N979Go)
+- [無政府樂團-白鷺鷥](https://www.youtube.com/watch?v=M-lvJ1Nk_Qo)
+- [黃玠瑋 Zooey Wonder - 再也不見｜例假日](https://www.youtube.com/watch?v=qGU6uwy98rA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
