@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [平井堅-輕閉雙眼  (在世界的中心呼喊愛情)](https://www.youtube.com/watch?v=MAgMXB80vEQ)
-- [如果我是一首歌](https://www.youtube.com/watch?v=8E4dPUWSVnk)
 - [米津玄師 MV「春雷」Shunrai](https://www.youtube.com/watch?v=zkNzxsaCunU)
 - [【顏社】蛋堡 Soft Lipa X JABBERLOOP - 恍惚](https://www.youtube.com/watch?v=KBGbwBq3GzE)
 - [【顏社】蛋堡 Soft Lipa - 踩.腳.踏.車 (Official Music Video)](https://www.youtube.com/watch?v=gW9TBojWOQE)
+- [謊言留聲機 Lie Gramophone - 一年 One Year (Official Video)](https://www.youtube.com/watch?v=xfbLNYAyEJ8)
+- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
