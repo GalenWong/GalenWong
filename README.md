@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [逃跑計劃 Escape Plan -《世界 Earth》- 陽光照進回憶裡](https://www.youtube.com/watch?v=Hss42hkYopQ)
 - [逃跑計劃 Escape Plan -《世界 Earth》- 結婚 (08年我們結婚)](https://www.youtube.com/watch?v=vcE7YCiEcFs)
 - [七十億分之一加一 - Julia Wu 吳卓源 feat. 婁峻碩 SHOU｜Official Music Video](https://www.youtube.com/watch?v=eidQRH4xO-k)
 - [謝和弦R-chord【夠愛2.0】Official Ｍusic Video](https://www.youtube.com/watch?v=JP28qMAXBa8)
 - [Mary See the Future - Sunday Lover /// 2014 Music Session](https://www.youtube.com/watch?v=0ttDLh2Ia0E)
+- [鈴木常吉 - お茶碗](https://www.youtube.com/watch?v=fPjOhJjzZ_k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
