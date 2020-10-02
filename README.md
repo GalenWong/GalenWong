@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【Music Video】ロンググッドバイ](https://www.youtube.com/watch?v=oje0pfsevBE)
-- [ワールズエンド。『新世界RPG』](https://www.youtube.com/watch?v=avKepa9TTlk)
 - [蘇打綠 sodagreen - 【控制狂】](https://www.youtube.com/watch?v=Wf9Ui3M2mdU)
 - [米津玄師  MV「アイネクライネ」](https://www.youtube.com/watch?v=-EKxzId_Sj4)
 - [動畫電影【知道天空有多藍的人啊】主題曲 あいみょん -「 空の青さを知る人よ 」【中日歌詞】](https://www.youtube.com/watch?v=yrhq7zAp5Uc)
+- [「中日歌詞」境界的彼方/ 境界の彼方 OP/Opening - 「境界の彼方」茅原實里](https://www.youtube.com/watch?v=qupuiVqulGY)
+- [あいみょん – さよならの今日に【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=C1yP_GQ9s4E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
