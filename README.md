@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [あいみょん – 空の青さを知る人よ【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=ztdpBUDf00o)
-- [ヨルシカ - 心に穴が空いた (Music Video)](https://www.youtube.com/watch?v=DlyG6MAKUOA)
 - [Official髭男dism - 最後の恋煩い［Studio Live Session］](https://www.youtube.com/watch?v=3LYdaQ1N8RY)
 - [Official髭男dism - FIRE GROUND［Official Video］](https://www.youtube.com/watch?v=sem3UU-EQJs)
 - [逃跑計劃 Escape Plan -《世界 Earth》- 陽光照進回憶裡](https://www.youtube.com/watch?v=Hss42hkYopQ)
+- [逃跑計劃 Escape Plan -《世界 Earth》- 結婚 (08年我們結婚)](https://www.youtube.com/watch?v=vcE7YCiEcFs)
+- [七十億分之一加一 - Julia Wu 吳卓源 feat. 婁峻碩 SHOU｜Official Music Video](https://www.youtube.com/watch?v=eidQRH4xO-k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
