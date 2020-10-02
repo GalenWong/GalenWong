@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [謝和弦R-chord【夠愛2.0】Official Ｍusic Video](https://www.youtube.com/watch?v=JP28qMAXBa8)
-- [Mary See the Future - Sunday Lover /// 2014 Music Session](https://www.youtube.com/watch?v=0ttDLh2Ia0E)
 - [鈴木常吉 - お茶碗](https://www.youtube.com/watch?v=fPjOhJjzZ_k)
 - [EVERGLOW (에버글로우) - LA DI DA MV](https://www.youtube.com/watch?v=jeI992mvlEY)
 - [スターライト](https://www.youtube.com/watch?v=X2D36R_IM-g)
+- [陽台 feat. HUSH](https://www.youtube.com/watch?v=RFowooJmqhg)
+- [Samm Henshaw - Broke (Lyric Video)](https://www.youtube.com/watch?v=fe0Enf31npc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
