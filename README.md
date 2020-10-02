@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
-- [あいみょん - 今夜このまま【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=mH6LoI63buY)
 - [【Music Video】ロンググッドバイ](https://www.youtube.com/watch?v=oje0pfsevBE)
 - [ワールズエンド。『新世界RPG』](https://www.youtube.com/watch?v=avKepa9TTlk)
 - [蘇打綠 sodagreen - 【控制狂】](https://www.youtube.com/watch?v=Wf9Ui3M2mdU)
+- [米津玄師  MV「アイネクライネ」](https://www.youtube.com/watch?v=-EKxzId_Sj4)
+- [動畫電影【知道天空有多藍的人啊】主題曲 あいみょん -「 空の青さを知る人よ 」【中日歌詞】](https://www.youtube.com/watch?v=yrhq7zAp5Uc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
