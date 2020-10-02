@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [スターライト](https://www.youtube.com/watch?v=X2D36R_IM-g)
-- [陽台 feat. HUSH](https://www.youtube.com/watch?v=RFowooJmqhg)
 - [Samm Henshaw - Broke (Lyric Video)](https://www.youtube.com/watch?v=fe0Enf31npc)
 - [フレデリック「トウメイニンゲン」Music Video | frederic"Tomei-ningen"](https://www.youtube.com/watch?v=7OO8Egn-R0Y)
 - [Anri - Last Summer Whisper](https://www.youtube.com/watch?v=SNq4zqTN_DQ)
+- [LUCKY TAPES - パレード (Official Music Video)](https://www.youtube.com/watch?v=tNCAYwaVdrQ)
+- [昏鴉 - 《言情小說》Lyrics Video](https://www.youtube.com/watch?v=KRIkW_O-AyY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
