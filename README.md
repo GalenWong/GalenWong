@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Anri - Last Summer Whisper](https://www.youtube.com/watch?v=SNq4zqTN_DQ)
-- [LUCKY TAPES - パレード (Official Music Video)](https://www.youtube.com/watch?v=tNCAYwaVdrQ)
 - [昏鴉 - 《言情小說》Lyrics Video](https://www.youtube.com/watch?v=KRIkW_O-AyY)
 - [missed you](https://www.youtube.com/watch?v=-tE08YQU3aY)
 - [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
+- [Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO](https://www.youtube.com/watch?v=J69oCCM1EcI)
+- [フレデリック「LIGHT」Music Video / frederic “LIGHT”  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=0H7VWEfekv8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
