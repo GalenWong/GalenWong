@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人 Accusefive 【披星戴月的想你】Official Music Video](https://www.youtube.com/watch?v=VpwAq7hiij0)
-- [Mariya Takeuchi もう一度 Once Again](https://www.youtube.com/watch?v=bM823OzZSKk)
 - [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
 - [Crispy脆樂團 [ 轉圈圈 In Circles ] Official Music Video](https://www.youtube.com/watch?v=7H52yGup84A)
 - [原子邦妮 Astro Bunny 【現在你好嗎】官方歌詞MV (Lyric)](https://www.youtube.com/watch?v=5Kb98kW0bVE)
+- [黃玠 X 蛋堡【放個假】](https://www.youtube.com/watch?v=k5Vls5GEf1Y)
+- [美波「ホロネス」MV](https://www.youtube.com/watch?v=HIRiduzNLzQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
