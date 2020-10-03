@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師 MV「馬と鹿」Uma to Shika](https://www.youtube.com/watch?v=ptnYBctoexk)
-- [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
 - [李榮浩 Ronghao Li - 年少有為 If I Were Young (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=Dnj5Tcpev0Q)
 - [謊言留聲機(Lie Gramophone) - 怪女孩(Like You Do)  Feat.B.C.W.懶領階級](https://www.youtube.com/watch?v=zoGFwDCbjio)
 - [You've Got a Friend](https://www.youtube.com/watch?v=TfewapzmBMg)
+- [Frandé 法蘭黛樂團《Every Word》](https://www.youtube.com/watch?v=e0eHvsAFZbU)
+- [Roosevelt - Shadows (Midnight Version)](https://www.youtube.com/watch?v=VTPqfL-WCqo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
