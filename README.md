@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
-- [Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO](https://www.youtube.com/watch?v=J69oCCM1EcI)
 - [フレデリック「LIGHT」Music Video / frederic “LIGHT”  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=0H7VWEfekv8)
 - [菅田将暉 『まちがいさがし』](https://www.youtube.com/watch?v=7940nuwCEYA)
 - [米津玄師 MV「馬と鹿」Uma to Shika](https://www.youtube.com/watch?v=ptnYBctoexk)
+- [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
+- [李榮浩 Ronghao Li - 年少有為 If I Were Young (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=Dnj5Tcpev0Q)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
