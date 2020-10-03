@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Roosevelt - Shadows (Midnight Version)](https://www.youtube.com/watch?v=VTPqfL-WCqo)
-- [ポルカドットスティングレイ「ヒミツ」ライブ映像](https://www.youtube.com/watch?v=nDEdQ8VHLo4)
 - [我要你愛](https://www.youtube.com/watch?v=hI0sx5qu1-s)
 - [香水  /  瑛人 (Official Music Video)](https://www.youtube.com/watch?v=9MjAJSoaoSo)
 - [告五人 Accusefive 【披星戴月的想你】Official Music Video](https://www.youtube.com/watch?v=VpwAq7hiij0)
+- [Mariya Takeuchi もう一度 Once Again](https://www.youtube.com/watch?v=bM823OzZSKk)
+- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
