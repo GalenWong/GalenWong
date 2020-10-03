@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
-- [Crispy脆樂團 [ 轉圈圈 In Circles ] Official Music Video](https://www.youtube.com/watch?v=7H52yGup84A)
 - [原子邦妮 Astro Bunny 【現在你好嗎】官方歌詞MV (Lyric)](https://www.youtube.com/watch?v=5Kb98kW0bVE)
 - [黃玠 X 蛋堡【放個假】](https://www.youtube.com/watch?v=k5Vls5GEf1Y)
 - [美波「ホロネス」MV](https://www.youtube.com/watch?v=HIRiduzNLzQ)
+- [替代役之歌(打造新世界)](https://www.youtube.com/watch?v=YHo06mz-rno)
+- [艾瑪](https://www.youtube.com/watch?v=Iiqr-Ufctvg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
