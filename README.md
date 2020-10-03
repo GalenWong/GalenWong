@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [美波「ホロネス」MV](https://www.youtube.com/watch?v=HIRiduzNLzQ)
-- [替代役之歌(打造新世界)](https://www.youtube.com/watch?v=YHo06mz-rno)
 - [艾瑪](https://www.youtube.com/watch?v=Iiqr-Ufctvg)
 - [9m88- "Leftlovers 廚餘戀人” Official MV](https://www.youtube.com/watch?v=aobDr6nfs9k)
 - [Sunny Day Service - 春の風【Official Video】](https://www.youtube.com/watch?v=e6k0KeR_wN8)
+- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
+- [椎名林檎 - 「長く短い祭」 from (生)林檎博’18](https://www.youtube.com/watch?v=1Omyzc0ihyo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
