@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椎名林檎 - 「長く短い祭」 from (生)林檎博’18](https://www.youtube.com/watch?v=1Omyzc0ihyo)
-- [【MV】竹内アンナ / B.M.B](https://www.youtube.com/watch?v=fhu033YVrzk)
 - [茄子蛋EggPlantEgg - 浪流連 Waves Wandering (Official Music Video)](https://www.youtube.com/watch?v=3Y0Ut5ozaKs)
 - [Covet "falkor" (full band playthrough)](https://www.youtube.com/watch?v=FTxSXUzc96A)
 - [LUCKY TAPES – Lonely Lonely feat. Chara (Official Music Video)](https://www.youtube.com/watch?v=y8XAexF10So)
+- [「金巴利」－洪申豪](https://www.youtube.com/watch?v=T0L4CEwMHLE)
+- [顯然樂隊Super Obvious-夏天的夜裡沒有晚風 feat. 鄧力維Ken Deng | Official Lyrics Video](https://www.youtube.com/watch?v=dhAopnl_SXo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
