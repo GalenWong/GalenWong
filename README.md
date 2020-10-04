@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [顯然樂隊Super Obvious-夏天的夜裡沒有晚風 feat. 鄧力維Ken Deng | Official Lyrics Video](https://www.youtube.com/watch?v=dhAopnl_SXo)
-- [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
 - [Manekarenaikarayo](https://www.youtube.com/watch?v=8LQ2qwzCM9M)
 - [[avex官方HD] JADE – 玻璃屋 Aquariam 官方完整版MV](https://www.youtube.com/watch?v=N7-G0VWqIyg)
 - [怪獣の花唄/ Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
+- [麋先生Mixer - 【麋語】Official MV](https://www.youtube.com/watch?v=ygDY4l3GdOk)
+- [透明雜誌 - 少女](https://www.youtube.com/watch?v=QmMJrHhBOlM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
