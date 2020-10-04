@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Manekarenaikarayo](https://www.youtube.com/watch?v=8LQ2qwzCM9M)
-- [[avex官方HD] JADE – 玻璃屋 Aquariam 官方完整版MV](https://www.youtube.com/watch?v=N7-G0VWqIyg)
 - [怪獣の花唄/ Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
 - [麋先生Mixer - 【麋語】Official MV](https://www.youtube.com/watch?v=ygDY4l3GdOk)
 - [透明雜誌 - 少女](https://www.youtube.com/watch?v=QmMJrHhBOlM)
+- [原子邦妮 Astro Bunny 【在名為未來的波浪裡】Official Music Video](https://www.youtube.com/watch?v=gl9vmdmMJN0)
+- [DATS - Mobile (Official Music Video)](https://www.youtube.com/watch?v=TXx07iG5W4E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
