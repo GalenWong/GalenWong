@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [透明雜誌 - 少女](https://www.youtube.com/watch?v=QmMJrHhBOlM)
-- [原子邦妮 Astro Bunny 【在名為未來的波浪裡】Official Music Video](https://www.youtube.com/watch?v=gl9vmdmMJN0)
 - [DATS - Mobile (Official Music Video)](https://www.youtube.com/watch?v=TXx07iG5W4E)
 - [iri - 「Wonderland」Music Video 【Full ver.】](https://www.youtube.com/watch?v=3WlOZTy072k)
 - [Anri - Remember Summer Days (MACROSS 82-99 Bootleg)](https://www.youtube.com/watch?v=idipMrfAZHk)
+- [Masego - Navajo | A COLORS SHOW](https://www.youtube.com/watch?v=fuAE3U1NvOs)
+- [吳青峰〈最難的是相遇〉Official MV](https://www.youtube.com/watch?v=5sbFn-FPdAk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
