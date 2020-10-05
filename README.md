@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [透明雜誌 - 透明雜誌FOREVER (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=NYkbHjMeUeY)
-- [Layton Wu - Summer Night Wind 夏夜晚風 (Cover), 2020](https://www.youtube.com/watch?v=Ky1Owj98qa4)
 - [フジファブリック (Fujifabric) - 若者のすべて(Wakamono No Subete)](https://www.youtube.com/watch?v=IPBXepn5jTA)
 - [ヨルシカ - 夜行 (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=MH5noJJfqDY)
 - [Fkj & Tom Misch - Losing My Way (Live from O2 Academy Brixton)](https://www.youtube.com/watch?v=WZTq5do8v4s)
+- [逃跑計劃 Escape Plan《 哪裡是你的擁抱 》Lyric Video](https://www.youtube.com/watch?v=MT2Qng_euzo)
+- [サイダーガール “メランコリー” Music Video](https://www.youtube.com/watch?v=Lve4n8aMKaQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
