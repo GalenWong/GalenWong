@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [秋山黃色 / Caffeine (中文字幕)](https://www.youtube.com/watch?v=0-wURlTy5h8)
-- [陳以恆 Yi Heng Chen【 04. 但係我袂驚惶 When I Find My Heart Inside You 】Official Audio](https://www.youtube.com/watch?v=tHTKqKx-afc)
 - [Kan Sano - My Girl [Official Music Video]](https://www.youtube.com/watch?v=Ki4zPBnfPI4)
 - [ずっと真夜中でいいのに。『MILABO』MV（ZUTOMAYO - MILABO）](https://www.youtube.com/watch?v=I88PrE-KUPk)
 - [美波「アメヲマツ、」MV](https://www.youtube.com/watch?v=766qmHTc2ro)
+- [LUCKY TAPES - レイディ・ブルース (Official Music Video)](https://www.youtube.com/watch?v=BiBTpQPCMtg)
+- [Sayuri - Mikazuki](https://www.youtube.com/watch?v=65BAeDpwzGY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
