@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES - TONIGHT! (Official Music Video)](https://www.youtube.com/watch?v=gzyX0In5Mwg)
-- [告五人 Accusefive - 鹿 demo［歌词］](https://www.youtube.com/watch?v=zg7xZu0Sheg)
 - [透明雜誌 - 透明雜誌FOREVER (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=NYkbHjMeUeY)
 - [Layton Wu - Summer Night Wind 夏夜晚風 (Cover), 2020](https://www.youtube.com/watch?v=Ky1Owj98qa4)
 - [フジファブリック (Fujifabric) - 若者のすべて(Wakamono No Subete)](https://www.youtube.com/watch?v=IPBXepn5jTA)
+- [ヨルシカ - 夜行 (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=MH5noJJfqDY)
+- [Fkj & Tom Misch - Losing My Way (Live from O2 Academy Brixton)](https://www.youtube.com/watch?v=WZTq5do8v4s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
