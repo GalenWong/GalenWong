@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Anri - Remember Summer Days (MACROSS 82-99 Bootleg)](https://www.youtube.com/watch?v=idipMrfAZHk)
-- [Masego - Navajo | A COLORS SHOW](https://www.youtube.com/watch?v=fuAE3U1NvOs)
 - [吳青峰〈最難的是相遇〉Official MV](https://www.youtube.com/watch?v=5sbFn-FPdAk)
 - [Summer Salt - Avenue G (Full EP)](https://www.youtube.com/watch?v=9sInStA3t5Q)
 - [《中國新說唱2020》純享：BrantB白景屹《閃閃惹人愛》復古元素顛覆自我｜愛奇藝](https://www.youtube.com/watch?v=vXoD-LGZB5o)
+- [顯然樂隊Super Obvious - 優柔寡斷](https://www.youtube.com/watch?v=zhhfKfPaz9k)
+- [[MV] 솔라(SOLAR) - 뱉어(Spit it out)](https://www.youtube.com/watch?v=V8FXWf0s7K0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
