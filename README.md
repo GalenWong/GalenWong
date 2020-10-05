@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Parcels - Redline / IknowhowIfeel / Elude - Live Vol. 1](https://www.youtube.com/watch?v=3kBIxmjun1U)
-- [美波「main actor 」MV](https://www.youtube.com/watch?v=jb4ybTQwcdw)
 - [麋先生MIXER【廢廢Veg Out】Official Music Video](https://www.youtube.com/watch?v=ARHTI3G_sk4)
 - [20170402_糯米糰。別急著說妳愛我到天長地久@Legacy](https://www.youtube.com/watch?v=tX-iWLlTGDg)
 - [秋山黃色 / Caffeine (中文字幕)](https://www.youtube.com/watch?v=0-wURlTy5h8)
+- [陳以恆 Yi Heng Chen【 04. 但係我袂驚惶 When I Find My Heart Inside You 】Official Audio](https://www.youtube.com/watch?v=tHTKqKx-afc)
+- [Kan Sano - My Girl [Official Music Video]](https://www.youtube.com/watch?v=Ki4zPBnfPI4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
