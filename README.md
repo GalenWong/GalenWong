@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[MV] 솔라(SOLAR) - 뱉어(Spit it out)](https://www.youtube.com/watch?v=V8FXWf0s7K0)
-- [[MV] 이달의 소녀 yyxy (LOONA/yyxy) "love4eva (feat. Grimes)"](https://www.youtube.com/watch?v=tIWpr3tHzII)
 - [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
 - [【顏社】李英宏 aka DJ Didilong - 自躁浪漫 ft.李權哲 Jerry Li (Official Music Video)](https://www.youtube.com/watch?v=yTM0WH8pV2U)
 - [Parcels - Redline / IknowhowIfeel / Elude - Live Vol. 1](https://www.youtube.com/watch?v=3kBIxmjun1U)
+- [美波「main actor 」MV](https://www.youtube.com/watch?v=jb4ybTQwcdw)
+- [麋先生MIXER【廢廢Veg Out】Official Music Video](https://www.youtube.com/watch?v=ARHTI3G_sk4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
