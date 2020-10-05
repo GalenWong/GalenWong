@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [美波「アメヲマツ、」MV](https://www.youtube.com/watch?v=766qmHTc2ro)
 - [LUCKY TAPES - レイディ・ブルース (Official Music Video)](https://www.youtube.com/watch?v=BiBTpQPCMtg)
 - [Sayuri - Mikazuki](https://www.youtube.com/watch?v=65BAeDpwzGY)
 - [LUCKY TAPES - TONIGHT! (Official Music Video)](https://www.youtube.com/watch?v=gzyX0In5Mwg)
 - [告五人 Accusefive - 鹿 demo［歌词］](https://www.youtube.com/watch?v=zg7xZu0Sheg)
+- [透明雜誌 - 透明雜誌FOREVER (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=NYkbHjMeUeY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
