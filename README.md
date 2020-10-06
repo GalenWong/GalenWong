@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [亂彈阿翔 - 寒風刺骨的思念](https://www.youtube.com/watch?v=5EigeokTmQ0)
-- [阿达娃 - Mirror 『脱掉化的妆 还表情在脸上 希望我能找回曾经丢失的倔强 原谅我撒的谎 愈合旧的创伤 再次面对你我可以做到不慌张』【動態歌詞Lyrics】【说唱新时代】高清音質](https://www.youtube.com/watch?v=VxQqpxJwpWw)
 - [toconoma - Highwind (Official Visualizer)](https://www.youtube.com/watch?v=_-IINJ0UGR8)
 - [前前前世 (movie ver.) RADWIMPS MV](https://www.youtube.com/watch?v=PDSkFeMVNFs)
 - [盧廣仲 Crowd Lu 【幾分之幾 You Complete Me】 Official Music Video （花甲大人轉男孩電影主題曲）](https://www.youtube.com/watch?v=HQ_mU73VhEQ)
+- [宋冬野   02 莉莉安](https://www.youtube.com/watch?v=FiJHoPrS4Y4)
+- [睡不著 Insomnia - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=vYn5imzO1PE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
