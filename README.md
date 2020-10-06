@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [老王樂隊｜那些失眠的夜與難以忘懷的事 Sleepless nights and haunting memories (Official)](https://www.youtube.com/watch?v=CLgSrAOmVAw)
-- [【告五人】 溫蒂公主的侍衛](https://www.youtube.com/watch?v=QgtZ8uWfOm4)
 - [Good Night](https://www.youtube.com/watch?v=RpOX6OkshlM)
 - [莫文蔚 Karen Mok - 慢慢喜歡你](https://www.youtube.com/watch?v=-lEhWfucJMs)
 - [謊言留聲機 Lie Gramophone - ANGEL (Official Video)](https://www.youtube.com/watch?v=YEDiLUkDto4)
+- [Mai Yamane - Tasogare - 1980](https://www.youtube.com/watch?v=IhCDK_pSjnk)
+- [逃跑计划Escape Plan - 夜空中最亮的星Brightest Star In The Night Sky](https://www.youtube.com/watch?v=fzuy63eCUKc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
