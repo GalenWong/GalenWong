@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [睡不著 Insomnia - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=vYn5imzO1PE)
-- [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
 - [DAOKO × 岡村靖幸『ステップアップLOVE』MUSIC VIDEO](https://www.youtube.com/watch?v=wsl8HS_lVHE)
 - [森七菜 スマイル　Music Video](https://www.youtube.com/watch?v=v7BY5m2wYx4)
 - [愛上你 (feat. 萬芳) (緊扣《誰先愛上他的》電影歌曲)](https://www.youtube.com/watch?v=yTMjGa5AyD4)
+- [告五人 Accusefive《島嶼雛形－海平面之下》巡迴演唱會 Legacy Max Taipei 回顧影片（9 mins 完整版）](https://www.youtube.com/watch?v=6jp4Jon7b54)
+- [醜](https://www.youtube.com/watch?v=c9ojHGZDqZw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
