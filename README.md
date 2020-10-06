@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj & Tom Misch - Losing My Way (Live from O2 Academy Brixton)](https://www.youtube.com/watch?v=WZTq5do8v4s)
-- [逃跑計劃 Escape Plan《 哪裡是你的擁抱 》Lyric Video](https://www.youtube.com/watch?v=MT2Qng_euzo)
 - [サイダーガール “メランコリー” Music Video](https://www.youtube.com/watch?v=Lve4n8aMKaQ)
 - [REMIX 7th Anniversary - We Believe [ 蛋堡 Softlipa + MATZKA ]](https://www.youtube.com/watch?v=1JogUXOjNOw)
 - [9m88 - Aim High (Official Music Video)](https://www.youtube.com/watch?v=dimqEPg0NpE)
+- [Frandé 法蘭黛樂團 首張專輯【02.可是啊】](https://www.youtube.com/watch?v=mwr3_nRN5JM)
+- [如也](https://www.youtube.com/watch?v=_7HPMuvvsb4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
