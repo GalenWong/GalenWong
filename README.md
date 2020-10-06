@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Frandé 法蘭黛樂團 首張專輯【02.可是啊】](https://www.youtube.com/watch?v=mwr3_nRN5JM)
-- [如也](https://www.youtube.com/watch?v=_7HPMuvvsb4)
 - [老王樂隊｜那些失眠的夜與難以忘懷的事 Sleepless nights and haunting memories (Official)](https://www.youtube.com/watch?v=CLgSrAOmVAw)
 - [【告五人】 溫蒂公主的侍衛](https://www.youtube.com/watch?v=QgtZ8uWfOm4)
 - [Good Night](https://www.youtube.com/watch?v=RpOX6OkshlM)
+- [莫文蔚 Karen Mok - 慢慢喜歡你](https://www.youtube.com/watch?v=-lEhWfucJMs)
+- [謊言留聲機 Lie Gramophone - ANGEL (Official Video)](https://www.youtube.com/watch?v=YEDiLUkDto4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
