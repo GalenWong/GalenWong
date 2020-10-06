@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Junko Ohashi - I Love You So](https://www.youtube.com/watch?v=Q2QUngVGxmE)
-- [宋冬野 - 斑馬，斑馬 Music Video](https://www.youtube.com/watch?v=7q2DrrQ33OQ)
 - [你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)](https://www.youtube.com/watch?v=MJMfU2Od2T8)
 - [Junko Ohashi - Telephone Number (1984)](https://www.youtube.com/watch?v=I0JVRcJLea8)
 - [亂彈阿翔 - 寒風刺骨的思念](https://www.youtube.com/watch?v=5EigeokTmQ0)
+- [阿达娃 - Mirror 『脱掉化的妆 还表情在脸上 希望我能找回曾经丢失的倔强 原谅我撒的谎 愈合旧的创伤 再次面对你我可以做到不慌张』【動態歌詞Lyrics】【说唱新时代】高清音質](https://www.youtube.com/watch?v=VxQqpxJwpWw)
+- [toconoma - Highwind (Official Visualizer)](https://www.youtube.com/watch?v=_-IINJ0UGR8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
