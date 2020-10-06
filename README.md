@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [盧廣仲 Crowd Lu 【幾分之幾 You Complete Me】 Official Music Video （花甲大人轉男孩電影主題曲）](https://www.youtube.com/watch?v=HQ_mU73VhEQ)
-- [宋冬野   02 莉莉安](https://www.youtube.com/watch?v=FiJHoPrS4Y4)
 - [睡不著 Insomnia - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=vYn5imzO1PE)
 - [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
 - [DAOKO × 岡村靖幸『ステップアップLOVE』MUSIC VIDEO](https://www.youtube.com/watch?v=wsl8HS_lVHE)
+- [森七菜 スマイル　Music Video](https://www.youtube.com/watch?v=v7BY5m2wYx4)
+- [愛上你 (feat. 萬芳) (緊扣《誰先愛上他的》電影歌曲)](https://www.youtube.com/watch?v=yTMjGa5AyD4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
