@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tatsuro Yamashita - Ride on Time (1982)](https://www.youtube.com/watch?v=1rdlHKioR6A)
-- [🧠 ่ :::イルカポリス 海豚刑警『安平之光』Official Music Video 👾🌟 ่ :::](https://www.youtube.com/watch?v=ZrpZB8-VBD0)
 - [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
 - [李榮浩 04 太坦白](https://www.youtube.com/watch?v=lpv6T8ugZpU)
 - [椎名林檎 - ありあまる富 from陰翳礼讃](https://www.youtube.com/watch?v=gAzD2-1QhaU)
+- [Mrs. GREEN APPLE - インフェルノ（Inferno）](https://www.youtube.com/watch?v=wfCcs0vLysk)
+- [I Mean Us - E.D.E.N. [Official Audio]](https://www.youtube.com/watch?v=mFIQwP0tJDY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
