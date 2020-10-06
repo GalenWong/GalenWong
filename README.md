@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES - Peace and Magic (Audio)](https://www.youtube.com/watch?v=TTrUtxcLTAY)
-- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
 - [原子邦妮 Astro Bunny 【謝謝你曾經讓我悲傷】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=iTIKzLyQDS0)
 - [東京事変 - キラーチューン](https://www.youtube.com/watch?v=lC8la4l4RhQ)
 - [Tatsuro Yamashita - Ride on Time (1982)](https://www.youtube.com/watch?v=1rdlHKioR6A)
+- [🧠 ่ :::イルカポリス 海豚刑警『安平之光』Official Music Video 👾🌟 ่ :::](https://www.youtube.com/watch?v=ZrpZB8-VBD0)
+- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
