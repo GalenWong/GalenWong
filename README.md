@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[MV] 우주소녀 (WJSN) - 이루리 (As You Wish)](https://www.youtube.com/watch?v=2Q9G6R2hKIQ)
-- [[For. CHESHIRE] 엘키(ELKIE) - 'Fly Me To The Moon / Olivia Ong' (Cover)](https://www.youtube.com/watch?v=YjOmg0vBQJk)
 - [KPOP這些名曲都是她編的！ 不能不知道的Lia Kim作品｜【KPOP小知識】](https://www.youtube.com/watch?v=bTjS2J58Xdg)
 - [ChihSiou 持修  [ Imma Get A New One ] Official Lyric Video](https://www.youtube.com/watch?v=EKBzMIwVXlA)
 - [MAN WITH A MISSION - My Hero](https://www.youtube.com/watch?v=yM6-QVxIXTs)
+- [Jay Chou 周杰倫【心雨 Rainy Mood】-Official Music Video](https://www.youtube.com/watch?v=xVTI5eSzwzQ)
+- [[MV] (G)I-DLE((여자)아이들) _ Senorita](https://www.youtube.com/watch?v=G8APgeFfkAk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
