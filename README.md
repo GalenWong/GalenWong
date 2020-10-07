@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jaguar Sun - The Heart](https://www.youtube.com/watch?v=ES0zQzFf1ak)
-- [梦在黎明破晓时（Dream At Dawn）](https://www.youtube.com/watch?v=Fccy-xSTF1E)
 - [那我懂你意思了〈該說再見了朋友們 Unplugged〉MV](https://www.youtube.com/watch?v=NrGxru6nqeQ)
 - [クリープハイプ -「幽霊失格」 (MUSIC VIDEO)](https://www.youtube.com/watch?v=5yABFvEbRsA)
 - [haruka nakamura - Lamp feat.Nujabes 【Official MV】](https://www.youtube.com/watch?v=cHQ-oVSYkeU)
+- [ハナレグミ - おあいこ 【MUSIC VIDEO】](https://www.youtube.com/watch?v=CZXxl1lzbwU)
+- [BEAMS40周年記念『今夜はブギー・バック』で観るTOKYO CULTURE STORY／BEAMS40周年記念動画『今夜はブギー・バック』MV](https://www.youtube.com/watch?v=l3Mufe5jY60)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
