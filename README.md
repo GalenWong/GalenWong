@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張智成 Z-Chen [ 凌晨三點鐘 ] Official Music Video](https://www.youtube.com/watch?v=tU82vcYSF9Q)
-- [【M有料】BTS車上飆唱破億金曲 超強英語實力認證｜MTV NEWS](https://www.youtube.com/watch?v=7DvXDTmQL3U)
 - [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 - [第31屆金曲獎頒獎典禮表演節目-瘦子E.SO 表演節目『Don`t worry about me + 雙手插口袋』](https://www.youtube.com/watch?v=R3FmVJN7hsM)
 - [DAY6 "I Wait(아 왜)" M/V](https://www.youtube.com/watch?v=O3nFopIjmjI)
+- [[MV] Rocket Punch(로켓펀치) _ BIM BAM BUM(빔밤붐)](https://www.youtube.com/watch?v=nUOeg1LYF7Y)
+- [ChihSiou 持修 [ 根本不是我對手 ] Official Music Video](https://www.youtube.com/watch?v=NeNq5RFYubc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
