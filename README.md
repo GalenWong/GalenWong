@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【園遊會 Fun Fair】-Official Music Video](https://www.youtube.com/watch?v=IoCoIxkGkVw)
-- [ゲスの極み乙女。 - ロマンスがありあまる](https://www.youtube.com/watch?v=C6-AN8J385c)
 - [WORLD ORDER  "HAVE A NICE DAY"](https://www.youtube.com/watch?v=_mkiGMtbrPM)
 - [Klangkarussell - Circuits (Official Video)](https://www.youtube.com/watch?v=QtV-zqFLLpg)
 - [Møme - Møment II (Live Session / Los Angeles) ft. Ricky Ducati, Goldwash](https://www.youtube.com/watch?v=fEKZBgOlYKA)
+- [緑黄色社会 『Mela!』Music Video / Ryokuoushoku Shakai – Mela!](https://www.youtube.com/watch?v=aRDURmIYBZ4)
+- [ずっと真夜中でいいのに。『ヒューマノイド』MV](https://www.youtube.com/watch?v=GAB26GgJ8V8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
