@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [WORLD ORDER  "HAVE A NICE DAY"](https://www.youtube.com/watch?v=_mkiGMtbrPM)
-- [Klangkarussell - Circuits (Official Video)](https://www.youtube.com/watch?v=QtV-zqFLLpg)
 - [Møme - Møment II (Live Session / Los Angeles) ft. Ricky Ducati, Goldwash](https://www.youtube.com/watch?v=fEKZBgOlYKA)
 - [緑黄色社会 『Mela!』Music Video / Ryokuoushoku Shakai – Mela!](https://www.youtube.com/watch?v=aRDURmIYBZ4)
 - [ずっと真夜中でいいのに。『ヒューマノイド』MV](https://www.youtube.com/watch?v=GAB26GgJ8V8)
+- [ストラトキャスター・シーサイド / Suspended 4th](https://www.youtube.com/watch?v=F9DWCjF4tjs)
+- [杰倫心目中的完美cover-蔡健雅(愛情廢柴X說好不哭)](https://www.youtube.com/watch?v=biSB9_Z3VUw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
