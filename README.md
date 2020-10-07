@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj - Earthquake (Official Audio)](https://www.youtube.com/watch?v=0lrhatsoVX4)
-- [FKJ - So Much to Me](https://www.youtube.com/watch?v=20H2E7AcIDs)
 - [Jay Chou 周杰倫【園遊會 Fun Fair】-Official Music Video](https://www.youtube.com/watch?v=IoCoIxkGkVw)
 - [ゲスの極み乙女。 - ロマンスがありあまる](https://www.youtube.com/watch?v=C6-AN8J385c)
 - [WORLD ORDER  "HAVE A NICE DAY"](https://www.youtube.com/watch?v=_mkiGMtbrPM)
+- [Klangkarussell - Circuits (Official Video)](https://www.youtube.com/watch?v=QtV-zqFLLpg)
+- [Møme - Møment II (Live Session / Los Angeles) ft. Ricky Ducati, Goldwash](https://www.youtube.com/watch?v=fEKZBgOlYKA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
