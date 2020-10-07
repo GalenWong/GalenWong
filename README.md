@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [MAN WITH A MISSION - My Hero](https://www.youtube.com/watch?v=yM6-QVxIXTs)
-- [Jay Chou 周杰倫【心雨 Rainy Mood】-Official Music Video](https://www.youtube.com/watch?v=xVTI5eSzwzQ)
 - [[MV] (G)I-DLE((여자)아이들) _ Senorita](https://www.youtube.com/watch?v=G8APgeFfkAk)
 - [黃鴻升 Alien Huang【地球上最浪漫的一首歌】Official Music Video](https://www.youtube.com/watch?v=bCB_nIdN86s)
 - [Jaguar Sun - The Heart](https://www.youtube.com/watch?v=ES0zQzFf1ak)
+- [梦在黎明破晓时（Dream At Dawn）](https://www.youtube.com/watch?v=Fccy-xSTF1E)
+- [那我懂你意思了〈該說再見了朋友們 Unplugged〉MV](https://www.youtube.com/watch?v=NrGxru6nqeQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
