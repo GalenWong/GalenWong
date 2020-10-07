@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ChihSiou 持修 [ 根本不是我對手 ] Official Music Video](https://www.youtube.com/watch?v=NeNq5RFYubc)
-- [玖壹壹(Nine one one) - 甕仔雞 Weng Zi Ji 官方MV首播](https://www.youtube.com/watch?v=NkTB5d5ltJY)
 - [林俊傑 JJ Lin《交換餘生 No Turning Back》Official Music Video](https://www.youtube.com/watch?v=mNQwhIx_0CM)
 - [路人都聽過！10首超熱門KPOP女團歌跳給你猜！【跳舞猜歌#8】 ft. @晴來跳舞吧  Haaashtag Crew](https://www.youtube.com/watch?v=ZcB8pzlwfJs)
 - [[MV] 우주소녀 (WJSN) - 이루리 (As You Wish)](https://www.youtube.com/watch?v=2Q9G6R2hKIQ)
+- [[For. CHESHIRE] 엘키(ELKIE) - 'Fly Me To The Moon / Olivia Ong' (Cover)](https://www.youtube.com/watch?v=YjOmg0vBQJk)
+- [KPOP這些名曲都是她編的！ 不能不知道的Lia Kim作品｜【KPOP小知識】](https://www.youtube.com/watch?v=bTjS2J58Xdg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
