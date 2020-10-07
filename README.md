@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Møme - Møment II (Live Session / Los Angeles) ft. Ricky Ducati, Goldwash](https://www.youtube.com/watch?v=fEKZBgOlYKA)
-- [緑黄色社会 『Mela!』Music Video / Ryokuoushoku Shakai – Mela!](https://www.youtube.com/watch?v=aRDURmIYBZ4)
 - [ずっと真夜中でいいのに。『ヒューマノイド』MV](https://www.youtube.com/watch?v=GAB26GgJ8V8)
 - [ストラトキャスター・シーサイド / Suspended 4th](https://www.youtube.com/watch?v=F9DWCjF4tjs)
 - [杰倫心目中的完美cover-蔡健雅(愛情廢柴X說好不哭)](https://www.youtube.com/watch?v=biSB9_Z3VUw)
+- [《馗降：粽邪2》官方電影主題曲MV「跳鍾馗」-李英宏](https://www.youtube.com/watch?v=g3kfnn_dWdU)
+- [ChihSiou 持修 [ 正想著你呢 ] Official Music Video](https://www.youtube.com/watch?v=FBp4QhLqiKs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
