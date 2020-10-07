@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Mean Us - E.D.E.N. [Official Audio]](https://www.youtube.com/watch?v=mFIQwP0tJDY)
-- [[龍虎門] 買榜 - 熊仔×Julia Wu 吳卓源×RGRY](https://www.youtube.com/watch?v=W-H6v6b1hu4)
 - [Best Part of Us / AmPm feat. Michael Kaneko (Lyric VIdeo)](https://www.youtube.com/watch?v=0wb7-XOBZmk)
 - [女士優先 Lady First - 老莫 ILL MO X ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=ZLFMqje5o-A)
 - [Fkj - Earthquake (Official Audio)](https://www.youtube.com/watch?v=0lrhatsoVX4)
+- [FKJ - So Much to Me](https://www.youtube.com/watch?v=20H2E7AcIDs)
+- [Jay Chou 周杰倫【園遊會 Fun Fair】-Official Music Video](https://www.youtube.com/watch?v=IoCoIxkGkVw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
