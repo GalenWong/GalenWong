@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椎名林檎 - ありあまる富 from陰翳礼讃](https://www.youtube.com/watch?v=gAzD2-1QhaU)
-- [Mrs. GREEN APPLE - インフェルノ（Inferno）](https://www.youtube.com/watch?v=wfCcs0vLysk)
 - [I Mean Us - E.D.E.N. [Official Audio]](https://www.youtube.com/watch?v=mFIQwP0tJDY)
 - [[龍虎門] 買榜 - 熊仔×Julia Wu 吳卓源×RGRY](https://www.youtube.com/watch?v=W-H6v6b1hu4)
 - [Best Part of Us / AmPm feat. Michael Kaneko (Lyric VIdeo)](https://www.youtube.com/watch?v=0wb7-XOBZmk)
+- [女士優先 Lady First - 老莫 ILL MO X ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=ZLFMqje5o-A)
+- [Fkj - Earthquake (Official Audio)](https://www.youtube.com/watch?v=0lrhatsoVX4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
