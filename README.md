@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [KPOP這些名曲都是她編的！ 不能不知道的Lia Kim作品｜【KPOP小知識】](https://www.youtube.com/watch?v=bTjS2J58Xdg)
-- [ChihSiou 持修  [ Imma Get A New One ] Official Lyric Video](https://www.youtube.com/watch?v=EKBzMIwVXlA)
 - [MAN WITH A MISSION - My Hero](https://www.youtube.com/watch?v=yM6-QVxIXTs)
 - [Jay Chou 周杰倫【心雨 Rainy Mood】-Official Music Video](https://www.youtube.com/watch?v=xVTI5eSzwzQ)
 - [[MV] (G)I-DLE((여자)아이들) _ Senorita](https://www.youtube.com/watch?v=G8APgeFfkAk)
+- [黃鴻升 Alien Huang【地球上最浪漫的一首歌】Official Music Video](https://www.youtube.com/watch?v=bCB_nIdN86s)
+- [Jaguar Sun - The Heart](https://www.youtube.com/watch?v=ES0zQzFf1ak)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
