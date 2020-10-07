@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [杰倫心目中的完美cover-蔡健雅(愛情廢柴X說好不哭)](https://www.youtube.com/watch?v=biSB9_Z3VUw)
-- [《馗降：粽邪2》官方電影主題曲MV「跳鍾馗」-李英宏](https://www.youtube.com/watch?v=g3kfnn_dWdU)
 - [ChihSiou 持修 [ 正想著你呢 ] Official Music Video](https://www.youtube.com/watch?v=FBp4QhLqiKs)
 - [【纯享版】李荣浩《你要的爱》【无杂音清晰版本】](https://www.youtube.com/watch?v=zisvsNryKjs)
 - [張智成 Z-Chen [ 凌晨三點鐘 ] Official Music Video](https://www.youtube.com/watch?v=tU82vcYSF9Q)
+- [【M有料】BTS車上飆唱破億金曲 超強英語實力認證｜MTV NEWS](https://www.youtube.com/watch?v=7DvXDTmQL3U)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
