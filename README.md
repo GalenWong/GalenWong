@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓 - 青梅](https://www.youtube.com/watch?v=X2DKPkcSMDo)
-- [GLIM SPANKY - 「東京は燃えてる」](https://www.youtube.com/watch?v=_A9otC5nbqw)
 - [ヤバイTシャツ屋さん - 「Give me the Tank-top」Music Video](https://www.youtube.com/watch?v=cIDAAlSk0l0)
 - [五月天 Mayday【這個世界 This World】Official Music Video](https://www.youtube.com/watch?v=_mOCYyjBgmY)
 - [STUTS - Mirrors feat. SUMIN, Daichi Yamamoto & 鎮座DOPENESS (Official Music Video)](https://www.youtube.com/watch?v=wdwzLaljOzw)
+- [黃宣 YELLOW【一天 Someday】電視劇「想見你상견니」插曲 Official Music Video](https://www.youtube.com/watch?v=62aYD2lzTgw)
+- [ChihSiou 持修 [ 還有沒有愛 ] Official Music Video](https://www.youtube.com/watch?v=F_ftEjOi7-o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
