@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [麥浚龍《顛倒夢想》官方完整版 THE OFFICIAL JUNO MAK](https://www.youtube.com/watch?v=KhKNo_pMRIY)
-- [Kid Francescoli - "Moon" (Official Video)](https://www.youtube.com/watch?v=fdixQDPA2h0)
 - [《中國有嘻哈 精彩回顧》GAI《苦行憎》](https://www.youtube.com/watch?v=_TShyu-hC2I)
 - ['On Your Mind' | Kaskade | Official Video](https://www.youtube.com/watch?v=LDIoxgnl-ho)
 - [理想混蛋 Bestards【不是因為天氣晴朗才愛你】 Official Lyric Video](https://www.youtube.com/watch?v=9_068Ekk_fs)
+- [[MV] 여자친구(GFRIEND) _ 너 그리고 나 (NAVILLERA)](https://www.youtube.com/watch?v=Se8bbsUFjC8)
+- [CosmosPeople宇宙人 [ 那你呢And You ? ] Official Music Video - COTTON USA美國棉年度代言曲](https://www.youtube.com/watch?v=rHeICF7nAZE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
