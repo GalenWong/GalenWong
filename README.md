@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】Leo王 - 雞腿便當 (Official Music Video)](https://www.youtube.com/watch?v=eimid7K4mJ0)
-- [【顏社】Leo王 - 快樂的甘蔗人 (Lyrics Music Video)](https://www.youtube.com/watch?v=ui4nJWGvSYg)
 - [Electric Guest - Troubleman](https://www.youtube.com/watch?v=3OC2aPCuzjo)
 - [渣泥ZANI〈想念結痂了 / Scars〉Official Audio](https://www.youtube.com/watch?v=TvWTO6rheAs)
 - [くるり - ワンダーフォーゲル](https://www.youtube.com/watch?v=XH7lpPCxbgE)
+- [麥浚龍《顛倒夢想》官方完整版 THE OFFICIAL JUNO MAK](https://www.youtube.com/watch?v=KhKNo_pMRIY)
+- [Kid Francescoli - "Moon" (Official Video)](https://www.youtube.com/watch?v=fdixQDPA2h0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
