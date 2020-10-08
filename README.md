@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [The fin. - Gravity (Official Video)](https://www.youtube.com/watch?v=if7wGpgAY10)
-- [Spangle call Lilli line "red" (Official Music Video)](https://www.youtube.com/watch?v=Hw9nDhi4ZXg)
 - [陳綺貞 Cheer Chen 【距離 Distance】 Official Music Video](https://www.youtube.com/watch?v=vGIgU9Xaawg)
 - [[MV] 백정현 (Beck Junghyun) - Nomad (voice. Bill Hicks) / Official Music Video](https://www.youtube.com/watch?v=Zu_Gih-EoEQ)
 - [Frandé 法蘭黛樂團《該死的冷戰》Feat. 李英宏 aka DJ Didilong  Official Music Video](https://www.youtube.com/watch?v=NxngOIdRdqE)
+- [原子邦妮 Astro Bunny 【忽然想你的時候】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=z5MoQzwis0I)
+- [【顏社】Leo王 - 雞腿便當 (Official Music Video)](https://www.youtube.com/watch?v=eimid7K4mJ0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
