@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [八三夭 feat. 柯佳嬿【渴了】微醺版 Official Live Video](https://www.youtube.com/watch?v=uKZ8gpyBSJs)
-- [玖壹壹(Nine one one) - 過來我家坐 Welcome to My Home 官方MV首播](https://www.youtube.com/watch?v=WQc-36G4MEE)
 - [MC HotDog 熱狗 feat.蛋堡 Soft Lipa【不吃早餐才是一件很嘻哈的事 No Breakfast for Hip-Hoppers】Official Music Video](https://www.youtube.com/watch?v=8uk8TxE2ZoM)
 - [やくしまるえつこ『アンノウン・ワールドマップ』360°MV / Yakushimaru Etsuko -  Unknown World Map](https://www.youtube.com/watch?v=2h3pbdTPu6Q)
 - [청하 (CHUNG HA) - Roller Coaster MV](https://www.youtube.com/watch?v=900X9fDFLc4)
+- [告五人 Accusefive 【紅 LOVE】Official Music Video](https://www.youtube.com/watch?v=9WEYFqCUze8)
+- [房東的貓 - 青梅](https://www.youtube.com/watch?v=X2DKPkcSMDo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
