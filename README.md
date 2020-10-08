@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BEAMS40周年記念『今夜はブギー・バック』で観るTOKYO CULTURE STORY／BEAMS40周年記念動画『今夜はブギー・バック』MV](https://www.youtube.com/watch?v=l3Mufe5jY60)
-- [POPO J【曖人】(L)over｜Official Music Video](https://www.youtube.com/watch?v=fnba1zinB1Q)
 - [The fin. - Gravity (Official Video)](https://www.youtube.com/watch?v=if7wGpgAY10)
 - [Spangle call Lilli line "red" (Official Music Video)](https://www.youtube.com/watch?v=Hw9nDhi4ZXg)
 - [陳綺貞 Cheer Chen 【距離 Distance】 Official Music Video](https://www.youtube.com/watch?v=vGIgU9Xaawg)
+- [[MV] 백정현 (Beck Junghyun) - Nomad (voice. Bill Hicks) / Official Music Video](https://www.youtube.com/watch?v=Zu_Gih-EoEQ)
+- [Frandé 法蘭黛樂團《該死的冷戰》Feat. 李英宏 aka DJ Didilong  Official Music Video](https://www.youtube.com/watch?v=NxngOIdRdqE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
