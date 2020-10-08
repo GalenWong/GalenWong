@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [渣泥ZANI〈想念結痂了 / Scars〉Official Audio](https://www.youtube.com/watch?v=TvWTO6rheAs)
-- [くるり - ワンダーフォーゲル](https://www.youtube.com/watch?v=XH7lpPCxbgE)
 - [麥浚龍《顛倒夢想》官方完整版 THE OFFICIAL JUNO MAK](https://www.youtube.com/watch?v=KhKNo_pMRIY)
 - [Kid Francescoli - "Moon" (Official Video)](https://www.youtube.com/watch?v=fdixQDPA2h0)
 - [《中國有嘻哈 精彩回顧》GAI《苦行憎》](https://www.youtube.com/watch?v=_TShyu-hC2I)
+- ['On Your Mind' | Kaskade | Official Video](https://www.youtube.com/watch?v=LDIoxgnl-ho)
+- [理想混蛋 Bestards【不是因為天氣晴朗才愛你】 Official Lyric Video](https://www.youtube.com/watch?v=9_068Ekk_fs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
