@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [カネコアヤノ - 光の方へ](https://www.youtube.com/watch?v=cE7-jDEKtE4)
-- [TANK [如果我變成回憶 If I was the memory] Official MV](https://www.youtube.com/watch?v=FGsnxTkWZCU)
 - [蔡依林 Jolin Tsai - 倒帶](https://www.youtube.com/watch?v=cB7DIIG0ykk)
 - [蘇打綠 sodagreen -【小情歌】Official Music Video](https://www.youtube.com/watch?v=in8NNzwFa-s)
 - [[MV] APRIL(에이프릴) _ Oh! my mistake(예쁜 게 죄)](https://www.youtube.com/watch?v=D2MhwXZ8IgM)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [【HD】房東的貓 - 往往 [歌詞字幕][完整高清音質] ♫ The Landlord's Cat - Often](https://www.youtube.com/watch?v=i9yd9LbAyeE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
