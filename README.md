@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Vast & Hazy【食人夢 The City is Eating Me Alive】Official Lyrics Video](https://www.youtube.com/watch?v=_mcdnRHrXCQ)
-- [美秀集團 Amazing Show－我要你愛 You are My Crazy Lover【Official Music Video】](https://www.youtube.com/watch?v=ouQwJj1V2pE)
 - [9m88 - 如果可以 If I Could (Official MV)](https://www.youtube.com/watch?v=2Bog__QWqF8)
 - [Tatsuro Yamashita - Magic Ways](https://www.youtube.com/watch?v=fekWiU3K_e0)
 - [‖ MV ‖ 黃于恩 溫妮(WINNI) --"朗朗傷口" Feat.怕胖團PAPUN BAND](https://www.youtube.com/watch?v=UJFH_2eldp4)
+- [La Vibes - Yohee / J-Sharp / DDDEALER｜Official Lyric Video](https://www.youtube.com/watch?v=XNDcESpdktE)
+- [理想混蛋 Bestards【我還沒有作好被打倒的準備 Not Yet】Official Music Video](https://www.youtube.com/watch?v=Dbf5wlWSXP8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
