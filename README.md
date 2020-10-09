@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ゲスの極み乙女。「YDY」[Official Lyric Video]](https://www.youtube.com/watch?v=NiodFyTSowA)
-- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
 - [謊言留聲機 Lie Gramophone - 讓子彈飛 (Official Lyric Video)](https://www.youtube.com/watch?v=RYyjQwVnfIc)
 - [あいみょん - 朝陽【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=DSqZVdqd68o)
 - [盧廣仲 Crowd Lu 【魚仔】 Official Music Video （花甲男孩轉大人主題曲）](https://www.youtube.com/watch?v=ybfWYpYhTQQ)
+- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
+- [Vast & Hazy【拾起 Move On】Official Lyrics Video](https://www.youtube.com/watch?v=pBQK-Lwt1sA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
