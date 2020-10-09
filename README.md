@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[MV] APRIL(에이프릴) _ Oh! my mistake(예쁜 게 죄)](https://www.youtube.com/watch?v=D2MhwXZ8IgM)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
 - [【HD】房東的貓 - 往往 [歌詞字幕][完整高清音質] ♫ The Landlord's Cat - Often](https://www.youtube.com/watch?v=i9yd9LbAyeE)
 - [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
 - [LUCKY TAPES - 贅沢な罠 (Official Music Video)](https://www.youtube.com/watch?v=-f4KljoFSJk)
+- [King Gnu - Prayer X](https://www.youtube.com/watch?v=L-Bzhpm8h0o)
+- [Vast & Hazy【食人夢 The City is Eating Me Alive】Official Lyrics Video](https://www.youtube.com/watch?v=_mcdnRHrXCQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
