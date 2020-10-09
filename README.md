@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【HD】房東的貓 - 往往 [歌詞字幕][完整高清音質] ♫ The Landlord's Cat - Often](https://www.youtube.com/watch?v=i9yd9LbAyeE)
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
 - [LUCKY TAPES - 贅沢な罠 (Official Music Video)](https://www.youtube.com/watch?v=-f4KljoFSJk)
 - [King Gnu - Prayer X](https://www.youtube.com/watch?v=L-Bzhpm8h0o)
 - [Vast & Hazy【食人夢 The City is Eating Me Alive】Official Lyrics Video](https://www.youtube.com/watch?v=_mcdnRHrXCQ)
+- [美秀集團 Amazing Show－我要你愛 You are My Crazy Lover【Official Music Video】](https://www.youtube.com/watch?v=ouQwJj1V2pE)
+- [9m88 - 如果可以 If I Could (Official MV)](https://www.youtube.com/watch?v=2Bog__QWqF8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
