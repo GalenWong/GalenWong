@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ChihSiou 持修 [ 還有沒有愛 ] Official Music Video](https://www.youtube.com/watch?v=F_ftEjOi7-o)
-- [日本の80年代シティポップ - 80'S Japanese City Pop vol.1](https://www.youtube.com/watch?v=WBroCKCO_qk)
 - [大象體操ElephantGym _ 銀河GALAXY【Official Music Video】](https://www.youtube.com/watch?v=FXzpYKIEk4E)
 - [甜約翰 Sweet John【 Dear 】Official Audio](https://www.youtube.com/watch?v=eOxmFRTBgao)
 - [カネコアヤノ - 光の方へ](https://www.youtube.com/watch?v=cE7-jDEKtE4)
+- [TANK [如果我變成回憶 If I was the memory] Official MV](https://www.youtube.com/watch?v=FGsnxTkWZCU)
+- [蔡依林 Jolin Tsai - 倒帶](https://www.youtube.com/watch?v=cB7DIIG0ykk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
