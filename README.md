@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [持修 南西肯恩 | 正想著你呢](https://www.youtube.com/watch?v=SZ7xV-W4rCU)
 - [Palace - Heaven Up There](https://www.youtube.com/watch?v=1cS_i-zDdxg)
 - [椅子樂團 The Chairs - Rollin' On (Official Music Video)](https://www.youtube.com/watch?v=v0F6Vd46v10)
 - [ゲスの極み乙女。「YDY」[Official Lyric Video]](https://www.youtube.com/watch?v=NiodFyTSowA)
 - [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
+- [謊言留聲機 Lie Gramophone - 讓子彈飛 (Official Lyric Video)](https://www.youtube.com/watch?v=RYyjQwVnfIc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
