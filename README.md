@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [魏如萱 6 我爸的筆 oppa的筆ver(4K 2160p)@2014 簡單生活節[無限HD] 🏆](https://www.youtube.com/watch?v=HfnTNpeof20)
-- [旺福《肝功能衰竭》官方MV (Official Music Video)](https://www.youtube.com/watch?v=ZjJxMsWMoqY)
 - [椎名林檎 - 「獣ゆく細道」 from (生)林檎博’18](https://www.youtube.com/watch?v=QObudA5CwOo)
 - [盧凱彤 Ellen Loo 《還不夠遠》 OFFICIAL MV](https://www.youtube.com/watch?v=eHzUi11kfjg)
 - [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
+- [謊言留聲機 Lie Gramophone - 腦內飛 Endorphins Fly (Official Video)](https://www.youtube.com/watch?v=A9BdIs2gHkQ)
+- [WORLD OF FANTASY](https://www.youtube.com/watch?v=NE4MXuGZmro)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
