@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [盧廣仲 Crowd Lu 【魚仔】 Official Music Video （花甲男孩轉大人主題曲）](https://www.youtube.com/watch?v=ybfWYpYhTQQ)
-- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
 - [Vast & Hazy【拾起 Move On】Official Lyrics Video](https://www.youtube.com/watch?v=pBQK-Lwt1sA)
 - [荷爾蒙少年 Hormone Boys - 4:00A.M. (Official Lyric Video)](https://www.youtube.com/watch?v=YN8nNsHzDQ8)
 - [Zoology - Maroon](https://www.youtube.com/watch?v=0fIzfj7JLa8)
+- [ZHU - Cocaine Model [OFFICIAL VIDEO HD]](https://www.youtube.com/watch?v=q1HW6DdBCKw)
+- [shallou - You and Me | Nomad Series](https://www.youtube.com/watch?v=1trifshoIw0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
