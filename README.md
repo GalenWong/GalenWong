@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
-- [謊言留聲機 Lie Gramophone - 腦內飛 Endorphins Fly (Official Video)](https://www.youtube.com/watch?v=A9BdIs2gHkQ)
 - [WORLD OF FANTASY](https://www.youtube.com/watch?v=NE4MXuGZmro)
 - [Unrequited Love](https://www.youtube.com/watch?v=V0uzCikmCDE)
 - [I Mean Us - I Don't Know (Demo)](https://www.youtube.com/watch?v=21JrezZjggY)
+- [問題總部 It's Your Fault 【 Day 】 Official Music Video](https://www.youtube.com/watch?v=_RZYJtwxDiU)
+- [King Gnu - どろん](https://www.youtube.com/watch?v=gc0_Acq8dV4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
