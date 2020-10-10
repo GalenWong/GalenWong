@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [202 by Bubbly Summer ft. Izumi Makura](https://www.youtube.com/watch?v=_xe_8LNF4L0)
-- [【Digest movie】SHE IS SUMMER " summer end one man live -streaming-"](https://www.youtube.com/watch?v=DU38d569AAQ)
 - [Skirt  10th Anniversary Live  スカート 10周年記念公演''真説・月光密造の夜''から''駆ける'' 、''返信''](https://www.youtube.com/watch?v=28ypmdzHjfc)
 - [薛之謙 Joker Xue【演員】官方完整版 MV](https://www.youtube.com/watch?v=XKuL5xaKZHM)
 - [夜貓組 Yeemao - 健康歌 Yeemao Song｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=fFdiMitwnLo)
+- [I Mean Us - Søulмaтe (Demo)](https://www.youtube.com/watch?v=AgrfgqV1lAs)
+- [大石碎胸口 - 万能青年旅店](https://www.youtube.com/watch?v=kZn4sz4rDJM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
