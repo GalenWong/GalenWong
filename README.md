@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Vast & Hazy【拾起 Move On】Official Lyrics Video](https://www.youtube.com/watch?v=pBQK-Lwt1sA)
-- [荷爾蒙少年 Hormone Boys - 4:00A.M. (Official Lyric Video)](https://www.youtube.com/watch?v=YN8nNsHzDQ8)
 - [Zoology - Maroon](https://www.youtube.com/watch?v=0fIzfj7JLa8)
 - [ZHU - Cocaine Model [OFFICIAL VIDEO HD]](https://www.youtube.com/watch?v=q1HW6DdBCKw)
 - [shallou - You and Me | Nomad Series](https://www.youtube.com/watch?v=1trifshoIw0)
+- [药水哥 - 药水歌「我出门总是带着五瓶药水，手中的卡牌不停切换到位」【動態歌詞/Lyrics Video】](https://www.youtube.com/watch?v=Kx9y-moNx0c)
+- [[MV] 여자친구(GFRIEND) _ 시간을 달려서(Rough)](https://www.youtube.com/watch?v=0VKcLPdY9lI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
