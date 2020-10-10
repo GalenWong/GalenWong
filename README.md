@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [maco marets - Mizu no katachi (with 浮 & TiMT) (Official Video)](https://www.youtube.com/watch?v=WG6Y5Skr1OM)
-- [曽我部恵一BAND - トーキョー・コーリング](https://www.youtube.com/watch?v=DGJrzg1ppjw)
 - [Trip Trip Trip](https://www.youtube.com/watch?v=DvPuLYECwf8)
 - [第31屆金曲獎頒獎典禮表演節目-梁靜茹 表演節目『如果有一天＋我好嗎？＋可惜不是你＋呼吸的痛＋崇拜』](https://www.youtube.com/watch?v=HVb2h81SdZs)
 - [202 by Bubbly Summer ft. Izumi Makura](https://www.youtube.com/watch?v=_xe_8LNF4L0)
+- [【Digest movie】SHE IS SUMMER " summer end one man live -streaming-"](https://www.youtube.com/watch?v=DU38d569AAQ)
+- [Skirt  10th Anniversary Live  スカート 10周年記念公演''真説・月光密造の夜''から''駆ける'' 、''返信''](https://www.youtube.com/watch?v=28ypmdzHjfc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
