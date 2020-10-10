@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [スピッツ / ロビンソン](https://www.youtube.com/watch?v=51CH3dPaWXc)
 - [サカナクション - 『バッハの旋律を夜に聴いたせいです。』（MUSIC VIDEO） -BEST ALBUM「魚図鑑」(3/28release)-](https://www.youtube.com/watch?v=tZbXHt3xPr8)
 - [AUDREY NUNA - Time (Official Video)](https://www.youtube.com/watch?v=3ppLBX2YKsQ)
 - [People In The Box "懐胎した犬のブルース" (Official Music Video)](https://www.youtube.com/watch?v=GzY2h2mj4mM)
 - [maco marets - Mizu no katachi (with 浮 & TiMT) (Official Video)](https://www.youtube.com/watch?v=WG6Y5Skr1OM)
+- [曽我部恵一BAND - トーキョー・コーリング](https://www.youtube.com/watch?v=DGJrzg1ppjw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
