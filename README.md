@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [WORLD OF FANTASY](https://www.youtube.com/watch?v=NE4MXuGZmro)
-- [Unrequited Love](https://www.youtube.com/watch?v=V0uzCikmCDE)
 - [I Mean Us - I Don't Know (Demo)](https://www.youtube.com/watch?v=21JrezZjggY)
 - [問題總部 It's Your Fault 【 Day 】 Official Music Video](https://www.youtube.com/watch?v=_RZYJtwxDiU)
 - [King Gnu - どろん](https://www.youtube.com/watch?v=gc0_Acq8dV4)
+- [Tomoko Aran - I'm In Love [Warner Bros. Records] 1983](https://www.youtube.com/watch?v=pE2D3LWADFg)
+- [King Gnu - Sorrows Vinyl Prayer X](https://www.youtube.com/watch?v=lOAZHpEBGhY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
