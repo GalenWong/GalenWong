@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [大石碎胸口 - 万能青年旅店](https://www.youtube.com/watch?v=kZn4sz4rDJM)
-- [守夜人Night Keepers【謝謝演算法 Thanks to Algorithm】Official Music Video](https://www.youtube.com/watch?v=YlhwughBSJs)
 - [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 - [ヨルシカ - だから僕は音楽を辞めた (Music Video)](https://www.youtube.com/watch?v=KTZ-y85Erus)
 - [フレデリック「かなしいうれしい」Live at FABO!!~Frederic Acoustic Band Online~](https://www.youtube.com/watch?v=zMlKI1K0D1U)
+- [フレデリック「リリリピート」Live at FABO!!~Frederic Acoustic Band Online~](https://www.youtube.com/watch?v=vqJ4t0tBRN0)
+- [魏如萱 6 我爸的筆 oppa的筆ver(4K 2160p)@2014 簡單生活節[無限HD] 🏆](https://www.youtube.com/watch?v=HfnTNpeof20)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
