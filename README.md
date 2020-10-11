@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [King Gnu - どろん](https://www.youtube.com/watch?v=gc0_Acq8dV4)
-- [Tomoko Aran - I'm In Love [Warner Bros. Records] 1983](https://www.youtube.com/watch?v=pE2D3LWADFg)
 - [King Gnu - Sorrows Vinyl Prayer X](https://www.youtube.com/watch?v=lOAZHpEBGhY)
 - [Yogee New Waves - White Lily Light (Official Audio)](https://www.youtube.com/watch?v=o_eBbigIECk)
 - [DAOKO 『水星』 Music Video［HD］](https://www.youtube.com/watch?v=Y3xehyYXbJw)
+- [謊言留聲機 Lie Gramophone - Those Days Live Mashup (Remix with Wham! - "Last Christmas" 1984)](https://www.youtube.com/watch?v=yUPahNaVr9I)
+- [DADARAY「GALS」[Official Lyric Video]](https://www.youtube.com/watch?v=P_yS8kZiqKk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
