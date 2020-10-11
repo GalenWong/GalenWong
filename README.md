@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DADARAY「イキツクシ」(2017/04/14＠梅田シャングリラ)](https://www.youtube.com/watch?v=bjCRWpvdKhc)
 - [郁可唯 Yisa Yu [ 路過人間 Walking by the world ] Official Music Video（電視劇《我們與惡的距離》插曲）](https://www.youtube.com/watch?v=FMl7GEaYwAE)
 - [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
 - [[MV] Apink(에이핑크) _ I'm so sick(1도 없어)](https://www.youtube.com/watch?v=F4oHuML9U2A)
 - [楊丞琳 Rainie Yang -〈SINGING IN THE RAIN〉Official HD MV](https://www.youtube.com/watch?v=PG3Hd_wI1Cg)
+- [SWAG午覺 - 異鄉人 Outlander feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=-vicJD0UJnY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
