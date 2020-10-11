@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [仮谷せいら - ZAWA MAKE IT (Music Video)](https://www.youtube.com/watch?v=2Utuq5QY9dQ)
-- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 - [無妄合作社 No-nonsense Collective－〈開店歌〉Official Music Video](https://www.youtube.com/watch?v=jZzzwd_CDQM)
 - [Jay Chou 周杰倫【彩虹 Rainbow】-Official Music Video](https://www.youtube.com/watch?v=WxZvXPTBC0A)
 - [周杰倫 Jay Chou【愛在西元前 Love before BC】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
+- [Jay Chou 周杰倫【東風破 Dong-Feng-Po】-Official Music Video](https://www.youtube.com/watch?v=qct0JLjaHDc)
+- [【HD】After Dark - Aimer - ポラリス Polaris【中日字幕】](https://www.youtube.com/watch?v=NJkQzZOdOsI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
