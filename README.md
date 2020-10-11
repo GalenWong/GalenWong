@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [大象體操ElephantGym _ 月落moonset【Official Music Video】](https://www.youtube.com/watch?v=lKMavkUYRQg)
-- [顯然樂隊 - 明星 Official Video](https://www.youtube.com/watch?v=RW8zG7Vc5dE)
 - [ネクライトーキー メジャーデビューAL「ZOO!!」trailer](https://www.youtube.com/watch?v=3DwoTKlcs8M)
 - [東京事変 - 幕ノ内サディスティック](https://www.youtube.com/watch?v=i9I55MZLYYY)
 - [張學友 | 愛是永恒  (高清音)](https://www.youtube.com/watch?v=dR4Def1DqA4)
+- [Jay Chou 周杰倫【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
+- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
