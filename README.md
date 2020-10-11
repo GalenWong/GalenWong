@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[MV] Apink(에이핑크) _ I'm so sick(1도 없어)](https://www.youtube.com/watch?v=F4oHuML9U2A)
-- [楊丞琳 Rainie Yang -〈SINGING IN THE RAIN〉Official HD MV](https://www.youtube.com/watch?v=PG3Hd_wI1Cg)
 - [SWAG午覺 - 異鄉人 Outlander feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=-vicJD0UJnY)
 - [FKJ - Die With A Smile (Live)](https://www.youtube.com/watch?v=AtNGid45FOI)
 - [showmore - 1mm【Official Lyric Video】](https://www.youtube.com/watch?v=JF4JUQ4WnXg)
+- [KANA-BOON 『ないものねだり』Music Video](https://www.youtube.com/watch?v=UgS7vgquBvo)
+- [KIRINJI - killer tune kills me feat. YonYon](https://www.youtube.com/watch?v=Y36b8_WFejI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
