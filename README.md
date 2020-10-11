@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [旺福 Won Fu《我當你空氣 You Are My Air》 Official Music Video](https://www.youtube.com/watch?v=1hKkAM-ADDU)
-- [「Nandemo Nedari /なんでもねだり」&「1.2.step to you」live @ Budokan in 2015](https://www.youtube.com/watch?v=KdvvZHREmpE)
 - [レルエ「夜はモーション」MV](https://www.youtube.com/watch?v=M8mrN_d-R34)
 - [喬治克隆人 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=W_0HBN0bnV0)
 - [Jay Chou 周杰倫【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
+- [偽りのシンパシー [Vocal:アイナ･ジ･エンド(BiSH)]](https://www.youtube.com/watch?v=7G_Q90FfX0w)
+- [仮谷せいら - ZAWA MAKE IT (Music Video)](https://www.youtube.com/watch?v=2Utuq5QY9dQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
