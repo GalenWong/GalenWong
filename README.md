@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張學友 | 愛是永恒  (高清音)](https://www.youtube.com/watch?v=dR4Def1DqA4)
-- [Jay Chou 周杰倫【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
 - [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
 - [魏如萱 waa wei [ 你啊你啊 Only You ] Official Music Video](https://www.youtube.com/watch?v=saiJbqHBuew)
 - [周杰倫 Jay Chou【手寫的從前 Handwritten Past】Official MV](https://www.youtube.com/watch?v=TMB6-YflpA4)
+- [Jay Chou 周杰倫【最長的電影 The Longest Movie】-Official Music Video](https://www.youtube.com/watch?v=2zxc27bvrO8)
+- [旺福 Won Fu《我當你空氣 You Are My Air》 Official Music Video](https://www.youtube.com/watch?v=1hKkAM-ADDU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
