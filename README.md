@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DAOKO 『水星』 Music Video［HD］](https://www.youtube.com/watch?v=Y3xehyYXbJw)
-- [謊言留聲機 Lie Gramophone - Those Days Live Mashup (Remix with Wham! - "Last Christmas" 1984)](https://www.youtube.com/watch?v=yUPahNaVr9I)
 - [DADARAY「GALS」[Official Lyric Video]](https://www.youtube.com/watch?v=P_yS8kZiqKk)
 - [フレンズ「８月３１日の行方」XR LIVE ver.](https://www.youtube.com/watch?v=lyZUQ-7b0NE)
 - [DADARAY「イキツクシ」(2017/04/14＠梅田シャングリラ)](https://www.youtube.com/watch?v=bjCRWpvdKhc)
+- [郁可唯 Yisa Yu [ 路過人間 Walking by the world ] Official Music Video（電視劇《我們與惡的距離》插曲）](https://www.youtube.com/watch?v=FMl7GEaYwAE)
+- [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
