@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【安靜 Silence】Official MV](https://www.youtube.com/watch?v=1hI-7vj2FhE)
-- [周杰倫 Jay Chou【愛你沒差 Love you, no matter what】Official MV](https://www.youtube.com/watch?v=miBGaUagOz8)
 - [魏如萱 waa wei 【愛不愛】歌曲首播](https://www.youtube.com/watch?v=XKIhqS6cm0g)
 - [Sunny Day Service - クリスマス remixed by 小西康陽【Official Video】](https://www.youtube.com/watch?v=Md4MomNXMBs)
 - [Oh Girl](https://www.youtube.com/watch?v=IjSHmuEY9OQ)
+- [Jay Chou 周杰倫【楓Maple Leaf 】Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
+- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
