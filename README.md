@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Predawn / Keep Silence [MV]](https://www.youtube.com/watch?v=58-RRCU0OPY)
-- [タイニーリトル・アジアンタム](https://www.youtube.com/watch?v=rB7XFQgJHBI)
 - [MKDR 「妄想感傷代償連盟」歌ってみた【＊なみりん】](https://www.youtube.com/watch?v=0CYTRWfs8lw)
 - [cinnamons × evening cinema - summertime (Official Music Video)](https://www.youtube.com/watch?v=KMTo2LmixqQ)
 - [Kaigan Dori](https://www.youtube.com/watch?v=vhUwwI6Zpqw)
+- [Jay Chou 周杰倫【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
+- [Jay Chou周杰倫【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
