@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫【擱淺 官方完整MV】Jay Chou "Step Aside" MV (Ge-Qian)](https://www.youtube.com/watch?v=YJfHuATJYsQ)
-- [周杰倫 Jay Chou【超人不會飛 Superman Can't Fly】Official MV](https://www.youtube.com/watch?v=4j0Fgmsxr-o)
 - [Predawn / Keep Silence [MV]](https://www.youtube.com/watch?v=58-RRCU0OPY)
 - [タイニーリトル・アジアンタム](https://www.youtube.com/watch?v=rB7XFQgJHBI)
 - [MKDR 「妄想感傷代償連盟」歌ってみた【＊なみりん】](https://www.youtube.com/watch?v=0CYTRWfs8lw)
+- [cinnamons × evening cinema - summertime (Official Music Video)](https://www.youtube.com/watch?v=KMTo2LmixqQ)
+- [Kaigan Dori](https://www.youtube.com/watch?v=vhUwwI6Zpqw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
