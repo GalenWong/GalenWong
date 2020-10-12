@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
-- [這個世界 (Refine,the concert Live)](https://www.youtube.com/watch?v=LuSkhqeag_Y)
 - [hush！樂團《都是你害的》Official MV](https://www.youtube.com/watch?v=0W7TEGviucY)
 - [蔡依林 Jolin Tsai - 天空](https://www.youtube.com/watch?v=hmyEkTioX5E)
 - [周杰倫 Jay Chou【開不了口 I Find It Hard To Say】Official MV](https://www.youtube.com/watch?v=H7hpK6cm-6k)
+- [KANA-BOON - Nandemo Nedari](https://www.youtube.com/watch?v=wEHhrFfYC5E)
+- [昏鴉 The Murky Crows【保持英俊】Official Video](https://www.youtube.com/watch?v=G_tc9kRA8m4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
