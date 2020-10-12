@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [Jay Chou 周杰倫【不能說的祕密 Secret】-Official Music Video](https://www.youtube.com/watch?v=uIWypArI73w)
 - [Jay Chou 周杰倫【珊瑚海 Coral Sea】-Official Music Video](https://www.youtube.com/watch?v=kYhh1PpsOg4)
 - [周杰倫 Jay Chou【算什麼男人 What Kind of Man】Official MV (ft. 林依晨)](https://www.youtube.com/watch?v=v489sYYjtHI)
 - [YELLOW - 後現代獨白 Post-monologue (Official Visualizer)](https://www.youtube.com/watch?v=l3gB-LBi1pU)
+- [鄭宜農 Enno Cheng  "大雨城市 City of Rain" Official Video](https://www.youtube.com/watch?v=CvxVoDTLTOE)
+- [my little airport - 你是浪子，別泊岸](https://www.youtube.com/watch?v=L5jR673Zl2I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
