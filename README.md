@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Oh Girl](https://www.youtube.com/watch?v=IjSHmuEY9OQ)
 - [Jay Chou 周杰倫【楓Maple Leaf 】Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
 - [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
 - [Jay Chou 周杰倫【不能說的祕密 Secret】-Official Music Video](https://www.youtube.com/watch?v=uIWypArI73w)
 - [Jay Chou 周杰倫【珊瑚海 Coral Sea】-Official Music Video](https://www.youtube.com/watch?v=kYhh1PpsOg4)
+- [周杰倫 Jay Chou【算什麼男人 What Kind of Man】Official MV (ft. 林依晨)](https://www.youtube.com/watch?v=v489sYYjtHI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
