@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
-- [Jay Chou周杰倫【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 - [周杰倫 Jay Chou【安靜 Silence】Official MV](https://www.youtube.com/watch?v=1hI-7vj2FhE)
 - [周杰倫 Jay Chou【愛你沒差 Love you, no matter what】Official MV](https://www.youtube.com/watch?v=miBGaUagOz8)
 - [魏如萱 waa wei 【愛不愛】歌曲首播](https://www.youtube.com/watch?v=XKIhqS6cm0g)
+- [Sunny Day Service - クリスマス remixed by 小西康陽【Official Video】](https://www.youtube.com/watch?v=Md4MomNXMBs)
+- [Oh Girl](https://www.youtube.com/watch?v=IjSHmuEY9OQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
