@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YELLOW - 後現代獨白 Post-monologue (Official Visualizer)](https://www.youtube.com/watch?v=l3gB-LBi1pU)
-- [鄭宜農 Enno Cheng  "大雨城市 City of Rain" Official Video](https://www.youtube.com/watch?v=CvxVoDTLTOE)
 - [my little airport - 你是浪子，別泊岸](https://www.youtube.com/watch?v=L5jR673Zl2I)
 - [只道尋常](https://www.youtube.com/watch?v=z7TSInLI9F0)
 - [盧廣仲 - 刻在我心底的名字 cover (Jasmine C) 電影《刻在你心底的名字》主題曲](https://www.youtube.com/watch?v=aFan89V50Ao)
+- [Zpecial《CityBoy》Official MV](https://www.youtube.com/watch?v=ICNqFpBZfXY)
+- [IU - FRIDAY Feat.  張利貞 Of History  (華納official HD 高畫質官方中字版)](https://www.youtube.com/watch?v=cJcF5V1_Kck)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
