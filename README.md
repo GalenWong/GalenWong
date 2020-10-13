@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [9Million - Kimberley Chen 陳芳語｜Official Music Video](https://www.youtube.com/watch?v=zzslll4qNhk)
-- [[MV] 마마무(MAMAMOO) - 별이 빛나는 밤(Starry night)](https://www.youtube.com/watch?v=LjUXm0Zy_dk)
 - [[MV] IU(아이유) _ Blueming(블루밍)](https://www.youtube.com/watch?v=D1PvIWdJ8xo)
 - [IU(아이유) _ YOU&I(너랑나) MV](https://www.youtube.com/watch?v=f_iQRO5BdCM)
 - [BLACKPINK - '붐바야'(BOOMBAYAH) M/V](https://www.youtube.com/watch?v=bwmSjveL3Lc)
+- [TAEYEON 태연 'I (feat. Verbal Jint)' MV](https://www.youtube.com/watch?v=4OrCA1OInoo)
+- [BLACKPINK - 'STAY' M/V](https://www.youtube.com/watch?v=FzVR_fymZw4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
