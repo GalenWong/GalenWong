@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [SENZA A Cappella - 限時動態 feat. Geniuz F the FUTURE (Official Music Video)](https://www.youtube.com/watch?v=3CeOzHL3DUI)
-- [弱水三千](https://www.youtube.com/watch?v=GP-hiB4FkM8)
 - [【Guitar Calling】Jeff @Dusty Bottle / Tin Hang@ONE PROMISE  -《荒蕪中起舞 (feat. Steffunn勳)》](https://www.youtube.com/watch?v=TSQJu3Hjxic)
 - [Kimberley 陳芳語 : 我會再想你 Acoustic Version](https://www.youtube.com/watch?v=F6S7Veh39uo)
 - [Greedy](https://www.youtube.com/watch?v=q6n2wLGgW9g)
+- [Vanilla](https://www.youtube.com/watch?v=8OZ-H49_eSs)
+- [周杰倫 Jay Chou【聽見下雨的聲音 Rhythm of the Rain】Official MV](https://www.youtube.com/watch?v=zqKoXPHhmsM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
