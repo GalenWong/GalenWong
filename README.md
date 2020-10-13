@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Men I Trust - Say Can You Hear (garage session)](https://www.youtube.com/watch?v=h076DeX_Z-o)
-- [[MV] P-Type(피타입) _ Lazyyy(게으르으게) (Feat. GUMMY(거미))](https://www.youtube.com/watch?v=bZ94kFQwSOU)
 - [Red Velvet 레드벨벳 '피카부 (Peek-A-Boo)' MV](https://www.youtube.com/watch?v=6uJf2IT2Zh8)
 - [[MV] IU(아이유) _ BBIBBI(삐삐)](https://www.youtube.com/watch?v=nM0xDI5R50E)
 - [[MV] SUNMI(선미) _ Gashina(가시나)](https://www.youtube.com/watch?v=ur0hCdne2-s)
+- [9Million - Kimberley Chen 陳芳語｜Official Music Video](https://www.youtube.com/watch?v=zzslll4qNhk)
+- [[MV] 마마무(MAMAMOO) - 별이 빛나는 밤(Starry night)](https://www.youtube.com/watch?v=LjUXm0Zy_dk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
