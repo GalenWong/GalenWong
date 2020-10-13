@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[MV] IU(아이유) _ Palette(팔레트) (Feat. G-DRAGON)](https://www.youtube.com/watch?v=d9IxdwEFk1c)
-- [TWICE "Dance The Night Away" M/V](https://www.youtube.com/watch?v=Fm5iP0S1z9w)
 - [原子邦妮 Astro Bunny【孤單會消失離開不見】Demo](https://www.youtube.com/watch?v=NF8zL7QZL9I)
 - [Things Things Things (English Version) - Julia Wu 吳卓源｜Official Music Video](https://www.youtube.com/watch?v=hXij83dPeu4)
 - [Trezo ft. 廖偲安 Flora - 還沒熄的燈 (Official Music Video)](https://www.youtube.com/watch?v=3hC5198M4I8)
+- [Kimberley 陳芳語: 寂寞咆哮 Acoustic Version](https://www.youtube.com/watch?v=oKDReHjoKU0)
+- [HowZ - Jet Lag (ft.  Ann) [Official Music Video]](https://www.youtube.com/watch?v=e9BzFuI0xXI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
