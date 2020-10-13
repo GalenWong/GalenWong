@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【天台的月光 Moonlight on the Rooftop】-Official Music Video](https://www.youtube.com/watch?v=GDBD6h8BWIc)
-- [傻子與白痴 - 你終究不愛這世界 Demo](https://www.youtube.com/watch?v=9KCDSxInPSU)
 - [周杰倫【龍捲風 官方完整MV】Jay Chou "Tornado" MV (Long-Juan-Feng)](https://www.youtube.com/watch?v=RPWDeLqsN0g)
 - [陶喆 - 普通朋友 (wakeupcover) | yingz 楊莉瑩](https://www.youtube.com/watch?v=Mpch24e_Y_k)
 - [Same Old Same Old](https://www.youtube.com/watch?v=0tG40n2Wz1Y)
+- [周杰倫 Jay Chou【夜曲 Nocturne】Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
