@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [iKON - ‘사랑을 했다(LOVE SCENARIO)’ M/V](https://www.youtube.com/watch?v=vecSVX1QYbQ)
-- [[MV] MOMOLAND(모모랜드) _ BAAM](https://www.youtube.com/watch?v=txWmd7QKFe8)
 - [Men I Trust - Say Can You Hear (garage session)](https://www.youtube.com/watch?v=h076DeX_Z-o)
 - [[MV] P-Type(피타입) _ Lazyyy(게으르으게) (Feat. GUMMY(거미))](https://www.youtube.com/watch?v=bZ94kFQwSOU)
 - [Red Velvet 레드벨벳 '피카부 (Peek-A-Boo)' MV](https://www.youtube.com/watch?v=6uJf2IT2Zh8)
+- [[MV] IU(아이유) _ BBIBBI(삐삐)](https://www.youtube.com/watch?v=nM0xDI5R50E)
+- [[MV] SUNMI(선미) _ Gashina(가시나)](https://www.youtube.com/watch?v=ur0hCdne2-s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
