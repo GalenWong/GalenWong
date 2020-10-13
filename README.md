@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BLACKPINK - '붐바야'(BOOMBAYAH) M/V](https://www.youtube.com/watch?v=bwmSjveL3Lc)
-- [TAEYEON 태연 'I (feat. Verbal Jint)' MV](https://www.youtube.com/watch?v=4OrCA1OInoo)
 - [BLACKPINK - 'STAY' M/V](https://www.youtube.com/watch?v=FzVR_fymZw4)
 - [[MV] MINSEO(민서) _ No Good Girl](https://www.youtube.com/watch?v=Ctlp1NNqXq0)
 - [[MV] IU(아이유) _ Palette(팔레트) (Feat. G-DRAGON)](https://www.youtube.com/watch?v=d9IxdwEFk1c)
+- [TWICE "Dance The Night Away" M/V](https://www.youtube.com/watch?v=Fm5iP0S1z9w)
+- [原子邦妮 Astro Bunny【孤單會消失離開不見】Demo](https://www.youtube.com/watch?v=NF8zL7QZL9I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
