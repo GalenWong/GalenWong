@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [IU - FRIDAY Feat.  張利貞 Of History  (華納official HD 高畫質官方中字版)](https://www.youtube.com/watch?v=cJcF5V1_Kck)
-- [鄭融 Stephanie Cheng《13樓的大笨象》Official Music Video](https://www.youtube.com/watch?v=aG5o3hChHUU)
 - [SENZA A Cappella - 限時動態 feat. Geniuz F the FUTURE (Official Music Video)](https://www.youtube.com/watch?v=3CeOzHL3DUI)
 - [弱水三千](https://www.youtube.com/watch?v=GP-hiB4FkM8)
 - [【Guitar Calling】Jeff @Dusty Bottle / Tin Hang@ONE PROMISE  -《荒蕪中起舞 (feat. Steffunn勳)》](https://www.youtube.com/watch?v=TSQJu3Hjxic)
+- [Kimberley 陳芳語 : 我會再想你 Acoustic Version](https://www.youtube.com/watch?v=F6S7Veh39uo)
+- [Greedy](https://www.youtube.com/watch?v=q6n2wLGgW9g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
