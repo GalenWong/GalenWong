@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫【可愛女人 官方完整MV】Jay Chou "Adorable Lady" MV (feat.徐若瑄Vivian) (Ke-Ai-Nu-Ren)](https://www.youtube.com/watch?v=87VUC4J_0Ps)
-- [怕胖團PAPUN BAND《 我沒有用，沒辦法給你想要的生活 》Official Music Video](https://www.youtube.com/watch?v=rlRSJNHS40s)
 - [【顏社】蛋堡 Soft Lipa X JABBERLOOP - 經典！ (Official Music Video)](https://www.youtube.com/watch?v=TaxkKYQAS0o)
 - [Jay Chou 周杰倫【給我一首歌的時間 Give me the time of a song】-Official Music Video](https://www.youtube.com/watch?v=wt0RKW3aC84)
 - [[Alexandros] - ワタリドリ (MV)](https://www.youtube.com/watch?v=O_DLtVuiqhI)
+- [[MV] ZICO(지코) _ Any song(아무노래)](https://www.youtube.com/watch?v=UuV2BmJ1p_I)
+- [[MV] MAMAMOO(마마무) _ gogobebe(고고베베)](https://www.youtube.com/watch?v=Cp56JdkmE9s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
