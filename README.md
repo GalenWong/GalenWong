@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [盧廣仲 - 刻在我心底的名字 cover (Jasmine C) 電影《刻在你心底的名字》主題曲](https://www.youtube.com/watch?v=aFan89V50Ao)
-- [Zpecial《CityBoy》Official MV](https://www.youtube.com/watch?v=ICNqFpBZfXY)
 - [IU - FRIDAY Feat.  張利貞 Of History  (華納official HD 高畫質官方中字版)](https://www.youtube.com/watch?v=cJcF5V1_Kck)
 - [鄭融 Stephanie Cheng《13樓的大笨象》Official Music Video](https://www.youtube.com/watch?v=aG5o3hChHUU)
 - [SENZA A Cappella - 限時動態 feat. Geniuz F the FUTURE (Official Music Video)](https://www.youtube.com/watch?v=3CeOzHL3DUI)
+- [弱水三千](https://www.youtube.com/watch?v=GP-hiB4FkM8)
+- [【Guitar Calling】Jeff @Dusty Bottle / Tin Hang@ONE PROMISE  -《荒蕪中起舞 (feat. Steffunn勳)》](https://www.youtube.com/watch?v=TSQJu3Hjxic)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
