@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - 經典！ (Official Music Video)](https://www.youtube.com/watch?v=TaxkKYQAS0o)
-- [Jay Chou 周杰倫【給我一首歌的時間 Give me the time of a song】-Official Music Video](https://www.youtube.com/watch?v=wt0RKW3aC84)
 - [[Alexandros] - ワタリドリ (MV)](https://www.youtube.com/watch?v=O_DLtVuiqhI)
 - [[MV] ZICO(지코) _ Any song(아무노래)](https://www.youtube.com/watch?v=UuV2BmJ1p_I)
 - [[MV] MAMAMOO(마마무) _ gogobebe(고고베베)](https://www.youtube.com/watch?v=Cp56JdkmE9s)
+- [로꼬 (Loco), 화사 (마마무) - 주지마 (Above Live) (ENG/CHN)](https://www.youtube.com/watch?v=IB6kViGA3rY)
+- [iKON - ‘사랑을 했다(LOVE SCENARIO)’ M/V](https://www.youtube.com/watch?v=vecSVX1QYbQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
