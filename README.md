@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [星野源 – 恋 (Official Video)](https://www.youtube.com/watch?v=jhOVibLEDhA)
-- [BUMP OF CHICKEN「アンサー」](https://www.youtube.com/watch?v=bRWQckbQ9tQ)
 - [椎名林檎 - NIPPON](https://www.youtube.com/watch?v=p-RLC9ZgjhY)
 - [田馥甄  Hebe Tien《無人知曉 Untold》Official Music Video](https://www.youtube.com/watch?v=RtH0BAbUalk)
 - [【隔離歌 Mr. Quarantine】Official MV | Hello . Old Kay . Lil Chill ft. DJ Hauer](https://www.youtube.com/watch?v=cPJki1-2-Yw)
+- [The Pillows - Beautiful morning with you (FLCL OST No. 3) [HQ]](https://www.youtube.com/watch?v=wj5hmkhUntM)
+- [本本【姊妹你說】Ft. 各大網紅「專屬姊妹間的愛與恨！」Official Music Video 「Cover 兄弟你說」](https://www.youtube.com/watch?v=ucbxYh8Jutg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
