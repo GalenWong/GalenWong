@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [第31屆金曲獎頒獎典禮表演節目-林俊傑.黃裕翔.蘇子茵 表演節目『一千年以後＋交換餘生』](https://www.youtube.com/watch?v=Zb4PNa0H__U)
-- ["Revenge" - A Minecraft Parody of Usher's DJ Got Us Fallin' In Love (Music Video)](https://www.youtube.com/watch?v=cPJUBQd-PNM)
 - [【UMAI 2020】Official Music Video](https://www.youtube.com/watch?v=Gvnesjwc1tg)
 - [BABYMETAL - Distortion (LIVE AT DOWNLOAD FESTIVAL 2018)](https://www.youtube.com/watch?v=FzgU3W5ZgzU)
 - [這群人 TGOP – 做到死 Do it till we die (官方完整版MV) Official Music Video](https://www.youtube.com/watch?v=YD9aYOjc5y8)
+- [第31屆金曲獎頒獎典禮表演節目-王若琳 表演節目『愛人』](https://www.youtube.com/watch?v=Obkp30Ef9V8)
+- [BAND-MAIKO / secret MAIKO lips](https://www.youtube.com/watch?v=NNHGABwme50)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
