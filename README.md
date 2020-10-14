@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [這群人 TGOP – 做到死 Do it till we die (官方完整版MV) Official Music Video](https://www.youtube.com/watch?v=YD9aYOjc5y8)
-- [第31屆金曲獎頒獎典禮表演節目-王若琳 表演節目『愛人』](https://www.youtube.com/watch?v=Obkp30Ef9V8)
 - [BAND-MAIKO / secret MAIKO lips](https://www.youtube.com/watch?v=NNHGABwme50)
 - [『學學中文之歌』只要學會這首歌，就能在台灣生存！｜三原JAPAN Official MV](https://www.youtube.com/watch?v=h60tEWL9jkk)
 - [第31屆金曲獎頒獎典禮表演節目-田馥甄 表演節目『皆可＋先知＋不醉不會』](https://www.youtube.com/watch?v=DjS9QLhSdOo)
+- [第31屆金曲獎頒獎典禮表演節目-主持人魏如萱開場表演 表演節目『我的金曲』](https://www.youtube.com/watch?v=6N0erta6Vxo)
+- [BABYMETAL - BxMxC (OFFICIAL)](https://www.youtube.com/watch?v=ng8mh6JUIqY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
