@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Trezo ft. 廖偲安 Flora - 還沒熄的燈 (Official Music Video)](https://www.youtube.com/watch?v=3hC5198M4I8)
-- [Kimberley 陳芳語: 寂寞咆哮 Acoustic Version](https://www.youtube.com/watch?v=oKDReHjoKU0)
 - [HowZ - Jet Lag (ft.  Ann) [Official Music Video]](https://www.youtube.com/watch?v=e9BzFuI0xXI)
 - [林宥嘉 Yoga Lin [ 白晝之月 The Daylight Moon ] Official Music Video](https://www.youtube.com/watch?v=ho5ZXGqyHas)
 - [Planes, Trains, Automobiles - Julia Wu 吳卓源｜Official Music Video](https://www.youtube.com/watch?v=BNFZ36UVk5w)
+- [OUR CHANNEL COVER - 【陳奕迅-讓我留在你身邊】＃11](https://www.youtube.com/watch?v=r-woUNmJ6E4)
+- [Trout Fresh/呂士軒 - 大特醉/Dr.Zuei Ft. YELLOW 黃宣 (Official Music Video)](https://www.youtube.com/watch?v=OLUMfXp0b3k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
