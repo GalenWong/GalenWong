@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [問題總部 It's Your Fault 【 心臟痛 it won't stop hurting... 】 Official Music Video](https://www.youtube.com/watch?v=jZellTAQZr4)
 - [wacci 『別の人の彼女になったよ』Music Video animation by ごめん Ver.](https://www.youtube.com/watch?v=kbEu2YeAyrA)
 - [【Official】Uru 『あなたがいることで』TBS系 日曜劇場「テセウスの船」主題歌](https://www.youtube.com/watch?v=qLMLzBYTTKQ)
 - [DISH// (北村匠海) - 猫 / THE FIRST TAKE](https://www.youtube.com/watch?v=gsT6eKsnT0M)
 - [Jay Chou 周杰倫【白色風車 White Windmill】-Official Music Video](https://www.youtube.com/watch?v=K9CbHZLXPIA)
+- [張學友 | 離開以後  (高清音)](https://www.youtube.com/watch?v=Co20PYsl95g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
