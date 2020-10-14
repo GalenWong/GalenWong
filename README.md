@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [第31屆金曲獎頒獎典禮表演節目-田馥甄 表演節目『皆可＋先知＋不醉不會』](https://www.youtube.com/watch?v=DjS9QLhSdOo)
-- [第31屆金曲獎頒獎典禮表演節目-主持人魏如萱開場表演 表演節目『我的金曲』](https://www.youtube.com/watch?v=6N0erta6Vxo)
 - [BABYMETAL - BxMxC (OFFICIAL)](https://www.youtube.com/watch?v=ng8mh6JUIqY)
 - [第31屆金曲獎頒獎典禮表演節目-許富凱.舒米恩.羅時豐.楊淑喻.葛西瓦.羅文裕.蔣進興.馬蘭吟唱隊 開場表演表演節目『生命力』](https://www.youtube.com/watch?v=gpHlriXbPIo)
 - [逝去的歌](https://www.youtube.com/watch?v=NqqehXgern0)
+- [Wo Xiang Ni Yao Zou Liao (You Were Here with Me)](https://www.youtube.com/watch?v=VMns0tO46FY)
+- [热带](https://www.youtube.com/watch?v=FtcljJlaCL0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
