@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【UMAI 2020】Official Music Video](https://www.youtube.com/watch?v=Gvnesjwc1tg)
-- [BABYMETAL - Distortion (LIVE AT DOWNLOAD FESTIVAL 2018)](https://www.youtube.com/watch?v=FzgU3W5ZgzU)
 - [這群人 TGOP – 做到死 Do it till we die (官方完整版MV) Official Music Video](https://www.youtube.com/watch?v=YD9aYOjc5y8)
 - [第31屆金曲獎頒獎典禮表演節目-王若琳 表演節目『愛人』](https://www.youtube.com/watch?v=Obkp30Ef9V8)
 - [BAND-MAIKO / secret MAIKO lips](https://www.youtube.com/watch?v=NNHGABwme50)
+- [『學學中文之歌』只要學會這首歌，就能在台灣生存！｜三原JAPAN Official MV](https://www.youtube.com/watch?v=h60tEWL9jkk)
+- [第31屆金曲獎頒獎典禮表演節目-田馥甄 表演節目『皆可＋先知＋不醉不會』](https://www.youtube.com/watch?v=DjS9QLhSdOo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
