@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DISH// (北村匠海) - 猫 / THE FIRST TAKE](https://www.youtube.com/watch?v=gsT6eKsnT0M)
-- [Jay Chou 周杰倫【白色風車 White Windmill】-Official Music Video](https://www.youtube.com/watch?v=K9CbHZLXPIA)
 - [張學友 | 離開以後  (高清音)](https://www.youtube.com/watch?v=Co20PYsl95g)
 - [DAOKO『ダイスキ with TeddyLoid』Music Video［HD］](https://www.youtube.com/watch?v=ExgmZXYUh6M)
 - [BAND-MAID / onset (Apr. 13th, 2018)](https://www.youtube.com/watch?v=mVrN-j_Uc0U)
+- [LADYBABY "アゲアゲマネー ～おちんぎん大作戦～ / Age-Age Money " Music Clip](https://www.youtube.com/watch?v=3zWwd8n2JVI)
+- [BAND-MAID / Choose me](https://www.youtube.com/watch?v=MZIJ2vFxu9Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
