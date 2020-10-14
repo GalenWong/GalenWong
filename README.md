@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Trout Fresh/呂士軒 - 大特醉/Dr.Zuei Ft. YELLOW 黃宣 (Official Music Video)](https://www.youtube.com/watch?v=OLUMfXp0b3k)
-- [不會再為妳 (feat. ZeoWater)](https://www.youtube.com/watch?v=_BbkSUFKPic)
 - [自然捲-風和日麗 天氣晴](https://www.youtube.com/watch?v=45Bl7kk1yPg)
 - [20201010 ØZI /  FREE FALL LIVE 台北  RedBull Turn It Up 夜聚派對](https://www.youtube.com/watch?v=MVRoe9KPCwQ)
 - [星野源 – 恋 (Official Video)](https://www.youtube.com/watch?v=jhOVibLEDhA)
+- [BUMP OF CHICKEN「アンサー」](https://www.youtube.com/watch?v=bRWQckbQ9tQ)
+- [椎名林檎 - NIPPON](https://www.youtube.com/watch?v=p-RLC9ZgjhY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
