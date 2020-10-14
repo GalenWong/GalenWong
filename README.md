@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Wo Xiang Ni Yao Zou Liao (You Were Here with Me)](https://www.youtube.com/watch?v=VMns0tO46FY)
 - [热带](https://www.youtube.com/watch?v=FtcljJlaCL0)
 - [fly-電影「少年的你」片尾曲](https://www.youtube.com/watch?v=Nzge2pyvl40)
 - [滅火器-晚安台灣](https://www.youtube.com/watch?v=XXxtYt8dpKI)
 - [青春親像一枝筆 My  youth as a paint brush/董事長樂團 【 The Chairman Official Music Video 】](https://www.youtube.com/watch?v=ZTU4a5QcxNw)
+- [王若琳 Joanna Wang - 我的愛](https://www.youtube.com/watch?v=YNq4wTZY8tM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
