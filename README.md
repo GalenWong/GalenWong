@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【隔離歌 Mr. Quarantine】Official MV | Hello . Old Kay . Lil Chill ft. DJ Hauer](https://www.youtube.com/watch?v=cPJki1-2-Yw)
-- [The Pillows - Beautiful morning with you (FLCL OST No. 3) [HQ]](https://www.youtube.com/watch?v=wj5hmkhUntM)
 - [本本【姊妹你說】Ft. 各大網紅「專屬姊妹間的愛與恨！」Official Music Video 「Cover 兄弟你說」](https://www.youtube.com/watch?v=ucbxYh8Jutg)
 - [【翻唱】中式英語版演員聽過嗎 l 如果把中文歌翻譯成中式英語 l Ep1](https://www.youtube.com/watch?v=aIkCuGezrNo)
 - [問題總部 It's Your Fault 【 心臟痛 it won't stop hurting... 】 Official Music Video](https://www.youtube.com/watch?v=jZellTAQZr4)
+- [wacci 『別の人の彼女になったよ』Music Video animation by ごめん Ver.](https://www.youtube.com/watch?v=kbEu2YeAyrA)
+- [【Official】Uru 『あなたがいることで』TBS系 日曜劇場「テセウスの船」主題歌](https://www.youtube.com/watch?v=qLMLzBYTTKQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
