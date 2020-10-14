@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BABYMETAL - BxMxC (OFFICIAL)](https://www.youtube.com/watch?v=ng8mh6JUIqY)
-- [第31屆金曲獎頒獎典禮表演節目-許富凱.舒米恩.羅時豐.楊淑喻.葛西瓦.羅文裕.蔣進興.馬蘭吟唱隊 開場表演表演節目『生命力』](https://www.youtube.com/watch?v=gpHlriXbPIo)
 - [逝去的歌](https://www.youtube.com/watch?v=NqqehXgern0)
 - [Wo Xiang Ni Yao Zou Liao (You Were Here with Me)](https://www.youtube.com/watch?v=VMns0tO46FY)
 - [热带](https://www.youtube.com/watch?v=FtcljJlaCL0)
+- [fly-電影「少年的你」片尾曲](https://www.youtube.com/watch?v=Nzge2pyvl40)
+- [滅火器-晚安台灣](https://www.youtube.com/watch?v=XXxtYt8dpKI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
