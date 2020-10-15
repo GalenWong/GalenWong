@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【在最燦爛時毀滅】](https://www.youtube.com/watch?v=tSiFjRduJUc)
-- [楊乃文 Naiwen Yang【是非之地Ambiguity】Official Music Video](https://www.youtube.com/watch?v=ndKh2XbW5VI)
 - [恰似你的温柔  鄧麗君 邓丽君 Teresa Teng](https://www.youtube.com/watch?v=ZLB4n0SLQ-I)
 - [齊豫 Chyi Yu【橄欖樹】Official Lyric Video](https://www.youtube.com/watch?v=LZb8fJZFhlo)
 - [陳淑樺 Sarah Chen【夢醒時分 Dream to awakening】Official Music Video](https://www.youtube.com/watch?v=nku5zFMZAdU)
+- [鄧麗君-但願人長久 1984 台北場](https://www.youtube.com/watch?v=ueqBqMA6rcQ)
+- [雲河(The river of cloud)鄧麗君 Teresa Teng(修改版)](https://www.youtube.com/watch?v=hbEghfDUbwI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
