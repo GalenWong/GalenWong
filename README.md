@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [雲河(The river of cloud)鄧麗君 Teresa Teng(修改版)](https://www.youtube.com/watch?v=hbEghfDUbwI)
-- [鄧麗君-你怎麼說 (Sing along with Pinyin & english translation)](https://www.youtube.com/watch?v=sLWls1V2QQs)
 - [I Love You/ Joanna Wang 王若琳 (Ariele Cover)](https://www.youtube.com/watch?v=Ibe2xR43toU)
 - [蔡琴 - 恰似你的溫柔 / Just Like Your Tenderness (by Tsai Chin)](https://www.youtube.com/watch?v=c3lZJo5gsF8)
 - [鄧麗君 - 又見炊煙/Teresa Teng - See The Chimney Smoke Rise Again](https://www.youtube.com/watch?v=N2K-5H_5kMk)
+- [《微風細雨》 鄧麗君 （1953-1995年5月8日） Teresa Teng](https://www.youtube.com/watch?v=QFqpwOaMKKc)
+- [Joanna wang 王若琳 有你的快乐](https://www.youtube.com/watch?v=GJ_J37guCec)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
