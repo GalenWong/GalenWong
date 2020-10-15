@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [イルカポリス 海豚刑警-安平之光](https://www.youtube.com/watch?v=R9WcKILsaF4)
 - [浪費時間 Waste Of Time](https://www.youtube.com/watch?v=w_jtUvdBjFo)
 - [到底還要等多久 - ᐸ做工的人ᐳ戲劇插曲](https://www.youtube.com/watch?v=ExFcCmhIGnU)
 - [原子邦妮 Astro Bunny 【在最燦爛時毀滅】](https://www.youtube.com/watch?v=tSiFjRduJUc)
 - [楊乃文 Naiwen Yang【是非之地Ambiguity】Official Music Video](https://www.youtube.com/watch?v=ndKh2XbW5VI)
+- [恰似你的温柔  鄧麗君 邓丽君 Teresa Teng](https://www.youtube.com/watch?v=ZLB4n0SLQ-I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
