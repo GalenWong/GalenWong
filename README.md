@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [熱烈（demo）/ Frandé , 法蘭黛樂團](https://www.youtube.com/watch?v=udz9mETS6UE)
-- [SunOfMorning 晨曦光廊 - 白紙](https://www.youtube.com/watch?v=sXp2FwMYbQc)
 - [海豚刑警 - 拎娘賽之歌](https://www.youtube.com/watch?v=jwYMcgsWxnk)
 - [荷爾蒙少年 Hormone Boys - 中華商場1971 feat.修齊 1971, Chung Hua Bazaar (Official Live Video)](https://www.youtube.com/watch?v=tKaxzLTbEDc)
 - [東波 EastWave -〈如同每一道星光 Everglow〉Official Music Video](https://www.youtube.com/watch?v=2pAW1z0c2U4)
+- [swim / 04 Limited Sazabys 【じゅりとりかこ】](https://www.youtube.com/watch?v=mGUI-d7Yn1g)
+- [#教祖爆誕 オンライン 「アーカイブ」 ティザー](https://www.youtube.com/watch?v=uERgWZ9y_OQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
