@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張學友 | 情已逝 (高清音)](https://www.youtube.com/watch?v=DOd0kq0C-uY)
-- [周杰倫 Jay Chou【以父之名 In The Name of The Father】Official MV](https://www.youtube.com/watch?v=9q7JOQfcJQM)
 - [Jay Chou 周杰倫【我不配 Not Good Enough For You】-Official Music Video](https://www.youtube.com/watch?v=s-VFpsrbWLk)
 - [周杰倫 Jay Chou (特別演出: 派偉俊)【告白氣球 Love Confession】Official MV](https://www.youtube.com/watch?v=bu7nU9Mhpyo)
 - [Fkj & Bas - Risk (Official Audio)](https://www.youtube.com/watch?v=fUG2g0W9rFA)
+- [王菲 - 你快樂 所以我快樂](https://www.youtube.com/watch?v=LXHs3VBE5cc)
+- [米津玄師 MV「パプリカ」Kenshi Yonezu / Paprika](https://www.youtube.com/watch?v=s582L3gujnw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
