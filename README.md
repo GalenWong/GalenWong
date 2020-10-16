@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
-- [I Mean Us - 24 Years Old of You  [Official Audio]](https://www.youtube.com/watch?v=ekt-5yMYPuo)
 - [Seishun Kyousoukyoku](https://www.youtube.com/watch?v=SdHYQkohIdI)
 - [Home Made Kazoku - Shooting Star](https://www.youtube.com/watch?v=Q9cT5EAEGyk)
 - [百景 (Hyakkei) - Kagefumi](https://www.youtube.com/watch?v=h_Gn10GA7ls)
+- [一剪梅~費玉清的經典好歌(新版高清)](https://www.youtube.com/watch?v=AjitR7RZEQU)
+- [Jay Chou 周杰倫【哪裡都是你 You are everywhere】-Official Music Video](https://www.youtube.com/watch?v=yfn8sE9obWU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
