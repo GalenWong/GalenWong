@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [百景 (Hyakkei) - Kagefumi](https://www.youtube.com/watch?v=h_Gn10GA7ls)
-- [一剪梅~費玉清的經典好歌(新版高清)](https://www.youtube.com/watch?v=AjitR7RZEQU)
 - [Jay Chou 周杰倫【哪裡都是你 You are everywhere】-Official Music Video](https://www.youtube.com/watch?v=yfn8sE9obWU)
 - [周杰倫 Jay Chou【聽爸爸的話 Listen to Dad】Official MV](https://www.youtube.com/watch?v=eS2T9IiOYbc)
 - [Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video](https://www.youtube.com/watch?v=sHD_z90ZKV0)
+- [東京事変 - 赤の同盟 (Official Music Video)](https://www.youtube.com/watch?v=t67VbQhh9_A)
+- [落日飛車 Sunset Rollercoaster-Angel Disco Love](https://www.youtube.com/watch?v=4JQyv8TD-8Q)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
