@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Joanna wang 王若琳 有你的快乐](https://www.youtube.com/watch?v=GJ_J37guCec)
-- [鄧麗君 ~ 冬之戀情 Teresa Teng - Dong zhi lian qing (Winter Romance)](https://www.youtube.com/watch?v=WwzOc3FmYkc)
 - [禮拜天情人](https://www.youtube.com/watch?v=KfaWoZ_FCfA)
 - [洪申豪 (Hom Shenhao) - 睡眠的品質 (Sleeping Quality)](https://www.youtube.com/watch?v=vROG-NyiZQ8)
 - [Jay Chou 周杰倫【懦夫 Coward】-Official Music Video](https://www.youtube.com/watch?v=Xi_RBDWZaT0)
+- [周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV](https://www.youtube.com/watch?v=UBySINroNkw)
+- [Jay Chou 周杰倫【時光機 Time Machine】-Official Music Video](https://www.youtube.com/watch?v=nCfrfCzaB2A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
