@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師 MV「パプリカ」Kenshi Yonezu / Paprika](https://www.youtube.com/watch?v=s582L3gujnw)
-- [[MV] Apink(에이핑크) _ %%(Eung Eung(응응))](https://www.youtube.com/watch?v=499YUeNoYVE)
 - [[릴레이댄스 어게인] 드림캐쳐 (DREAMCATCHER) - Abracadabra (Original song by. Brown Eyed Girls) (4K)](https://www.youtube.com/watch?v=S0-AJT9IPcY)
 - [好樂團 GoodBand ─《我把我的青春給你》Official Music Video](https://www.youtube.com/watch?v=9MMIB61e6sM)
 - [原子邦妮 Astro Bunny 【也許你不懂】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=o1xlxZMQX00)
+- [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
+- [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
