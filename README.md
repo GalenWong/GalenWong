@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [The Fur. - Short Stay (official audio)](https://www.youtube.com/watch?v=X2Ao9sdua4E)
-- [Tizzy Bac「你需要快樂才能活，我不用」Lyrics Video](https://www.youtube.com/watch?v=tdjYLKAvgiA)
 - [金木犀 feat.Ado (Official Video)](https://www.youtube.com/watch?v=Baw-cAvS5xc)
 - [Constant & Change 康士坦的變化球 /『餘燼』MV](https://www.youtube.com/watch?v=xTX8Uy1JjaM)
 - [熱烈（demo）/ Frandé , 法蘭黛樂團](https://www.youtube.com/watch?v=udz9mETS6UE)
+- [SunOfMorning 晨曦光廊 - 白紙](https://www.youtube.com/watch?v=sXp2FwMYbQc)
+- [海豚刑警 - 拎娘賽之歌](https://www.youtube.com/watch?v=jwYMcgsWxnk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
