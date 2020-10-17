@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Official髭男dism - ラストソング［Studio Live Session］](https://www.youtube.com/watch?v=ajJKtzg--5g)
-- [King Gnu - It's a small world](https://www.youtube.com/watch?v=JBmzU_qn_G8)
 - [宋冬野   06 夢遺少年](https://www.youtube.com/watch?v=hSpMJa5fPnY)
 - [Utada Hikaru「Beautiful World」　Directed by Tsurumaki Kazuya](https://www.youtube.com/watch?v=jmKRgqWGrWc)
 - [張震嶽 A-Yue【思念是一種病】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
+- [ゲスの極み乙女。 - オトナチック](https://www.youtube.com/watch?v=AhbBT-pQPxk)
+- [スピッツ / 楓](https://www.youtube.com/watch?v=YapsFDcGe_s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
