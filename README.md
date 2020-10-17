@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [スピッツ / 楓](https://www.youtube.com/watch?v=YapsFDcGe_s)
-- [MC HotDog 熱狗 feat. 關彥淳 Miaca Kuan【輕熟女27 Woman27】Official Music Video](https://www.youtube.com/watch?v=BMCGpXT69vQ)
 - [BUMP OF CHICKEN「Hello,world!」](https://www.youtube.com/watch?v=rOU4YiuaxAM)
 - [Frank Ocean - Blonde Tribute](https://www.youtube.com/watch?v=F5WWyyYG018)
 - [秦 基博 / 鱗（うろこ）×「タッチ」「MIX」スペシャルMV  -あの夏から26年-](https://www.youtube.com/watch?v=x2WP1ZSQVlQ)
+- [落日飛車 Sunset Rollercoaster-愛如潮水](https://www.youtube.com/watch?v=xjs2JJ07zTs)
+- [瓦解 南拳妈妈](https://www.youtube.com/watch?v=OINNzjXwoFU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
