@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [宋冬野   06 夢遺少年](https://www.youtube.com/watch?v=hSpMJa5fPnY)
-- [Utada Hikaru「Beautiful World」　Directed by Tsurumaki Kazuya](https://www.youtube.com/watch?v=jmKRgqWGrWc)
 - [張震嶽 A-Yue【思念是一種病】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
 - [ゲスの極み乙女。 - オトナチック](https://www.youtube.com/watch?v=AhbBT-pQPxk)
 - [スピッツ / 楓](https://www.youtube.com/watch?v=YapsFDcGe_s)
+- [MC HotDog 熱狗 feat. 關彥淳 Miaca Kuan【輕熟女27 Woman27】Official Music Video](https://www.youtube.com/watch?v=BMCGpXT69vQ)
+- [BUMP OF CHICKEN「Hello,world!」](https://www.youtube.com/watch?v=rOU4YiuaxAM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
