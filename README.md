@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [SHE'S - Letter【MV】](https://www.youtube.com/watch?v=vD42ZRdVvpg)
-- [Velonica](https://www.youtube.com/watch?v=NvMRG_F_CGI)
 - [FLOW - Colors](https://www.youtube.com/watch?v=FUH9S44D1BM)
 - [房東的貓 - 八月十五（一分鐘我最想家版）](https://www.youtube.com/watch?v=5AdkZX4jruw)
 - [ポルカドットスティングレイ「ハイパークラクション」トレーラー](https://www.youtube.com/watch?v=YKnv0IFsTB4)
+- [飛鳥和蟬- 任然 Cover ( 蔡恩雨 Priscilla Abby)](https://www.youtube.com/watch?v=1BBw4oyOMG0)
+- [邓丽君 - 我只在乎你](https://www.youtube.com/watch?v=gBLjRz1xX_8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
