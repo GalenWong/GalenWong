@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [東波 EastWave -〈如同每一道星光 Everglow〉Official Music Video](https://www.youtube.com/watch?v=2pAW1z0c2U4)
-- [swim / 04 Limited Sazabys 【じゅりとりかこ】](https://www.youtube.com/watch?v=mGUI-d7Yn1g)
 - [#教祖爆誕 オンライン 「アーカイブ」 ティザー](https://www.youtube.com/watch?v=uERgWZ9y_OQ)
 - [DADARAY 4th Mini Album「DADABABY」初回限定盤 DVDダイジェスト](https://www.youtube.com/watch?v=EXZNf1TLObA)
 - [謊言留聲機 Lie Gramophone - 火燒厝 House on Fire (Official Lyrics Video)](https://www.youtube.com/watch?v=KR492DL5kqE)
+- [我在想你的時候睡著了 - 盧凱彤 + 張國璽](https://www.youtube.com/watch?v=l4cUp4EU_e8)
+- [Eric周興哲《以後別做朋友 The Distance of Love》Official Music Video](https://www.youtube.com/watch?v=Ew4VvF0DPMc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
