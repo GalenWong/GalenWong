@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BUMP OF CHICKEN「Hello,world!」](https://www.youtube.com/watch?v=rOU4YiuaxAM)
-- [Frank Ocean - Blonde Tribute](https://www.youtube.com/watch?v=F5WWyyYG018)
 - [秦 基博 / 鱗（うろこ）×「タッチ」「MIX」スペシャルMV  -あの夏から26年-](https://www.youtube.com/watch?v=x2WP1ZSQVlQ)
 - [落日飛車 Sunset Rollercoaster-愛如潮水](https://www.youtube.com/watch?v=xjs2JJ07zTs)
 - [瓦解 南拳妈妈](https://www.youtube.com/watch?v=OINNzjXwoFU)
+- [No Buses - Pretty Old Man (Official Video)](https://www.youtube.com/watch?v=xtn_SmyT87s)
+- [Aimer 「SPARK-AGAIN」MUSIC VIDEO & クロスフェード（9/9 on sale! /『炎炎ノ消防隊 弐ノ章』OP主題歌）](https://www.youtube.com/watch?v=dZ0Jt1zYj7g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
