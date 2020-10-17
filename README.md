@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Aimer 「SPARK-AGAIN」MUSIC VIDEO & クロスフェード（9/9 on sale! /『炎炎ノ消防隊 弐ノ章』OP主題歌）](https://www.youtube.com/watch?v=dZ0Jt1zYj7g)
-- [IZ*ONE (아이즈원) - 환상동화 (Secret Story of the Swan) MV](https://www.youtube.com/watch?v=nnVjsos40qk)
 - [L'Arc～en～Ciel「Driver's High」-Music Clip- [L'Arc～en～Ciel Selected 10]](https://www.youtube.com/watch?v=bzuuxp7dsxQ)
 - [元衛覺醒-靠近](https://www.youtube.com/watch?v=2MwZkN5wt0M)
 - [【現在 很想見你 主題歌】Orangrang-花.flv](https://www.youtube.com/watch?v=1Ie7G-_KBxE)
+- [周杰倫 - 爸 我回來了 HQ](https://www.youtube.com/watch?v=HM5iFVNt7hw)
+- [鬥牛](https://www.youtube.com/watch?v=Vr24ay6VISw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
