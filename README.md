@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「ハイパークラクション」トレーラー](https://www.youtube.com/watch?v=YKnv0IFsTB4)
-- [飛鳥和蟬- 任然 Cover ( 蔡恩雨 Priscilla Abby)](https://www.youtube.com/watch?v=1BBw4oyOMG0)
 - [邓丽君 - 我只在乎你](https://www.youtube.com/watch?v=gBLjRz1xX_8)
 - [阿超 - [好人]喜國娛樂官方MV](https://www.youtube.com/watch?v=ih_9EZN78kU)
 - [9m88 x YELLOW 黃宣 x LINION - 戀人未滿 (S.H.E) (cover)  | 人面Soul心2020  [LIVE] 4K](https://www.youtube.com/watch?v=EmiHEEq7x60)
+- [SLSMusic｜楓之谷 MapleStory｜摩登101 Kerning Square｜Piano & Guitar Cover](https://www.youtube.com/watch?v=hdRYkqG6srs)
+- [I Mean Us - 12345 I HATE YOU (Demo)](https://www.youtube.com/watch?v=YXofBp6AeSo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
