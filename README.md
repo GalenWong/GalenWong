@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[Special Clip] Dreamcatcher(드림캐쳐) '하늘을 넘어'](https://www.youtube.com/watch?v=3F2nRTyVPGo)
-- [Glass Animals - Gooey (Wild Culture Remix)](https://www.youtube.com/watch?v=0IJfbsN7fpU)
 - [Mura Masa - I'll Be Alright (Tonight)](https://www.youtube.com/watch?v=au2EuGFi2bo)
 - [ゲスの極み乙女。 - 猟奇的なキスを私にして](https://www.youtube.com/watch?v=dDn04KCpdR0)
 - [楊丞琳 Rainie Yang -〈女孩們 GIRLS〉(feat. 王心凌 Cyndi Wang) Official HD MV](https://www.youtube.com/watch?v=uW0ag9ajpsI)
+- [[MV] DREAMCATCHER「Breaking Out」(1st Japan AL「The Beginning Of The End」)](https://www.youtube.com/watch?v=SHmOpFbFgrM)
+- [賴慈泓【不是我不適合你而是我不適合愛】Official Music Video](https://www.youtube.com/watch?v=VS_1h8iIsRY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
