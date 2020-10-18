@@ -44,8 +44,8 @@ jobs:
           git diff
           git config --global user.email "a937347984@gmail.com"
           git config --global user.name "mymix-bot"
-          git pull 
           git add -A 
+          git pull 
           git commit -m "Update YouTube Mymix" || exit 0
           git push
       
