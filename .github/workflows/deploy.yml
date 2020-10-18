@@ -45,9 +45,10 @@ jobs:
           git merge origin/master
       - uses: stefanzweifel/git-auto-commit-action@v4
         name: commit and push
-        commit_message: "Update YouTube Mymix"
-        file_pattern: "README.md"
-        commit_user_name: "mymix-bot"
-        commit_user_email: "a937347984@gmail.com"
-        push_options: "--force"
+        with:
+          commit_message: "Update YouTube Mymix"
+          file_pattern: "README.md"
+          commit_user_name: "mymix-bot"
+          commit_user_email: "a937347984@gmail.com"
+          push_options: "--force"
 
