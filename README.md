@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [真夜中のジョーク - 間宮貴子(Takako Mamiya)](https://www.youtube.com/watch?v=nhuNb0XtRhQ)
-- [張震嶽 A-Yue【愛我別走 Love me,don’t go】Official Music Video](https://www.youtube.com/watch?v=zPeMFCDPgKE)
 - [LiSA - 紅蓮華 / THE FIRST TAKE](https://www.youtube.com/watch?v=MpYy6wwqxoo)
 - [盗作（Album Trailer）](https://www.youtube.com/watch?v=8Zf66WSPU9E)
 - [虧欠](https://www.youtube.com/watch?v=D9t7SCuTzMo)
+- [Galileo Galilei - Arashi No Atode](https://www.youtube.com/watch?v=zlZwriO-Itg)
+- [G.E.M.鄧紫棋【孤獨 Loneliness】(Official Audio)](https://www.youtube.com/watch?v=OBIm_LdGndo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
