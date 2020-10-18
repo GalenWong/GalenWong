@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Warm Blooded](https://www.youtube.com/watch?v=gWpY8AMQybI)
-- [Childish Gambino - Feels Like Summer](https://www.youtube.com/watch?v=F1B9Fk_SgI0)
 - [DAOKO 『BANG!』 Music Video［HD］](https://www.youtube.com/watch?v=8WN0JnAnASY)
 - [[Special Clip] Dreamcatcher(드림캐쳐) '하늘을 넘어'](https://www.youtube.com/watch?v=3F2nRTyVPGo)
 - [Glass Animals - Gooey (Wild Culture Remix)](https://www.youtube.com/watch?v=0IJfbsN7fpU)
+- [Mura Masa - I'll Be Alright (Tonight)](https://www.youtube.com/watch?v=au2EuGFi2bo)
+- [ゲスの極み乙女。 - 猟奇的なキスを私にして](https://www.youtube.com/watch?v=dDn04KCpdR0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
