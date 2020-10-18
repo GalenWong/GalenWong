@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [J.Sheon - 別問很可怕 (Don't Ask)  |  Official Music Video](https://www.youtube.com/watch?v=tRa3fOlnN7k)
-- [丁世光《一口 The Day You Left Me》](https://www.youtube.com/watch?v=IdVhZQybn7c)
 - [Warm Blooded](https://www.youtube.com/watch?v=gWpY8AMQybI)
 - [Childish Gambino - Feels Like Summer](https://www.youtube.com/watch?v=F1B9Fk_SgI0)
 - [DAOKO 『BANG!』 Music Video［HD］](https://www.youtube.com/watch?v=8WN0JnAnASY)
+- [[Special Clip] Dreamcatcher(드림캐쳐) '하늘을 넘어'](https://www.youtube.com/watch?v=3F2nRTyVPGo)
+- [Glass Animals - Gooey (Wild Culture Remix)](https://www.youtube.com/watch?v=0IJfbsN7fpU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
