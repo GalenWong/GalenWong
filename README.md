@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Mean Us - 12345 I HATE YOU (Demo)](https://www.youtube.com/watch?v=YXofBp6AeSo)
-- [I Mean Us - EYƎ [Official Music Video]](https://www.youtube.com/watch?v=sBLVe2Fu1Qc)
 - [Jay Chou 周杰倫【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
 - [Friday Night Plans - "Plastic Love" (Live at Studio Tanta)](https://www.youtube.com/watch?v=HpN4bdyqHeI)
 - [io樂團 io Band【放不開】Official Lyric Video HD](https://www.youtube.com/watch?v=8BLlsc9N2Ls)
+- [Dizzy Dizzo - 誰愛誰 Shui Ai Shui (FEAT. E.SO)](https://www.youtube.com/watch?v=Bsay9CRHEps)
+- [J.Sheon - 別問很可怕 (Don't Ask)  |  Official Music Video](https://www.youtube.com/watch?v=tRa3fOlnN7k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
