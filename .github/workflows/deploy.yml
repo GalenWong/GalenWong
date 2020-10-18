@@ -6,15 +6,15 @@ on:
       - master
   schedule:
     # runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 22 * * *'
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Fetch newest blog post and put in README
-        uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
+        name: Fetch newest blog post and put in README
         with:
           feed_list: "https://galenwong.github.io/rss.xml"
       - name: Set up Python
@@ -39,13 +39,15 @@ jobs:
           CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
         run: |
           python write_youtube_mymix.py
-      - name: Commit and push
+      - name: git pull
         run: |
-          git diff
-          git config --global user.email "a937347984@gmail.com"
-          git config --global user.name "mymix-bot"
-          git add -A 
-          git pull 
-          git commit -m "Update YouTube Mymix" || exit 0
-          git push
-      
+          git fetch
+          git merge origin/master
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        name: commit and push
+        commit_message: "Update YouTube Mymix"
+        file_pattern: "README.md"
+        commit_user_name: "mymix-bot"
+        commit_user_email: "a937347984@gmail.com"
+        push_options: "--force"
+
