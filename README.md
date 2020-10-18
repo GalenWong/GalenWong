@@ -80,7 +80,7 @@ studies in
 - [五条人《乐队的夏天2》再现成名作《阿珍爱上了阿强》强夺复活赛第一！多行为艺术表现氛围感max【综艺风向标】](https://www.youtube.com/watch?v=aD9h13s2yAs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
-⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
+⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
 </td>
 </tr>
 <tr valign="top">
