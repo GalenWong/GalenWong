@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Frandé 法蘭黛樂團《該死的冷戰》Feat. 李英宏 aka DJ Didilong  Official Music Video](https://www.youtube.com/watch?v=NxngOIdRdqE)
-- [原子邦妮 Astro Bunny 【忽然想你的時候】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=z5MoQzwis0I)
-- [【顏社】Leo王 - 雞腿便當 (Official Music Video)](https://www.youtube.com/watch?v=eimid7K4mJ0)
-- [【顏社】Leo王 - 快樂的甘蔗人 (Lyrics Music Video)](https://www.youtube.com/watch?v=ui4nJWGvSYg)
-- [Electric Guest - Troubleman](https://www.youtube.com/watch?v=3OC2aPCuzjo)
+- [楊丞琳 Rainie Yang -〈女孩們 GIRLS〉(feat. 王心凌 Cyndi Wang) Official HD MV](https://www.youtube.com/watch?v=uW0ag9ajpsI)
+- [[MV] DREAMCATCHER「Breaking Out」(1st Japan AL「The Beginning Of The End」)](https://www.youtube.com/watch?v=SHmOpFbFgrM)
+- [賴慈泓【不是我不適合你而是我不適合愛】Official Music Video](https://www.youtube.com/watch?v=VS_1h8iIsRY)
+- [這群人 TGOP –十年的我 Ten years of me (官方完整版MV) Official Music Video](https://www.youtube.com/watch?v=q55S3PA7mTI)
+- [五条人《乐队的夏天2》再现成名作《阿珍爱上了阿强》强夺复活赛第一！多行为艺术表现氛围感max【综艺风向标】](https://www.youtube.com/watch?v=aD9h13s2yAs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates every hour. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
