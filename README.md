@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [虧欠](https://www.youtube.com/watch?v=D9t7SCuTzMo)
-- [Galileo Galilei - Arashi No Atode](https://www.youtube.com/watch?v=zlZwriO-Itg)
 - [G.E.M.鄧紫棋【孤獨 Loneliness】(Official Audio)](https://www.youtube.com/watch?v=OBIm_LdGndo)
 - [Red Velvet - IRENE & SEULGI 'Monster' MV](https://www.youtube.com/watch?v=Ujb-gvqsoi0)
 - [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
+- [PEARL CENTER × Soulflex - Mixed Emotions（Official Lyric Video）](https://www.youtube.com/watch?v=j5EYBkBnFAk)
+- [Sam Gouthro - Down For This](https://www.youtube.com/watch?v=keaJIg0Cvbs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
