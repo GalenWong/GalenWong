@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [真夜中のジョーク - 間宮貴子(Takako Mamiya)](https://www.youtube.com/watch?v=nhuNb0XtRhQ)
-- [張震嶽 A-Yue【愛我別走 Love me,don’t go】Official Music Video](https://www.youtube.com/watch?v=zPeMFCDPgKE)
-- [LiSA - 紅蓮華 / THE FIRST TAKE](https://www.youtube.com/watch?v=MpYy6wwqxoo)
-- [盗作（Album Trailer）](https://www.youtube.com/watch?v=8Zf66WSPU9E)
-- [虧欠](https://www.youtube.com/watch?v=D9t7SCuTzMo)
+- [G.E.M.鄧紫棋【孤獨 Loneliness】(Official Audio)](https://www.youtube.com/watch?v=OBIm_LdGndo)
+- [Red Velvet - IRENE & SEULGI 'Monster' MV](https://www.youtube.com/watch?v=Ujb-gvqsoi0)
+- [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
+- [PEARL CENTER × Soulflex - Mixed Emotions（Official Lyric Video）](https://www.youtube.com/watch?v=j5EYBkBnFAk)
+- [Sam Gouthro - Down For This](https://www.youtube.com/watch?v=keaJIg0Cvbs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
