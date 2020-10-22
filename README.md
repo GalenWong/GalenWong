@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [G.E.M.鄧紫棋【孤獨 Loneliness】(Official Audio)](https://www.youtube.com/watch?v=OBIm_LdGndo)
-- [Red Velvet - IRENE & SEULGI 'Monster' MV](https://www.youtube.com/watch?v=Ujb-gvqsoi0)
-- [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
-- [PEARL CENTER × Soulflex - Mixed Emotions（Official Lyric Video）](https://www.youtube.com/watch?v=j5EYBkBnFAk)
-- [Sam Gouthro - Down For This](https://www.youtube.com/watch?v=keaJIg0Cvbs)
+- [張震嶽 A-Yue【愛不要停擺 Don't Stop Loving】Official Lyric Video](https://www.youtube.com/watch?v=bjThjrycV6c)
+- [Secret 不能説的秘密 2007 World Tour [Live] - Jay Chou](https://www.youtube.com/watch?v=ZrKrRIlBZi0)
+- [安溥 anpu - ZOEA｜Official Music Video](https://www.youtube.com/watch?v=PYUFz7VIZQs)
+- [孫盛希 Shi Shi【人樣 Love Me Like A Liar】Official Lyric Video](https://www.youtube.com/watch?v=_axek5p6keo)
+- [mabanua - Blurred [Official Music Video]](https://www.youtube.com/watch?v=vJ7kftr5kSw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
