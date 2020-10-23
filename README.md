@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張震嶽 A-Yue【愛不要停擺 Don't Stop Loving】Official Lyric Video](https://www.youtube.com/watch?v=bjThjrycV6c)
-- [Secret 不能説的秘密 2007 World Tour [Live] - Jay Chou](https://www.youtube.com/watch?v=ZrKrRIlBZi0)
 - [安溥 anpu - ZOEA｜Official Music Video](https://www.youtube.com/watch?v=PYUFz7VIZQs)
 - [孫盛希 Shi Shi【人樣 Love Me Like A Liar】Official Lyric Video](https://www.youtube.com/watch?v=_axek5p6keo)
 - [mabanua - Blurred [Official Music Video]](https://www.youtube.com/watch?v=vJ7kftr5kSw)
+- [張學友 | 等你等到我心痛  (高清音)](https://www.youtube.com/watch?v=K_N76y5elPM)
+- [indigo la End「チューリップ」](https://www.youtube.com/watch?v=kiTn9pgnj8I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
