@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [indigo la End「チューリップ」](https://www.youtube.com/watch?v=kiTn9pgnj8I)
-- [周杰倫Jay Chou X aMEI【不該 Shouldn't Be】Official MV](https://www.youtube.com/watch?v=_VxLOj3TB5k)
 - [Sunny Day Service - 愛し合い 感じ合い 眠り合う【Official Video】](https://www.youtube.com/watch?v=TgDFuS9F0jE)
 - [荷爾蒙少年 Hormone Boys - 若已成舟 Transparent River (Official Acoustic Session)](https://www.youtube.com/watch?v=jTYnoW7L22E)
 - [夏夜晚風](https://www.youtube.com/watch?v=QkTfsIQKMFU)
+- [ずっと真夜中でいいのに。『お勉強しといてよ』MV（ZUTOMAYO - STUDY ME）](https://www.youtube.com/watch?v=Atvsg_zogxo)
+- [RubberBand - 百毒不侵 Lyric Video](https://www.youtube.com/watch?v=iW0HIMAgU98)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
