@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [RubberBand - 百毒不侵 Lyric Video](https://www.youtube.com/watch?v=iW0HIMAgU98)
-- [宋冬野 地铁钻出地面的时候](https://www.youtube.com/watch?v=9aEo0DlDB3g)
 - [Moonchild - "The List" (Official Video)](https://www.youtube.com/watch?v=1eDvtvdoxJE)
 - [YeYe - 幸せにはならない（Official Music Video）](https://www.youtube.com/watch?v=EdUtRTZRzWI)
 - [Chet Faker - Gold (Official Music Video)](https://www.youtube.com/watch?v=hi4pzKvuEQM)
+- [majiko - ひび割れた世界 [MV]](https://www.youtube.com/watch?v=6rHySk9Kcuo)
+- [張學友 | 這麼近 那麼遠 (高清音)](https://www.youtube.com/watch?v=FKJsERz50OI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
