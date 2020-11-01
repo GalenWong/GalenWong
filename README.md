@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張學友 | 這麼近 那麼遠 (高清音)](https://www.youtube.com/watch?v=FKJsERz50OI)
-- [MP魔幻力量 [ 我還是愛著你 I still love you ] Official Music Video - 三立華劇「幸福兌換券」片尾曲](https://www.youtube.com/watch?v=Oc_VUUE9MHo)
 - [無妄合作社 No-nonsense Collective〈山頭 Utopia〉Official Music Video](https://www.youtube.com/watch?v=-58c2qlsIog)
 - [愛にできることはまだあるかい RADWIMPS MV](https://www.youtube.com/watch?v=EQ94zflNqn4)
 - [Nujabes - Aruarian dance](https://www.youtube.com/watch?v=g9hwjQBQFIo)
+- [saib. - West Lake](https://www.youtube.com/watch?v=wbysDvxmgd0)
+- [高職畢業歌《莊敬肄業喇X！》超炸饒舌唱出荒誕學生生活！《VS MEDIA》](https://www.youtube.com/watch?v=UJA3iYep81o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
