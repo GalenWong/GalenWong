@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [高職畢業歌《莊敬肄業喇X！》超炸饒舌唱出荒誕學生生活！《VS MEDIA》](https://www.youtube.com/watch?v=UJA3iYep81o)
-- [七尾旅人 "サーカスナイト" (Official Music Video)](https://www.youtube.com/watch?v=U8kr_ws3bGY)
 - [青葉市子 - サーカスナイト](https://www.youtube.com/watch?v=vgxsj6rIraM)
 - [Cicada - 湖面的盡頭 Lake's End《散落的時光 Pieces》](https://www.youtube.com/watch?v=gjAe4ZfbGuo)
 - [freshgoodies x Yestalgia - Sailors](https://www.youtube.com/watch?v=mANQuVuuBjo)
+- [Haruka Nakamura - Twilight](https://www.youtube.com/watch?v=Hl2uwHzuqOY)
+- [arne / haruka nakamura【Official MV by 奥山由之 Yoshiyuki Okuyama】](https://www.youtube.com/watch?v=9sl-2Fuo9c0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
