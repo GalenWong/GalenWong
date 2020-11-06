@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [freshgoodies x Yestalgia - Sailors](https://www.youtube.com/watch?v=mANQuVuuBjo)
-- [Haruka Nakamura - Twilight](https://www.youtube.com/watch?v=Hl2uwHzuqOY)
-- [arne / haruka nakamura【Official MV by 奥山由之 Yoshiyuki Okuyama】](https://www.youtube.com/watch?v=9sl-2Fuo9c0)
 - [光　haruka nakamura PIANO ENSEMBLE feat.CANTUS (Official MV)](https://www.youtube.com/watch?v=PNZt6lstkBs)
 - [音楽のある風景  haruka nakamura PIANO ENSEMBLE【Official MV】](https://www.youtube.com/watch?v=N7TkK2joi4I)
+- [Leavv - Far Away](https://www.youtube.com/watch?v=Nx3PS2NvA8A)
+- [goosetaf - Foggy Nights w/ Kupla](https://www.youtube.com/watch?v=JSxGFeIRUe0)
+- [HUSH [ 同一個答案 ] Official Music Video](https://www.youtube.com/watch?v=aRhvQwN_ySc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
