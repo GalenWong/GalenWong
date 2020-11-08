@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Leavv - Far Away](https://www.youtube.com/watch?v=Nx3PS2NvA8A)
-- [goosetaf - Foggy Nights w/ Kupla](https://www.youtube.com/watch?v=JSxGFeIRUe0)
 - [HUSH [ 同一個答案 ] Official Music Video](https://www.youtube.com/watch?v=aRhvQwN_ySc)
 - [L'indécis - Second Wind (Official Video) 🎈](https://www.youtube.com/watch?v=MFo3qZP2cIM)
 - [kokoro - I miss you](https://www.youtube.com/watch?v=5bWJ2bFonVY)
+- [my leaving feat. mabanua / Kenichiro Nishihara (Music Video)](https://www.youtube.com/watch?v=HCRbay_EbMw)
+- [RAINING IN ＯＳＡＫＡ (Lofi HipHop)](https://www.youtube.com/watch?v=YOJsKatW-Ts)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
