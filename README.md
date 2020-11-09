@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [HUSH [ 同一個答案 ] Official Music Video](https://www.youtube.com/watch?v=aRhvQwN_ySc)
-- [L'indécis - Second Wind (Official Video) 🎈](https://www.youtube.com/watch?v=MFo3qZP2cIM)
 - [kokoro - I miss you](https://www.youtube.com/watch?v=5bWJ2bFonVY)
 - [my leaving feat. mabanua / Kenichiro Nishihara (Music Video)](https://www.youtube.com/watch?v=HCRbay_EbMw)
 - [RAINING IN ＯＳＡＫＡ (Lofi HipHop)](https://www.youtube.com/watch?v=YOJsKatW-Ts)
+- [midnight aura. [lofi / jazzhop / chill mix]](https://www.youtube.com/watch?v=tgI6PjEq0O8)
+- [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
