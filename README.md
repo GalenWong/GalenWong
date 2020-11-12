@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
-- [【HD】逃跑計劃 - 夜空中最亮的星 [歌詞字幕][完整高音質] Escape Plan - Brightest Star In The Night Sky](https://www.youtube.com/watch?v=GPnymcrXgX0)
 - [老王樂隊｜迎面而來 In Your Face (Official)](https://www.youtube.com/watch?v=o5kbr7n2VbA)
 - [房東的貓《 美好事物 》2017 完整版 / Lyric Video](https://www.youtube.com/watch?v=KNfKqJeHgZQ)
 - [YOASOBI「ハルジオン」Official Music Video](https://www.youtube.com/watch?v=kzdJkT4kp-A)
+- [Luv(sic) Part6 - Uyama Hiroto Remix featuring Shing02](https://www.youtube.com/watch?v=FvcyZOVCORM)
+- [柯智棠 Kowen [ Goodbye & Goodnight 中文版 ] Official Music Video](https://www.youtube.com/watch?v=y8ULE4A3uP8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
