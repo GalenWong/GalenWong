@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [老王樂隊｜迎面而來 In Your Face (Official)](https://www.youtube.com/watch?v=o5kbr7n2VbA)
-- [房東的貓《 美好事物 》2017 完整版 / Lyric Video](https://www.youtube.com/watch?v=KNfKqJeHgZQ)
 - [YOASOBI「ハルジオン」Official Music Video](https://www.youtube.com/watch?v=kzdJkT4kp-A)
 - [Luv(sic) Part6 - Uyama Hiroto Remix featuring Shing02](https://www.youtube.com/watch?v=FvcyZOVCORM)
 - [柯智棠 Kowen [ Goodbye & Goodnight 中文版 ] Official Music Video](https://www.youtube.com/watch?v=y8ULE4A3uP8)
+- [陳綺貞 Cheer Chen【煙火 Fireworks】太陽巡迴演唱會 Official Live Video](https://www.youtube.com/watch?v=loBfQgOXf2g)
+- [キリンジ - エイリアンズ](https://www.youtube.com/watch?v=w05Q_aZKkFw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
