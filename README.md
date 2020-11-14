@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YOASOBI「ハルジオン」Official Music Video](https://www.youtube.com/watch?v=kzdJkT4kp-A)
-- [Luv(sic) Part6 - Uyama Hiroto Remix featuring Shing02](https://www.youtube.com/watch?v=FvcyZOVCORM)
 - [柯智棠 Kowen [ Goodbye & Goodnight 中文版 ] Official Music Video](https://www.youtube.com/watch?v=y8ULE4A3uP8)
 - [陳綺貞 Cheer Chen【煙火 Fireworks】太陽巡迴演唱會 Official Live Video](https://www.youtube.com/watch?v=loBfQgOXf2g)
 - [キリンジ - エイリアンズ](https://www.youtube.com/watch?v=w05Q_aZKkFw)
+- [楚知嫣 - 女皇作風 | Zhiyan - Nuhuang Zuofeng (Official Music Video) (歌詞見簡介或字幕)](https://www.youtube.com/watch?v=ujnPWYJfo7E)
+- [Vooid 「礦石」 (Audio)](https://www.youtube.com/watch?v=hqWHSaAnE0w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
