@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [柯智棠 Kowen [ Goodbye & Goodnight 中文版 ] Official Music Video](https://www.youtube.com/watch?v=y8ULE4A3uP8)
-- [陳綺貞 Cheer Chen【煙火 Fireworks】太陽巡迴演唱會 Official Live Video](https://www.youtube.com/watch?v=loBfQgOXf2g)
 - [キリンジ - エイリアンズ](https://www.youtube.com/watch?v=w05Q_aZKkFw)
 - [楚知嫣 - 女皇作風 | Zhiyan - Nuhuang Zuofeng (Official Music Video) (歌詞見簡介或字幕)](https://www.youtube.com/watch?v=ujnPWYJfo7E)
 - [Vooid 「礦石」 (Audio)](https://www.youtube.com/watch?v=hqWHSaAnE0w)
+- [Nujabes - Counting Stars](https://www.youtube.com/watch?v=Z-tTmSY4m4M)
+- [盧凱彤 Ellen Loo 《卡帶》官方 mv](https://www.youtube.com/watch?v=h_xJ9qKBwP0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
