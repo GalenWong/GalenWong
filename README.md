@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [キリンジ - エイリアンズ](https://www.youtube.com/watch?v=w05Q_aZKkFw)
-- [楚知嫣 - 女皇作風 | Zhiyan - Nuhuang Zuofeng (Official Music Video) (歌詞見簡介或字幕)](https://www.youtube.com/watch?v=ujnPWYJfo7E)
 - [Vooid 「礦石」 (Audio)](https://www.youtube.com/watch?v=hqWHSaAnE0w)
 - [Nujabes - Counting Stars](https://www.youtube.com/watch?v=Z-tTmSY4m4M)
 - [盧凱彤 Ellen Loo 《卡帶》官方 mv](https://www.youtube.com/watch?v=h_xJ9qKBwP0)
+- [old songs but it's lofi remix](https://www.youtube.com/watch?v=BrnDlRmW5hs)
+- [RAINING IN ＴＯＫＹＯ (Lofi HipHop)](https://www.youtube.com/watch?v=XKDGZ-VWLMg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
