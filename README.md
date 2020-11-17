@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Vooid 「礦石」 (Audio)](https://www.youtube.com/watch?v=hqWHSaAnE0w)
-- [Nujabes - Counting Stars](https://www.youtube.com/watch?v=Z-tTmSY4m4M)
 - [盧凱彤 Ellen Loo 《卡帶》官方 mv](https://www.youtube.com/watch?v=h_xJ9qKBwP0)
 - [old songs but it's lofi remix](https://www.youtube.com/watch?v=BrnDlRmW5hs)
 - [RAINING IN ＴＯＫＹＯ (Lofi HipHop)](https://www.youtube.com/watch?v=XKDGZ-VWLMg)
+- [FKJ - Lying Together](https://www.youtube.com/watch?v=Voqi7CZB4n8)
+- [Fkj - Brother (Official Audio)](https://www.youtube.com/watch?v=625dPre0eqk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
