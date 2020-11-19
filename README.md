@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [RAINING IN ＴＯＫＹＯ (Lofi HipHop)](https://www.youtube.com/watch?v=XKDGZ-VWLMg)
-- [FKJ - Lying Together](https://www.youtube.com/watch?v=Voqi7CZB4n8)
 - [Fkj - Brother (Official Audio)](https://www.youtube.com/watch?v=625dPre0eqk)
 - [Nujabes - Imaginary Folklore](https://www.youtube.com/watch?v=hgXxDFvfdhM)
 - [Delayde - Little Spirit](https://www.youtube.com/watch?v=2-wZwccw1xE)
+- [L'indécis - Keep On [Chillhop Essentials Spring 2020]](https://www.youtube.com/watch?v=dQRQSBiWgbE)
+- [Miscél - Threads [chill instrumental beats]](https://www.youtube.com/watch?v=_y8SwijcxbM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
