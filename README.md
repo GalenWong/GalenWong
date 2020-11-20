@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj - Brother (Official Audio)](https://www.youtube.com/watch?v=625dPre0eqk)
-- [Nujabes - Imaginary Folklore](https://www.youtube.com/watch?v=hgXxDFvfdhM)
 - [Delayde - Little Spirit](https://www.youtube.com/watch?v=2-wZwccw1xE)
 - [L'indécis - Keep On [Chillhop Essentials Spring 2020]](https://www.youtube.com/watch?v=dQRQSBiWgbE)
 - [Miscél - Threads [chill instrumental beats]](https://www.youtube.com/watch?v=_y8SwijcxbM)
+- [Milky Chance - Stolen Dance (Album Version)](https://www.youtube.com/watch?v=iX-QaNzd-0Y)
+- [Kalaido - Technicolor Midnight](https://www.youtube.com/watch?v=k7_f749pcfs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
