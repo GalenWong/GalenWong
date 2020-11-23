@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Kalaido - Technicolor Midnight](https://www.youtube.com/watch?v=k7_f749pcfs)
-- [No Signal 😶 [Chillhop Halloween Mix]](https://www.youtube.com/watch?v=8RloV4t8WTE)
 - [【ネオシティポップとか】Neo City Pop / Japanese Hip Hop etc. Mix + Video【日本語ラップとか】](https://www.youtube.com/watch?v=DOjrQ9DByhA)
 - [＜映画「亜人」主題歌＞THE ORAL CIGARETTES「BLACK MEMORY」Music Video -4th AL「Kisses and Kills」6/13 Release-](https://www.youtube.com/watch?v=WGot2jAViWY)
 - [Aso x Aviino x Middle School - Canary Forest [Chill Instrumental Beats]](https://www.youtube.com/watch?v=yYZy0jrQomQ)
+- [DJ OKAWARI「Perfect Blue」](https://www.youtube.com/watch?v=UjLnvXpkq68)
+- [Fkj - 100 Roses (Official Audio)](https://www.youtube.com/watch?v=lfxXg6nNdNk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
