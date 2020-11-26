@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Fkj - 100 Roses (Official Audio)](https://www.youtube.com/watch?v=lfxXg6nNdNk)
-- [【HD】房東的貓 - 美好事物 (2017) [歌詞字幕][完整高清音質] The Landlord's Cat - Good things (2017)](https://www.youtube.com/watch?v=YYb1rjmMn98)
 - [Vising《 長大以後 》Lyric Video](https://www.youtube.com/watch?v=Elb9-GHqxfY)
 - [房東的貓《 雲煙成雨 》Lyric Video / 動畫【我是江小白】片尾曲](https://www.youtube.com/watch?v=_Lq06i5MTq0)
 - [RAINING IN ＮＡＧＯＹＡ (Lofi HipHop) Extended Version](https://www.youtube.com/watch?v=0te6noMKffA)
+- [酸欠少女さユり『アノニマス』MV(フルver)「消滅都市」コラボソング](https://www.youtube.com/watch?v=PgRd17Qvji4)
+- [THE ORAL CIGARETTES「気づけよBaby」MusicVideo](https://www.youtube.com/watch?v=2EIHak0--40)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
