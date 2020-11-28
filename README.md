@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [RAINING IN ＮＡＧＯＹＡ (Lofi HipHop) Extended Version](https://www.youtube.com/watch?v=0te6noMKffA)
-- [酸欠少女さユり『アノニマス』MV(フルver)「消滅都市」コラボソング](https://www.youtube.com/watch?v=PgRd17Qvji4)
 - [THE ORAL CIGARETTES「気づけよBaby」MusicVideo](https://www.youtube.com/watch?v=2EIHak0--40)
 - [鄭興 Xing Zheng【去海邊 The Room by the Sea】Official Music Video](https://www.youtube.com/watch?v=TQvF1RGtj08)
 - [艾怡良 Eve Ai《Forever Young》Official Music Video](https://www.youtube.com/watch?v=rFj6azCUYrU)
+- [City Escape 🌃[jazzy beats / lofi hip hop mix]](https://www.youtube.com/watch?v=tAzN2FukjnY)
+- [RAINING IN ＰＡＲＩＳ (Lofi HipHop)](https://www.youtube.com/watch?v=Xyj0Mq-YdUY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
