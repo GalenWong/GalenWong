@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [THE ORAL CIGARETTES「気づけよBaby」MusicVideo](https://www.youtube.com/watch?v=2EIHak0--40)
-- [鄭興 Xing Zheng【去海邊 The Room by the Sea】Official Music Video](https://www.youtube.com/watch?v=TQvF1RGtj08)
 - [艾怡良 Eve Ai《Forever Young》Official Music Video](https://www.youtube.com/watch?v=rFj6azCUYrU)
 - [City Escape 🌃[jazzy beats / lofi hip hop mix]](https://www.youtube.com/watch?v=tAzN2FukjnY)
 - [RAINING IN ＰＡＲＩＳ (Lofi HipHop)](https://www.youtube.com/watch?v=Xyj0Mq-YdUY)
+- [Lofi hip hop mix - Beats to Relax/Study to [2018]](https://www.youtube.com/watch?v=-FlxM_0S2lA)
+- [late night vibes... 😴](https://www.youtube.com/watch?v=fTjm59DFifg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
