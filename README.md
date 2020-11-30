@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [艾怡良 Eve Ai《Forever Young》Official Music Video](https://www.youtube.com/watch?v=rFj6azCUYrU)
-- [City Escape 🌃[jazzy beats / lofi hip hop mix]](https://www.youtube.com/watch?v=tAzN2FukjnY)
-- [RAINING IN ＰＡＲＩＳ (Lofi HipHop)](https://www.youtube.com/watch?v=Xyj0Mq-YdUY)
-- [Lofi hip hop mix - Beats to Relax/Study to [2018]](https://www.youtube.com/watch?v=-FlxM_0S2lA)
-- [late night vibes... 😴](https://www.youtube.com/watch?v=fTjm59DFifg)
+- [MAYDAY五月天 [ 愛情萬歲 ]  feat.伍佰 Wu Bai](https://www.youtube.com/watch?v=zfvqev962dw)
+- [Takuya Kuroda - Moody](https://www.youtube.com/watch?v=9Td1G_LFTzQ)
+- [RAINING IN ＯＳＡＫＡ (Lofi HipHop) 10 Hour Extended](https://www.youtube.com/watch?v=4f5PZHlZeho)
+- [きのこ帝国 - クロノスタシス(MV)](https://www.youtube.com/watch?v=cCx4I4Fk5FE)
+- [3:30 a.m. ~ lofi hip hop / jazzhop / chillhop mix [study/sleep/homework music]](https://www.youtube.com/watch?v=dR17U5-VKtw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
