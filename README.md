@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [MAYDAY五月天 [ 愛情萬歲 ]  feat.伍佰 Wu Bai](https://www.youtube.com/watch?v=zfvqev962dw)
-- [Takuya Kuroda - Moody](https://www.youtube.com/watch?v=9Td1G_LFTzQ)
-- [RAINING IN ＯＳＡＫＡ (Lofi HipHop) 10 Hour Extended](https://www.youtube.com/watch?v=4f5PZHlZeho)
-- [きのこ帝国 - クロノスタシス(MV)](https://www.youtube.com/watch?v=cCx4I4Fk5FE)
-- [3:30 a.m. ~ lofi hip hop / jazzhop / chillhop mix [study/sleep/homework music]](https://www.youtube.com/watch?v=dR17U5-VKtw)
+- [Night Traffic Hip Hop Jazz - Smooth Jazz Beats - Chill Out Jazz & Hip Hop - Relaxing Jazz Ballads](https://www.youtube.com/watch?v=khMzXxZvryw)
+- [Studio Ghibli Cafe Music - Winter Jazz & Bossa Nova Music For Work, Study - Happy New Year!!](https://www.youtube.com/watch?v=HYUiahljMMc)
+- [you can't control my heart (ft. shiloh)](https://www.youtube.com/watch?v=BDf4fvubExc)
+- [DownTown | Jazzhop](https://www.youtube.com/watch?v=GGBm9gTY2NU)
+- [Chillhop Yearmix 2019 ☕️ jazz beats & lofi hip hop](https://www.youtube.com/watch?v=s49CT4DTAkw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
