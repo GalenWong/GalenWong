@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Night Traffic Hip Hop Jazz - Smooth Jazz Beats - Chill Out Jazz & Hip Hop - Relaxing Jazz Ballads](https://www.youtube.com/watch?v=khMzXxZvryw)
-- [Studio Ghibli Cafe Music - Winter Jazz & Bossa Nova Music For Work, Study - Happy New Year!!](https://www.youtube.com/watch?v=HYUiahljMMc)
-- [you can't control my heart (ft. shiloh)](https://www.youtube.com/watch?v=BDf4fvubExc)
-- [DownTown | Jazzhop](https://www.youtube.com/watch?v=GGBm9gTY2NU)
-- [Chillhop Yearmix 2019 ☕️ jazz beats & lofi hip hop](https://www.youtube.com/watch?v=s49CT4DTAkw)
+- [七尾旅人 "きみはうつくしい" (Official Music Video)](https://www.youtube.com/watch?v=-9NwwoF0X2E)
+- [Spangle call Lilli line "mio" (Official Music Video)](https://www.youtube.com/watch?v=j7BQRPSOIeA)
+- [[Study Sleep Relax 💖] Meditation - Monoman .beautiful comment section peaceful relaxing soothing](https://www.youtube.com/watch?v=FjHGZj2IjBk)
+- [Beats to swim/tan to.. ☀️💦](https://www.youtube.com/watch?v=W0dOwXP-2to)
+- [🌻9:00am : 따스한 햇살 비추는 시간 (Indie/Jazz)](https://www.youtube.com/watch?v=5t91-jd3gDE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
