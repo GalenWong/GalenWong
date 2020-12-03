@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [七尾旅人 "きみはうつくしい" (Official Music Video)](https://www.youtube.com/watch?v=-9NwwoF0X2E)
-- [Spangle call Lilli line "mio" (Official Music Video)](https://www.youtube.com/watch?v=j7BQRPSOIeA)
-- [[Study Sleep Relax 💖] Meditation - Monoman .beautiful comment section peaceful relaxing soothing](https://www.youtube.com/watch?v=FjHGZj2IjBk)
 - [Beats to swim/tan to.. ☀️💦](https://www.youtube.com/watch?v=W0dOwXP-2to)
 - [🌻9:00am : 따스한 햇살 비추는 시간 (Indie/Jazz)](https://www.youtube.com/watch?v=5t91-jd3gDE)
+- [ＦＯＲＥＳＴ　ＣＨＩＬＬ [10 HOURS]](https://www.youtube.com/watch?v=ZGR5ht4urSY)
+- [DJ OKAWARI × Emily Styler「Engage Ring」](https://www.youtube.com/watch?v=0P1bWEWY7co)
+- [DJ OKAWARI「Voice of Nature」](https://www.youtube.com/watch?v=AvnehkuqmkQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
