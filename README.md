@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Beats to swim/tan to.. ☀️💦](https://www.youtube.com/watch?v=W0dOwXP-2to)
-- [🌻9:00am : 따스한 햇살 비추는 시간 (Indie/Jazz)](https://www.youtube.com/watch?v=5t91-jd3gDE)
-- [ＦＯＲＥＳＴ　ＣＨＩＬＬ [10 HOURS]](https://www.youtube.com/watch?v=ZGR5ht4urSY)
-- [DJ OKAWARI × Emily Styler「Engage Ring」](https://www.youtube.com/watch?v=0P1bWEWY7co)
-- [DJ OKAWARI「Voice of Nature」](https://www.youtube.com/watch?v=AvnehkuqmkQ)
+- [Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]](https://www.youtube.com/watch?v=8iU8LPEa4o0)
+- [Stop for a while and enjoy this Japanese Indie Folk playlist](https://www.youtube.com/watch?v=KnAUM2duqAk)
+- [PEOPLE 1 "常夜燈" （Official Video）](https://www.youtube.com/watch?v=OZpv_AcPCKg)
+- [inner city [lofi / jazzhop / chill beats]](https://www.youtube.com/watch?v=c3Jl8ZIPcmw)
+- [【聲林之王2】EP8 純享版｜盧子杰  魏如萱 星期三或禮拜三｜林宥嘉 Jungle Voice 2](https://www.youtube.com/watch?v=Yzna3DGRJFw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
