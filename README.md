@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Chill Study Beats 4 • jazz & lofi hiphop Mix [2017]](https://www.youtube.com/watch?v=8iU8LPEa4o0)
 - [Stop for a while and enjoy this Japanese Indie Folk playlist](https://www.youtube.com/watch?v=KnAUM2duqAk)
 - [PEOPLE 1 "常夜燈" （Official Video）](https://www.youtube.com/watch?v=OZpv_AcPCKg)
 - [inner city [lofi / jazzhop / chill beats]](https://www.youtube.com/watch?v=c3Jl8ZIPcmw)
 - [【聲林之王2】EP8 純享版｜盧子杰  魏如萱 星期三或禮拜三｜林宥嘉 Jungle Voice 2](https://www.youtube.com/watch?v=Yzna3DGRJFw)
+- [Dreaming of You Tonight ~ Lofi Hip Hop Mix](https://www.youtube.com/watch?v=HGM2AvY_Ztk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
