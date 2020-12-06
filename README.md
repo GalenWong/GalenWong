@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Stop for a while and enjoy this Japanese Indie Folk playlist](https://www.youtube.com/watch?v=KnAUM2duqAk)
-- [PEOPLE 1 "常夜燈" （Official Video）](https://www.youtube.com/watch?v=OZpv_AcPCKg)
-- [inner city [lofi / jazzhop / chill beats]](https://www.youtube.com/watch?v=c3Jl8ZIPcmw)
-- [【聲林之王2】EP8 純享版｜盧子杰  魏如萱 星期三或禮拜三｜林宥嘉 Jungle Voice 2](https://www.youtube.com/watch?v=Yzna3DGRJFw)
-- [Dreaming of You Tonight ~ Lofi Hip Hop Mix](https://www.youtube.com/watch?v=HGM2AvY_Ztk)
+- [DJ OKAWARI × Emily Styler「Engage Ring」](https://www.youtube.com/watch?v=0P1bWEWY7co)
+- [DJ OKAWARI「Voice of Nature」](https://www.youtube.com/watch?v=AvnehkuqmkQ)
+- [chelmico「どうやら、私は」 【Official Music Video】 with VIBTEX™](https://www.youtube.com/watch?v=Ak643t8tDX4)
+- [⭐알앤비: 감성 터지는 늦은 밤, 혼자만의 생각에 잠기기 좋은 20곡 (R&B Mix)](https://www.youtube.com/watch?v=o_UUYwymh30)
+- [女也herstory with Mayday - 艾怡良 [ 如煙 ] Official Music Video](https://www.youtube.com/watch?v=6n8AitBL7xc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
