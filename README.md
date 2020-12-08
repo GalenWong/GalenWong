@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DJ OKAWARI「Voice of Nature」](https://www.youtube.com/watch?v=AvnehkuqmkQ)
 - [chelmico「どうやら、私は」 【Official Music Video】 with VIBTEX™](https://www.youtube.com/watch?v=Ak643t8tDX4)
 - [⭐알앤비: 감성 터지는 늦은 밤, 혼자만의 생각에 잠기기 좋은 20곡 (R&B Mix)](https://www.youtube.com/watch?v=o_UUYwymh30)
 - [女也herstory with Mayday - 艾怡良 [ 如煙 ] Official Music Video](https://www.youtube.com/watch?v=6n8AitBL7xc)
 - [lofi songs for slow days](https://www.youtube.com/watch?v=AzV77KFsLn4)
+- [DJ Okawari and RainyMood MashUp (With Download!)](https://www.youtube.com/watch?v=sBYw5sYcIs8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
