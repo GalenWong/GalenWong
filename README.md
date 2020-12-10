@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Dreaming of You Tonight ~ Lofi Hip Hop Mix](https://www.youtube.com/watch?v=HGM2AvY_Ztk)
 - [無妄合作社 No-nonsense Collective－夢遊少年 Dizzy Youth](https://www.youtube.com/watch?v=Lc9pQWl_B18)
 - [Tizzy Bac - [ 深海怪物 ] Official Music Video](https://www.youtube.com/watch?v=p5xSk_q2jW0)
 - [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
 - [MAYDAY五月天 [ 轉眼（2018 自傳最終章）Final Chapter  ] Official Music Video](https://www.youtube.com/watch?v=GuqY5OViunk)
+- [拍謝少年 Sorry Youth - 朋友啊 Friends (Official MV)](https://www.youtube.com/watch?v=YKFvBpol-D4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
