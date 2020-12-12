@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tizzy Bac - [ 深海怪物 ] Official Music Video](https://www.youtube.com/watch?v=p5xSk_q2jW0)
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
-- [MAYDAY五月天 [ 轉眼（2018 自傳最終章）Final Chapter  ] Official Music Video](https://www.youtube.com/watch?v=GuqY5OViunk)
-- [拍謝少年 Sorry Youth - 朋友啊 Friends (Official MV)](https://www.youtube.com/watch?v=YKFvBpol-D4)
-- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
+- [DJ Okawari and RainyMood MashUp (With Download!)](https://www.youtube.com/watch?v=sBYw5sYcIs8)
+- [DJ OKAWARI 「飘韵 -Piaoyun-」](https://www.youtube.com/watch?v=GlryxhE7dgg)
+- [DJ OKAWARI feat.fox capture plan「Lightning Moment」](https://www.youtube.com/watch?v=EGyLTdxZPfA)
+- [Heavy Rain | Lofi HipHop](https://www.youtube.com/watch?v=JyNYkWKHf1Q)
+- [cute songs to help you cope with depression](https://www.youtube.com/watch?v=eSH7QSzkhQg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
