@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DJ Okawari and RainyMood MashUp (With Download!)](https://www.youtube.com/watch?v=sBYw5sYcIs8)
 - [DJ OKAWARI 「飘韵 -Piaoyun-」](https://www.youtube.com/watch?v=GlryxhE7dgg)
 - [DJ OKAWARI feat.fox capture plan「Lightning Moment」](https://www.youtube.com/watch?v=EGyLTdxZPfA)
 - [Heavy Rain | Lofi HipHop](https://www.youtube.com/watch?v=JyNYkWKHf1Q)
 - [cute songs to help you cope with depression](https://www.youtube.com/watch?v=eSH7QSzkhQg)
+- [DJ OKAWARI × Emily Styler「Over The Rain」](https://www.youtube.com/watch?v=KgxuR0rMoVI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
