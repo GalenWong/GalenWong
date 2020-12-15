@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DJ OKAWARI feat.fox capture plan「Lightning Moment」](https://www.youtube.com/watch?v=EGyLTdxZPfA)
-- [Heavy Rain | Lofi HipHop](https://www.youtube.com/watch?v=JyNYkWKHf1Q)
-- [cute songs to help you cope with depression](https://www.youtube.com/watch?v=eSH7QSzkhQg)
-- [DJ OKAWARI × Emily Styler「Over The Rain」](https://www.youtube.com/watch?v=KgxuR0rMoVI)
-- [C H I L L V I B E S | Chill & aesthetic music playlist](https://www.youtube.com/watch?v=oJnF5VxTO5g)
+- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
+- [DJ Okawari - Luv Letter](https://www.youtube.com/watch?v=CGvIzFRcRMA)
+- [majiko - 声 [MV]](https://www.youtube.com/watch?v=5BMnuvtdw1s)
+- [SHE IS SUMMER「君をピカソの目でみたら」](https://www.youtube.com/watch?v=A-GpiyOaNPc)
+- [SHE IS SUMMER  「WATER SLIDER」MV](https://www.youtube.com/watch?v=foK5efL3M_Q)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
