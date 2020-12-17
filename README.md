@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DJ Okawari - Luv Letter](https://www.youtube.com/watch?v=CGvIzFRcRMA)
 - [majiko - 声 [MV]](https://www.youtube.com/watch?v=5BMnuvtdw1s)
 - [SHE IS SUMMER「君をピカソの目でみたら」](https://www.youtube.com/watch?v=A-GpiyOaNPc)
 - [SHE IS SUMMER  「WATER SLIDER」MV](https://www.youtube.com/watch?v=foK5efL3M_Q)
 - [茄子蛋EggPlantEgg - 孤獨的人我們一起出發Walk with Me If You’re One of the Lonely Ones (Official Music Video﻿)](https://www.youtube.com/watch?v=EMNhEm6tDNQ)
+- [MOSHIMO 「Holy Night」 MV](https://www.youtube.com/watch?v=9tJjRYzKH3U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
