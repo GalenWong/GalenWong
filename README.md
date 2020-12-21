@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [茄子蛋EggPlantEgg - 孤獨的人我們一起出發Walk with Me If You’re One of the Lonely Ones (Official Music Video﻿)](https://www.youtube.com/watch?v=EMNhEm6tDNQ)
 - [MOSHIMO 「Holy Night」 MV](https://www.youtube.com/watch?v=9tJjRYzKH3U)
 - [Sunny Day Service - 桜 super love【Official Video】](https://www.youtube.com/watch?v=TyOVX8EMnwA)
 - [KANA-BOON（谷口鮪）×  ネクライトーキー（もっさ） -  ないものねだり / THE FIRST TAKE](https://www.youtube.com/watch?v=_ZyD4n5zqxA)
 - [DJ OKAWARI feat. 二宮愛 「Speed of Light」](https://www.youtube.com/watch?v=L2LB12IxLDU)
+- [Sunny Day Service - 花火【Official Video】](https://www.youtube.com/watch?v=VxHNmo45K4U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
