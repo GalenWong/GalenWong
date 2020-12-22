@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [MOSHIMO 「Holy Night」 MV](https://www.youtube.com/watch?v=9tJjRYzKH3U)
 - [Sunny Day Service - 桜 super love【Official Video】](https://www.youtube.com/watch?v=TyOVX8EMnwA)
 - [KANA-BOON（谷口鮪）×  ネクライトーキー（もっさ） -  ないものねだり / THE FIRST TAKE](https://www.youtube.com/watch?v=_ZyD4n5zqxA)
 - [DJ OKAWARI feat. 二宮愛 「Speed of Light」](https://www.youtube.com/watch?v=L2LB12IxLDU)
 - [Sunny Day Service - 花火【Official Video】](https://www.youtube.com/watch?v=VxHNmo45K4U)
+- [甜約翰 Sweet John【 空白頁面 Blank Page 】Official Audio](https://www.youtube.com/watch?v=j2UGBA7CSY4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
