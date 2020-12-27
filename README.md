@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 空白頁面 Blank Page 】Official Audio](https://www.youtube.com/watch?v=j2UGBA7CSY4)
 - [Sunny Day Service - 雨が降りそう【Official Video】](https://www.youtube.com/watch?v=fbUDVGnJ9hE)
 - [Yogee New Waves / Summer of Love (Official MV)](https://www.youtube.com/watch?v=GBAL9GsiH5g)
 - [SHE IS SUMMER「会いに行かなくちゃ」](https://www.youtube.com/watch?v=1Hr-wRRVD2c)
 - [羊文学「砂漠のきみへ」Official Music Video](https://www.youtube.com/watch?v=S8YpTwOqt84)
+- [Yakenohara - Relaxin' [Official Music Video]](https://www.youtube.com/watch?v=zXhFwlu_a4A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
