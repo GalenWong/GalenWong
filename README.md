@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ずっと真夜中でいいのに。『Dear. Mr「F」』MV](https://www.youtube.com/watch?v=Qw-FSw7d2zE)
 - [きのこ帝国 - 東京 (MV)](https://www.youtube.com/watch?v=yBRqRAh9vJM)
 - [❄️ Chillhop Essentials Winter 2020 [cozy lofi hiphop instrumentals] ❄️](https://www.youtube.com/watch?v=i_cV8B2pjqk)
 - [LUCKY TAPES - ランドリー (Official Music Video)](https://www.youtube.com/watch?v=ZsYLNr06bLs)
 - [ネクライトーキーMV「誰が為にCHAKAPOCOは鳴る」/ NECRY TALKIE - CHAKAPOCO](https://www.youtube.com/watch?v=tkOozjVuFP4)
+- [midnight studying. [lofi / jazzhop / chill mix]](https://www.youtube.com/watch?v=1tUPFQ54gqc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
