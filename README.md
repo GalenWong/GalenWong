@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [❄️ Chillhop Essentials Winter 2020 [cozy lofi hiphop instrumentals] ❄️](https://www.youtube.com/watch?v=i_cV8B2pjqk)
 - [LUCKY TAPES - ランドリー (Official Music Video)](https://www.youtube.com/watch?v=ZsYLNr06bLs)
 - [ネクライトーキーMV「誰が為にCHAKAPOCOは鳴る」/ NECRY TALKIE - CHAKAPOCO](https://www.youtube.com/watch?v=tkOozjVuFP4)
 - [midnight studying. [lofi / jazzhop / chill mix]](https://www.youtube.com/watch?v=1tUPFQ54gqc)
 - [Jazz Music - Relaxing Cafe Music - Background Music For Study, Work](https://www.youtube.com/watch?v=km9Il_-FHjw)
+- [Cozy Morning [Lofi / Jazz Hop / Chill Mix]](https://www.youtube.com/watch?v=UI7j87QPFCA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
