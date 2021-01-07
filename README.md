@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [midnight studying. [lofi / jazzhop / chill mix]](https://www.youtube.com/watch?v=1tUPFQ54gqc)
 - [Jazz Music - Relaxing Cafe Music - Background Music For Study, Work](https://www.youtube.com/watch?v=km9Il_-FHjw)
 - [Cozy Morning [Lofi / Jazz Hop / Chill Mix]](https://www.youtube.com/watch?v=UI7j87QPFCA)
 - [Kaho Nakamura - Kittone! [Official Music Video]](https://www.youtube.com/watch?v=DGmQRSUuKFY)
 - [cityscape. [lofi / jazzhop / sparkly beats]](https://www.youtube.com/watch?v=8NKw--UU8K8)
+- [showmore - now (feat. SIRUP) (Official Music Video)](https://www.youtube.com/watch?v=RhBwlkKfJ10)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
