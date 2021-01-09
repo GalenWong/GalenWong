@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Cozy Morning [Lofi / Jazz Hop / Chill Mix]](https://www.youtube.com/watch?v=UI7j87QPFCA)
 - [Kaho Nakamura - Kittone! [Official Music Video]](https://www.youtube.com/watch?v=DGmQRSUuKFY)
 - [cityscape. [lofi / jazzhop / sparkly beats]](https://www.youtube.com/watch?v=8NKw--UU8K8)
 - [showmore - now (feat. SIRUP) (Official Music Video)](https://www.youtube.com/watch?v=RhBwlkKfJ10)
 - [iri 「言えない」Music Video](https://www.youtube.com/watch?v=VpeQjCFxWxQ)
+- [辮子](https://www.youtube.com/watch?v=OMBGA8_WL4U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
