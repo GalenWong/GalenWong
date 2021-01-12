@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [showmore - now (feat. SIRUP) (Official Music Video)](https://www.youtube.com/watch?v=RhBwlkKfJ10)
 - [iri 「言えない」Music Video](https://www.youtube.com/watch?v=VpeQjCFxWxQ)
 - [辮子](https://www.youtube.com/watch?v=OMBGA8_WL4U)
 - [SIRUP - SWIM (Music Bar Session)](https://www.youtube.com/watch?v=TmjGdJD8i5E)
 - [無妄合作社 No-nonsense Collective〈青春之歌 The Grand Tour〉Official Music Video](https://www.youtube.com/watch?v=qRCnF7SMufo)
+- [無妄合作社 No-nonsense Collective〈人們來了  People Coming〉Official Music Video](https://www.youtube.com/watch?v=aPHBZj3bV08)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
