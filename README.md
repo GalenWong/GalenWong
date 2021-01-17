@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [無妄合作社 No-nonsense Collective〈人們來了  People Coming〉Official Music Video](https://www.youtube.com/watch?v=aPHBZj3bV08)
 - [Japanese Alternative and Indie playlist for when you're running away from home](https://www.youtube.com/watch?v=JLs8-bWuHyk)
 - [蒼のワルツ - Eve MV](https://www.youtube.com/watch?v=pyDCubgU57g)
 - [八星  LUCA + haruka nakamura](https://www.youtube.com/watch?v=6X3DHXe-OnQ)
 - [羊文学「あいまいでいいよ」Official Music Video](https://www.youtube.com/watch?v=SPW0FZMRO84)
+- [曾博恩 Brian Tseng -【人生外掛 Life Hacks】｜ Official Music Video](https://www.youtube.com/watch?v=lIUIqqzQm2E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
