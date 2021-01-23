@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [映秀。「東京散歩」Music Video](https://www.youtube.com/watch?v=ND9_hzNMBNs)
 - [廻廻奇譚 - Eve MV](https://www.youtube.com/watch?v=1tk1pqwrOys)
 - [Joe Hisaishi - Summer](https://www.youtube.com/watch?v=l0GN40EL1VU)
 - [【木曜跨界演唱會】木曜新曲連發 合作表演每個都超精彩！](https://www.youtube.com/watch?v=-biUYAKxAGw)
 - [DAOKO 『かけてあげる』Music Video［HD］](https://www.youtube.com/watch?v=F5bIdqZHEOo)
+- [夜聊 (你說, 我說) (feat. 李英宏)](https://www.youtube.com/watch?v=v0JT5YQ4HkE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
