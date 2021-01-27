@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DAOKO 『かけてあげる』Music Video［HD］](https://www.youtube.com/watch?v=F5bIdqZHEOo)
 - [夜聊 (你說, 我說) (feat. 李英宏)](https://www.youtube.com/watch?v=v0JT5YQ4HkE)
 - [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
 - [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept - Remix 】feat. ?te 壞特 Official Audio](https://www.youtube.com/watch?v=dWOmdvMzE68)
 - [The fin.- Night Time (Offical Video)](https://www.youtube.com/watch?v=9EtEFFg3iwo)
+- [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
