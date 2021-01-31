@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [The fin.- Night Time (Offical Video)](https://www.youtube.com/watch?v=9EtEFFg3iwo)
 - [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
 - [DJ Okawari - Flower Dance - 2010](https://www.youtube.com/watch?v=AULG4MoYxQk)
 - [Sayonara Yellow](https://www.youtube.com/watch?v=T_-B4t7YfRk)
 - [Tempalay "どうしよう" (Official Music Video)](https://www.youtube.com/watch?v=TRpAf1aqw3g)
+- [南西肯恩 - 蒙毅將軍](https://www.youtube.com/watch?v=1kM4-o4c-qY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
