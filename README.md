@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sayonara Yellow](https://www.youtube.com/watch?v=T_-B4t7YfRk)
 - [Tempalay "どうしよう" (Official Music Video)](https://www.youtube.com/watch?v=TRpAf1aqw3g)
 - [南西肯恩 - 蒙毅將軍](https://www.youtube.com/watch?v=1kM4-o4c-qY)
 - [Ralph Castelli - Morning Sex (lyrics)](https://www.youtube.com/watch?v=5sprUadfZBo)
 - [lazy mood. [lofi / jazzhop / chill mix]](https://www.youtube.com/watch?v=lCKbkDggYQ0)
+- [The Weeknd - I Feel It Coming ft. Daft Punk (EXTENDED) 10 Minute Music](https://www.youtube.com/watch?v=lhD3oN07u5M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
