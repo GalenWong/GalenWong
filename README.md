@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [The Weeknd - Blinding Lights (Official Video)](https://www.youtube.com/watch?v=4NRXx6U8ABQ)
 - [魏如萱 waa wei [ 陪著你 Be There for You ] Official Music Video](https://www.youtube.com/watch?v=TD_fXVcLK4k)
 - [Dayglow - Can I Call You Tonight? (Official Video)](https://www.youtube.com/watch?v=hh1WeQxfCX0)
 - [never young beach - どうでもいいけど（official video)](https://www.youtube.com/watch?v=FYBvfpjxcYA)
 - [In My Head](https://www.youtube.com/watch?v=S1KNYqEpI2w)
+- [Max Cooper - Repetition (Official Video By Kevin McGloughlin)](https://www.youtube.com/watch?v=nO9aot9RgQc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
