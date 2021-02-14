@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Max Cooper - Repetition (Official Video By Kevin McGloughlin)](https://www.youtube.com/watch?v=nO9aot9RgQc)
 - [SIRUP - Do Well (Official Music Video)](https://www.youtube.com/watch?v=kU8yTuvbmq8)
 - [Far Caspian - Between Days [Full Ep]](https://www.youtube.com/watch?v=qm0ru2iBuB0)
 - [Tempalay - Telepathy (Music Bar Session)](https://www.youtube.com/watch?v=CxT89BLe5iE)
 - [Homecomings "Blue Hour"（Official Music Video）](https://www.youtube.com/watch?v=quthO82MU7w)
+- [St. Vincent, Sugarboy, Kings Theatre, Brooklyn NY 12-2-17](https://www.youtube.com/watch?v=JpfmRhBdJ-4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
