@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Tempalay - Telepathy (Music Bar Session)](https://www.youtube.com/watch?v=CxT89BLe5iE)
 - [Homecomings "Blue Hour"（Official Music Video）](https://www.youtube.com/watch?v=quthO82MU7w)
 - [St. Vincent, Sugarboy, Kings Theatre, Brooklyn NY 12-2-17](https://www.youtube.com/watch?v=JpfmRhBdJ-4)
 - [STUTS - 夜を使いはたして feat. PUNPEE (Official Music Video)](https://www.youtube.com/watch?v=CUxIykX4hfw)
 - [Lady Gaga - Born This Way (Official Music Video)](https://www.youtube.com/watch?v=wV1FrqwZyKw)
+- [Brittany Howard - He Loves Me (Official Live Session)](https://www.youtube.com/watch?v=IVdqdMcT1yA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
