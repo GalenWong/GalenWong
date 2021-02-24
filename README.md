@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [SIRUP - Rain (Official Music Video)](https://www.youtube.com/watch?v=UeAGvmvTxLA)
 - [告五人 Accusefive [ 唯一 The One And Only ] Official Music Video](https://www.youtube.com/watch?v=vxucCfcMFCk)
 - [SIRUP - Synapse (Official Music Video)](https://www.youtube.com/watch?v=ZSreMpnqZTU)
 - [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
 - [吳青峰〈年輪說〉Official MV](https://www.youtube.com/watch?v=7M8GD3pHLek)
+- [Spangle call Lilli line 「tesla」(Official Music Video)](https://www.youtube.com/watch?v=-arsPIIHzLM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
