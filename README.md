@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫室雜草Easy weeds-那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
 - [Brittany Howard - Presence (Official Live Session)](https://www.youtube.com/watch?v=BM109S9a1FE)
 - [Heaven in Japan ~ Japanese Lofi Hip Hop Mix 🌸](https://www.youtube.com/watch?v=0gTFyzxjMeY)
 - [its 2am and i still miss you](https://www.youtube.com/watch?v=55ggKPv-rJk)
 - [YeYe × Moto Kawabe（mitsume） - No Longer（Official Music Video）](https://www.youtube.com/watch?v=b3IKGDvTUSM)
+- [1 A.M Study Session 📚 - [lofi hip hop/chill beats]](https://www.youtube.com/watch?v=lTRiuFIWV54)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
