@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [1 A.M Study Session 📚 - [lofi hip hop/chill beats]](https://www.youtube.com/watch?v=lTRiuFIWV54)
 - [Deep Within the Forest 🌿 Chill lofi HipHop Mix](https://www.youtube.com/watch?v=tBDVLey1DIE)
 - [Summer Salt | Playlist](https://www.youtube.com/watch?v=ixnH2MjRaAc)
 - [Lofi Bernie Sanders (2 hour mix)](https://www.youtube.com/watch?v=emOXYuIkFT8)
 - [Deleted video](https://www.youtube.com/watch?v=Hdncb04CdWw)
+- [ポルカドットスティングレイ「FICTION」MV](https://www.youtube.com/watch?v=hTlsNbmmPKE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
