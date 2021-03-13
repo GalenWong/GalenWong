@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Deleted video](https://www.youtube.com/watch?v=Hdncb04CdWw)
 - [ポルカドットスティングレイ「FICTION」MV](https://www.youtube.com/watch?v=hTlsNbmmPKE)
 - [五月天 Mayday【雌雄同體】Official Music Video](https://www.youtube.com/watch?v=YhzxlZrOSss)
 - [Cozy Winter ☕ - [lofi hip hop/study beats]](https://www.youtube.com/watch?v=_tV5LEBDs7w)
 - [Cosmos People 宇宙人 [ 太空警察 x 兇宅 ] ft. 熊仔 Live at 台北小巨蛋](https://www.youtube.com/watch?v=g59Wjy0m4Sk)
+- [美秀集團 Amazing Show－懶趴火【Official Lyrics Video】L.P. Fire](https://www.youtube.com/watch?v=pS3vI3t9K8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
