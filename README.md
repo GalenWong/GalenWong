@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Cozy Winter ☕ - [lofi hip hop/study beats]](https://www.youtube.com/watch?v=_tV5LEBDs7w)
 - [Cosmos People 宇宙人 [ 太空警察 x 兇宅 ] ft. 熊仔 Live at 台北小巨蛋](https://www.youtube.com/watch?v=g59Wjy0m4Sk)
 - [美秀集團 Amazing Show－懶趴火【Official Lyrics Video】L.P. Fire](https://www.youtube.com/watch?v=pS3vI3t9K8A)
 - [Endless Sunday 2  🎲  [lofi / jazz / instrumental hip hop beats]](https://www.youtube.com/watch?v=YrcyW38bUVI)
 - [Nujabes - Free Soul Nujabes(Full Album)](https://www.youtube.com/watch?v=b9Gp3KcUbIg)
+- [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
