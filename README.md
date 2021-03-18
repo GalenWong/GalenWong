@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [美秀集團 Amazing Show－懶趴火【Official Lyrics Video】L.P. Fire](https://www.youtube.com/watch?v=pS3vI3t9K8A)
 - [Endless Sunday 2  🎲  [lofi / jazz / instrumental hip hop beats]](https://www.youtube.com/watch?v=YrcyW38bUVI)
 - [Nujabes - Free Soul Nujabes(Full Album)](https://www.youtube.com/watch?v=b9Gp3KcUbIg)
 - [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
 - [美秀集團 Amazing Show－馬克吐溫 Mark Twain【Official Music Video】](https://www.youtube.com/watch?v=wBScjyf6qns)
+- [甜約翰 Sweet John【 城市的浪漫運作 Daze of CityWalk 】Official Music Video](https://www.youtube.com/watch?v=G67MUh_ljkY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
