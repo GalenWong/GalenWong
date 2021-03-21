@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
 - [美秀集團 Amazing Show－馬克吐溫 Mark Twain【Official Music Video】](https://www.youtube.com/watch?v=wBScjyf6qns)
 - [甜約翰 Sweet John【 城市的浪漫運作 Daze of CityWalk 】Official Music Video](https://www.youtube.com/watch?v=G67MUh_ljkY)
 - [第二彈！台灣二十年偶像劇神曲串燒 20 Years Taiwanese Drama OSTs Mashup II｜Acoustic Guitar Cover by 倆人 Acoustic Too](https://www.youtube.com/watch?v=upeepGpvF0U)
 - [融解sink / Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=B383PElQMHo)
+- [五月天 Mayday【愛情萬歲 Viva Love】Official Music Video](https://www.youtube.com/watch?v=QKkQU4lzIbc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
