@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [第二彈！台灣二十年偶像劇神曲串燒 20 Years Taiwanese Drama OSTs Mashup II｜Acoustic Guitar Cover by 倆人 Acoustic Too](https://www.youtube.com/watch?v=upeepGpvF0U)
 - [融解sink / Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=B383PElQMHo)
 - [五月天 Mayday【愛情萬歲 Viva Love】Official Music Video](https://www.youtube.com/watch?v=QKkQU4lzIbc)
 - [Brittany Howard - Stay High (Official Video)](https://www.youtube.com/watch?v=CfizQsGWOxI)
 - [Spangle call Lilli line 「feel uneasy」 feat. moto kawabe from mitsume (Official Music Video)](https://www.youtube.com/watch?v=h2FxhiY7qGg)
+- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
