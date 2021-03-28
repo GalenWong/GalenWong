@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Spangle call Lilli line 「feel uneasy」 feat. moto kawabe from mitsume (Official Music Video)](https://www.youtube.com/watch?v=h2FxhiY7qGg)
 - [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
 - [sad indie kid (Yellow Days, Rex Orange County, Sufjan Stevens & others) // playlist pt. 1](https://www.youtube.com/watch?v=dFL_uCP789Y)
 - [Nujabes - Modal Soul](https://www.youtube.com/watch?v=8iP3J8jFYdM)
 - [美秀集團 Amazing Show－擋一根 Chill Out【Official Music Video】](https://www.youtube.com/watch?v=3_GFxZ9xA7o)
+- [[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ]  코딩할때 듣기 좋은 노래 • lofi type beat • 3 hours](https://www.youtube.com/watch?v=cbuZfY2S2UQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
