@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [美秀集團 Amazing Show－擋一根 Chill Out【Official Music Video】](https://www.youtube.com/watch?v=3_GFxZ9xA7o)
 - [[ 𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕 ]  코딩할때 듣기 좋은 노래 • lofi type beat • 3 hours](https://www.youtube.com/watch?v=cbuZfY2S2UQ)
 - [Never ending Nujabes](https://www.youtube.com/watch?v=2sML2bq_WGw)
 - [TONES AND I - DANCE MONKEY (OFFICIAL VIDEO)](https://www.youtube.com/watch?v=q0hyYWKXF0Q)
 - [甜約翰 Sweet John - 戀人觀影須知【Demo】](https://www.youtube.com/watch?v=CZ892VvAuos)
+- [美秀集團 Amazing Show－哥哥呀哥哥【Official Music Video】feat. 邰智源](https://www.youtube.com/watch?v=jgbXe-9u10g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
