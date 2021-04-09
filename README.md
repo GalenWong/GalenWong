@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Just chilling...](https://www.youtube.com/watch?v=TdBSoy9F9NA)
 - [That 2 A.M. Fresh Air](https://www.youtube.com/watch?v=EJew8Mvgau0)
 - [i'm cyborg but that's ok | Best of 2020 Playlist](https://www.youtube.com/watch?v=7NqYdytkVtg)
 - [D.N.A演唱會-雌雄同體](https://www.youtube.com/watch?v=-4ykiWvZKeI)
 - [Nujabes - Metaphorical Music (Full Album)](https://www.youtube.com/watch?v=7xZY8VJHqU4)
+- [Future - Life Is Good (Official Music Video) ft. Drake](https://www.youtube.com/watch?v=l0U7SxXHkPY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
