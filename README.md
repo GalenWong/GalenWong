@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Nujabes - Metaphorical Music (Full Album)](https://www.youtube.com/watch?v=7xZY8VJHqU4)
 - [Future - Life Is Good (Official Music Video) ft. Drake](https://www.youtube.com/watch?v=l0U7SxXHkPY)
 - [美秀集團 Amazing Show－電火王 King of Light (.aka KOL) 【Official Music Video】](https://www.youtube.com/watch?v=BuuIbTF0_b0)
 - [Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Official Music Video)](https://www.youtube.com/watch?v=iEPTlhBmwRg)
 - [優里 『ドライフラワー』Official Music Video（ショートver.）](https://www.youtube.com/watch?v=X-YtmD0YsBA)
+- [美秀集團 Amazing Show－小老婆 Little Bitch【Official Music Video】](https://www.youtube.com/watch?v=Tt7vKpe_1NI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
