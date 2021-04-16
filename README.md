@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Official Music Video)](https://www.youtube.com/watch?v=iEPTlhBmwRg)
 - [優里 『ドライフラワー』Official Music Video（ショートver.）](https://www.youtube.com/watch?v=X-YtmD0YsBA)
 - [美秀集團 Amazing Show－小老婆 Little Bitch【Official Music Video】](https://www.youtube.com/watch?v=Tt7vKpe_1NI)
 - [ポルカドットスティングレイ「一大事」トレーラー](https://www.youtube.com/watch?v=EoXkPraTWYc)
 - [Samurai Champloo - Soundtrack (Nujabes/fat jon - Departure (2004) OST](https://www.youtube.com/watch?v=84ITgYoSR8Q)
+- [Hurray For The Riff Raff- Young Blood Blues](https://www.youtube.com/watch?v=dWhpiIgc5tA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
