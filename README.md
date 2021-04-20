@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Samurai Champloo - Soundtrack (Nujabes/fat jon - Departure (2004) OST](https://www.youtube.com/watch?v=84ITgYoSR8Q)
 - [Hurray For The Riff Raff- Young Blood Blues](https://www.youtube.com/watch?v=dWhpiIgc5tA)
 - [サカナクション / montage](https://www.youtube.com/watch?v=TA8K2rULcmY)
 - [Lady Gaga - The Edge Of Glory (Official Music Video)](https://www.youtube.com/watch?v=QeWBS0JBNzQ)
 - [it's going to be okay...](https://www.youtube.com/watch?v=PJielywHIjY)
+- [Michael Kiwanuka - Cold Little Heart (Official Video)](https://www.youtube.com/watch?v=nOubjLM9Cbc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
