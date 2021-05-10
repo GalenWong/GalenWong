@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 - [荷爾蒙少年 Hormone Boys《 4:00A.M. 》Lyric Video](https://www.youtube.com/watch?v=AQWYfvgh_ws)
 - [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
 - [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 - [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
+- [ポルカドットスティングレイ「サレンダー」MV](https://www.youtube.com/watch?v=ZY86QfhxsSs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
