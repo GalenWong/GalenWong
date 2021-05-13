@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 - [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
 - [ポルカドットスティングレイ「サレンダー」MV](https://www.youtube.com/watch?v=ZY86QfhxsSs)
 - [くるり - 琥珀色の街、上海蟹の朝](https://www.youtube.com/watch?v=NyddMMiViZc)
 - [フレデリック 「オワラセナイト」 Music Video | Frederic"OWARASE NIGHT"](https://www.youtube.com/watch?v=Q3sigAJXG1E)
+- [My Jinji](https://www.youtube.com/watch?v=X_k53NIp0QU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
