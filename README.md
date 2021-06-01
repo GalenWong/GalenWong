@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Official髭男dism - 115万キロのフィルム［Official Audio］](https://www.youtube.com/watch?v=ReCnlwVZj1M)
 - [tofubeats - WHAT YOU GOT (視聴動画)](https://www.youtube.com/watch?v=JaOc5TBkjo4)
 - [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
 - [Mariya Takeuchi 竹内 まりや Plastic Love](https://www.youtube.com/watch?v=3bNITQR4Uso)
 - [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
+- [Deleted video](https://www.youtube.com/watch?v=FlPXeVU3nhM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
