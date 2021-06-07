@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [米津玄師 MV「カムパネルラ」](https://www.youtube.com/watch?v=XeFQJ6-XoD0)
-- [Official髭男dism - I LOVE...［Official Video］](https://www.youtube.com/watch?v=bt8wNQJaKAk)
-- [不可幸力 / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Gbz2C2gQREI)
-- [サカナクション / 夜の踊り子　-Music Video-](https://www.youtube.com/watch?v=2I25AFSBm2g)
-- [ヨルシカ - 思想犯（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=ENcnYh79dUY)
+- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
+- [草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】](https://www.youtube.com/watch?v=j2311FZWoFQ)
+- [陳知遠、趙宥喬 - 對不起，我愛妳『只是我還沒有鼓足勇氣，還沒告訴妳，對不起我愛妳』【動態歌詞Lyrics】歡迎訂閱🎧](https://www.youtube.com/watch?v=o7dUQm4Ert4)
+- [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
+- [告五人Accusefive【獨角獸】 官方歌詞版MV(Official Lyric Video)](https://www.youtube.com/watch?v=o5muvc-LOlA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
