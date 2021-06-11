@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「リスミー」MV](https://www.youtube.com/watch?v=1z4RosaB-UQ)
 - [告五人Accusefive【獨角獸】 官方歌詞版MV(Official Lyric Video)](https://www.youtube.com/watch?v=o5muvc-LOlA)
 - [茄子蛋EggPlantEgg - 親愛的無情孫小美 Dear Heartless (Official Music Video)](https://www.youtube.com/watch?v=UXHTGeGkZwU)
 - [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
 - [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
+- [SHE IS SUMMER「CALL ME IN YOUR SUMMER」](https://www.youtube.com/watch?v=H7fjqfSU0bY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
