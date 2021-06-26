@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (Official Music Video﻿)《當男人戀愛時》電影主題曲](https://www.youtube.com/watch?v=0rp3pP2Xwhs)
 - [ポルカドットスティングレイ「ICHIDAIJI」MV](https://www.youtube.com/watch?v=WJW7kS9AAI4)
 - [大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】](https://www.youtube.com/watch?v=saccx5dTmKU)
 - [ポルカドットスティングレイ「レム」MV](https://www.youtube.com/watch?v=Cez10v5lhB4)
 - [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [フレデリック「オンリーワンダー」MusicVideo / frederic“ONLYWONDER”](https://www.youtube.com/watch?v=oCrwzN6eb4Q)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
