@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】](https://www.youtube.com/watch?v=saccx5dTmKU)
 - [ポルカドットスティングレイ「レム」MV](https://www.youtube.com/watch?v=Cez10v5lhB4)
 - [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 - [フレデリック「オンリーワンダー」MusicVideo / frederic“ONLYWONDER”](https://www.youtube.com/watch?v=oCrwzN6eb4Q)
 - [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [[MV] Lee Hyori(이효리) _ 10 Minutes](https://www.youtube.com/watch?v=iKdr44yEBQU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
