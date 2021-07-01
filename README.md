@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「オンリーワンダー」MusicVideo / frederic“ONLYWONDER”](https://www.youtube.com/watch?v=oCrwzN6eb4Q)
 - [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
 - [[MV] Lee Hyori(이효리) _ 10 Minutes](https://www.youtube.com/watch?v=iKdr44yEBQU)
 - [9m88 - BB88 | 樂人 iCover Session](https://www.youtube.com/watch?v=g5DowpZgbN8)
 - [ポルカドットスティングレイ「人魚」MV](https://www.youtube.com/watch?v=rudHfB6hatw)
+- [大象體操ElephantGym _ 中途Midway【Official Music Video】](https://www.youtube.com/watch?v=lIBGM7uYNfs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
