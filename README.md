@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「トゲめくスピカ」MV](https://www.youtube.com/watch?v=kJHkiuenKEE)
 - [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
 - [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
 - [國蛋GorDoN《Better Days》Official Music Video 正式釋出](https://www.youtube.com/watch?v=D71KnBswYhM)
 - [ポルカドットスティングレイ「パンドラボックス」MV](https://www.youtube.com/watch?v=-zlq6eMycLA)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
