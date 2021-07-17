@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [茄子蛋EggPlantEgg - 孤獨的人我們一起出發Walk with Me If You’re One of the Lonely Ones (Official Music Video﻿)](https://www.youtube.com/watch?v=EMNhEm6tDNQ)
 - [椎名林檎 - 長く短い祭 from百鬼夜行](https://www.youtube.com/watch?v=YLfkgo-3_sk)
 - [ポルカドットスティングレイ「ヒミツ」MV](https://www.youtube.com/watch?v=D199Zpv6d6M)
 - [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
 - [張遠 - 嘉賓『感謝你特別邀請，可惜這是你和他的婚禮，而我只是嘉賓。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=8ux25IcLr8w)
+- [【顏社】蛋堡 Soft Lipa - 踩.腳.踏.車 (Official Music Video)](https://www.youtube.com/watch?v=gW9TBojWOQE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
