@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ポルカドットスティングレイ「ヒミツ」MV](https://www.youtube.com/watch?v=D199Zpv6d6M)
 - [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
 - [張遠 - 嘉賓『感謝你特別邀請，可惜這是你和他的婚禮，而我只是嘉賓。』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=8ux25IcLr8w)
 - [【顏社】蛋堡 Soft Lipa - 踩.腳.踏.車 (Official Music Video)](https://www.youtube.com/watch?v=gW9TBojWOQE)
 - [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
+- [Lil Jet - 好久不見『危險危險危險危險危險！好久不見  當你看到我出現，再次回到你耳邊~』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=K3Ij3fUZygw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
