@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
 - [Lil Jet - 好久不見『危險危險危險危險危險！好久不見  當你看到我出現，再次回到你耳邊~』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=K3Ij3fUZygw)
 - [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
 - [四季](https://www.youtube.com/watch?v=Nm0HTbO5HhM)
 - [PUZZLEMAN LIVE - 失眠的動物園與布朗克斯女孩｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=s6izCe_JRXc)
+- [ØZI -【B.O.】feat. 9m88](https://www.youtube.com/watch?v=MHKnSFlDBLQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
