@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
 - [四季](https://www.youtube.com/watch?v=Nm0HTbO5HhM)
 - [PUZZLEMAN LIVE - 失眠的動物園與布朗克斯女孩｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=s6izCe_JRXc)
 - [ØZI -【B.O.】feat. 9m88](https://www.youtube.com/watch?v=MHKnSFlDBLQ)
 - [杨雪婧 - 明明就 (cover) ［明明就不习惯牵手 为何却主动把手勾 ］动态歌词lyrics（原唱：周杰伦）](https://www.youtube.com/watch?v=oIgItJVYB54)
+- [好樂團 GoodBand ─《棲身之地》Official Audio（Live in Legacy）](https://www.youtube.com/watch?v=2-o6KEWoKsw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
