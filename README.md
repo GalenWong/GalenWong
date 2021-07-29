@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [杨雪婧 - 明明就 (cover) ［明明就不习惯牵手 为何却主动把手勾 ］动态歌词lyrics（原唱：周杰伦）](https://www.youtube.com/watch?v=oIgItJVYB54)
 - [好樂團 GoodBand ─《棲身之地》Official Audio（Live in Legacy）](https://www.youtube.com/watch?v=2-o6KEWoKsw)
 - [變成一隻魚](https://www.youtube.com/watch?v=M_EOaR4KmsI)
 - [看不見？](https://www.youtube.com/watch?v=I4Ot6ZVnCkg)
 - [無妄合作社 No-nonsense Collective－〈開店歌〉Official Music Video](https://www.youtube.com/watch?v=jZzzwd_CDQM)
+- [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
