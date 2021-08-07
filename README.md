@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [珂拉琪 Collage／蓮花空行身染愛](https://www.youtube.com/watch?v=g4mQmLZ-lEw)
 - [荷爾蒙少年 Hormone Boys《 4:00A.M. 》Lyric Video](https://www.youtube.com/watch?v=AQWYfvgh_ws)
 - [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
 - [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
 - [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
+- [老王樂隊｜我還年輕 我還年輕 Official Music Video](https://www.youtube.com/watch?v=oCQnAxrkTUc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
