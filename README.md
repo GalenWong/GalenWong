@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [拍謝少年 Sorry Youth _ 山盟 Vow of Mountain（Official MV）](https://www.youtube.com/watch?v=3EzsvhLn6ko)
 - [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
 - [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
 - [Say! Yes (해볼래)](https://www.youtube.com/watch?v=0n3l-HBEghY)
+- [醜奴兒](https://www.youtube.com/watch?v=RMXuNVkjCtM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
