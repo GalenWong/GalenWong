@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
 - [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
 - [Say! Yes (해볼래)](https://www.youtube.com/watch?v=0n3l-HBEghY)
 - [醜奴兒](https://www.youtube.com/watch?v=RMXuNVkjCtM)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
