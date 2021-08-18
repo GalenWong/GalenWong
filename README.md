@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [醜奴兒](https://www.youtube.com/watch?v=RMXuNVkjCtM)
-- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
-- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
-- [周杰倫 Jay Chou【愛在西元前 Love before BC】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
-- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [椅子樂團 The Chairs - 棉花糖駱駝 (Official Audio)](https://www.youtube.com/watch?v=oPJiBVJa3GI)
+- [椅子樂團 The Chairs - 一個人的街頭 (Official Audio)](https://www.youtube.com/watch?v=jBH3BvRjEf4)
+- [STUTS×SIKK-O×鈴木真海子 - Summer Situation (Official Music Video)](https://www.youtube.com/watch?v=HIZzYz1xk18)
+- [椅子樂團 The Chairs - 巴黎德州 (Official Audio)](https://www.youtube.com/watch?v=eQmQZnq2C_E)
+- [椅子樂團 The Chairs - 給 來自月球的L (Official Audio)](https://www.youtube.com/watch?v=4aigI_Jb_8U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
