@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椅子樂團 The Chairs - 棉花糖駱駝 (Official Audio)](https://www.youtube.com/watch?v=oPJiBVJa3GI)
-- [椅子樂團 The Chairs - 一個人的街頭 (Official Audio)](https://www.youtube.com/watch?v=jBH3BvRjEf4)
+- [溫室雜草Easy weeds-那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [【顏社】蛋堡 Soft Lipa - Winter Sweet (Official Music Video)](https://www.youtube.com/watch?v=NOmgUpMZiTE)
 - [STUTS×SIKK-O×鈴木真海子 - Summer Situation (Official Music Video)](https://www.youtube.com/watch?v=HIZzYz1xk18)
-- [椅子樂團 The Chairs - 巴黎德州 (Official Audio)](https://www.youtube.com/watch?v=eQmQZnq2C_E)
-- [椅子樂團 The Chairs - 給 來自月球的L (Official Audio)](https://www.youtube.com/watch?v=4aigI_Jb_8U)
+- [showmore - 1mm【Official Lyric Video】](https://www.youtube.com/watch?v=JF4JUQ4WnXg)
+- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
