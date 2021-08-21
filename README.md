@@ -74,10 +74,10 @@ studies in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
-- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [showmore - call my name【Studio Live】](https://www.youtube.com/watch?v=UlF4YwepqA8)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
+- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
 - [Jay Chou 周杰倫【三年二班 Class 3-2】-Official Music Video](https://www.youtube.com/watch?v=_trE3M24kQY)
-- [Jay Chou 周杰倫【髮如雪 Hair Like Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
