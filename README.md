@@ -73,11 +73,11 @@ studies in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
-- [Jay Chou 周杰倫【三年二班 Class 3-2】-Official Music Video](https://www.youtube.com/watch?v=_trE3M24kQY)
+- [溫室雜草Easy weeds-那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [Mr. Miss先生小姐 - 剛好 | 樂人 Session](https://www.youtube.com/watch?v=bJjhq4cLJS4)
+- [mol-74 - エイプリル【MV】](https://www.youtube.com/watch?v=HTjiTJm7jjg)
+- [【顏社】蛋堡 Soft Lipa - Winter Sweet (Official Music Video)](https://www.youtube.com/watch?v=NOmgUpMZiTE)
+- [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
