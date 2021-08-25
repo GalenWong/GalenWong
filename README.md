@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫室雜草Easy weeds-那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
-- [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
-- [SIRUP - Do Well (Official Music Video)](https://www.youtube.com/watch?v=kU8yTuvbmq8)
-- [【顏社】蛋堡 Soft Lipa - 房間 (Official Music Video)](https://www.youtube.com/watch?v=Hnlg5_ew8M4)
-- [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [周杰倫【龍捲風 官方完整MV】Jay Chou "Tornado" MV (Long-Juan-Feng)](https://www.youtube.com/watch?v=RPWDeLqsN0g)
+- [Sunset Rollercoaster - Teahouse｜Beat X Beat](https://www.youtube.com/watch?v=gFTjpCg5Cks)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [米津玄師 MV「LOSER」](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
+- [Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video](https://www.youtube.com/watch?v=sHD_z90ZKV0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
