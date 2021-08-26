@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫【龍捲風 官方完整MV】Jay Chou "Tornado" MV (Long-Juan-Feng)](https://www.youtube.com/watch?v=RPWDeLqsN0g)
-- [Sunset Rollercoaster - Teahouse｜Beat X Beat](https://www.youtube.com/watch?v=gFTjpCg5Cks)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [米津玄師 MV「LOSER」](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
-- [Jay Chou 周杰倫【稻香 Rice Field】-Official Music Video](https://www.youtube.com/watch?v=sHD_z90ZKV0)
+- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
+- [【顏社】蛋堡 Soft Lipa - Winter Sweet (Official Music Video)](https://www.youtube.com/watch?v=NOmgUpMZiTE)
+- [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
+- [Yogee New Waves / CLIMAX NIGHT (New Version - Official MV)](https://www.youtube.com/watch?v=OzodjmJviVU)
+- [周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV](https://www.youtube.com/watch?v=UBySINroNkw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
