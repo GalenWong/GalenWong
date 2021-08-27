@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
-- [【顏社】蛋堡 Soft Lipa - Winter Sweet (Official Music Video)](https://www.youtube.com/watch?v=NOmgUpMZiTE)
-- [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
-- [Yogee New Waves / CLIMAX NIGHT (New Version - Official MV)](https://www.youtube.com/watch?v=OzodjmJviVU)
-- [周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV](https://www.youtube.com/watch?v=UBySINroNkw)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [Suchmos – MINT [Official Music Video]](https://www.youtube.com/watch?v=WXk69QJ-Wr4)
+- [showmore - Pi Po Pa(井上陽水)【Live at echo and cloud studio】](https://www.youtube.com/watch?v=jti1gTzNmE8)
+- [DJ OKAWARI "Midnight Train feat. Emi Meyer" (Official Music Video)](https://www.youtube.com/watch?v=W72LiPMNs9E)
+- [D.A.N. - No Moon (Official Video)](https://www.youtube.com/watch?v=qXR82SASEFs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
