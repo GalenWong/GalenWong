@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [Suchmos – MINT [Official Music Video]](https://www.youtube.com/watch?v=WXk69QJ-Wr4)
-- [showmore - Pi Po Pa(井上陽水)【Live at echo and cloud studio】](https://www.youtube.com/watch?v=jti1gTzNmE8)
-- [DJ OKAWARI "Midnight Train feat. Emi Meyer" (Official Music Video)](https://www.youtube.com/watch?v=W72LiPMNs9E)
-- [D.A.N. - No Moon (Official Video)](https://www.youtube.com/watch?v=qXR82SASEFs)
+- [Jay Chou 周杰倫 [夜的第七章 Chapter Seven] Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
+- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
+- [Sunset Rollercoaster - Coffee’s on Me (Single), 2021](https://www.youtube.com/watch?v=vHIVzPtQbBk)
+- [showmore - baby【Live at echo and cloud studio】](https://www.youtube.com/watch?v=1pdArHRCYSA)
+- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
