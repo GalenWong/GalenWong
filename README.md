@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [魏如萱＆馬頔［ 星期三或禮拜三 Wednesday or Happy Hump Day? ］Official Music Video](https://www.youtube.com/watch?v=Aqdh6s75_6k)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
 - [Jay Chou 周杰倫 [夜的第七章 Chapter Seven] Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [showmore - 1mm【Official Lyric Video】](https://www.youtube.com/watch?v=JF4JUQ4WnXg)
-- [椅子樂團 The Chairs - 巴黎德州 (Official Audio)](https://www.youtube.com/watch?v=eQmQZnq2C_E)
-- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
-- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
