@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】](https://www.youtube.com/watch?v=saccx5dTmKU)
-- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
-- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [Jay Chou 周杰倫 [夜的第七章 Chapter Seven] Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
+- [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
+- [魏如萱＆馬頔［ 星期三或禮拜三 Wednesday or Happy Hump Day? ］Official Music Video](https://www.youtube.com/watch?v=Aqdh6s75_6k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
