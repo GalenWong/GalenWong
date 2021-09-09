@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ - 靴の花火 (Music Video)](https://www.youtube.com/watch?v=BCt9lS_Uv_Y)
-- [deca joins｜午夜的消亡 【Official Video】](https://www.youtube.com/watch?v=FkRIDAvJ57A)
-- [チル星にでも旅に出ようかMIX【日本語ラップ×オリジナルアニメーション】](https://www.youtube.com/watch?v=BjGGj4xakfQ)
-- [Sunny Day Service - クリスマス【Official Video】](https://www.youtube.com/watch?v=oHosarYxncQ)
+- [Sunset Rollercoaster - Teahouse｜Beat X Beat](https://www.youtube.com/watch?v=gFTjpCg5Cks)
+- [你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)](https://www.youtube.com/watch?v=MJMfU2Od2T8)
+- [Yogee New Waves - Good Night Station (Official MV)](https://www.youtube.com/watch?v=G2a2Z5mRfRw)
 - [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
+- [Sunset Rollercoaster - 忘情水 (Cover), 2021](https://www.youtube.com/watch?v=7ssLwfW7sd4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
