@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫 [夜的第七章 Chapter Seven] Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [showmore - 1mm【Official Lyric Video】](https://www.youtube.com/watch?v=JF4JUQ4WnXg)
-- [showmore - call my name【Studio Live】](https://www.youtube.com/watch?v=UlF4YwepqA8)
-- [Sunset Rollercoaster - Coffee’s on Me (Single), 2021](https://www.youtube.com/watch?v=vHIVzPtQbBk)
-- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
+- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
+- [魏如萱 waa wei [ 你啊你啊 Only You ] Official Music Video](https://www.youtube.com/watch?v=saiJbqHBuew)
+- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
+- [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
+- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
