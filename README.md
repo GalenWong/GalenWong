@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
-- [魏如萱 waa wei [ 你啊你啊 Only You ] Official Music Video](https://www.youtube.com/watch?v=saiJbqHBuew)
-- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
+- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
 - [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
+- [ヨルシカ Live「花人局 / 春泥棒」](https://www.youtube.com/watch?v=Ht6lcYg9Zfo)
+- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
