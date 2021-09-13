@@ -62,11 +62,11 @@ studied in
 ## 📖 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [My Notes for UCLA CS231: Types and Programming Languages](https://galenwong.github.io/blog/2021-08-29-cs231-notes/)
 - [Why I chose vscode-neovim over VSCodeVim](https://galenwong.github.io/blog/2021-03-22-vscode-neovim-vs-vscodevim/)
 - [How to teach useEffect without componentDidMount](https://galenwong.github.io/blog/2021-02-16-how-to-teach-useEffect/)
 - [Cleaning Up My Mac](https://galenwong.github.io/blog/2021-02-13-cleaning-up-my-mac/)
 - [Seeing My Virtual Music Taste on Github Profile](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
-- [Galen Cooks Food the Wong Way](https://galenwong.github.io/blog/2020-08-01-galen-cooks-food-the-wong-way/)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
