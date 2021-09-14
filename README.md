@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [大象體操ElephantGym _ FINGER & 中途Midway【Live on Megaport Festival】](https://www.youtube.com/watch?v=saccx5dTmKU)
+- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - 恍惚](https://www.youtube.com/watch?v=KBGbwBq3GzE)
 - [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
-- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
+- [【顏社】蛋堡 Soft Lipa - 房間 (Official Music Video)](https://www.youtube.com/watch?v=Hnlg5_ew8M4)
+- [Sunset Rollercoaster - Let There Be Light Again (Single), 2021](https://www.youtube.com/watch?v=03uDc9m4NcQ)
+- [【顏社】國蛋 GorDoN - 外面有點冷 ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=59exS8nTE-k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
