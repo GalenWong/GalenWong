@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [溫室雜草Easy weeds-那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
-- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
-- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
+- [Sunset Rollercoaster - Coffee’s on Me (Single), 2021](https://www.youtube.com/watch?v=vHIVzPtQbBk)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
+- [PUZZLEMAN LIVE - 失眠的動物園與布朗克斯女孩｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=s6izCe_JRXc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
