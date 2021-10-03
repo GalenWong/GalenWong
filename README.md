@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
-- [Mr. Miss先生小姐 - 剛好 | 樂人 Session](https://www.youtube.com/watch?v=bJjhq4cLJS4)
+- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
 - [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
-- [周杰倫 Jay Chou【白色風車 White Windmill】-Official Music Video](https://www.youtube.com/watch?v=K9CbHZLXPIA)
+- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
+- [Mr. Miss先生小姐 - 剛好 | 樂人 Session](https://www.youtube.com/watch?v=bJjhq4cLJS4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
