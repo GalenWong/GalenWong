@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [宋冬野  -  郭源潮   Music Video](https://www.youtube.com/watch?v=RQsM2uvXow8)
 - [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
-- [Mr. Miss先生小姐 - 剛好 | 樂人 Session](https://www.youtube.com/watch?v=bJjhq4cLJS4)
-- [溫室雜草Easy weeds-那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
