@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 - [宋冬野  -  郭源潮   Music Video](https://www.youtube.com/watch?v=RQsM2uvXow8)
-- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
 - [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
+- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
