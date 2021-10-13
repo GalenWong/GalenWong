@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [林夕x陳奕迅 (Albert Leung x Eason Chan) 廣東歌集v.5 富士山下/ 一絲不掛/ 不如不見/ 不來也不去 [歌詞同步/粵拼字幕]](https://www.youtube.com/watch?v=c00aPmuXlmU)
+- [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
 - [Mr. Miss先生小姐 - 剛好 | 樂人 Session](https://www.youtube.com/watch?v=bJjhq4cLJS4)
-- [周杰倫 Jay Chou【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
-- [showmore - baby【Live at echo and cloud studio】](https://www.youtube.com/watch?v=1pdArHRCYSA)
-- [deca joins | 浴室【Official Music Video】](https://www.youtube.com/watch?v=kZecE9AeELI)
-- [告五人/Accusefive  在這座城市遺失了你 歌詞Lyrics   與你相遇 是在一個單純美好的世界](https://www.youtube.com/watch?v=lWLHG_mcDw4)
+- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
