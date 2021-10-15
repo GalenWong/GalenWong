@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Mr. Miss先生小姐 - 剛好 | 樂人 Session](https://www.youtube.com/watch?v=bJjhq4cLJS4)
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
+- [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
-- [showmore - baby【Live at echo and cloud studio】](https://www.youtube.com/watch?v=1pdArHRCYSA)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
