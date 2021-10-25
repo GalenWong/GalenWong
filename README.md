@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
 - [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
-- [宋冬野  -  郭源潮   Music Video](https://www.youtube.com/watch?v=RQsM2uvXow8)
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
-- [Eason Chan 陳奕迅 七百年後 MV](https://www.youtube.com/watch?v=_NRf4HQw4MU)
+- [溫室雜草Easy weeds-那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [周杰倫 Jay Chou【七里香 Qi-Li-Xiang】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
