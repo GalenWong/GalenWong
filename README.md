@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
-- [你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)](https://www.youtube.com/watch?v=MJMfU2Od2T8)
-- [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
 - [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
+- [mol-74 - エイプリル【MV】](https://www.youtube.com/watch?v=HTjiTJm7jjg)
+- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
+- [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
