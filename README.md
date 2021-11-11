@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
-- [DSPS - Catch Me Baby Come and Dive (Official Music Video)](https://www.youtube.com/watch?v=zVQcCUZ5SoM)
-- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
-- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
-- [Yogee New Waves / World is Mine(Official MV)](https://www.youtube.com/watch?v=-vSTk_4Bzfc)
+- [Nujabes - Luv(sic) Part 2 feat.Shing02 [Official Audio]](https://www.youtube.com/watch?v=orZdl3KqgzU)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [92914 - Moonlight (Audio)](https://www.youtube.com/watch?v=CBrYbMKGbVw)
+- [Samurai Champloo - Shiki No Uta (HQ)](https://www.youtube.com/watch?v=cNplZrRSjeI)
+- [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
