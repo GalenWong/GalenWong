@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
-- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
-- [你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)](https://www.youtube.com/watch?v=MJMfU2Od2T8)
+- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
+- [kudasai - the girl i haven't met](https://www.youtube.com/watch?v=XDpoBc8t6gE)
+- [無妄合作社 No-nonsense Collective〈平靜的告別 Quiet Farewell〉Official Music Video](https://www.youtube.com/watch?v=IcdkZ0XnFgg)
+- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
+- [haruka nakamura - Lamp feat.Nujabes](https://www.youtube.com/watch?v=cHQ-oVSYkeU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
