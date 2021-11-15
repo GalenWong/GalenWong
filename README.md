@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
-- [kudasai - the girl i haven't met](https://www.youtube.com/watch?v=XDpoBc8t6gE)
+- [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
+- [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
 - [無妄合作社 No-nonsense Collective〈平靜的告別 Quiet Farewell〉Official Music Video](https://www.youtube.com/watch?v=IcdkZ0XnFgg)
-- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
-- [haruka nakamura - Lamp feat.Nujabes](https://www.youtube.com/watch?v=cHQ-oVSYkeU)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
