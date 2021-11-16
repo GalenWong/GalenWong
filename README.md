@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
-- [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
-- [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
-- [無妄合作社 No-nonsense Collective〈平靜的告別 Quiet Farewell〉Official Music Video](https://www.youtube.com/watch?v=IcdkZ0XnFgg)
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
+- [haruka nakamura - Lamp feat.Nujabes](https://www.youtube.com/watch?v=cHQ-oVSYkeU)
+- [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
+- [[龍虎門] 買榜 - 熊仔×Julia Wu 吳卓源×RGRY](https://www.youtube.com/watch?v=W-H6v6b1hu4)
+- [王菲Faye Wong - 開到荼蘼 Fin de floraison LIVE avec sous-titres français](https://www.youtube.com/watch?v=m18mJ-gHbsY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
