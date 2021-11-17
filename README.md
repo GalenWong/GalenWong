@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
-- [haruka nakamura - Lamp feat.Nujabes](https://www.youtube.com/watch?v=cHQ-oVSYkeU)
-- [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
-- [[龍虎門] 買榜 - 熊仔×Julia Wu 吳卓源×RGRY](https://www.youtube.com/watch?v=W-H6v6b1hu4)
-- [王菲Faye Wong - 開到荼蘼 Fin de floraison LIVE avec sous-titres français](https://www.youtube.com/watch?v=m18mJ-gHbsY)
+- [山姆someshit－那些勸我別抽菸的人都死了](https://www.youtube.com/watch?v=LqTfWEsGP4U)
+- [【顏社】蛋堡 Soft Lipa - 收斂水 (Official Music Video)](https://www.youtube.com/watch?v=xPU-cgPjZKk)
+- [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
+- [サカナクション / 多分、風。  -Music Video-](https://www.youtube.com/watch?v=8lx0vLTH_yg)
+- [【顏社】國蛋 GorDoN - 外面有點冷 ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=59exS8nTE-k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
