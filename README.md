@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [山姆someshit－那些勸我別抽菸的人都死了](https://www.youtube.com/watch?v=LqTfWEsGP4U)
-- [【顏社】蛋堡 Soft Lipa - 收斂水 (Official Music Video)](https://www.youtube.com/watch?v=xPU-cgPjZKk)
-- [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
-- [サカナクション / 多分、風。  -Music Video-](https://www.youtube.com/watch?v=8lx0vLTH_yg)
-- [【顏社】國蛋 GorDoN - 外面有點冷 ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=59exS8nTE-k)
+- [Blueburn - Diane【Official Music Video】](https://www.youtube.com/watch?v=yYkWkAzAGaY)
+- [Men I Trust - Show Me How](https://www.youtube.com/watch?v=OZRYzH0Q0pU)
+- [Men I Trust - I hope to be around](https://www.youtube.com/watch?v=DviID8Ni7Ns)
+- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
+- [甜約翰 Sweet John【 靠窗座位 Window Seat 】Official Music Video](https://www.youtube.com/watch?v=dpazzIfSAeQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
