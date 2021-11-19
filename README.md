@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Blueburn - Diane【Official Music Video】](https://www.youtube.com/watch?v=yYkWkAzAGaY)
-- [Men I Trust - Show Me How](https://www.youtube.com/watch?v=OZRYzH0Q0pU)
-- [Men I Trust - I hope to be around](https://www.youtube.com/watch?v=DviID8Ni7Ns)
-- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
-- [甜約翰 Sweet John【 靠窗座位 Window Seat 】Official Music Video](https://www.youtube.com/watch?v=dpazzIfSAeQ)
+- [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
+- [八星  LUCA + haruka nakamura](https://www.youtube.com/watch?v=6X3DHXe-OnQ)
+- [サカナクション / 多分、風。  -Music Video-](https://www.youtube.com/watch?v=8lx0vLTH_yg)
+- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
+- [サカナクション / 忘れられないの　-Music Video-](https://www.youtube.com/watch?v=BxqYUbNR-c0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
