@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
-- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
-- [【顏社】蛋堡 Soft Lipa - 收斂水 (Official Music Video)](https://www.youtube.com/watch?v=xPU-cgPjZKk)
 - [满人/Soft Lipa蛋堡/Jnco - 黃金年代  十年](https://www.youtube.com/watch?v=7RiCskU2eLU)
-- [【顏社】春艷 - 感覺 (Official Music Video)](https://www.youtube.com/watch?v=vWGRhrhzOL8)
+- [【顏社】蛋堡 Soft Lipa - 收斂水 (Official Music Video)](https://www.youtube.com/watch?v=xPU-cgPjZKk)
+- [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
+- [【顏社】國蛋 GorDoN - 外面有點冷 ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=59exS8nTE-k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
