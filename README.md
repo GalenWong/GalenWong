@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [李英宏首度挑戰電影主題曲【愛上你 ft. 萬芳】電影【誰先愛上他的】2018.11.02全台上映](https://www.youtube.com/watch?v=H1ZF9lTEi5k)
-- [【顏社】蛋堡 Soft Lipa - 收斂水 (Official Music Video)](https://www.youtube.com/watch?v=xPU-cgPjZKk)
-- [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
-- [【顏社】國蛋 GorDoN - 外面有點冷 ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=59exS8nTE-k)
-- [OMEGAH RED feat. MF DOOM and RZA - Books of War](https://www.youtube.com/watch?v=pTCp0kJYF30)
+- [Samurai Champloo - Shiki No Uta (HQ)](https://www.youtube.com/watch?v=cNplZrRSjeI)
+- [美秀集團 Amazing Show－心悶 (Sim-Būn) Sin Man【Official Music Video】](https://www.youtube.com/watch?v=k1YQE3YeMyw)
+- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
+- [kudasai - the girl i haven't met](https://www.youtube.com/watch?v=XDpoBc8t6gE)
+- [Sunset Rollercoaster - Let There Be Light Again (Single), 2021](https://www.youtube.com/watch?v=03uDc9m4NcQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
