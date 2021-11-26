@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [康士坦的變化球 KST－安靜的美好  Undisturbed（Official Lyric Video）](https://www.youtube.com/watch?v=FGeYMR8hDF8)
-- [美秀集團 Amazing Show－心悶 (Sim-Būn) Sin Man【Official Music Video】](https://www.youtube.com/watch?v=k1YQE3YeMyw)
-- [kudasai - the girl i haven't met](https://www.youtube.com/watch?v=XDpoBc8t6gE)
-- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
 - [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
+- [美秀集團 Amazing Show－心悶 (Sim-Būn) Sin Man【Official Music Video】](https://www.youtube.com/watch?v=k1YQE3YeMyw)
+- [郭頂《淒美地 The Fog Space》官方版 MV](https://www.youtube.com/watch?v=NXpIQSdX_wQ)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
