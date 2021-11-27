@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
-- [美秀集團 Amazing Show－心悶 (Sim-Būn) Sin Man【Official Music Video】](https://www.youtube.com/watch?v=k1YQE3YeMyw)
-- [郭頂《淒美地 The Fog Space》官方版 MV](https://www.youtube.com/watch?v=NXpIQSdX_wQ)
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
+- [李英宏首度挑戰電影主題曲【愛上你 ft. 萬芳】電影【誰先愛上他的】2018.11.02全台上映](https://www.youtube.com/watch?v=H1ZF9lTEi5k)
+- [yama『世界は美しいはずなんだ』MV](https://www.youtube.com/watch?v=xXpAO102A50)
+- [Mariya Takeuchi - Plastic Love 竹内 まりや](https://www.youtube.com/watch?v=86vaOUEjWzM)
+- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
