@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
-- [李英宏首度挑戰電影主題曲【愛上你 ft. 萬芳】電影【誰先愛上他的】2018.11.02全台上映](https://www.youtube.com/watch?v=H1ZF9lTEi5k)
+- [老王樂隊｜他們在鐵皮屋頂上奔跑 Running on the Rooftops (Official Music Video)](https://www.youtube.com/watch?v=UQSNzJFoY8E)
 - [yama『世界は美しいはずなんだ』MV](https://www.youtube.com/watch?v=xXpAO102A50)
-- [Mariya Takeuchi - Plastic Love 竹内 まりや](https://www.youtube.com/watch?v=86vaOUEjWzM)
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
+- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
+- [康士坦的變化球 KST－安靜的美好  Undisturbed（Official Lyric Video）](https://www.youtube.com/watch?v=FGeYMR8hDF8)
+- [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
