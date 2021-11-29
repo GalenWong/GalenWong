@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [老王樂隊｜他們在鐵皮屋頂上奔跑 Running on the Rooftops (Official Music Video)](https://www.youtube.com/watch?v=UQSNzJFoY8E)
-- [yama『世界は美しいはずなんだ』MV](https://www.youtube.com/watch?v=xXpAO102A50)
-- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
-- [康士坦的變化球 KST－安靜的美好  Undisturbed（Official Lyric Video）](https://www.youtube.com/watch?v=FGeYMR8hDF8)
+- [kudasai - the girl i haven't met](https://www.youtube.com/watch?v=XDpoBc8t6gE)
+- [King Gnu - BOY](https://www.youtube.com/watch?v=n0QNaym0jDI)
 - [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
+- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
