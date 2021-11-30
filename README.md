@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [老王樂隊｜他們在鐵皮屋頂上奔跑 Running on the Rooftops (Official Music Video)](https://www.youtube.com/watch?v=UQSNzJFoY8E)
-- [kudasai - the girl i haven't met](https://www.youtube.com/watch?v=XDpoBc8t6gE)
-- [King Gnu - BOY](https://www.youtube.com/watch?v=n0QNaym0jDI)
+- [山姆someshit－那些勸我別抽菸的人都死了](https://www.youtube.com/watch?v=LqTfWEsGP4U)
 - [my little airport - 每次你走的時分 (lyrics video)](https://www.youtube.com/watch?v=geN8mEfMR8w)
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
+- [老王樂隊｜他們在鐵皮屋頂上奔跑 Running on the Rooftops (Official Music Video)](https://www.youtube.com/watch?v=UQSNzJFoY8E)
+- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
+- [郭頂《淒美地 The Fog Space》官方版 MV](https://www.youtube.com/watch?v=NXpIQSdX_wQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
