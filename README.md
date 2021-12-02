@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LiSA 『炎』 -MUSiC CLiP-](https://www.youtube.com/watch?v=4DxL6IKmXx4)
-- [Vising《 拼圖 》Lyric Video](https://www.youtube.com/watch?v=peEAo2J7SuU)
-- [King Gnu - 三文小説](https://www.youtube.com/watch?v=Y8HeOA95UzQ)
-- [SIRUP - SWIM (Music Bar Session)](https://www.youtube.com/watch?v=TmjGdJD8i5E)
-- [南西肯恩 Neci Ken〈大海 Ocean〉Official Music Video](https://www.youtube.com/watch?v=exVEN7hlqBg)
+- [PUZZLEMAN LIVE - 香草奶昔｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=pp67Y2aKLqY)
+- [Samurai Champloo - Shiki No Uta (HQ)](https://www.youtube.com/watch?v=cNplZrRSjeI)
+- [夜貓組 Yeemao - 健康歌 Yeemao Song｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=fFdiMitwnLo)
+- [南瓜妮歌迷俱樂部 - 微光](https://www.youtube.com/watch?v=oFD5GelrE1M)
+- [拍謝少年 Sorry Youth - 百百人生 Walks of Life ft. 陳惠婷Huiting  (Official MV)](https://www.youtube.com/watch?v=5506c-a8X4c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
