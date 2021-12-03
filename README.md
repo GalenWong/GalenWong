@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [PUZZLEMAN LIVE - 香草奶昔｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=pp67Y2aKLqY)
-- [Samurai Champloo - Shiki No Uta (HQ)](https://www.youtube.com/watch?v=cNplZrRSjeI)
-- [夜貓組 Yeemao - 健康歌 Yeemao Song｜Cook the Vibe 顏社煮場秀](https://www.youtube.com/watch?v=fFdiMitwnLo)
-- [南瓜妮歌迷俱樂部 - 微光](https://www.youtube.com/watch?v=oFD5GelrE1M)
-- [拍謝少年 Sorry Youth - 百百人生 Walks of Life ft. 陳惠婷Huiting  (Official MV)](https://www.youtube.com/watch?v=5506c-a8X4c)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [Nujabes - luv (sic.) pt 3   [ft.shing02]](https://www.youtube.com/watch?v=UyoYf7rZVGI)
+- [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
