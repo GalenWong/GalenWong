@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
-- [Nujabes - luv (sic.) pt 3   [ft.shing02]](https://www.youtube.com/watch?v=UyoYf7rZVGI)
-- [Sunset Rollercoaster - Let There Be Light Again (Single), 2021](https://www.youtube.com/watch?v=03uDc9m4NcQ)
 - [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [ラブリーサマーちゃん「202 feat. 泉まくら」Music Video](https://www.youtube.com/watch?v=sS99NE4tmPQ)
+- [Nujabes - luv (sic.) pt 3   [ft.shing02]](https://www.youtube.com/watch?v=UyoYf7rZVGI)
+- [縱貫線 Superband【給自己的歌 Jonathan's Song】Official Music Video](https://www.youtube.com/watch?v=WMVtriQkPxg)
+- [椅子樂團 The Chairs - 給 來自月球的L (Official Audio)](https://www.youtube.com/watch?v=4aigI_Jb_8U)
+- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
