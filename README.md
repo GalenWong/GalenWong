@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
+- [Nujabes - luv (sic.) pt 3   [ft.shing02]](https://www.youtube.com/watch?v=UyoYf7rZVGI)
 - [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
 - [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [Nujabes - luv (sic.) pt 3   [ft.shing02]](https://www.youtube.com/watch?v=UyoYf7rZVGI)
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
-- [荷爾蒙少年 Hormone Boys - 珊珊 Totally Spies! (Official Music Video)](https://www.youtube.com/watch?v=lBL_uKiAo70)
+- [Nujabes feat Shing02 - Luv(sic) Hexalogy [Full Album]](https://www.youtube.com/watch?v=jfTdzrtGKuY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
