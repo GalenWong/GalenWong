@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
 - [Nujabes - luv (sic.) pt 3   [ft.shing02]](https://www.youtube.com/watch?v=UyoYf7rZVGI)
-- [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [Nujabes feat Shing02 - Luv(sic) Hexalogy [Full Album]](https://www.youtube.com/watch?v=jfTdzrtGKuY)
+- [【好樂團 GoodBand】－我們一樣可惜 Demo](https://www.youtube.com/watch?v=ixx8yGG4AS4)
+- [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
