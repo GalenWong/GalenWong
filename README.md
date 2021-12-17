@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [Sunset Rollercoaster - Let There Be Light Again (Single), 2021](https://www.youtube.com/watch?v=03uDc9m4NcQ)
+- [Nujabes feat Shing02 - Luv(sic) Hexalogy [Full Album]](https://www.youtube.com/watch?v=jfTdzrtGKuY)
 - [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
-- [DSPS - 冬天再去見你 (Official Music Video)](https://www.youtube.com/watch?v=0io32VRxmQI)
-- [showmore - rinse in shampoo【Official Music Video】](https://www.youtube.com/watch?v=svtvk1PPuQs)
+- [Sunset Rollercoaster - Let There Be Light Again (Single), 2021](https://www.youtube.com/watch?v=03uDc9m4NcQ)
+- [DSPS - You'll See (cover) Official Music Video](https://www.youtube.com/watch?v=t0wUw27nwZ8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
