@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
-- [告五人 Accusefive [ 在這座城市遺失了你 Where I Lost Us ] '遺失的情人節'版MV](https://www.youtube.com/watch?v=fiDZGZMN9wE)
-- [陳奕迅 Eason Chan - 《無條件》MV](https://www.youtube.com/watch?v=jzGaS5kWj0U)
-- [老王樂隊｜你啊你啊 Cover -TME特別翻唱企劃「返場」之「華語金曲：10 20 30」【原唱：waawei 魏如萱 】](https://www.youtube.com/watch?v=e69jHUyhqZk)
-- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
+- [溫室雜草Easy weeds-在這個年代，我們不浪漫demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
+- [Yogee New Waves / HOW DO YOU FEEL? (Official MV)](https://www.youtube.com/watch?v=eTVHpa6ngcA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
