@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan - 《無條件》MV](https://www.youtube.com/watch?v=jzGaS5kWj0U)
-- [Blueburn - Beach Warfare【Official Music Video】](https://www.youtube.com/watch?v=i6biizR-WKQ)
-- [Blueburn - Don't Smoke (Lyric Video)](https://www.youtube.com/watch?v=YOi-BwZK4oE)
-- [Eason Chan 陳奕迅 《陀飛輪》MV](https://www.youtube.com/watch?v=URUIcYDq3_I)
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [Sunset Rollercoaster - Let There Be Light Again (Single), 2021](https://www.youtube.com/watch?v=03uDc9m4NcQ)
+- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
+- [落日飛車 Sunset Rollercoaster【愛錯】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=1Qi3tO6wpb8)
+- [茄子蛋EggPlantEgg - Happy!!! 運將情歌 Happy!!! Drivers Love Song (Official Music Video)](https://www.youtube.com/watch?v=ulKrn-3GraI)
+- [【顏社】Leo王 - 雞腿便當 (Official Music Video)](https://www.youtube.com/watch?v=eimid7K4mJ0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
