@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
-- [Blueburn - Beach Warfare【Official Music Video】](https://www.youtube.com/watch?v=i6biizR-WKQ)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [溫室雜草 Easy Weeds - 在這個年代，我們不浪漫 demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)](https://www.youtube.com/watch?v=MJMfU2Od2T8)
+- [溫蒂漫步 Wendy Wander - For Lily (Official Music Video)](https://www.youtube.com/watch?v=LdVQJFjNARU)
+- [椅子樂團 The Chairs - Real Love Is... (Full Album), 2020](https://www.youtube.com/watch?v=zAhERvVKhqs)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [李英宏首度挑戰電影主題曲【愛上你 ft. 萬芳】電影【誰先愛上他的】2018.11.02全台上映](https://www.youtube.com/watch?v=H1ZF9lTEi5k)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
