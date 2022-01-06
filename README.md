@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫蒂漫步 Wendy Wander - For Lily (Official Music Video)](https://www.youtube.com/watch?v=LdVQJFjNARU)
 - [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
-- [椅子樂團 The Chairs - Real Love Is... (Full Album), 2020](https://www.youtube.com/watch?v=zAhERvVKhqs)
 - [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [莫宰羊 - 未接來電 missed call * M/V ***](https://www.youtube.com/watch?v=NXId3_EEGKY)
+- [【顏社】國蛋 GorDoN - 外面有點冷 ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=59exS8nTE-k)
+- [Sunset Rollercoaster - TYPHOON RIDERS 颱風騎士 Live Concert (2020.09.25)](https://www.youtube.com/watch?v=cGq1X5YJZMI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
