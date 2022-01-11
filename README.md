@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椅子樂團 The Chairs - Real Love Is... (Full Album), 2020](https://www.youtube.com/watch?v=zAhERvVKhqs)
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [溫室雜草 Easy Weeds - 在這個年代，我們不浪漫 demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [溫蒂漫步 Wendy Wander - For Lily (Official Music Video)](https://www.youtube.com/watch?v=LdVQJFjNARU)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
 - [老王樂隊｜你啊你啊 Cover -TME特別翻唱企劃「返場」之「華語金曲：10 20 30」【原唱：waawei 魏如萱 】](https://www.youtube.com/watch?v=e69jHUyhqZk)
-- [溫室雜草 Easy Weeds - 那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
+- [【顏社】李英宏 aka DJ Didilong - 自躁浪漫 ft.李權哲 Jerry Li (Official Music Video)](https://www.youtube.com/watch?v=yTM0WH8pV2U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
