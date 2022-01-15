@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
+- [椅子樂團 The Chairs - Real Love Is... (Full Album), 2020](https://www.youtube.com/watch?v=zAhERvVKhqs)
 - [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [DSPS - You'll See (cover) Official Music Video](https://www.youtube.com/watch?v=t0wUw27nwZ8)
-- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
-- [【顏社】李英宏 aka DJ Didilong - 水哥 ft.蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=FYsZd9v853U)
+- [溫室雜草 Easy Weeds - 那天我們看著星夜 demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [溫室雜草 Easy Weeds - 在這個年代，我們不浪漫 demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
