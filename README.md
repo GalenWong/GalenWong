@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
-- [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
+- [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [FKJ  |  Ylang Ylang EP (Live Session)](https://www.youtube.com/watch?v=pfU0QORkRpY)
+- [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
 - [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [國蛋GorDoN《Better Days》Official Music Video 正式釋出](https://www.youtube.com/watch?v=D71KnBswYhM)
-- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
