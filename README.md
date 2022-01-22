@@ -79,8 +79,8 @@ studied in
 - [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
 - [FKJ  |  Ylang Ylang EP (Live Session)](https://www.youtube.com/watch?v=pfU0QORkRpY)
 - [FKJ - Just Piano (In partnership with Calm)](https://www.youtube.com/watch?v=AmmFD2OIs_k)
-- [9m88 - 月亮代表我的心 The Moon Represents My Heart (《華燈初上》插曲)](https://www.youtube.com/watch?v=szsV1XDZf94)
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
+- [9m88 - Aim High (Official Music Video)](https://www.youtube.com/watch?v=dimqEPg0NpE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
