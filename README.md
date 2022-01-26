@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
 - [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [Blueburn - To My Favorite Dream (Lyric Video)](https://www.youtube.com/watch?v=dhvD07LvrM0)
-- [icyball 冰球樂團 - 搖啊搖 ft. Limi (Official Video)](https://www.youtube.com/watch?v=xSbeUixi22o)
-- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
+- [周杰倫 Jay Chou【斷了的弦 Broken Strings】Official MV](https://www.youtube.com/watch?v=n_KlMpP0vdw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
