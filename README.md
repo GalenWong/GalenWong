@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
 - [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
+- [陳奕迅 Eason Chan《K歌之王》[Official MV]](https://www.youtube.com/watch?v=Sm_DVsixxsk)
 - [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
-- [9m88 - 月亮代表我的心 The Moon Represents My Heart (《華燈初上》插曲)](https://www.youtube.com/watch?v=szsV1XDZf94)
-- [溫蒂漫步 Wendy Wander - For Lily (Official Music Video)](https://www.youtube.com/watch?v=LdVQJFjNARU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
