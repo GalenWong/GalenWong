@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
-- [周杰倫 Jay Chou【夜的第七章電影版 Chapter Seven】-Official Movie Version](https://www.youtube.com/watch?v=wTZrLNQ8WF8)
-- [Sunset Rollercoaster 落日飛車 - Candlelight](https://www.youtube.com/watch?v=EczGemfmu3c)
-- [Constant & Change 康士坦的變化球 - 在你死後才想起曾經答應陪你去散步](https://www.youtube.com/watch?v=jVN8ZT283ow)
 - [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
+- [周杰倫 Jay Chou【千里之外 Far Away (feat.費玉清 Fei Yu-ching)】-Official Music Video](https://www.youtube.com/watch?v=ocDo3ySyHSI)
+- [周杰倫 Jay Chou【三年二班 Class 3-2】-Official Music Video](https://www.youtube.com/watch?v=_trE3M24kQY)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
