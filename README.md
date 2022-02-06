@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [Nujabes - Luv(sic) [ft. Shing02] ALL PARTS (1-6)](https://www.youtube.com/watch?v=wGfguhnvECc)
 - [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
+- [Dremedreman 曾妮【 ngadan 名字 】Official Music Video](https://www.youtube.com/watch?v=vbBjDL5soaw)
+- [張國榮 Leslie Cheung【追 Chase】Official Music Video](https://www.youtube.com/watch?v=HcSE3cQH-Ic)
 - [溫室雜草 Easy Weeds - 在這個年代，我們不浪漫 demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [溫蒂漫步 Wendy Wander - For Lily (Official Music Video)](https://www.youtube.com/watch?v=LdVQJFjNARU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
