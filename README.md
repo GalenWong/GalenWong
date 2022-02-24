@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [陳奕迅 Eason Chan《K歌之王》[Official MV]](https://www.youtube.com/watch?v=Sm_DVsixxsk)
-- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
-- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
-- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
+- [【顏社】國蛋 GorDoN - 她教我過馬路 (Official Music Video)](https://www.youtube.com/watch?v=0n1FUvrtlQU)
+- [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
+- [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
+- [9m88 - 如果可以 If I Could (Official MV)](https://www.youtube.com/watch?v=2Bog__QWqF8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
