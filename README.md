@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [【顏社】國蛋 GorDoN - 她教我過馬路 (Official Music Video)](https://www.youtube.com/watch?v=0n1FUvrtlQU)
+- [周杰倫 Jay Chou【斷了的弦 Broken Strings】Official MV](https://www.youtube.com/watch?v=n_KlMpP0vdw)
 - [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
 - [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
-- [9m88 - 如果可以 If I Could (Official MV)](https://www.youtube.com/watch?v=2Bog__QWqF8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
