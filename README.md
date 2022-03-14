@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】李英宏 aka DJ Didilong - 自躁浪漫 ft.李權哲 Jerry Li (Official Music Video)](https://www.youtube.com/watch?v=yTM0WH8pV2U)
-- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
-- [deca joins｜午夜的消亡 【Official Video】](https://www.youtube.com/watch?v=FkRIDAvJ57A)
-- [周杰倫 Jay Chou【斷了的弦 Broken Strings】Official MV](https://www.youtube.com/watch?v=n_KlMpP0vdw)
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [周杰倫 Jay Chou【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
+- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
+- [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
