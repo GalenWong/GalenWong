@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [告五人 Accusefive [ 在這座城市遺失了你 Where I Lost Us ] '遺失的情人節'版MV](https://www.youtube.com/watch?v=fiDZGZMN9wE)
-- [【顏社】李英宏 aka DJ Didilong - 自躁浪漫 ft.李權哲 Jerry Li (Official Music Video)](https://www.youtube.com/watch?v=yTM0WH8pV2U)
-- [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
+- [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
+- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
+- [Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video](https://www.youtube.com/watch?v=pd3eV-SG23E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
