@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
-- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
-- [周杰倫 Jay Chou【夜的第七章電影版 Chapter Seven】-Official Movie Version](https://www.youtube.com/watch?v=wTZrLNQ8WF8)
+- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
 - [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [茄子蛋EggPlantEgg - 親愛的無情孫小美 Dear Heartless (Official Music Video)](https://www.youtube.com/watch?v=UXHTGeGkZwU)
+- [宋冬野  -  郭源潮   Music Video](https://www.youtube.com/watch?v=RQsM2uvXow8)
+- [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
