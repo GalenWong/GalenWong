@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
-- [周杰倫 Jay Chou【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
+- [周杰倫 Jay Chou【超人不會飛 Superman Can't Fly】Official MV](https://www.youtube.com/watch?v=4j0Fgmsxr-o)
+- [Nulbarich - NEW ERA (Official Music Video)](https://www.youtube.com/watch?v=5pkBqmX2ymc)
+- [李聖傑 Sam Lee【眼底星空】Official Music Video](https://www.youtube.com/watch?v=VLp9Nb2dXW8)
 - [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
