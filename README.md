@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [周杰倫 Jay Chou【超人不會飛 Superman Can't Fly】Official MV](https://www.youtube.com/watch?v=4j0Fgmsxr-o)
-- [Nulbarich - NEW ERA (Official Music Video)](https://www.youtube.com/watch?v=5pkBqmX2ymc)
-- [李聖傑 Sam Lee【眼底星空】Official Music Video](https://www.youtube.com/watch?v=VLp9Nb2dXW8)
-- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
+- [周杰倫 Jay Chou【夜的第七章電影版 Chapter Seven】-Official Movie Version](https://www.youtube.com/watch?v=wTZrLNQ8WF8)
+- [陳奕迅Eason Chan《1874》[Lyrics MV]](https://www.youtube.com/watch?v=fNb3idMMMmQ)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
