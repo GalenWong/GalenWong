@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
-- [告五人 Accusefive [ 在這座城市遺失了你 Where I Lost Us ] '遺失的情人節'版MV](https://www.youtube.com/watch?v=fiDZGZMN9wE)
 - [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
-- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
+- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
+- [告五人 Accusefive [ 在這座城市遺失了你 Where I Lost Us ] '遺失的情人節'版MV](https://www.youtube.com/watch?v=fiDZGZMN9wE)
 - [deca joins｜午夜的消亡 【Official Video】](https://www.youtube.com/watch?v=FkRIDAvJ57A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
