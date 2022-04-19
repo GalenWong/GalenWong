@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
-- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
-- [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
 - [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
-- [告五人 Accusefive [ 在這座城市遺失了你 Where I Lost Us ] '遺失的情人節'版MV](https://www.youtube.com/watch?v=fiDZGZMN9wE)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
+- [陳奕迅Eason Chan《1874》[Lyrics MV]](https://www.youtube.com/watch?v=fNb3idMMMmQ)
+- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
