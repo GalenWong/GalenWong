@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
 - [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
-- [怕胖團PAPUN BAND《 2049 》Music Video](https://www.youtube.com/watch?v=R7SwfeHxAoc)
-- [周杰倫 Jay Chou【可愛女人 Adorable Lady (feat.徐若瑄Vivian)】 -Official Music Video](https://www.youtube.com/watch?v=87VUC4J_0Ps)
-- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
+- [陳奕迅Eason Chan《1874》[Lyrics MV]](https://www.youtube.com/watch?v=fNb3idMMMmQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
