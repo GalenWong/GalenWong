@@ -79,8 +79,8 @@ studied in
 - [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 - [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
 - [美秀集團 Amazing Show【還是會寂寞 Lonely without you】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=3aOhjj5it7k)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 - [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
+- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
