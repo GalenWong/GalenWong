@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
 - [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [美秀集團 Amazing Show【還是會寂寞 Lonely without you】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=3aOhjj5it7k)
+- [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 - [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
