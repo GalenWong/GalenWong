@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
-- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
+- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
+- [茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (Official Music Video﻿)《當男人戀愛時》電影主題曲](https://www.youtube.com/watch?v=0rp3pP2Xwhs)
+- [Twins《戀愛大過天》[Official MV]](https://www.youtube.com/watch?v=F3P5WsIjvrM)
 - [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
-- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
