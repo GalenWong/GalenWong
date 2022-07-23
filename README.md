@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
 - [周杰倫 Jay Chou【還在流浪 Still Wandering】Official MV](https://www.youtube.com/watch?v=BSlMAJ7SkMA)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
 - [周杰倫 Jay Chou【最偉大的作品 Greatest Works of Art】Official MV](https://www.youtube.com/watch?v=1emA1EFsPMM)
-- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
-- [没有理想的人不伤心](https://www.youtube.com/watch?v=3WDyDEHg7hc)
-- [Twins《你不是好情人》[Official MV]](https://www.youtube.com/watch?v=KXA5Zg3qBnU)
+- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
