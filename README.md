@@ -78,8 +78,8 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [周杰倫 Jay Chou【還在流浪 Still Wandering】Official MV](https://www.youtube.com/watch?v=BSlMAJ7SkMA)
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
-- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
+- [马赛克乐队《霓虹甜心》MV](https://www.youtube.com/watch?v=E969JSzZPrM)
 - [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
