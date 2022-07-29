@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【還在流浪 Still Wandering】Official MV](https://www.youtube.com/watch?v=BSlMAJ7SkMA)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
-- [马赛克乐队《霓虹甜心》MV](https://www.youtube.com/watch?v=E969JSzZPrM)
 - [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
+- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
