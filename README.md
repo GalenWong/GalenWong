@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
 - [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [Twins《你不是好情人》[Official MV]](https://www.youtube.com/watch?v=KXA5Zg3qBnU)
+- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
 - [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
