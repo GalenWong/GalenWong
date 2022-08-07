@@ -78,8 +78,8 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
 - [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
-- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [張震嶽 A-Yue【思念是一種病】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
 - [周杰倫 Jay Chou【最偉大的作品 Greatest Works of Art】Official MV](https://www.youtube.com/watch?v=1emA1EFsPMM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
