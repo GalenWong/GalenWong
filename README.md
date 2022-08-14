@@ -80,7 +80,7 @@ studied in
 - [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
 - [Blueburn - Diane【Official Music Video】](https://www.youtube.com/watch?v=yYkWkAzAGaY)
 - [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
-- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
+- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
