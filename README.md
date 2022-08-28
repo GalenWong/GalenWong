@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
-- [周杰倫 Jay Chou【還在流浪 Still Wandering】Official MV](https://www.youtube.com/watch?v=BSlMAJ7SkMA)
+- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
 - [張震嶽 A-Yue【思念是一種病】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
+- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
+- [【顏社】國蛋GorDoN - Same Old Same Old + 嘻哈囝 (Official Live Video)](https://www.youtube.com/watch?v=7e5apdOCEAo)
 - [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
-- [古巨基 - 必殺技 @ WE Leo Ku World Tour 2019【1080P Live】](https://www.youtube.com/watch?v=PrOPRJ8K0fU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
