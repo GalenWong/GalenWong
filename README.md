@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
-- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
-- [陳嫺靜 x Project Plus Eyes - 【See More Possibilities】看見更多可能 | Official Music Video](https://www.youtube.com/watch?v=q-p-vdLdIdo)
-- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
-- [林依晨 Ariel Lin【孤單北半球】TVBS-G偶像劇「愛情合約」片尾曲 Official Music Video](https://www.youtube.com/watch?v=_C-MwjH6laM)
+- [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
+- [古巨基 - 愛與誠](https://www.youtube.com/watch?v=UCp73vIZ034)
+- [古巨基 - 必殺技 @ WE Leo Ku World Tour 2019【1080P Live】](https://www.youtube.com/watch?v=PrOPRJ8K0fU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
