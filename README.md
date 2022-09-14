@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [古巨基 - 愛與誠](https://www.youtube.com/watch?v=UCp73vIZ034)
 - [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
-- [古巨基 - 必殺技 @ WE Leo Ku World Tour 2019【1080P Live】](https://www.youtube.com/watch?v=PrOPRJ8K0fU)
 - [给你一瓶魔法药水 You are My Magic- 告五人 Accusefive 【动态歌词 lyric video】with English Subtitles](https://www.youtube.com/watch?v=8zYdTK71r1E)
-- [林依晨 Ariel Lin【孤單北半球】TVBS-G偶像劇「愛情合約」片尾曲 Official Music Video](https://www.youtube.com/watch?v=_C-MwjH6laM)
 - [張震嶽 A-Yue【思念是一種病】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
+- [甜約翰 Sweet John【 降雨機率 Rain Onto the One 】Official Music Video](https://www.youtube.com/watch?v=3UYOS8Pcsks)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
