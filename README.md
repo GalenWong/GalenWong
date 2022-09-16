@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [给你一瓶魔法药水 You are My Magic- 告五人 Accusefive 【动态歌词 lyric video】with English Subtitles](https://www.youtube.com/watch?v=8zYdTK71r1E)
 - [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
 - [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
 - [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
-- [周杰倫 蒲公英的约定 MV 高畫值](https://www.youtube.com/watch?v=LVpYT6r4Pis)
+- [周杰倫 Jay Chou【最偉大的作品 Greatest Works of Art】Official MV](https://www.youtube.com/watch?v=1emA1EFsPMM)
+- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
