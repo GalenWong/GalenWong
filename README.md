@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
 - [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
-- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
-- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 - [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
-- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】 demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [最佳损友 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=_J-o8FpJ-XY)
+- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
