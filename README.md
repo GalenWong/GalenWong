@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 - [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
-- [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
-- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
-- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
+- [古巨基 - 愛與誠](https://www.youtube.com/watch?v=UCp73vIZ034)
+- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [莉莉安](https://www.youtube.com/watch?v=eb8HUakDu8c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
