@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
 - [古巨基 - 愛與誠](https://www.youtube.com/watch?v=UCp73vIZ034)
-- [林依晨 Ariel Lin【孤單北半球】TVBS-G偶像劇「愛情合約」片尾曲 Official Music Video](https://www.youtube.com/watch?v=_C-MwjH6laM)
+- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
+- [Nujabes - Luv(sic) Part 2 feat.Shing02 [Official Audio]](https://www.youtube.com/watch?v=orZdl3KqgzU)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
