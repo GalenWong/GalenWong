@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [周杰倫 Jay Chou【蒲公英的約定 A Dandelion's Promise】-Official Music Video](https://www.youtube.com/watch?v=VitJnr3IySc)
 - [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
-- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
-- [【顏社】蛋堡 Soft Lipa - 煙霧瀰漫 (Official Music Video)](https://www.youtube.com/watch?v=75Cqpl3UPMc)
-- [【顏社】Leo王 - 朋友朋友+ 時間的奶昔(Official Music Video)](https://www.youtube.com/watch?v=Jyz2wC_cj24)
+- [Samurai Champloo - Shiki No Uta (HQ)](https://www.youtube.com/watch?v=cNplZrRSjeI)
+- [[MV Kusoul]蛋堡Soft Lipa Feat.周杰倫Jay Chou-愛簡單Love Easy](https://www.youtube.com/watch?v=zl8u9ucMv6U)
 - [Official髭男dism - イエスタデイ［Official Video］](https://www.youtube.com/watch?v=DuMqFknYHBs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
