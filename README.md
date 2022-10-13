@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
 - [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
-- [Nujabes - Luv(sic) feat.Shing02 [Official Audio]](https://www.youtube.com/watch?v=Y4HWvsGs0rY)
-- [周杰倫 Jay Chou (特別演出: 派偉俊)【告白氣球 Love Confession】Official MV](https://www.youtube.com/watch?v=bu7nU9Mhpyo)
-- [周杰倫 Jay Chou【七里香 Qi-Li-Xiang】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
-- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
