@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 不小心愛上你 Accidentally in Love 】ft. 魏如萱 @waawei  Official Music Video](https://www.youtube.com/watch?v=r8n4OnlDVqE)
+- [【顏社】蛋堡 Soft Lipa - 煙霧瀰漫 (Official Music Video)](https://www.youtube.com/watch?v=75Cqpl3UPMc)
 - [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
-- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
-- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
+- [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
+- [【顏社】李英宏 aka DJ Didilong - 慢慢阿流 (Official Music Video)](https://www.youtube.com/watch?v=lSEF5SZInno)
 - [Feather](https://www.youtube.com/watch?v=4yX8ZUgraOo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
