@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
-- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
-- [林宥嘉 Yoga Lin [說謊 Fairy Tale] Official MV](https://www.youtube.com/watch?v=ftfJRzW0MPo)
-- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
 - [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [King Gnu - 逆夢](https://www.youtube.com/watch?v=M6gcoDN9jBc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
