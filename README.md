@@ -79,8 +79,8 @@ studied in
 - [古巨基 - 愛與誠](https://www.youtube.com/watch?v=UCp73vIZ034)
 - [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
 - [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [Feather](https://www.youtube.com/watch?v=4yX8ZUgraOo)
 - [King Gnu - 逆夢](https://www.youtube.com/watch?v=M6gcoDN9jBc)
-- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
