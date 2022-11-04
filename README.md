@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
-- [古巨基 - 愛與誠](https://www.youtube.com/watch?v=UCp73vIZ034)
-- [Feather](https://www.youtube.com/watch?v=4yX8ZUgraOo)
 - [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
-- [Lady Brown](https://www.youtube.com/watch?v=V8Xh5ErjIyM)
+- [古巨基 - 愛與誠](https://www.youtube.com/watch?v=UCp73vIZ034)
+- [King Gnu - 逆夢](https://www.youtube.com/watch?v=M6gcoDN9jBc)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
