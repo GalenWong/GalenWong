@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [古巨基 - 愛與誠](https://www.youtube.com/watch?v=UCp73vIZ034)
-- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
-- [King Gnu - 一途](https://www.youtube.com/watch?v=hm1na9R2uYA)
 - [Official髭男dism - Subtitle [Official Video]](https://www.youtube.com/watch?v=hN5MBlGv2Ac)
-- [陳奕迅 Eason Chan 《我們》Us [Official MV]](https://www.youtube.com/watch?v=dhjomo8W6Lc)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [Blueburn - Diane【Official Music Video】](https://www.youtube.com/watch?v=yYkWkAzAGaY)
+- [Official髭男dism - Mixed Nuts ［Official Video］](https://www.youtube.com/watch?v=CbH2F0kXgTY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
