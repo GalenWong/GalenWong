@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
 - [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
-- [陳奕迅 Eason Chan《K歌之王》[Official MV]](https://www.youtube.com/watch?v=Sm_DVsixxsk)
-- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
-- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
+- [Nujabes - Luv(sic) Part 2 feat.Shing02 [Official Audio]](https://www.youtube.com/watch?v=orZdl3KqgzU)
+- [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
