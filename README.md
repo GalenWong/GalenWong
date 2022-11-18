@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
 - [King Gnu - 逆夢](https://www.youtube.com/watch?v=M6gcoDN9jBc)
-- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
+- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
 - [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
-- [Official髭男dism - イエスタデイ［Official Video］](https://www.youtube.com/watch?v=DuMqFknYHBs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
