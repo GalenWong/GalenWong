@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
 - [King Gnu - 逆夢](https://www.youtube.com/watch?v=M6gcoDN9jBc)
-- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
-- [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
+- [King Gnu - 三文小説](https://www.youtube.com/watch?v=Y8HeOA95UzQ)
 - [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
