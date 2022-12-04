@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
 - [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
-- [周杰倫 Jay Chou【紅塵客棧 Hong-Chen-Ke-Zhan】Official MV](https://www.youtube.com/watch?v=L6joGUdc6y4)
-- [盧廣仲 Crowd Lu 【幾分之幾 You Complete Me】 Official Music Video （花甲大人轉男孩電影主題曲）](https://www.youtube.com/watch?v=HQ_mU73VhEQ)
-- [陳奕迅 Eason Chan《人來人往》[Official MV]](https://www.youtube.com/watch?v=gAotCGoKhD0)
+- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
