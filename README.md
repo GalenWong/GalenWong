@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
-- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
-- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 - [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
-- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
+- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [【顏社】Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
