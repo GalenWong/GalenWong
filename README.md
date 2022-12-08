@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 - [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
-- [周杰倫 Jay Chou【最偉大的作品 Greatest Works of Art】Official MV](https://www.youtube.com/watch?v=1emA1EFsPMM)
-- [周杰倫 Jay Chou【愛在西元前 Love before BC】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
-- [周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV](https://www.youtube.com/watch?v=UBySINroNkw)
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
+- [黃明志 Ft. 王力宏【漂向北方】@亞洲通車 2016 Crossover Asia](https://www.youtube.com/watch?v=qIF8xvSA0Gw)
+- [Supper Moment - 無盡 MV](https://www.youtube.com/watch?v=4PACFmxlHm8)
+- [PREP - "As It Was" (Harry Styles Cover) Official Visualizer](https://www.youtube.com/watch?v=fn4JAuCfHQA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
