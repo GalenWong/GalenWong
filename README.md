@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
-- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
-- [黃明志 Ft. 王力宏【漂向北方】@亞洲通車 2016 Crossover Asia](https://www.youtube.com/watch?v=qIF8xvSA0Gw)
-- [Supper Moment - 無盡 MV](https://www.youtube.com/watch?v=4PACFmxlHm8)
-- [PREP - "As It Was" (Harry Styles Cover) Official Visualizer](https://www.youtube.com/watch?v=fn4JAuCfHQA)
+- [陳奕迅 Eason Chan - 《四季》MV](https://www.youtube.com/watch?v=3aZS7On4etw)
+- [King Gnu - 三文小説](https://www.youtube.com/watch?v=Y8HeOA95UzQ)
+- [Official髭男dism - イエスタデイ［Official Video］](https://www.youtube.com/watch?v=DuMqFknYHBs)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
