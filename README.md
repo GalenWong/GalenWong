@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
+- [[鄭中基 - 無賴] 歌词 Lyrics](https://www.youtube.com/watch?v=migZH5LJ-D0)
+- [【顏社】Leo王 - 快樂的甘蔗人 (Lyrics Music Video)](https://www.youtube.com/watch?v=ui4nJWGvSYg)
 - [陳奕迅 Eason Chan - 《四季》MV](https://www.youtube.com/watch?v=3aZS7On4etw)
-- [King Gnu - 三文小説](https://www.youtube.com/watch?v=Y8HeOA95UzQ)
-- [Official髭男dism - イエスタデイ［Official Video］](https://www.youtube.com/watch?v=DuMqFknYHBs)
-- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
