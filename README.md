@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Eason Chan 陳奕迅 七百年後 MV](https://www.youtube.com/watch?v=_NRf4HQw4MU)
-- [Eason 陳奕迅 '不要說話' MV](https://www.youtube.com/watch?v=Lzb33Ku8k_w)
-- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
+- [Official髭男dism - FIRE GROUND［Official Video］](https://www.youtube.com/watch?v=sem3UU-EQJs)
 - [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
-- [周杰倫 Jay Chou【花海 Floral Sea】-Official Music Video](https://www.youtube.com/watch?v=q1ww6bDjfiI)
+- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
+- [陳奕迅 Eason Chan《Shall We Talk》[Lyrics MV]](https://www.youtube.com/watch?v=IBbPMUCR0xk)
+- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
