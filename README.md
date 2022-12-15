@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人 Accusefive [ 給你一瓶魔法藥水 You Are My Magic ] Official Live Video](https://www.youtube.com/watch?v=lPKjHE6KjYY)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [陳奕迅 Eason Chan《Shall We Talk》[Lyrics MV]](https://www.youtube.com/watch?v=IBbPMUCR0xk)
 - [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
-- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 - [Official髭男dism - FIRE GROUND［Official Video］](https://www.youtube.com/watch?v=sem3UU-EQJs)
-- [【顏社】國蛋 GorDoN - 外面有點冷 ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=59exS8nTE-k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
