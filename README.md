@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
 - [King Gnu - 三文小説](https://www.youtube.com/watch?v=Y8HeOA95UzQ)
-- [陳奕迅 Eason Chan - 《四季》MV](https://www.youtube.com/watch?v=3aZS7On4etw)
-- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
-- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
+- [周杰倫 Jay Chou【外婆 Grandma】-Official Music Video](https://www.youtube.com/watch?v=Ur-x4pZT1Rk)
+- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
+- [陳奕迅 Eason Chan《K歌之王(國)》[Official MV]](https://www.youtube.com/watch?v=Iw3WgP8A18I)
+- [陳奕迅 Eason Chan《Shall We Talk》[Lyrics MV]](https://www.youtube.com/watch?v=IBbPMUCR0xk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
