@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [King Gnu - 三文小説](https://www.youtube.com/watch?v=Y8HeOA95UzQ)
-- [周杰倫 Jay Chou【外婆 Grandma】-Official Music Video](https://www.youtube.com/watch?v=Ur-x4pZT1Rk)
-- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
-- [陳奕迅 Eason Chan《K歌之王(國)》[Official MV]](https://www.youtube.com/watch?v=Iw3WgP8A18I)
-- [陳奕迅 Eason Chan《Shall We Talk》[Lyrics MV]](https://www.youtube.com/watch?v=IBbPMUCR0xk)
+- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
+- [周杰倫 Jay Chou【蒲公英的約定 A Dandelion's Promise】-Official Music Video](https://www.youtube.com/watch?v=VitJnr3IySc)
+- [周杰倫 Jay Chou【不能說的祕密 Secret】-Official Music Video](https://www.youtube.com/watch?v=uIWypArI73w)
+- [周杰倫 Jay Chou【髮如雪 Hair Like Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
+- [周杰倫 Jay Chou【龍捲風 Tornado】-Official Music Video](https://www.youtube.com/watch?v=RPWDeLqsN0g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
