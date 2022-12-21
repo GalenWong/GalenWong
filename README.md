@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
-- [周杰倫 Jay Chou【蒲公英的約定 A Dandelion's Promise】-Official Music Video](https://www.youtube.com/watch?v=VitJnr3IySc)
-- [周杰倫 Jay Chou【不能說的祕密 Secret】-Official Music Video](https://www.youtube.com/watch?v=uIWypArI73w)
-- [周杰倫 Jay Chou【髮如雪 Hair Like Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
-- [周杰倫 Jay Chou【龍捲風 Tornado】-Official Music Video](https://www.youtube.com/watch?v=RPWDeLqsN0g)
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
