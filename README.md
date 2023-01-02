@@ -80,7 +80,7 @@ studied in
 - [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
 - [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
 - [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
-- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
