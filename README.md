@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
-- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
 - [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
-- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
-- [周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV](https://www.youtube.com/watch?v=UBySINroNkw)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
+- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
