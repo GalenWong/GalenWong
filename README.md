@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
-- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
-- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
-- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
-- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
+- [Feather](https://www.youtube.com/watch?v=4yX8ZUgraOo)
+- [陳奕迅 - 富士山下](https://www.youtube.com/watch?v=ghnT1uOwfrY)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
