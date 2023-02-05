@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
 - [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
-- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
+- [周杰倫 Jay Chou【斷了的弦 Broken Strings】Official MV](https://www.youtube.com/watch?v=n_KlMpP0vdw)
+- [Eason Chan 陳奕迅 《陀飛輪》MV](https://www.youtube.com/watch?v=URUIcYDq3_I)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
