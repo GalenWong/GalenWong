@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
-- [deca joins｜午夜的消亡 【Official Video】](https://www.youtube.com/watch?v=FkRIDAvJ57A)
-- [周杰倫 Jay Chou【斷了的弦 Broken Strings】Official MV](https://www.youtube.com/watch?v=n_KlMpP0vdw)
+- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
+- [Blueburn - Diane【Official Music Video】](https://www.youtube.com/watch?v=yYkWkAzAGaY)
 - [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [宇多田ヒカル『One Last Kiss』](https://www.youtube.com/watch?v=0Uhh62MUEic)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
