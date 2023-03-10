@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [拍謝少年 Sorry Youth -  暗流 Undercurrent (Official MV)](https://www.youtube.com/watch?v=Roxj9OR6ufk)
-- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
-- [國蛋GorDoN《Better Days》Official Music Video 正式釋出](https://www.youtube.com/watch?v=D71KnBswYhM)
+- [拍謝少年 Sorry Youth -  暗流 Undercurrent (Official MV)](https://www.youtube.com/watch?v=Roxj9OR6ufk)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
+- [突然的自我](https://www.youtube.com/watch?v=1N8DtRsd_gA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
