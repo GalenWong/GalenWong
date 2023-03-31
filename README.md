@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
 - [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
+- [【顏社】夜貓組（Leo王+春艷） - 妳是我的Wifi feat. 國蛋 GorDoN (Official Music Video)](https://www.youtube.com/watch?v=96KZZhIFIAs)
 - [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
-- [Official髭男dism - ノーダウト［Official Video］](https://www.youtube.com/watch?v=EHw005ZqCXk)
-- [Eason 陳奕迅 沙龍 MV](https://www.youtube.com/watch?v=fo4zyjWTaUc)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [周杰倫 Jay Chou【 軌跡 Tracks】Official MV](https://www.youtube.com/watch?v=SdBwt6pyNwE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
