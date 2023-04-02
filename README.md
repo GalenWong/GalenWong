@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
-- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
-- [周杰倫 Jay Chou【 軌跡 Tracks】Official MV](https://www.youtube.com/watch?v=SdBwt6pyNwE)
 - [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
+- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
+- [BABYMETAL - PA PA YA!! (feat. F.HERO)  (OFFICIAL)](https://www.youtube.com/watch?v=oO7Y8NsnkRg)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
