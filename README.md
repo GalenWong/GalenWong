@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 - [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
-- [haruka nakamura - Lamp feat.Nujabes](https://www.youtube.com/watch?v=cHQ-oVSYkeU)
-- [問題總部 It's Your Fault【傷痕 Scar】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=whwJTnzazHY)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [【顏社】夜貓組（Leo王+春艷） - 2017太空漫遊 feat. 李英宏 aka DJ Didilong (Official Music Video)](https://www.youtube.com/watch?v=9UaH0uPDFMU)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
