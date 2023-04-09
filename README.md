@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 - [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [【顏社】夜貓組（Leo王+春艷） - 2017太空漫遊 feat. 李英宏 aka DJ Didilong (Official Music Video)](https://www.youtube.com/watch?v=9UaH0uPDFMU)
+- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
 - [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
