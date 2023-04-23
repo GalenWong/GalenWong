@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [Lady Brown](https://www.youtube.com/watch?v=V8Xh5ErjIyM)
-- [陳奕迅Eason Chan《綿綿》[Lyrics MV]](https://www.youtube.com/watch?v=rUfcqKHLUm8)
 - [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
+- [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [李權哲 Jerry Li X 夜貓組（春艷+Leo王）- 貓脾氣 CATS' MOOD](https://www.youtube.com/watch?v=vHrC-22HpdQ)
+- [【顏社】夜貓組（Leo王+春艷） - 2017太空漫遊 feat. 李英宏 aka DJ Didilong (Official Music Video)](https://www.youtube.com/watch?v=9UaH0uPDFMU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
