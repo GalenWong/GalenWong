@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
-- [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
+- [陳奕迅  | 十面埋伏 (高清音)](https://www.youtube.com/watch?v=OU355dJURYI)
 - [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [李權哲 Jerry Li X 夜貓組（春艷+Leo王）- 貓脾氣 CATS' MOOD](https://www.youtube.com/watch?v=vHrC-22HpdQ)
-- [【顏社】夜貓組（Leo王+春艷） - 2017太空漫遊 feat. 李英宏 aka DJ Didilong (Official Music Video)](https://www.youtube.com/watch?v=9UaH0uPDFMU)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
