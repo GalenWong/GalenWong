@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [サカナクション / 忘れられないの　-Music Video-](https://www.youtube.com/watch?v=BxqYUbNR-c0)
-- [美秀集團 Amazing Show－捲菸 Roll-Cigg【Official Music Video】](https://www.youtube.com/watch?v=S4JLJVVjevI)
+- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
 - [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
