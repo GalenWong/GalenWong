@@ -62,11 +62,11 @@ studied in
 ## 📖 Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the &quot;std::variant&quot;/&quot;std::visit&quot; Pattern Matching Like Construct in C++](https://galenwong.github.io/blog/2023-05-07-pattern-matching-like-overloaded-cpp/)
 - [鉴定网络热门编程视频](https://galenwong.github.io/blog/2023-03-08-鉴定网络热门编程视频/)
 - [Summary of my teaching with ACM Hack at UCLA](https://galenwong.github.io/blog/2021-09-17-hack-teaching-summary/)
 - [My Notes for UCLA CS231: Types and Programming Languages](https://galenwong.github.io/blog/2021-08-29-cs231-notes/)
 - [Why I chose vscode-neovim over VSCodeVim](https://galenwong.github.io/blog/2021-03-22-vscode-neovim-vs-vscodevim/)
-- [How to teach useEffect without componentDidMount](https://galenwong.github.io/blog/2021-02-16-how-to-teach-useEffect/)
 <!-- BLOG-POST-LIST:END -->
 
 </td>
