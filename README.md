@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
 - [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 - [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
