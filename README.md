@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 - [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [董小姐](https://www.youtube.com/watch?v=08PEG51cEsw)
-- [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
 - [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
