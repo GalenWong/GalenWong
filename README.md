@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [陳奕迅 | K歌之王 (高清音)](https://www.youtube.com/watch?v=JngVPApZ16Q)
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [董小姐](https://www.youtube.com/watch?v=08PEG51cEsw)
-- [deca joins | 浴室【Official Music Video】](https://www.youtube.com/watch?v=kZecE9AeELI)
-- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
+- [陳奕迅 - 明年今日   歌詞版(lyrics)](https://www.youtube.com/watch?v=YX64gETkKrU)
+- [陳奕迅 | Shall We Talk (高清音)](https://www.youtube.com/watch?v=7MO58UGhZdk)
+- [陳奕迅 |單車 (高清音）](https://www.youtube.com/watch?v=8D623h2FSqo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
