@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [Almost Mature '87](https://www.youtube.com/watch?v=6wP_Ss2SuZc)
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [陳奕迅 | K歌之王 (高清音)](https://www.youtube.com/watch?v=JngVPApZ16Q)
+- [突然的自我](https://www.youtube.com/watch?v=1N8DtRsd_gA)
+- [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
+- [周杰倫 Jay Chou【 軌跡 Tracks】Official MV](https://www.youtube.com/watch?v=SdBwt6pyNwE)
+- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
