@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 - [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [陀飞轮 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=-24vB2AnXHA)
-- [突然的自我](https://www.youtube.com/watch?v=1N8DtRsd_gA)
+- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [陳奕迅 Eason Chan -《你給我聽好》MV](https://www.youtube.com/watch?v=T9V45IhnMRU)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
