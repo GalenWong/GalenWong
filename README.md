@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
-- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
-- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
+- [[avex官方]伍佰 & China Blue 淚橋(MV完整版)](https://www.youtube.com/watch?v=x-pCAngjeOw)
+- [Overlove](https://www.youtube.com/watch?v=gtxJX_s2-uw)
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
+- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
