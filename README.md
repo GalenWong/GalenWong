@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
-- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [[avex官方]伍佰 & China Blue 淚橋(MV完整版)](https://www.youtube.com/watch?v=x-pCAngjeOw)
-- [夜的第七章](https://www.youtube.com/watch?v=VwI4LwlPO3k)
+- [Overlove](https://www.youtube.com/watch?v=gtxJX_s2-uw)
+- [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
+- [Cool of Lullaby](https://www.youtube.com/watch?v=UaqCfHFwx90)
+- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
