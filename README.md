@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
 - [Overlove](https://www.youtube.com/watch?v=gtxJX_s2-uw)
+- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [恰似你的溫柔](https://www.youtube.com/watch?v=rUnvCeyoozI)
 - [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
-- [Cool of Lullaby](https://www.youtube.com/watch?v=UaqCfHFwx90)
-- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
