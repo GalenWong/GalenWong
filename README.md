@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [Overlove](https://www.youtube.com/watch?v=gtxJX_s2-uw)
 - [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [Overlove](https://www.youtube.com/watch?v=gtxJX_s2-uw)
 - [恰似你的溫柔](https://www.youtube.com/watch?v=rUnvCeyoozI)
-- [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
+- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
