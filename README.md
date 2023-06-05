@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
 - [Overlove](https://www.youtube.com/watch?v=gtxJX_s2-uw)
-- [恰似你的溫柔](https://www.youtube.com/watch?v=rUnvCeyoozI)
+- [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
+- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
 - [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
