@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [Overlove](https://www.youtube.com/watch?v=gtxJX_s2-uw)
-- [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
-- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [恰似你的溫柔](https://www.youtube.com/watch?v=rUnvCeyoozI)
+- [Summum Bonum](https://www.youtube.com/watch?v=7EkosrWW3_s)
+- [我是一隻魚 I'm a Fish](https://www.youtube.com/watch?v=h41wKtSH7TU)
 - [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
