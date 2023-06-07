@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
 - [恰似你的溫柔](https://www.youtube.com/watch?v=rUnvCeyoozI)
-- [Summum Bonum](https://www.youtube.com/watch?v=7EkosrWW3_s)
-- [我是一隻魚 I'm a Fish](https://www.youtube.com/watch?v=h41wKtSH7TU)
-- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
+- [好不容易 (《華燈初上》片尾曲)](https://www.youtube.com/watch?v=rhwHpIRsIu0)
+- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
+- [被動](https://www.youtube.com/watch?v=yM8sWi3gFHw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
