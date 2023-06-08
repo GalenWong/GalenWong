@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [恰似你的溫柔](https://www.youtube.com/watch?v=rUnvCeyoozI)
-- [好不容易 (《華燈初上》片尾曲)](https://www.youtube.com/watch?v=rhwHpIRsIu0)
-- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
-- [被動](https://www.youtube.com/watch?v=yM8sWi3gFHw)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
+- [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
+- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
