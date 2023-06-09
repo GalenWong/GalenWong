@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [Hyperfocus](https://www.youtube.com/watch?v=Y0o_egEyNNQ)
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
-- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
-- [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
-- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
+- [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
