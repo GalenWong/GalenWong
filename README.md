@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Hyperfocus](https://www.youtube.com/watch?v=Y0o_egEyNNQ)
 - [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [9m88 - 月亮代表我的心 The Moon Represents My Heart (《華燈初上》插曲)](https://www.youtube.com/watch?v=szsV1XDZf94)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
