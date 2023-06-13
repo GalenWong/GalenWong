@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hyperfocus](https://www.youtube.com/watch?v=Y0o_egEyNNQ)
-- [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [Angel Disco Love](https://www.youtube.com/watch?v=KcqBtUz4Fz0)
+- [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
+- [Passerby](https://www.youtube.com/watch?v=94R0LwomYlw)
+- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
+- [Overlove (Rehab)](https://www.youtube.com/watch?v=Y9_oZ-_5szk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
