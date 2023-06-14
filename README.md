@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Angel Disco Love](https://www.youtube.com/watch?v=KcqBtUz4Fz0)
-- [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
 - [Passerby](https://www.youtube.com/watch?v=94R0LwomYlw)
-- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
-- [Overlove (Rehab)](https://www.youtube.com/watch?v=Y9_oZ-_5szk)
+- [Greedy](https://www.youtube.com/watch?v=Bouhh2VQzeA)
+- [周杰倫 Jay Chou【 軌跡 Tracks】Official MV](https://www.youtube.com/watch?v=SdBwt6pyNwE)
+- [Eric周興哲《怎麼了 What's Wrong》Official Music Video - 華劇【你有念大學嗎？】片尾曲](https://www.youtube.com/watch?v=Y2ge3KrdeWs)
+- [Teahouse](https://www.youtube.com/watch?v=uvAJY0yHpbI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
