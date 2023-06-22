@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
-- [海底隧道 (feat. PetPetShawn@摩四青年 M4 Gang)](https://www.youtube.com/watch?v=7sLz8j1jUz4)
 - [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
+- [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
+- [Almost Mature '87](https://www.youtube.com/watch?v=6wP_Ss2SuZc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
