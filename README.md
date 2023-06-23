@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
-- [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
-- [Almost Mature '87](https://www.youtube.com/watch?v=6wP_Ss2SuZc)
+- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
+- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
+- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [我是一隻魚 I'm a Fish](https://www.youtube.com/watch?v=h41wKtSH7TU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
