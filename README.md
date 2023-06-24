@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
-- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
+- [Bomb of Love](https://www.youtube.com/watch?v=yjSiID8iEdo)
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [我是一隻魚 I'm a Fish](https://www.youtube.com/watch?v=h41wKtSH7TU)
+- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
+- [Overlove (Rehab)](https://www.youtube.com/watch?v=Y9_oZ-_5szk)
+- [Oriental](https://www.youtube.com/watch?v=nUDbL3FnS-I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
