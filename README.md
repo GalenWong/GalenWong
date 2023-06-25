@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Bomb of Love](https://www.youtube.com/watch?v=yjSiID8iEdo)
-- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
+- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
 - [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
-- [Overlove (Rehab)](https://www.youtube.com/watch?v=Y9_oZ-_5szk)
-- [Oriental](https://www.youtube.com/watch?v=nUDbL3FnS-I)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [Greedy](https://www.youtube.com/watch?v=Bouhh2VQzeA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
