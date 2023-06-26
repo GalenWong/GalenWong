@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
-- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
+- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
 - [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [Greedy](https://www.youtube.com/watch?v=Bouhh2VQzeA)
+- [伍佰 Wu Bai&China Blue【樹枝孤鳥 Lonely tree,lonely bird】Official Music Video](https://www.youtube.com/watch?v=ObSPLQ-1fJI)
+- [不來也不去](https://www.youtube.com/watch?v=kJ3_0WrUXE8)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
