@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
-- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
-- [伍佰 Wu Bai&China Blue【樹枝孤鳥 Lonely tree,lonely bird】Official Music Video](https://www.youtube.com/watch?v=ObSPLQ-1fJI)
-- [不來也不去](https://www.youtube.com/watch?v=kJ3_0WrUXE8)
+- [Greedy](https://www.youtube.com/watch?v=Bouhh2VQzeA)
+- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
+- [濃縮藍鯨](https://www.youtube.com/watch?v=j8zdk3TjYM4)
+- [莫比乌斯号的船医](https://www.youtube.com/watch?v=cIbWUb7g5xE)
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
