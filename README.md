@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Greedy](https://www.youtube.com/watch?v=Bouhh2VQzeA)
+- [Bomb of Love](https://www.youtube.com/watch?v=yjSiID8iEdo)
+- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
+- [Under the Skin](https://www.youtube.com/watch?v=6bbapERbGAY)
 - [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
-- [濃縮藍鯨](https://www.youtube.com/watch?v=j8zdk3TjYM4)
-- [莫比乌斯号的船医](https://www.youtube.com/watch?v=cIbWUb7g5xE)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
