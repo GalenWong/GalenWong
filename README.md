@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Bomb of Love](https://www.youtube.com/watch?v=yjSiID8iEdo)
+- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
 - [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
-- [Under the Skin](https://www.youtube.com/watch?v=6bbapERbGAY)
-- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
-- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [Greedy](https://www.youtube.com/watch?v=Bouhh2VQzeA)
+- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
