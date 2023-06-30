@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
 - [Bomb of Love](https://www.youtube.com/watch?v=yjSiID8iEdo)
 - [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
-- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
-- [Greedy](https://www.youtube.com/watch?v=Bouhh2VQzeA)
-- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
+- [Slow](https://www.youtube.com/watch?v=IHkFu09yhas)
+- [Pinky Pinky](https://www.youtube.com/watch?v=k01O6nSCCu8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
