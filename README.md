@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
 - [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
 - [Bomb of Love](https://www.youtube.com/watch?v=yjSiID8iEdo)
-- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
 - [Slow](https://www.youtube.com/watch?v=IHkFu09yhas)
-- [Pinky Pinky](https://www.youtube.com/watch?v=k01O6nSCCu8)
+- [Candlelight](https://www.youtube.com/watch?v=UM6FjYaCR2I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
