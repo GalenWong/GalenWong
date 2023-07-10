@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
 - [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [Almost Mature '87](https://www.youtube.com/watch?v=6wP_Ss2SuZc)
+- [Teahouse](https://www.youtube.com/watch?v=uvAJY0yHpbI)
+- [Overlove](https://www.youtube.com/watch?v=gtxJX_s2-uw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
