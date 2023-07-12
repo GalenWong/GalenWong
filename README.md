@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [Teahouse](https://www.youtube.com/watch?v=uvAJY0yHpbI)
-- [Greedy](https://www.youtube.com/watch?v=Bouhh2VQzeA)
+- [Bomb of Love](https://www.youtube.com/watch?v=yjSiID8iEdo)
 - [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
 - [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
