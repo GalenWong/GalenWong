@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [Bomb of Love](https://www.youtube.com/watch?v=yjSiID8iEdo)
-- [Queen](https://www.youtube.com/watch?v=VC7bbSaf3ZI)
-- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
+- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
