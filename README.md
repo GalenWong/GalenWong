@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
+- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
+- [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
