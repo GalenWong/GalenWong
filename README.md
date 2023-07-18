@@ -78,8 +78,8 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 - [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
 - [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
