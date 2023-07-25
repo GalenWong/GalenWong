@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
 - [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
-- [黄金时代 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=cS2ODIvOk-U)
-- [Hyperfocus](https://www.youtube.com/watch?v=Y0o_egEyNNQ)
+- [Passerby](https://www.youtube.com/watch?v=94R0LwomYlw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
