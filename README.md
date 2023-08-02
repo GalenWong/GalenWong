@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
 - [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
 - [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
-- [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
+- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
+- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
