@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
+- [Tokimeki / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=-_PKhPMXMDY)
+- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
 - [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
-- [不可幸力 / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Gbz2C2gQREI)
-- [怪獣の花唄 / Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
