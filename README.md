@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [Tokimeki / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=-_PKhPMXMDY)
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
-- [不可幸力 / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Gbz2C2gQREI)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
+- [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
