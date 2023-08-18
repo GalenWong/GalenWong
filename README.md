@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
-- [Slow](https://www.youtube.com/watch?v=IHkFu09yhas)
-- [Angel Disco Love](https://www.youtube.com/watch?v=KcqBtUz4Fz0)
+- [陳奕迅 Eason Chan《2001 太空漫遊》[MV]](https://www.youtube.com/watch?v=NLf8xl3vUfw)
 - [Teahouse](https://www.youtube.com/watch?v=uvAJY0yHpbI)
+- [Slow](https://www.youtube.com/watch?v=IHkFu09yhas)
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [《致明日的舞》A DANCE FOR TOMORROW 陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=6gJTweOGxTU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
