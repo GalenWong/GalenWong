@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan《2001 太空漫遊》[MV]](https://www.youtube.com/watch?v=NLf8xl3vUfw)
-- [Teahouse](https://www.youtube.com/watch?v=uvAJY0yHpbI)
-- [Slow](https://www.youtube.com/watch?v=IHkFu09yhas)
+- [黄金时代 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=cS2ODIvOk-U)
 - [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
-- [《致明日的舞》A DANCE FOR TOMORROW 陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=6gJTweOGxTU)
+- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
+- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
+- [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
