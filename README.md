@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
-- [當這地球沒有花](https://www.youtube.com/watch?v=WD1kqTqzOkY)
+- [紅玫瑰 (國)](https://www.youtube.com/watch?v=TEVbbBa_NHg)
+- [Teahouse](https://www.youtube.com/watch?v=uvAJY0yHpbI)
+- [陳奕迅 Eason Chan《2001 太空漫遊》[MV]](https://www.youtube.com/watch?v=NLf8xl3vUfw)
 - [黄金时代 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=cS2ODIvOk-U)
-- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
-- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
