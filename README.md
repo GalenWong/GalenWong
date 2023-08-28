@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
 - [黄金时代 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=cS2ODIvOk-U)
-- [Slow](https://www.youtube.com/watch?v=IHkFu09yhas)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
-- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
+- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
+- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
