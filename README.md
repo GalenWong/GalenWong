@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [紅玫瑰 (國)](https://www.youtube.com/watch?v=TEVbbBa_NHg)
-- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
+- [伍佰 Wu Bai&China Blue【被動 Passive】Official Music Video](https://www.youtube.com/watch?v=yGoHsTV6QrE)
 - [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
-- [Official髭男dism - Pretender［Official Video］](https://www.youtube.com/watch?v=TQ8WlA2GXbk)
+- [Teahouse](https://www.youtube.com/watch?v=uvAJY0yHpbI)
+- [Angel Disco Love](https://www.youtube.com/watch?v=KcqBtUz4Fz0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
