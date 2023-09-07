@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [紅玫瑰 (國)](https://www.youtube.com/watch?v=TEVbbBa_NHg)
+- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [伍佰 Wu Bai&China Blue【被動 Passive】Official Music Video](https://www.youtube.com/watch?v=yGoHsTV6QrE)
-- [Soft Storm](https://www.youtube.com/watch?v=dhh70ylZkeg)
-- [Teahouse](https://www.youtube.com/watch?v=uvAJY0yHpbI)
-- [Angel Disco Love](https://www.youtube.com/watch?v=KcqBtUz4Fz0)
+- [晴天](https://www.youtube.com/watch?v=SJKoWAd5ySo)
+- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
+- [Cody・Lee(李) - 我愛你(MusicVideo)](https://www.youtube.com/watch?v=uwS__WiOYTI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
