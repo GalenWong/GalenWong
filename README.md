@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
 - [《致明日的舞》A DANCE FOR TOMORROW 陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=6gJTweOGxTU)
-- [伍佰 Wu Bai&China Blue【Last Dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
+- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [STUTS×SIKK-O×鈴木真海子 - Summer Situation (Official Music Video)](https://www.youtube.com/watch?v=HIZzYz1xk18)
+- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
