@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [晴天](https://www.youtube.com/watch?v=SJKoWAd5ySo)
-- [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
-- [New Drug](https://www.youtube.com/watch?v=eJ8mlQyk37k)
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
+- [《致明日的舞》A DANCE FOR TOMORROW 陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=6gJTweOGxTU)
 - [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
+- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
+- [椅子樂團The Chairs - 手捧一杯酒 (In Liquor)](https://www.youtube.com/watch?v=IDkL9qGX4bk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
