@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [晴天](https://www.youtube.com/watch?v=SJKoWAd5ySo)
 - [《致明日的舞》A DANCE FOR TOMORROW 陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=6gJTweOGxTU)
 - [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
-- [晴天](https://www.youtube.com/watch?v=SJKoWAd5ySo)
+- [夢的可能](https://www.youtube.com/watch?v=sw4TGwzCt7c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
