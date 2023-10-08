@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
 - [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
 - [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 - [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
-- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
