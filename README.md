@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [單車](https://www.youtube.com/watch?v=TU7GiHect0k)
+- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [暗號](https://www.youtube.com/watch?v=EU9-clxTh4A)
+- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
 - [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
-- [椅子樂團 The Chairs - 巴黎德州 Paris, Texas (Official Music Video)](https://www.youtube.com/watch?v=JbkUCkbPKUI)
-- [好樂團 GoodBand－遊蕩的人 (feat. @nickyleeofficial5285 ) Official Music Video](https://www.youtube.com/watch?v=EPb4zjEjPvM)
 - [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
