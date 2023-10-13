@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
-- [椅子樂團The Chairs - 手捧一杯酒 (In Liquor)](https://www.youtube.com/watch?v=IDkL9qGX4bk)
-- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
 - [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
-- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
+- [歲月如歌](https://www.youtube.com/watch?v=fTu70rvAupM)
+- [單車](https://www.youtube.com/watch?v=TU7GiHect0k)
+- [《致明日的舞》A DANCE FOR TOMORROW 陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=6gJTweOGxTU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
