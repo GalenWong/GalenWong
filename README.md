@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
-- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
-- [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
 - [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 - [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
+- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
+- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
+- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
