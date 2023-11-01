@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [伍佰 Wu Bai&China Blue【Last Dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
+- [國蛋 GorDoN - Painkiller ft. Karencici (Official Music Video)](https://www.youtube.com/watch?v=1-DcBXI-FSc)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
+- [李榮浩 Ronghao Li 《烏梅子醬 The Dark Plum Sauce》Official Music Video](https://www.youtube.com/watch?v=IKMaaO9QtKw)
+- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
-- [厭愚《 你真的愛過我嗎 》Lyric Video](https://www.youtube.com/watch?v=PjgxTfHsZk8)
-- [美秀集團 Amazing Show－捲菸 Roll-Cigg【Official Music Video】](https://www.youtube.com/watch?v=S4JLJVVjevI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
