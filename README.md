@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
-- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 - [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
-- [Counting Stars](https://www.youtube.com/watch?v=JQhjXXJpjlk)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
