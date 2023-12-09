@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [最佳损友 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=_J-o8FpJ-XY)
 - [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
-- [蔡依林 Jolin Tsai - 倒帶](https://www.youtube.com/watch?v=cB7DIIG0ykk)
-- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
+- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
+- [[鄭中基 - 無賴] 歌词 Lyrics](https://www.youtube.com/watch?v=migZH5LJ-D0)
+- [【動態歌詞】鮮花 - 回春丹 YOUNG DRUG](https://www.youtube.com/watch?v=VBlGbFOGffY)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
