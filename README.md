@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [I Know You Know I Love You](https://www.youtube.com/watch?v=ayF9xR7vjw8)
 - [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
 - [陳奕迅 Eason Chan - 《無條件》MV](https://www.youtube.com/watch?v=jzGaS5kWj0U)
-- [Kumomi](https://www.youtube.com/watch?v=791m6cFAuvg)
-- [全糖的戀愛滋味! 滴妹的首張單曲MV!【最好的樣子】Official Music Video](https://www.youtube.com/watch?v=0winbqGH7Ps)
+- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
 - [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
