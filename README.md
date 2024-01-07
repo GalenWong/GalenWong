@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
-- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
 - [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
-- [Slow](https://www.youtube.com/watch?v=IHkFu09yhas)
-- [Counting Stars](https://www.youtube.com/watch?v=JQhjXXJpjlk)
+- [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
+- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
