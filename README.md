@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
 - [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
-- [Slow](https://www.youtube.com/watch?v=IHkFu09yhas)
-- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
