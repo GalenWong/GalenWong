@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
-- [國蛋 GorDoN - Painkiller ft. Karencici (Official Music Video)](https://www.youtube.com/watch?v=1-DcBXI-FSc)
+- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 - [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
+- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
