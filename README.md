@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
 - [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
+- [Vaundy - Odoriko (踊り子) (Lyrics) (Rom/Eng)](https://www.youtube.com/watch?v=_xXGj-h4nto)
+- [Last Dance](https://www.youtube.com/watch?v=F1YbJj2DlI8)
 - [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
-- [milet×Aimer×幾田りら - おもかげ (produced by Vaundy) / THE FIRST TAKE](https://www.youtube.com/watch?v=Z2Z9V-4DMGw)
-- [Candlelight](https://www.youtube.com/watch?v=ce5BJspipL4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
