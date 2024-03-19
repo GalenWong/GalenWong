@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
 - [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
-- [deca joins | 沈澱【Official Video】](https://www.youtube.com/watch?v=eQ0rL1pBj8Q)
-- [9m88 - Star (Prod. By Silas Short) Official Music Video](https://www.youtube.com/watch?v=7t3d9SVydRs)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
 - [Sunset Rollercoaster - 小薇 (Cover), 2021](https://www.youtube.com/watch?v=hvs11gOcT9Y)
+- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
