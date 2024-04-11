@@ -79,8 +79,8 @@ studied in
 - [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
 - [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
 - [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
-- [草東沒有派對 - 爛泥](https://www.youtube.com/watch?v=QPY4h-nDIZ8)
 - [怪獣の花唄 / Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
+- [Angel Disco Love](https://www.youtube.com/watch?v=KcqBtUz4Fz0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
