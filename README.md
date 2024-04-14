@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
 - [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
-- [椅子樂團 The Chairs - 棉花糖駱駝 (Official Music Video)](https://www.youtube.com/watch?v=qWvWZZW-5co)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
 - [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
+- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
+- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
