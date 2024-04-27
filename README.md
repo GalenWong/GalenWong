@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [サカナクション / 忘れられないの　-Music Video-](https://www.youtube.com/watch?v=BxqYUbNR-c0)
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
-- [怪獣の花唄 / Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
-- [サカナクション / 忘れられないの　-Music Video-](https://www.youtube.com/watch?v=BxqYUbNR-c0)
-- [Cody・Lee(李) - 我愛你(MusicVideo)](https://www.youtube.com/watch?v=uwS__WiOYTI)
+- [Awesome City Club / 勿忘  (MUSIC VIDEO)](https://www.youtube.com/watch?v=zkZARKFuzNQ)
+- [竹内まりや -  Plastic Love (Official Music Video)](https://www.youtube.com/watch?v=T_lC2O1oIew)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
