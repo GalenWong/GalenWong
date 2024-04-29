@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [怪獣の花唄 / Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [サカナクション / 忘れられないの　-Music Video-](https://www.youtube.com/watch?v=BxqYUbNR-c0)
-- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
 - [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
+- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
+- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
+- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
