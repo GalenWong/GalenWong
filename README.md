@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
-- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
-- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
-- [怪獣の花唄 / Vaundy ： MUSIC VIDEO](https://www.youtube.com/watch?v=UM9XNpgrqVk)
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [椅子樂團 The Chairs -  Maybe Maybe (Official Music Video) 華視/公視 電視劇《若是一個人》主題曲](https://www.youtube.com/watch?v=Tnp0DySxH7s)
+- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
+- [山海](https://www.youtube.com/watch?v=jHVZAcF5_6g)
+- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
