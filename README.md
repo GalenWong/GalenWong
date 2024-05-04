@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [椅子樂團 The Chairs -  Maybe Maybe (Official Music Video) 華視/公視 電視劇《若是一個人》主題曲](https://www.youtube.com/watch?v=Tnp0DySxH7s)
-- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
-- [山海](https://www.youtube.com/watch?v=jHVZAcF5_6g)
-- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
+- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
+- [告五人 Accusefive [ 唯一 The One And Only ] Official Music Video (三立/台視戲劇【戀愛是科學】插曲)](https://www.youtube.com/watch?v=vxucCfcMFCk)
+- [給你一瓶魔法藥水 - 告五人『宇宙的有趣我才不在意』【高音質/動態歌詞/Pinyin Lyrics】](https://www.youtube.com/watch?v=5cYb-rJhm6I)
+- [椅子樂團 The Chairs - 棉花糖駱駝 (Official Music Video)](https://www.youtube.com/watch?v=qWvWZZW-5co)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
