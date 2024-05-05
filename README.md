@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
-- [告五人 Accusefive [ 唯一 The One And Only ] Official Music Video (三立/台視戲劇【戀愛是科學】插曲)](https://www.youtube.com/watch?v=vxucCfcMFCk)
-- [給你一瓶魔法藥水 - 告五人『宇宙的有趣我才不在意』【高音質/動態歌詞/Pinyin Lyrics】](https://www.youtube.com/watch?v=5cYb-rJhm6I)
+- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
+- [Cody・Lee(李) - おどる ひかり(MusicVideo)](https://www.youtube.com/watch?v=xn6pEFpbXh8)
+- [蔡健雅 Tanya Chua -《Breakdown》Official MV](https://www.youtube.com/watch?v=tAv7dcrNME8)
 - [椅子樂團 The Chairs - 棉花糖駱駝 (Official Music Video)](https://www.youtube.com/watch?v=qWvWZZW-5co)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
