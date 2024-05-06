@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [山海](https://www.youtube.com/watch?v=jHVZAcF5_6g)
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
-- [Cody・Lee(李) - おどる ひかり(MusicVideo)](https://www.youtube.com/watch?v=xn6pEFpbXh8)
-- [蔡健雅 Tanya Chua -《Breakdown》Official MV](https://www.youtube.com/watch?v=tAv7dcrNME8)
-- [椅子樂團 The Chairs - 棉花糖駱駝 (Official Music Video)](https://www.youtube.com/watch?v=qWvWZZW-5co)
+- [【好樂團 GoodBand】－被愛灌溉長大的人 Demo](https://www.youtube.com/watch?v=_r2kXLrqmR0)
+- [napori](https://www.youtube.com/watch?v=ZeIGVnkYX04)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
