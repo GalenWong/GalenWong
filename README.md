@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [山海](https://www.youtube.com/watch?v=jHVZAcF5_6g)
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [【好樂團 GoodBand】－被愛灌溉長大的人 Demo](https://www.youtube.com/watch?v=_r2kXLrqmR0)
-- [napori](https://www.youtube.com/watch?v=ZeIGVnkYX04)
 - [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [洪佩瑜 - 踮起腳尖愛(HD非官方版完整MV)](https://www.youtube.com/watch?v=4gG-_HxNy_s)
+- [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
+- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
+- [napori](https://www.youtube.com/watch?v=ZeIGVnkYX04)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
