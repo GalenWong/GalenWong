@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
-- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
-- [Who Cares 胡凱兒【菸癮】2020 Live tour music video (＠Legacy Taichung)](https://www.youtube.com/watch?v=PIWXhAvy7uU)
-- [椅子樂團 The Chairs - 棉花糖駱駝 (Official Music Video)](https://www.youtube.com/watch?v=qWvWZZW-5co)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [Sea of Cloud](https://www.youtube.com/watch?v=na81A_tR1Rs)
 - [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
+- [Coffee's on Me](https://www.youtube.com/watch?v=RIRUfhp2Byk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
