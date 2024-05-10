@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [Sea of Cloud](https://www.youtube.com/watch?v=na81A_tR1Rs)
-- [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
+- [椅子樂團 The Chairs - Maybe Maybe (Official Audio)](https://www.youtube.com/watch?v=aycS4OwQRQg)
 - [Coffee's on Me](https://www.youtube.com/watch?v=RIRUfhp2Byk)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=IyOafDCCCOw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
