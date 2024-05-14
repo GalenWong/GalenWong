@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sea of Cloud](https://www.youtube.com/watch?v=na81A_tR1Rs)
-- [Reflection Eternal](https://www.youtube.com/watch?v=GLGM8fxL020)
+- [Bomb of Love](https://www.youtube.com/watch?v=5vWq-GW3hHw)
 - [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
-- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
+- [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
 - [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
