@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
-- [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [周杰倫 Jay Chou【最長的電影 The Longest Movie】-Official Music Video](https://www.youtube.com/watch?v=2zxc27bvrO8)
-- [周杰倫 Jay Chou【說了再見 Say Goodbye】Official MV](https://www.youtube.com/watch?v=KKsioz-zaZY)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [周杰倫 Jay Chou【園遊會 Fun Fair】-Official Music Video](https://www.youtube.com/watch?v=IoCoIxkGkVw)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
