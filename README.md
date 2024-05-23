@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [陳奕迅 Eason Chan《猜情尋》[Official MV]](https://www.youtube.com/watch?v=vFASUEFWvpY)
 - [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
 - [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
-- [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
 - [Friday Night Plans - "Plastic Love" (Live at Studio Tanta)](https://www.youtube.com/watch?v=HpN4bdyqHeI)
+- [陳奕迅 Eason Chan - 《誰來剪月光》MV](https://www.youtube.com/watch?v=n6VP0Wm3EMo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
