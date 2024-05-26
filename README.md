@@ -79,8 +79,8 @@ studied in
 - [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
 - [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [Nujabes  - Counting Stars  [Official Audio]](https://www.youtube.com/watch?v=IXa0kLOKfwQ)
-- [Nujabes - reflection eternal [Official Audio]](https://www.youtube.com/watch?v=2wK27xW4OFI)
+- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
+- [Counting Stars](https://www.youtube.com/watch?v=WctB2FU-hgw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
