@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
-- [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
+- [Vaundy - Odoriko (踊り子) (Lyrics) (Rom/Eng)](https://www.youtube.com/watch?v=_xXGj-h4nto)
 - [Counting Stars](https://www.youtube.com/watch?v=WctB2FU-hgw)
+- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
+- [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
