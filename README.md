@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [宇多田ヒカル『One Last Kiss』](https://www.youtube.com/watch?v=0Uhh62MUEic)
+- [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
+- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
 - [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
+- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
