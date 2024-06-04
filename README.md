@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [周杰伦 - 不能说的秘密 (歌词版)](https://www.youtube.com/watch?v=pYkO7za9vGQ)
-- [吳若希 Jinny - 越難越愛 (TVB劇集"使徒行者"片尾曲) (Official MV)](https://www.youtube.com/watch?v=fUiwiqs5JjM)
-- [deca Joins | 我和我的遐想 REVERIE【HOT COFFEE LIVE SESSION】](https://www.youtube.com/watch?v=XW-SU9wno_A)
-- [Sunset Rollercoaster - Under the Skin (Official Video), 2020](https://www.youtube.com/watch?v=BeDWWYpD5M4)
+- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
+- [单车 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=y2bBMOkfTdQ)
+- [於心有愧](https://www.youtube.com/watch?v=xKaWptQQ1s4)
+- [Angel Disco Love](https://www.youtube.com/watch?v=Q1mFUlsP11I)
+- [Shall We Talk 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=afLYzfx0Jw4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
