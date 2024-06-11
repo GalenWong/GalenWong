@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
 - [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
-- [[avex官方]伍佰 & China Blue 淚橋(MV完整版)](https://www.youtube.com/watch?v=x-pCAngjeOw)
-- [夢醒時分](https://www.youtube.com/watch?v=zz4Wr9rrZ1Y)
-- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
+- [陳奕迅 Eason Chan《猜情尋》[Official MV]](https://www.youtube.com/watch?v=vFASUEFWvpY)
+- [陳奕迅 - 傾城 (CONCERT YY Live)](https://www.youtube.com/watch?v=OGrbnZitJDI)
+- [陳奕迅 Eason Chan《K歌之王(國)》[Official MV]](https://www.youtube.com/watch?v=Iw3WgP8A18I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
