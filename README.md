@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
+- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
+- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
 - [单车 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=y2bBMOkfTdQ)
-- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
-- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
-- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
+- [[avex官方]伍佰 & China Blue 淚橋(MV完整版)](https://www.youtube.com/watch?v=x-pCAngjeOw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
