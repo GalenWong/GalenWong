@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
 - [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
-- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
-- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
+- [甜約翰 Sweet John【 不小心愛上你 Accidentally in Love 】ft. 魏如萱 @lovewaa  Official Music Video](https://www.youtube.com/watch?v=r8n4OnlDVqE)
+- [周杰倫 Jay Chou【明明就 Ming Ming Jiu】Official MV](https://www.youtube.com/watch?v=UBySINroNkw)
+- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
