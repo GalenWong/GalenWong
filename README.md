@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
-- [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
+- [無條件](https://www.youtube.com/watch?v=54sAVIN8lZE)
+- [於心有愧](https://www.youtube.com/watch?v=xKaWptQQ1s4)
 - [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
-- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
+- [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
+- [苦瓜](https://www.youtube.com/watch?v=Tdw2jNxu0TQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
