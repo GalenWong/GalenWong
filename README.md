@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
-- [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
-- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
-- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
+- [無條件](https://www.youtube.com/watch?v=54sAVIN8lZE)
 - [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
+- [於心有愧](https://www.youtube.com/watch?v=xKaWptQQ1s4)
+- [沙龍](https://www.youtube.com/watch?v=MzdqHjs1z7Q)
+- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
