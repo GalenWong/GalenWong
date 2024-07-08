@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [於心有愧](https://www.youtube.com/watch?v=xKaWptQQ1s4)
-- [無條件](https://www.youtube.com/watch?v=54sAVIN8lZE)
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
-- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
-- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
+- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
+- [陳嫺靜 - 輕輕 (Official Visual)](https://www.youtube.com/watch?v=9wE3E5BQOzc)
+- [陳奕迅 Eason Chen – 多少 (Official Music Video)](https://www.youtube.com/watch?v=REbUxgJKYEA)
+- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
