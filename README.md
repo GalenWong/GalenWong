@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
+- [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
+- [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
+- [古巨基 Leo Ku -《愛與誠》Official MV](https://www.youtube.com/watch?v=z5NBt33b7iY)
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
-- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
-- [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
