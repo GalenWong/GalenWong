@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
 - [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
-- [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
+- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
 - [古巨基 Leo Ku -《愛與誠》Official MV](https://www.youtube.com/watch?v=z5NBt33b7iY)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
