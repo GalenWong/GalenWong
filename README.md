@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
-- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
-- [古巨基 Leo Ku -《愛與誠》Official MV](https://www.youtube.com/watch?v=z5NBt33b7iY)
+- [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
 - [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
-- [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
+- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
