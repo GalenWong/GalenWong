@@ -76,9 +76,9 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
 - [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
-- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [伍佰 Wu Bai&China Blue【Last Dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
+- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
