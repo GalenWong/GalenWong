@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
-- [伍佰 Wu Bai&China Blue【Last Dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
-- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
+- [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
