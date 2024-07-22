@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [再度重相逢](https://www.youtube.com/watch?v=NO0fqyDHxqg)
+- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
+- [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
+- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
 - [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [陳奕迅 Eason Chan 《我們》Us [Official MV]](https://www.youtube.com/watch?v=dhjomo8W6Lc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
