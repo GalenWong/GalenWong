@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
+- [浪人情歌](https://www.youtube.com/watch?v=n1Z6yxB6hY8)
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [Eason Chan 陳奕迅 七百年後 MV](https://www.youtube.com/watch?v=_NRf4HQw4MU)
-- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
-- [Eason 陳奕迅 沙龍 MV](https://www.youtube.com/watch?v=fo4zyjWTaUc)
+- [周杰倫 Jay Chou【七里香 Orange Jasmine】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
+- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
