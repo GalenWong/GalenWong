@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
-- [浪人情歌](https://www.youtube.com/watch?v=n1Z6yxB6hY8)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [周杰倫 Jay Chou【七里香 Orange Jasmine】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
 - [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
+- [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
