@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [BABYMETAL - メタり！！ (feat. Tom Morello) (OFFICIAL)](https://www.youtube.com/watch?v=hkij4LvACZ0)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
-- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
+- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
+- [伍佰 Wu Bai&China Blue【痛哭的人 The person who weeps bitterly】Official Music Video](https://www.youtube.com/watch?v=P8fqHvr82-o)
+- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
+- [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
