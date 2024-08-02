@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
-- [周杰倫 Jay Chou【給我一首歌的時間 Give me the Time of One Song】-Official Music Video](https://www.youtube.com/watch?v=wt0RKW3aC84)
-- [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
 - [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [Eason Chan 陳奕迅 - 2011全新國語歌《內疚》MV](https://www.youtube.com/watch?v=BQ_ZsRhMB6s)
+- [告五人 Accusefive [ 溫蒂公主的侍衛 Guarding You ] Official Music Video](https://www.youtube.com/watch?v=K5I53iq3KC8)
+- [周杰倫 Jay Chou【給我一首歌的時間 Give me the Time of One Song】-Official Music Video](https://www.youtube.com/watch?v=wt0RKW3aC84)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
