@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
+- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [King Gnu - 逆夢](https://www.youtube.com/watch?v=M6gcoDN9jBc)
+- [必杀技 古巨基 (歌词版)](https://www.youtube.com/watch?v=scHDBckJXv4)
 - [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
-- [LÜCY-Abettor](https://www.youtube.com/watch?v=urqSwxONUlo)
-- [I'mdifficult我是機車少女- 'Last Summer (月亮惹的禍)' Official MV](https://www.youtube.com/watch?v=tf7qmHEXrVw)
-- [milet×Aimer×幾田りら - おもかげ (produced by Vaundy) / THE FIRST TAKE](https://www.youtube.com/watch?v=Z2Z9V-4DMGw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
