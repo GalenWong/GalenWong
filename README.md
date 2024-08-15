@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
-- [溫室雜草 Easy Weeds【How to be a boy】Official Music Video](https://www.youtube.com/watch?v=gep5BKf92S4)
-- [Cody・Lee(李) - 我愛你(MusicVideo)](https://www.youtube.com/watch?v=uwS__WiOYTI)
+- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
+- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
+- [必杀技 古巨基 (歌词版)](https://www.youtube.com/watch?v=scHDBckJXv4)
+- [宇多田ヒカル『One Last Kiss』](https://www.youtube.com/watch?v=0Uhh62MUEic)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
