@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [美秀集團 Amazing Show feat.盧廣仲 Crowd Lu－手機錢包鑰匙菸 Phone, Wallet, Keys, Cigarettes【Official Music Video】](https://www.youtube.com/watch?v=UMep0x4cZMs)
-- [落花流水 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=9Ikq8n3gUn0)
-- [[avex官方]伍佰 & China Blue 淚橋(MV完整版)](https://www.youtube.com/watch?v=x-pCAngjeOw)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
+- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
+- [milet×Aimer×幾田りら - おもかげ (produced by Vaundy) / THE FIRST TAKE](https://www.youtube.com/watch?v=Z2Z9V-4DMGw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
