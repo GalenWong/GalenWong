@@ -78,8 +78,8 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [必杀技 古巨基 (歌词版)](https://www.youtube.com/watch?v=scHDBckJXv4)
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
+- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [《我們萬歲》LONG LIVE TO US 陳奕迅 eason and the duo band [Official MV]](https://www.youtube.com/watch?v=Vo9d7LKtYbc)
 - [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
