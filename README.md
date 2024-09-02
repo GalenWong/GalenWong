@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
-- [《我們萬歲》LONG LIVE TO US 陳奕迅 eason and the duo band [Official MV]](https://www.youtube.com/watch?v=Vo9d7LKtYbc)
-- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [茄子蛋EggPlantEgg - 親愛的無情孫小美 Dear Heartless (Official Music Video)](https://www.youtube.com/watch?v=UXHTGeGkZwU)
+- [伍佰 Wu Bai&China Blue【痛哭的人 The person who weeps bitterly】Official Music Video](https://www.youtube.com/watch?v=P8fqHvr82-o)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
