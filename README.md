@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [必杀技 古巨基 (歌词版)](https://www.youtube.com/watch?v=scHDBckJXv4)
+- [milet×Aimer×幾田りら - おもかげ (produced by Vaundy) / THE FIRST TAKE](https://www.youtube.com/watch?v=Z2Z9V-4DMGw)
 - [《是但求其愛》陳奕迅 Eason Chan [Official MV]](https://www.youtube.com/watch?v=bJHCgo85irM)
-- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
-- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
+- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
 - [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
