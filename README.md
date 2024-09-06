@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [Cody・Lee(李) - 我愛你(MusicVideo)](https://www.youtube.com/watch?v=uwS__WiOYTI)
-- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
-- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
+- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
+- [周杰倫 Jay Chou【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
+- [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
