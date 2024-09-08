@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
-- [单车 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=y2bBMOkfTdQ)
-- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
-- [不可幸力 / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Gbz2C2gQREI)
+- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
+- [Way Down Hadestown](https://www.youtube.com/watch?v=nJIc3RtJK7U)
+- [米津玄師 - LOSER , Kenshi Yonezu](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
+- [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
