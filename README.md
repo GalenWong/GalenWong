@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
-- [Way Down Hadestown](https://www.youtube.com/watch?v=nJIc3RtJK7U)
-- [米津玄師 - LOSER , Kenshi Yonezu](https://www.youtube.com/watch?v=Dx_fKPBPYUI)
+- [爱与诚 古巨基 (歌词版)](https://www.youtube.com/watch?v=Jl-1IuhU4I0)
+- [DAOKO 『水星』 Music Video［HD］](https://www.youtube.com/watch?v=Y3xehyYXbJw)
+- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
+- [必杀技 古巨基 (歌词版)](https://www.youtube.com/watch?v=scHDBckJXv4)
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
