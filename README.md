@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
 - [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
-- [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
-- [1874 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=CLue6B5V-T0)
-- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [人来人往 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=A32HOzcXPCI)
+- [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
+- [Wait for Me](https://www.youtube.com/watch?v=9nKTH0zx_H8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
