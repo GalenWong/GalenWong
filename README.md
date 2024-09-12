@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
-- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
 - [人来人往 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=A32HOzcXPCI)
-- [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
+- [Wait for Me (Reprise)](https://www.youtube.com/watch?v=8u1vfsNpVpA)
 - [Wait for Me](https://www.youtube.com/watch?v=9nKTH0zx_H8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
