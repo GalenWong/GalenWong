@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
+- [DAOKO 『水星』 Music Video［HD］](https://www.youtube.com/watch?v=Y3xehyYXbJw)
+- [郁可唯 Yisa Yu [ 路過人間 Walking by the world ] Official Music Video（電視劇《我們與惡的距離》插曲）](https://www.youtube.com/watch?v=FMl7GEaYwAE)
+- [Ginger Root - "Loretta" (Official Music Video)](https://www.youtube.com/watch?v=u-WTfP3WJc4)
 - [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
-- [Wait for Me (Reprise)](https://www.youtube.com/watch?v=8u1vfsNpVpA)
-- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
-- [Wait for Me](https://www.youtube.com/watch?v=9nKTH0zx_H8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
