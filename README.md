@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
+- [[avex官方]伍佰 & China Blue 淚橋(MV完整版)](https://www.youtube.com/watch?v=x-pCAngjeOw)
+- [Cody・Lee(李) - 我愛你(MusicVideo)](https://www.youtube.com/watch?v=uwS__WiOYTI)
 - [DAOKO 『水星』 Music Video［HD］](https://www.youtube.com/watch?v=Y3xehyYXbJw)
-- [郁可唯 Yisa Yu [ 路過人間 Walking by the world ] Official Music Video（電視劇《我們與惡的距離》插曲）](https://www.youtube.com/watch?v=FMl7GEaYwAE)
-- [Ginger Root - "Loretta" (Official Music Video)](https://www.youtube.com/watch?v=u-WTfP3WJc4)
 - [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
