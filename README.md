@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張震嶽 A-Yue【愛我別走 Love me,don’t go】Official Music Video](https://www.youtube.com/watch?v=zPeMFCDPgKE)
-- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
-- [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
 - [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
+- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
+- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
