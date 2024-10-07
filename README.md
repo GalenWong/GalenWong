@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
-- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
 - [美秀集團 Amazing Show feat.盧廣仲 Crowd Lu－手機錢包鑰匙菸 Phone, Wallet, Keys, Cigarettes【Official Music Video】](https://www.youtube.com/watch?v=UMep0x4cZMs)
+- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [Blueburn - Diane【Official Music Video】](https://www.youtube.com/watch?v=yYkWkAzAGaY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
