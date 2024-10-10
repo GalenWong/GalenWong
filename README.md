@@ -79,8 +79,8 @@ studied in
 - [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
 - [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
 - [VH (Vast & Hazy) 【與浪之間 Waves】 Official Music Video](https://www.youtube.com/watch?v=10DHUqSVu6I)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [程璧 - 我想和你虛度時光](https://www.youtube.com/watch?v=AK6pJmeqR6M)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
