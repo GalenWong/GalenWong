@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [【imase】NIGHT DANCER（MV）](https://www.youtube.com/watch?v=kagoEGKHZvU)
+- [VH (Vast & Hazy) 【與浪之間 Waves】 Official Music Video](https://www.youtube.com/watch?v=10DHUqSVu6I)
 - [美秀集團 Amazing Show feat.盧廣仲 Crowd Lu－手機錢包鑰匙菸 Phone, Wallet, Keys, Cigarettes【Official Music Video】](https://www.youtube.com/watch?v=UMep0x4cZMs)
-- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
-- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
-- [Road to Hell](https://www.youtube.com/watch?v=ZgsfT2w7FfM)
-- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
+- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
