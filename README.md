@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [美秀集團 Amazing Show－愛情的大壞蛋 Bastards of Love【Official Music Video】](https://www.youtube.com/watch?v=mRma6NkHwWU)
-- [程璧 - 我想和你虛度時光](https://www.youtube.com/watch?v=AK6pJmeqR6M)
+- [haruka nakamura - Lamp feat.Nujabes](https://www.youtube.com/watch?v=cHQ-oVSYkeU)
+- [【imase】NIGHT DANCER（MV）](https://www.youtube.com/watch?v=kagoEGKHZvU)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
 - [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
-- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
-- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
