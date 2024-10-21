@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [美秀集團 Amazing Show－愛情的大壞蛋 Bastards of Love【Official Music Video】](https://www.youtube.com/watch?v=mRma6NkHwWU)
-- [haruka nakamura - Lamp feat.Nujabes](https://www.youtube.com/watch?v=cHQ-oVSYkeU)
-- [【imase】NIGHT DANCER（MV）](https://www.youtube.com/watch?v=kagoEGKHZvU)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
 - [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
+- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
+- [椎名林檎 - 長く短い祭 from百鬼夜行](https://www.youtube.com/watch?v=YLfkgo-3_sk)
+- [Blueburn - Diane【Official Music Video】](https://www.youtube.com/watch?v=yYkWkAzAGaY)
+- [【imase】NIGHT DANCER（MV）](https://www.youtube.com/watch?v=kagoEGKHZvU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
