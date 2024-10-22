@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [ヨルシカ Live「花人局 / 春泥棒」](https://www.youtube.com/watch?v=Ht6lcYg9Zfo)
+- [椎名林檎 - 長く短い祭 from百鬼夜行](https://www.youtube.com/watch?v=YLfkgo-3_sk)
+- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
 - [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
 - [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
-- [椎名林檎 - 長く短い祭 from百鬼夜行](https://www.youtube.com/watch?v=YLfkgo-3_sk)
-- [Blueburn - Diane【Official Music Video】](https://www.youtube.com/watch?v=yYkWkAzAGaY)
-- [【imase】NIGHT DANCER（MV）](https://www.youtube.com/watch?v=kagoEGKHZvU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
