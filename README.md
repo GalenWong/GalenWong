@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ヨルシカ Live「花人局 / 春泥棒」](https://www.youtube.com/watch?v=Ht6lcYg9Zfo)
-- [椎名林檎 - 長く短い祭 from百鬼夜行](https://www.youtube.com/watch?v=YLfkgo-3_sk)
+- [謝安琪 (Kay Tse) x Room307 - "背山望海" & “離不開" & “第一天” (4K Full Live Session)｜OTHERANOTHER by OC2S](https://www.youtube.com/watch?v=ogsnf_9LDqg)
+- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
+- [椎名林檎 - 本能](https://www.youtube.com/watch?v=ECxBHhMc7oI)
 - [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
-- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
-- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
+- [椅子樂團 The Chairs - 做一半的夢 (Official Audio)](https://www.youtube.com/watch?v=YGw7urL93ek)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
