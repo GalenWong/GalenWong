@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
+- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
+- [ヨルシカ - だから僕は音楽を辞めた (Music Video)](https://www.youtube.com/watch?v=KTZ-y85Erus)
+- [JiaJia家家 × 麋先生MIXER [ 閉上眼睛會想起的人 The One I Miss ] Official Live Video（電影【一杯熱奶茶的等待】主題曲）](https://www.youtube.com/watch?v=5VDk8i6HZwE)
 - [謝安琪 (Kay Tse) x Room307 - "背山望海" & “離不開" & “第一天” (4K Full Live Session)｜OTHERANOTHER by OC2S](https://www.youtube.com/watch?v=ogsnf_9LDqg)
-- [椎名林檎 - 本能](https://www.youtube.com/watch?v=ECxBHhMc7oI)
-- [你是不是有點動心 - Julia Wu 吳卓源｜Official Music Visual (HD)](https://www.youtube.com/watch?v=MJMfU2Od2T8)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
