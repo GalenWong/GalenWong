@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
-- [謝安琪 (Kay Tse) x Room307 - "背山望海" & “離不開" & “第一天” (4K Full Live Session)｜OTHERANOTHER by OC2S](https://www.youtube.com/watch?v=ogsnf_9LDqg)
-- [麋先生MIXER【嗜愛動物Loveholic】示愛版 Official Live Video](https://www.youtube.com/watch?v=4JNb4fiT1VA)
-- [周杰倫 Jay Chou【七里香 Orange Jasmine】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
-- [米津玄師  - 地球儀　Kenshi Yonezu - Spinning Globe](https://www.youtube.com/watch?v=VUsURj_OYdA)
+- [Fidde - If There's a Heaven I Wanna See It](https://www.youtube.com/watch?v=Tver4hZqgWI)
+- [金牛座的牢騷](https://www.youtube.com/watch?v=fWt1WOwJIZY)
+- [Think Twice](https://www.youtube.com/watch?v=Ev8Y0Qzpjyg)
+- [Finger](https://www.youtube.com/watch?v=8eRz6juUs2Y)
+- [New Drug](https://www.youtube.com/watch?v=PlUVTIkXhAw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
