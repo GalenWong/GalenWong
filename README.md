@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 - [麋先生 MIXER [ 長成什麼樣子算愛情 Love, Loved, Loving ] Official Music Video](https://www.youtube.com/watch?v=ezTI-7oBCAM)
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
-- [甜約翰 Sweet John【 不小心愛上你 Accidentally in Love 】ft. 魏如萱 @lovewaa  Official Music Video](https://www.youtube.com/watch?v=r8n4OnlDVqE)
-- [ヨルシカ - だから僕は音楽を辞めた (Music Video)](https://www.youtube.com/watch?v=KTZ-y85Erus)
+- [ヨルシカ - 春泥棒（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=Sw1Flgub9s8)
+- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
+- [Fidde - If There's a Heaven I Wanna See It](https://www.youtube.com/watch?v=Tver4hZqgWI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
