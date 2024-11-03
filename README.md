@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
-- [Fidde - If There's a Heaven I Wanna See It](https://www.youtube.com/watch?v=Tver4hZqgWI)
-- [魏如萱 waa wei [ 我在紐約打電話給你 na mo miss you ] Official Music Video](https://www.youtube.com/watch?v=CUTlxi5DFBo)
-- [Tizzy Bac -「這是因為我們能感到疼痛」 official MV [HD]](https://www.youtube.com/watch?v=RGW_DCRShh8)
-- [Santé - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=megYQRIb5qw)
+- [美秀集團 Amazing Show－愛情的大壞蛋 Bastards of Love【Official Music Video】](https://www.youtube.com/watch?v=mRma6NkHwWU)
+- [陳綺貞 Cheer Chen【旅行的意義 Travel is Meaningful】Official Music Video (官方HD高畫質版)](https://www.youtube.com/watch?v=tv95k0zqnaA)
+- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
+- [美秀集團 Amazing Show－床母記號 Birthmark【Official Music Video】](https://www.youtube.com/watch?v=1u18YBEiAWU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
