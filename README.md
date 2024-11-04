@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [美秀集團 Amazing Show－愛情的大壞蛋 Bastards of Love【Official Music Video】](https://www.youtube.com/watch?v=mRma6NkHwWU)
-- [陳綺貞 Cheer Chen【旅行的意義 Travel is Meaningful】Official Music Video (官方HD高畫質版)](https://www.youtube.com/watch?v=tv95k0zqnaA)
+- [Santé - ?te 壞特｜Official Lyric Video](https://www.youtube.com/watch?v=megYQRIb5qw)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [ヨルシカ - だから僕は音楽を辞めた (Music Video)](https://www.youtube.com/watch?v=KTZ-y85Erus)
+- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
 - [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
-- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
-- [美秀集團 Amazing Show－床母記號 Birthmark【Official Music Video】](https://www.youtube.com/watch?v=1u18YBEiAWU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
