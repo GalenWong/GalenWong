@@ -79,8 +79,8 @@ studied in
 - [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
 - [電線桿上的鳥](https://www.youtube.com/watch?v=S7s2hFgdm94)
-- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
-- [輕輕 (deca joins Version) (feat. deca joins)](https://www.youtube.com/watch?v=G40vokYG8Y4)
+- [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
+- [謝安琪 (Kay Tse) x Room307 - "背山望海" & “離不開" & “第一天” (4K Full Live Session)｜OTHERANOTHER by OC2S](https://www.youtube.com/watch?v=ogsnf_9LDqg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
