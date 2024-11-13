@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [陳粒《 小半 》Lyric Video](https://www.youtube.com/watch?v=22PF83zIW0k)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [電線桿上的鳥](https://www.youtube.com/watch?v=S7s2hFgdm94)
-- [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
-- [謝安琪 (Kay Tse) x Room307 - "背山望海" & “離不開" & “第一天” (4K Full Live Session)｜OTHERANOTHER by OC2S](https://www.youtube.com/watch?v=ogsnf_9LDqg)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
+- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
