@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 - [陳粒《 小半 》Lyric Video](https://www.youtube.com/watch?v=22PF83zIW0k)
+- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
 - [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
-- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
