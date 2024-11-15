@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [陳粒《 小半 》Lyric Video](https://www.youtube.com/watch?v=22PF83zIW0k)
-- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
+- [渣泥ZANI -【半心】Official Music Video](https://www.youtube.com/watch?v=GedcwChv85k)
+- [DSPS - 冬天再去見你 (Official Music Video)](https://www.youtube.com/watch?v=0io32VRxmQI)
+- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
+- [美秀集團 Amazing Show－捲菸 Roll-Cigg【Official Music Video】](https://www.youtube.com/watch?v=S4JLJVVjevI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
