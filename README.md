@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [甜約翰 Sweet John【 直到你帶走我 Until You 】Official Music Video](https://www.youtube.com/watch?v=BfFr8kuIt0A)
 - [椅子樂團 The Chairs - 城市潛水 City Diving (Official Music Video)](https://www.youtube.com/watch?v=36NWsDCEj4o)
+- [椅子樂團 The Chairs - 巴黎德州 Paris, Texas (Official Music Video)](https://www.youtube.com/watch?v=JbkUCkbPKUI)
 - [椅子樂團 The Chairs -  Maybe Maybe (Official Music Video) 華視/公視 電視劇《若是一個人》主題曲](https://www.youtube.com/watch?v=Tnp0DySxH7s)
 - [椅子樂團 The Chairs - MEIGUANXIDEYO (Official Audio)](https://www.youtube.com/watch?v=CVpb1twco1Q)
-- [CosmosPeople宇宙人 [ 如果我們還在一起  What If We ] Official Music Video](https://www.youtube.com/watch?v=mBB_67OxXIo)
-- [甜約翰 Sweet John【 直到你帶走我 Until You 】Official Music Video](https://www.youtube.com/watch?v=BfFr8kuIt0A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
