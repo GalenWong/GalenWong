@@ -78,8 +78,8 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [甜約翰 Sweet John【 直到你帶走我 Until You 】Official Music Video](https://www.youtube.com/watch?v=BfFr8kuIt0A)
 - [椅子樂團 The Chairs - 城市潛水 City Diving (Official Music Video)](https://www.youtube.com/watch?v=36NWsDCEj4o)
-- [椅子樂團 The Chairs - 巴黎德州 Paris, Texas (Official Music Video)](https://www.youtube.com/watch?v=JbkUCkbPKUI)
 - [椅子樂團 The Chairs -  Maybe Maybe (Official Music Video) 華視/公視 電視劇《若是一個人》主題曲](https://www.youtube.com/watch?v=Tnp0DySxH7s)
+- [殺死那個石家莊人 - 萬能青年旅店『雲層深處的黑暗啊 淹沒心底的景觀』【動態歌詞】](https://www.youtube.com/watch?v=r_8dJeMUDCw)
 - [椅子樂團 The Chairs - MEIGUANXIDEYO (Official Audio)](https://www.youtube.com/watch?v=CVpb1twco1Q)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
