@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 直到你帶走我 Until You 】Official Music Video](https://www.youtube.com/watch?v=BfFr8kuIt0A)
-- [椅子樂團 The Chairs - 城市潛水 City Diving (Official Music Video)](https://www.youtube.com/watch?v=36NWsDCEj4o)
-- [椅子樂團 The Chairs -  Maybe Maybe (Official Music Video) 華視/公視 電視劇《若是一個人》主題曲](https://www.youtube.com/watch?v=Tnp0DySxH7s)
-- [殺死那個石家莊人 - 萬能青年旅店『雲層深處的黑暗啊 淹沒心底的景觀』【動態歌詞】](https://www.youtube.com/watch?v=r_8dJeMUDCw)
-- [椅子樂團 The Chairs - MEIGUANXIDEYO (Official Audio)](https://www.youtube.com/watch?v=CVpb1twco1Q)
+- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
+- [好樂團 GoodBand ─《我把我的青春給你》Official Music Video](https://www.youtube.com/watch?v=9MMIB61e6sM)
+- [陳奕迅 Eason Chan - 《四季》MV](https://www.youtube.com/watch?v=3aZS7On4etw)
+- [周杰倫 Jay Chou【七里香 Orange Jasmine】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
+- [南西肯恩 NeciKen〈大海 Ocean〉Official Music Video](https://www.youtube.com/watch?v=exVEN7hlqBg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
