@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
+- [輕輕 (deca joins Version) (feat. deca joins)](https://www.youtube.com/watch?v=G40vokYG8Y4)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [好樂團 GoodBand ─《我把我的青春給你》Official Music Video](https://www.youtube.com/watch?v=9MMIB61e6sM)
-- [陳奕迅 Eason Chan - 《四季》MV](https://www.youtube.com/watch?v=3aZS7On4etw)
-- [周杰倫 Jay Chou【七里香 Orange Jasmine】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
-- [南西肯恩 NeciKen〈大海 Ocean〉Official Music Video](https://www.youtube.com/watch?v=exVEN7hlqBg)
+- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
