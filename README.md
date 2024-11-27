@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
-- [輕輕 (deca joins Version) (feat. deca joins)](https://www.youtube.com/watch?v=G40vokYG8Y4)
+- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
 - [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [輕輕 (deca joins Version) (feat. deca joins)](https://www.youtube.com/watch?v=G40vokYG8Y4)
+- [In Another World](https://www.youtube.com/watch?v=uikm7f2xczE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
