@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
+- [Vising《 長大以後 》Lyric Video](https://www.youtube.com/watch?v=Elb9-GHqxfY)
+- [椅子樂團 The Chairs - 樹屋 (Official Audio)](https://www.youtube.com/watch?v=qBqieYMroYY)
 - [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
-- [魏如萱 waa wei [ 我在紐約打電話給你 na mo miss you ] Official Music Video](https://www.youtube.com/watch?v=CUTlxi5DFBo)
-- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
-- [踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
+- [南西肯恩 NeciKen〈大海 Ocean〉Official Music Video](https://www.youtube.com/watch?v=exVEN7hlqBg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
