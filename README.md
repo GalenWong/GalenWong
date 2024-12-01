@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
+- [In Another World](https://www.youtube.com/watch?v=uikm7f2xczE)
 - [サニーデイ・サービス - セツナ [Official Video]](https://www.youtube.com/watch?v=gfmoWR6jQ0M)
-- [あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】](https://www.youtube.com/watch?v=0xSiBpUdW4E)
-- [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
-- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
+- [宋楚琳 Erin Song / 馬念先 Mars Ma《去年冬天 Last Winter》Official MV](https://www.youtube.com/watch?v=nIa_xJgFO38)
+- [草東沒有派對 - 爛泥](https://www.youtube.com/watch?v=QPY4h-nDIZ8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
