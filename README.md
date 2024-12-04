@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [Vising《 長大以後 》Lyric Video](https://www.youtube.com/watch?v=Elb9-GHqxfY)
-- [In Another World](https://www.youtube.com/watch?v=uikm7f2xczE)
 - [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
-- [伍佰 Wu Bai&China Blue【挪威的森林 Norwegian forest】Official Music Video](https://www.youtube.com/watch?v=gPpZJlE0Ca8)
+- [In Another World](https://www.youtube.com/watch?v=uikm7f2xczE)
+- [Counting Stars](https://www.youtube.com/watch?v=JQhjXXJpjlk)
+- [宋楚琳 Erin Song / 馬念先 Mars Ma《去年冬天 Last Winter》Official MV](https://www.youtube.com/watch?v=nIa_xJgFO38)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
