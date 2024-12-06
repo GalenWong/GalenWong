@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
-- [輕輕 (deca joins Version) (feat. deca joins)](https://www.youtube.com/watch?v=G40vokYG8Y4)
-- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
-- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
 - [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
+- [椅子樂團The Chairs - Dreaming With You (Official Audio)](https://www.youtube.com/watch?v=oSndJfjFuBU)
+- [Sunset Rollercoaster - 小薇 (Cover), 2021](https://www.youtube.com/watch?v=hvs11gOcT9Y)
+- [椅子樂團 The Chairs - 樹屋 (Official Audio)](https://www.youtube.com/watch?v=qBqieYMroYY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
