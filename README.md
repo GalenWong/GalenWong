@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
-- [椅子樂團 The Chairs - Maybe Maybe (Official Audio)](https://www.youtube.com/watch?v=aycS4OwQRQg)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
+- [陳奕迅 Eason Chan - 《無條件》MV](https://www.youtube.com/watch?v=jzGaS5kWj0U)
+- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
+- [爛泥](https://www.youtube.com/watch?v=2fQ5es-qLaY)
+- [陳粒《 小半 》Lyric Video](https://www.youtube.com/watch?v=22PF83zIW0k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
