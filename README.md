@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [周杰倫 Jay Chou【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
-- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
+- [aruarian dance](https://www.youtube.com/watch?v=qYcoJpqCha4)
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [周杰倫 Jay Chou【不能說的祕密 Secret】-Official Music Video](https://www.youtube.com/watch?v=uIWypArI73w)
+- [床](https://www.youtube.com/watch?v=_pD6DDmnsu0)
+- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
+- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
