@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [aruarian dance](https://www.youtube.com/watch?v=qYcoJpqCha4)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [床](https://www.youtube.com/watch?v=_pD6DDmnsu0)
-- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
+- [輕輕 (deca joins Version) (feat. deca joins)](https://www.youtube.com/watch?v=G40vokYG8Y4)
+- [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
