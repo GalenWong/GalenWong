@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 - [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
-- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
-- [Counting Stars](https://www.youtube.com/watch?v=JQhjXXJpjlk)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
+- [珂拉琪 Collage／萬千花蕊慈母悲哀](https://www.youtube.com/watch?v=kkUWlcjmOew)
+- [Aimyon[愛繆] -在揮別的今天- (華納official HD 高畫質官方中字版)](https://www.youtube.com/watch?v=OVsbnZj5Csg)
+- [milet×Aimer×幾田りら - おもかげ (produced by Vaundy) / THE FIRST TAKE](https://www.youtube.com/watch?v=Z2Z9V-4DMGw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
