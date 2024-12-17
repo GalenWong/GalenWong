@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
-- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
-- [珂拉琪 Collage／萬千花蕊慈母悲哀](https://www.youtube.com/watch?v=kkUWlcjmOew)
-- [Aimyon[愛繆] -在揮別的今天- (華納official HD 高畫質官方中字版)](https://www.youtube.com/watch?v=OVsbnZj5Csg)
+- [ヨルシカ - 言って。(Music Video)](https://www.youtube.com/watch?v=F64yFFnZfkI)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
 - [milet×Aimer×幾田りら - おもかげ (produced by Vaundy) / THE FIRST TAKE](https://www.youtube.com/watch?v=Z2Z9V-4DMGw)
+- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
