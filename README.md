@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Men I Trust - Tailwhip](https://www.youtube.com/watch?v=9IZKcb3LndA)
-- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [サカナクション / 忘れられないの　-Music Video-](https://www.youtube.com/watch?v=BxqYUbNR-c0)
-- [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [完美倒立 The Upside Down【愛你不是兩三天 Love You More Than Two Or Three Days】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=OzOeaLJoXxg)
+- [Novel Fergus - 胭脂扣 [Official Music Video] @YackStudio](https://www.youtube.com/watch?v=09y17MZgONQ)
+- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
