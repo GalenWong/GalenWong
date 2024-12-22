@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
 - [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
-- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [EYE (S)](https://www.youtube.com/watch?v=qRr7K-ZOOgs)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [草東沒有派對 - 大風吹 (DEMO)](https://www.youtube.com/watch?v=WErmbh2jt4s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
