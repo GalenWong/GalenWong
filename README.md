@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
-- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [Kumomi](https://www.youtube.com/watch?v=791m6cFAuvg)
-- [Still Talking to You](https://www.youtube.com/watch?v=PzW62UP8CmY)
+- [傷心欲絕 Wayne's So Sad - 妳是不是我編出的一個謊？The Dawn of Unconsciousness](https://www.youtube.com/watch?v=rkr-OcHJST4)
+- [【中日字幕】BLEACH 死神 ed1「Life is Like a Boat 」Rie fu](https://www.youtube.com/watch?v=yy7QrXJOERo)
+- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
