@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
 - [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
+- [Yogee New Waves / Like Sixteen Candles(Official MV)](https://www.youtube.com/watch?v=J8bW8kqgjm8)
+- [Yogee New Waves / Bluemin' Days  (Official MV)](https://www.youtube.com/watch?v=od7FH9dlfok)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
-- [Sunset Rollercoaster - Little Balcony / Phum Viphurit - Little Balcony (Official Video), 2022](https://www.youtube.com/watch?v=e6RM31m7KUU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
