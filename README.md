@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
-- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
-- [Yogee New Waves / Like Sixteen Candles(Official MV)](https://www.youtube.com/watch?v=J8bW8kqgjm8)
-- [Yogee New Waves / Bluemin' Days  (Official MV)](https://www.youtube.com/watch?v=od7FH9dlfok)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
+- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
+- [One Last Kiss](https://www.youtube.com/watch?v=GYeOVn0PhSk)
+- [踊り子](https://www.youtube.com/watch?v=CnlMTBwsBHs)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
