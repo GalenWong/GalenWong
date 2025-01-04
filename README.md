@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
-- [宇多田ヒカル『One Last Kiss』](https://www.youtube.com/watch?v=0Uhh62MUEic)
-- [サカナクション / 忘れられないの　-Music Video-](https://www.youtube.com/watch?v=BxqYUbNR-c0)
+- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
+- [K-Lone - Gel](https://www.youtube.com/watch?v=Hyzukhct_04)
+- [boy pablo - Everytime](https://www.youtube.com/watch?v=Lzi7ljJiLJQ)
+- [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
