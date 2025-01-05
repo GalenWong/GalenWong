@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
 - [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
-- [K-Lone - Gel](https://www.youtube.com/watch?v=Hyzukhct_04)
-- [boy pablo - Everytime](https://www.youtube.com/watch?v=Lzi7ljJiLJQ)
 - [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
+- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
