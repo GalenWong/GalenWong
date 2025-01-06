@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [椅子樂團 The Chairs - 夏日最美的三十張拍立得相片 (Official Audio)](https://www.youtube.com/watch?v=_q0S6GbpZuo)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
-- [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
-- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
+- [椅子樂團 The Chairs - Paradise… How Far? (Official Lyric Video)](https://www.youtube.com/watch?v=jyqRnMDsC7s)
+- [椅子樂團 The Chairs - MEIGUANXIDEYO (Official Audio)](https://www.youtube.com/watch?v=CVpb1twco1Q)
+- [椅子樂團 The Chairs - Maybe Maybe (Official Audio)](https://www.youtube.com/watch?v=aycS4OwQRQg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
