@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [椅子樂團 The Chairs - 夏日最美的三十張拍立得相片 (Official Audio)](https://www.youtube.com/watch?v=_q0S6GbpZuo)
+- [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [椅子樂團 The Chairs - Paradise… How Far? (Official Lyric Video)](https://www.youtube.com/watch?v=jyqRnMDsC7s)
-- [椅子樂團 The Chairs - MEIGUANXIDEYO (Official Audio)](https://www.youtube.com/watch?v=CVpb1twco1Q)
-- [椅子樂團 The Chairs - Maybe Maybe (Official Audio)](https://www.youtube.com/watch?v=aycS4OwQRQg)
+- [椅子樂團 The Chairs - 樹屋 (Official Audio)](https://www.youtube.com/watch?v=qBqieYMroYY)
+- [椅子樂團The Chairs - 日常的鏡頭 (Through The Lens of Life)](https://www.youtube.com/watch?v=EeIIwXwdxAM)
+- [椅子樂團 The Chairs - 夏日最美的三十張拍立得相片 (Official Audio)](https://www.youtube.com/watch?v=_q0S6GbpZuo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
