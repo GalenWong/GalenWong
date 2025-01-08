@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
+- [Cody・Lee(李) - おどる ひかり(MusicVideo)](https://www.youtube.com/watch?v=xn6pEFpbXh8)
+- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
 - [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
-- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [椅子樂團 The Chairs - 樹屋 (Official Audio)](https://www.youtube.com/watch?v=qBqieYMroYY)
-- [椅子樂團The Chairs - 日常的鏡頭 (Through The Lens of Life)](https://www.youtube.com/watch?v=EeIIwXwdxAM)
-- [椅子樂團 The Chairs - 夏日最美的三十張拍立得相片 (Official Audio)](https://www.youtube.com/watch?v=_q0S6GbpZuo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
