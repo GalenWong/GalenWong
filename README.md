@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [A都市の秋](https://www.youtube.com/watch?v=FGryJ9YTQzE)
 - [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [L'Impératrice — SONATE PACIFIQUE (radio edit)](https://www.youtube.com/watch?v=YbYajW4P-PY)
-- [mabataki / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=6h6AQbdTkaE)
+- [Glide](https://www.youtube.com/watch?v=NV_R2mwrQ_w)
 - [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
