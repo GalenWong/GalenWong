@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
-- [A都市の秋](https://www.youtube.com/watch?v=FGryJ9YTQzE)
-- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
 - [Glide](https://www.youtube.com/watch?v=NV_R2mwrQ_w)
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
+- [君が泣くなら](https://www.youtube.com/watch?v=-NtjNCM0Kn4)
+- [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
+- [最終列車は25時](https://www.youtube.com/watch?v=yDOx_Duc498)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
