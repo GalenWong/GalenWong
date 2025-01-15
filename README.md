@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Glide](https://www.youtube.com/watch?v=NV_R2mwrQ_w)
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [大雨](https://www.youtube.com/watch?v=z5RK8SWg0WU)
-- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
 - [米津玄師  Kenshi Yonezu  - Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
+- [椅子樂團 The Chairs - 樹屋 (Official Audio)](https://www.youtube.com/watch?v=qBqieYMroYY)
+- [Cody・Lee(李) - おどる ひかり(MusicVideo)](https://www.youtube.com/watch?v=xn6pEFpbXh8)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
