@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
-- [米津玄師  Kenshi Yonezu  - Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
-- [Boukas, A D M B - The Tourist (Tour-Maubourg Remix)](https://www.youtube.com/watch?v=plMJbTX2qy4)
-- [连衣裙](https://www.youtube.com/watch?v=X4a8-GSiee0)
-- [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
+- [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
+- [椎名林檎 - ありあまる富 from陰翳礼讃](https://www.youtube.com/watch?v=gAzD2-1QhaU)
+- [陳奕迅 Eason Chan 《我們》Us [Official MV]](https://www.youtube.com/watch?v=dhjomo8W6Lc)
+- [周杰倫 Jay Chou【安靜 Silence】Official MV](https://www.youtube.com/watch?v=1hI-7vj2FhE)
+- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
