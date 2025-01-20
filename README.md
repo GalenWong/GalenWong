@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
-- [草東沒有派對 - 大風吹 (DEMO)](https://www.youtube.com/watch?v=WErmbh2jt4s)
-- [人來人往](https://www.youtube.com/watch?v=_Aa9va3yVUE)
-- [周杰倫 Jay Chou【安靜 Silence】Official MV](https://www.youtube.com/watch?v=1hI-7vj2FhE)
+- [周杰倫 Jay Chou【退後 A Step Back】-Official Music Video](https://www.youtube.com/watch?v=0-4mm0e2h44)
+- [椎名林檎 - ありあまる富 from陰翳礼讃](https://www.youtube.com/watch?v=gAzD2-1QhaU)
+- [床](https://www.youtube.com/watch?v=_pD6DDmnsu0)
 - [椅子樂團 The Chairs - Maybe Maybe (Official Audio)](https://www.youtube.com/watch?v=aycS4OwQRQg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
