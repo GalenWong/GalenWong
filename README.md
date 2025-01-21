@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
-- [周杰倫 Jay Chou【退後 A Step Back】-Official Music Video](https://www.youtube.com/watch?v=0-4mm0e2h44)
+- [富士山下](https://www.youtube.com/watch?v=bHlLGT3nwlg)
+- [周杰倫 Jay Chou【花海 Floral Sea】-Official Music Video](https://www.youtube.com/watch?v=q1ww6bDjfiI)
+- [周杰倫 Jay Chou【黑色幽默 Dark Humor】-Official Music Video](https://www.youtube.com/watch?v=wRT-5heURhY)
+- [人來人往](https://www.youtube.com/watch?v=_Aa9va3yVUE)
 - [椎名林檎 - ありあまる富 from陰翳礼讃](https://www.youtube.com/watch?v=gAzD2-1QhaU)
-- [床](https://www.youtube.com/watch?v=_pD6DDmnsu0)
-- [椅子樂團 The Chairs - Maybe Maybe (Official Audio)](https://www.youtube.com/watch?v=aycS4OwQRQg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
