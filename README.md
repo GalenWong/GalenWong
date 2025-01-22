@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [富士山下](https://www.youtube.com/watch?v=bHlLGT3nwlg)
-- [周杰倫 Jay Chou【花海 Floral Sea】-Official Music Video](https://www.youtube.com/watch?v=q1ww6bDjfiI)
-- [周杰倫 Jay Chou【黑色幽默 Dark Humor】-Official Music Video](https://www.youtube.com/watch?v=wRT-5heURhY)
-- [人來人往](https://www.youtube.com/watch?v=_Aa9va3yVUE)
-- [椎名林檎 - ありあまる富 from陰翳礼讃](https://www.youtube.com/watch?v=gAzD2-1QhaU)
+- [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
+- [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
+- [周杰倫 Jay Chou【世界末日 End of the World】Official MV](https://www.youtube.com/watch?v=NDFULbHgL6E)
+- [房東的貓《 不知歸期的故人 》Lyric Video](https://www.youtube.com/watch?v=FmIBwp_oih0)
+- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
