@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [房東的貓《 不知歸期的故人 》Lyric Video](https://www.youtube.com/watch?v=FmIBwp_oih0)
-- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
-- [花占い / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=onhBN0qkUcE)
 - [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
+- [孫盛希 希有樂團 SHI’s Band【分手吧】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=x6aFiBldm0U)
+- [陳奕迅 Eason Chan - 原來這裡沒有你 (Official Music Video)](https://www.youtube.com/watch?v=OHVaFNda-f0)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
