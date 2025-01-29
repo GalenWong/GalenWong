@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓《 不知歸期的故人 》Lyric Video](https://www.youtube.com/watch?v=FmIBwp_oih0)
-- [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
-- [孫盛希 希有樂團 SHI’s Band【分手吧】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=x6aFiBldm0U)
-- [陳奕迅 Eason Chan - 原來這裡沒有你 (Official Music Video)](https://www.youtube.com/watch?v=OHVaFNda-f0)
-- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [美波「ライラック」MV](https://www.youtube.com/watch?v=GQ3V50XoLOM)
+- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [[avex官方]伍佰 & China Blue 突然的自我(MV完整版)](https://www.youtube.com/watch?v=CT-P8-D8CC0)
+- [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
