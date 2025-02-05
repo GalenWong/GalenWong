@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
-- [陳奕迅 Eason Chan《K歌之王》[Official MV]](https://www.youtube.com/watch?v=Sm_DVsixxsk)
-- [米津玄師  Kenshi Yonezu  - Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
-- [[avex官方]伍佰 & China Blue 突然的自我(MV完整版)](https://www.youtube.com/watch?v=CT-P8-D8CC0)
 - [周杰倫 Jay Chou【青花瓷 Blue and White Porcelain】-Official Music Video](https://www.youtube.com/watch?v=Z8Mqw0b9ADs)
+- [[avex官方]伍佰 & China Blue 突然的自我(MV完整版)](https://www.youtube.com/watch?v=CT-P8-D8CC0)
+- [陳奕迅Eason Chan《信心花舍》OFFICIAL官方完整版[LYRICS][HD][歌詞版][MV]](https://www.youtube.com/watch?v=fJBEUt3wCbY)
+- [米津玄師  Kenshi Yonezu  - Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
