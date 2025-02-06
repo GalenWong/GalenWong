@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
-- [周杰倫 Jay Chou【青花瓷 Blue and White Porcelain】-Official Music Video](https://www.youtube.com/watch?v=Z8Mqw0b9ADs)
-- [[avex官方]伍佰 & China Blue 突然的自我(MV完整版)](https://www.youtube.com/watch?v=CT-P8-D8CC0)
-- [陳奕迅Eason Chan《信心花舍》OFFICIAL官方完整版[LYRICS][HD][歌詞版][MV]](https://www.youtube.com/watch?v=fJBEUt3wCbY)
-- [米津玄師  Kenshi Yonezu  - Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
+- [Jellyfish](https://www.youtube.com/watch?v=hoHBNmMWlpY)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
+- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
+- [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
+- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
