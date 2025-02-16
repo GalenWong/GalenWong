@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [陳奕迅 Eason Chan《猜情尋》[Official MV]](https://www.youtube.com/watch?v=vFASUEFWvpY)
-- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
-- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
-- [林家謙 Terence Lam《時光倒流一句話》Regret (Official MV)](https://www.youtube.com/watch?v=qlvE_owkBwI)
+- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
 - [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
+- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
