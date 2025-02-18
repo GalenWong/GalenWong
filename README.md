@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
 - [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
 - [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
-- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
+- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
+- [張震嶽 A-Yue【思念是一種病 Yearning like a sickness】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
