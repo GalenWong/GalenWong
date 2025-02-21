@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Glide](https://www.youtube.com/watch?v=NV_R2mwrQ_w)
-- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
-- [不可幸力 / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Gbz2C2gQREI)
+- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
+- [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
+- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
+- [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
 - [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
