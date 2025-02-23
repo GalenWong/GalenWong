@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
+- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
 - [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
-- [Fujii Kaze - "Shinunoga E-Wa" Live at Nippon Budokan (2020)](https://www.youtube.com/watch?v=lRVJuPI5IXI)
-- [林夕x陳奕迅 (Albert Leung x Eason Chan) 廣東歌集v.5 富士山下丨一絲不掛丨不如不見丨不來也不去 [歌詞同步/粵拼字幕][Jyutping Lyrics]](https://www.youtube.com/watch?v=c00aPmuXlmU)
-- [宋冬野   05 斑馬，斑馬](https://www.youtube.com/watch?v=Hv5j-FpF1yg)
+- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [米津玄師  - 灰色と青（ ＋菅田将暉 ）,  Kenshi Yonezu - Haiirotoao（+Masaki Suda)](https://www.youtube.com/watch?v=gJX2iy6nhHc)
+- [Glide](https://www.youtube.com/watch?v=NV_R2mwrQ_w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
