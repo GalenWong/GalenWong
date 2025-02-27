@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
 - [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
-- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
+- [張敬軒【只是太愛你】MV](https://www.youtube.com/watch?v=k2rVffhNd0E)
+- [伍佰 愛情的盡頭](https://www.youtube.com/watch?v=Xqt5wMOP4LU)
 - [張國榮 - 《最愛是誰 My Dearest》MV](https://www.youtube.com/watch?v=xa0pCqd-n0Q)
-- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
