@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
 - [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [張敬軒【只是太愛你】MV](https://www.youtube.com/watch?v=k2rVffhNd0E)
 - [伍佰 愛情的盡頭](https://www.youtube.com/watch?v=Xqt5wMOP4LU)
-- [張國榮 - 《最愛是誰 My Dearest》MV](https://www.youtube.com/watch?v=xa0pCqd-n0Q)
+- [張敬軒【只是太愛你】MV](https://www.youtube.com/watch?v=k2rVffhNd0E)
+- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
