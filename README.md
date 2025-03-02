@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
+- [伍佰+China Blue [夢醒時分]官方HD MV](https://www.youtube.com/watch?v=zC_jePO5sCA)
 - [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [伍佰 愛情的盡頭](https://www.youtube.com/watch?v=Xqt5wMOP4LU)
-- [張敬軒【只是太愛你】MV](https://www.youtube.com/watch?v=k2rVffhNd0E)
+- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
 - [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
