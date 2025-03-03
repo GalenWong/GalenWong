@@ -3,31 +3,31 @@ name: Update the blogs
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
-    # runs every hour
+    # runs every 10pm
     - cron: '0 22 * * *'
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
       - name: git pull
         run: |
           git fetch
-          git merge origin/master
+          git merge origin/main
       - uses: gautamkrishnar/blog-post-workflow@master
         name: Fetch newest blog post and put in README
         with:
           feed_list: "https://galenwong.github.io/rss.xml"
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.8
-      - uses: actions/cache@v2
+          python-version: 3.13
+      - uses: actions/cache@v4
         name: Configure pip caching
         with:
           path: ~/.cache/pip
