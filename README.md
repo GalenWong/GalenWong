@@ -78,9 +78,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
 - [陳奕迅 Eason Chan《人來人往》[Official MV]](https://www.youtube.com/watch?v=gAotCGoKhD0)
-- [伍佰+China Blue [夢醒時分]官方HD MV](https://www.youtube.com/watch?v=zC_jePO5sCA)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 - [伍佰 Wu Bai&China Blue【白鴿 White dove】Official Music Video](https://www.youtube.com/watch?v=lNuXbIfwXP4)
+- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
