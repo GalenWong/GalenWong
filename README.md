@@ -80,7 +80,7 @@ studied in
 - [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 - [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 - [揪心的玩笑与漫长的白日梦](https://www.youtube.com/watch?v=vAHr7KkFfYA)
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [甜約翰 Sweet John【 降雨機率 Rain Onto the One 】Official Music Video](https://www.youtube.com/watch?v=3UYOS8Pcsks)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
