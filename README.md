@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [美秀集團 Amazing Show－擋一根 Chill Out【Official Music Video】](https://www.youtube.com/watch?v=3_GFxZ9xA7o)
+- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
 - [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
-- [抱擁這分鐘 陳奕迅 ktv](https://www.youtube.com/watch?v=svoOyKpUums)
-- [王傑 Dave Wong《我是真的愛上你》[Lyrics MV]](https://www.youtube.com/watch?v=gGLp7ht_2bk)
-- [揪心的玩笑与漫长的白日梦](https://www.youtube.com/watch?v=vAHr7KkFfYA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
