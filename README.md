@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [美秀集團 Amazing Show－擋一根 Chill Out【Official Music Video】](https://www.youtube.com/watch?v=3_GFxZ9xA7o)
-- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
-- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
+- [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
+- [拍謝少年 Sorry Youth -  暗流 Undercurrent (Official MV)](https://www.youtube.com/watch?v=Roxj9OR6ufk)
+- [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
+- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
+- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
