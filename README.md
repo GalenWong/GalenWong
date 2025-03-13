@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
 - [拍謝少年 Sorry Youth -  暗流 Undercurrent (Official MV)](https://www.youtube.com/watch?v=Roxj9OR6ufk)
-- [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
-- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
-- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
+- [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
+- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
+- [林夕x陳奕迅 (Albert Leung x Eason Chan) 廣東歌集v.5 富士山下丨一絲不掛丨不如不見丨不來也不去 [歌詞同步/粵拼字幕][Jyutping Lyrics]](https://www.youtube.com/watch?v=c00aPmuXlmU)
+- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
