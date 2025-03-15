@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
 - [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
-- [吳雨霏 Kary Ng - 《吳哥窟》MV](https://www.youtube.com/watch?v=tawvsNBwQyk)
 - [deca Joins | 沉澱 Settling【HOT COFFEE LIVE SESSION】](https://www.youtube.com/watch?v=dhtBM5b_1Ww)
-- [林夕x陳奕迅 (Albert Leung x Eason Chan) 廣東歌集v.5 富士山下丨一絲不掛丨不如不見丨不來也不去 [歌詞同步/粵拼字幕][Jyutping Lyrics]](https://www.youtube.com/watch?v=c00aPmuXlmU)
 - [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
