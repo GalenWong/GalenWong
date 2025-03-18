@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
-- [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
-- [Ariana Grande - no tears left to cry (Official Video)](https://www.youtube.com/watch?v=ffxKSjUwKdU)
-- [吳業坤 Kwan Gor 愛情求生案內書 Official Music Video 4K](https://www.youtube.com/watch?v=60UiQ_n90QU)
-- [周杰倫 Jay Chou【花海 Floral Sea】-Official Music Video](https://www.youtube.com/watch?v=q1ww6bDjfiI)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [周杰倫 Jay Chou【珊瑚海 Coral Sea (feat. 梁心頤 Lara)】-Official Music Video](https://www.youtube.com/watch?v=kYhh1PpsOg4)
+- [陳柏宇 Jason Chan - 你瞞我瞞 Lies Between Us | Official Music Video](https://www.youtube.com/watch?v=JWcuUHVD4Ng)
+- [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
