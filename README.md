@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [周杰倫 Jay Chou【珊瑚海 Coral Sea (feat. 梁心頤 Lara)】-Official Music Video](https://www.youtube.com/watch?v=kYhh1PpsOg4)
-- [陳柏宇 Jason Chan - 你瞞我瞞 Lies Between Us | Official Music Video](https://www.youtube.com/watch?v=JWcuUHVD4Ng)
 - [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
+- [＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-](https://www.youtube.com/watch?v=vn7vfza-6fQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
