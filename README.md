@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 - [indigo la End「夏夜のマジック」](https://www.youtube.com/watch?v=IMU0ctb7E60)
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
 - [米津玄師  - アイネクライネ , Kenshi Yonezu - Eine Kleine](https://www.youtube.com/watch?v=-EKxzId_Sj4)
+- [お気に召すまま - Eve MV](https://www.youtube.com/watch?v=nROvY9uiYYk)
+- [[MV] 검정치마(The Black Skirts) - 'EVERYTHING'](https://www.youtube.com/watch?v=Aq_gsctWHtQ)
+- [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
