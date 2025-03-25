@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [indigo la End「夏夜のマジック」](https://www.youtube.com/watch?v=IMU0ctb7E60)
-- [米津玄師  - アイネクライネ , Kenshi Yonezu - Eine Kleine](https://www.youtube.com/watch?v=-EKxzId_Sj4)
-- [お気に召すまま - Eve MV](https://www.youtube.com/watch?v=nROvY9uiYYk)
-- [[MV] 검정치마(The Black Skirts) - 'EVERYTHING'](https://www.youtube.com/watch?v=Aq_gsctWHtQ)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
 - [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
+- [明年今日](https://www.youtube.com/watch?v=8PZPan86tB0)
+- [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
