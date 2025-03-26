@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
-- [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
 - [明年今日](https://www.youtube.com/watch?v=8PZPan86tB0)
 - [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
+- [宋冬野   11 安和橋](https://www.youtube.com/watch?v=cr-I94YpUo4)
+- [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
