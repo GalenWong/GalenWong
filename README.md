@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [life hack / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=Tzyt91TYjLA)
+- [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
 - [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
-- [米津玄師  - アイネクライネ , Kenshi Yonezu - Eine Kleine](https://www.youtube.com/watch?v=-EKxzId_Sj4)
-- [Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [海辺の葬列](https://www.youtube.com/watch?v=AKflm82wVLk)
+- [ØZI - 【BLACK OUT】 feat. 9m88](https://www.youtube.com/watch?v=MHKnSFlDBLQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
