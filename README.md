@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
-- [ヨルシカ - ただ君に晴れ (MUSIC VIDEO)](https://www.youtube.com/watch?v=-VKIqrvVOpo)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [海辺の葬列](https://www.youtube.com/watch?v=AKflm82wVLk)
-- [ØZI - 【BLACK OUT】 feat. 9m88](https://www.youtube.com/watch?v=MHKnSFlDBLQ)
+- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
+- [Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
+- [King Gnu - Vinyl](https://www.youtube.com/watch?v=RLAw8Ct9k48)
+- [Lily chou-chou soundtrack - Rumble Fish](https://www.youtube.com/watch?v=lpES4rgxfTA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
