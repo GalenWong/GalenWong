@@ -76,10 +76,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Wilfred Lau - 劉浩龍 -《思覺失調》MV](https://www.youtube.com/watch?v=cqf8fmNH54c)
+- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
 - [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [伍佰 Wu Bai&China Blue【楓葉 Maple】Official Music Video](https://www.youtube.com/watch?v=AkBKzjlCNX0)
+- [伍佰、一生最愛的人](https://www.youtube.com/watch?v=EP8Rhnu-VZ4)
+- [Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
 - [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
