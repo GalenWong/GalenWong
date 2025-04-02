@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [Wilfred Lau - 劉浩龍 -《思覺失調》MV](https://www.youtube.com/watch?v=cqf8fmNH54c)
 - [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
-- [伍佰、一生最愛的人](https://www.youtube.com/watch?v=EP8Rhnu-VZ4)
-- [Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
-- [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
+- [ポルカドットスティングレイ「トゲめくスピカ」MV](https://www.youtube.com/watch?v=kJHkiuenKEE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
