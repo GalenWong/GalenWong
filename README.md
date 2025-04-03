@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [Wilfred Lau - 劉浩龍 -《思覺失調》MV](https://www.youtube.com/watch?v=cqf8fmNH54c)
+- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
+- [伍佰 Wu Bai&China Blue【Last Dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
 - [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
-- [ポルカドットスティングレイ「トゲめくスピカ」MV](https://www.youtube.com/watch?v=kJHkiuenKEE)
+- [Mr. - 《昨天》MV](https://www.youtube.com/watch?v=M6q67DSxeQc)
+- [伍佰 Wu Bai&China Blue【與妳到永久 Till the end of time】Official Music Video](https://www.youtube.com/watch?v=ZjCPy66w0Ng)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
