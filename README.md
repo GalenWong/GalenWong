@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【稻香 Rice Field】-Official Music Video](https://www.youtube.com/watch?v=sHD_z90ZKV0)
+- [周杰倫 Jay Chou【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
+- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
+- [Wilfred Lau - 劉浩龍 -《思覺失調》MV](https://www.youtube.com/watch?v=cqf8fmNH54c)
+- [陳奕迅 - 富士山下『原諒我不再送花，傷口應要結疤，花瓣鋪滿心裡墳場才害怕，如若你非我不嫁，彼此終必火化一生一世等一天需要代價』『動態歌詞MV』](https://www.youtube.com/watch?v=8MLaEChngb0)
 - [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
-- [Eason Chan 陳奕迅 - 2011全新國語歌《內疚》MV](https://www.youtube.com/watch?v=BQ_ZsRhMB6s)
-- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
-- [周杰倫 Jay Chou【心雨 Rainy Mood】-Official Music Video](https://www.youtube.com/watch?v=xVTI5eSzwzQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
