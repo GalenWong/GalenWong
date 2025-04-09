@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [伍佰 Wu Bai&China Blue【心愛的再會啦 Farewell my love】Official Music Video](https://www.youtube.com/watch?v=kEXCoQNY6Mc)
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
+- [伍佰 Wu Bai&China Blue【愛你一萬年 Love you ten thousand years】Official Music Video](https://www.youtube.com/watch?v=CgAJAmP14kQ)
 - [伍佰、一生最愛的人](https://www.youtube.com/watch?v=EP8Rhnu-VZ4)
 - [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
-- [周杰倫 Jay Chou【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
-- [張遠【嘉賓】HD 高清官方歌詞版 MV (Official Lyrics Video)](https://www.youtube.com/watch?v=Uv_p43UAdBY)
-- [程璧 - 我想和你虛度時光](https://www.youtube.com/watch?v=AK6pJmeqR6M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
