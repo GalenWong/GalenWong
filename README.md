@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
-- [伍佰 Wu Bai&China Blue【心愛的再會啦 Farewell my love】Official Music Video](https://www.youtube.com/watch?v=kEXCoQNY6Mc)
-- [伍佰 Wu Bai&China Blue【愛你一萬年 Love you ten thousand years】Official Music Video](https://www.youtube.com/watch?v=CgAJAmP14kQ)
-- [周杰倫 Jay Chou【黑色幽默 Dark Humor】-Official Music Video](https://www.youtube.com/watch?v=wRT-5heURhY)
-- [周杰倫 Jay Chou【超人不會飛 Superman Can't Fly】Official MV](https://www.youtube.com/watch?v=4j0Fgmsxr-o)
+- [無妄合作社 No-nonsense Collective〈山頭 Utopia〉Official Music Video](https://www.youtube.com/watch?v=-58c2qlsIog)
+- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
+- [LUCKY TAPES – Actor (Official Music Video)](https://www.youtube.com/watch?v=EQApmmLyFqQ)
+- [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
+- [張震嶽 很難](https://www.youtube.com/watch?v=HySyn211O2U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
