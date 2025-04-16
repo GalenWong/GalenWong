@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [伍佰、一生最愛的人](https://www.youtube.com/watch?v=EP8Rhnu-VZ4)
-- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
-- [不要說愛我 張震嶽](https://www.youtube.com/watch?v=f5ogy40w62k)
+- [好樂團 x 瑪啡因 ─ 《我愛你，卻不能拯救你 Full Band ver. 》Official Music Video（Live in Legacy Taipei）](https://www.youtube.com/watch?v=Vf1bAv_ZDAs)
+- [LUCKY TAPES - Happiness feat. ハル(from DIALUCK) [Official Music Video]](https://www.youtube.com/watch?v=VUVWsudRmwQ)
 - [LUCKY TAPES – Actor (Official Music Video)](https://www.youtube.com/watch?v=EQApmmLyFqQ)
-- [周杰倫 Jay Chou【超人不會飛 Superman Can't Fly】Official MV](https://www.youtube.com/watch?v=4j0Fgmsxr-o)
+- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
+- [伍佰、一生最愛的人](https://www.youtube.com/watch?v=EP8Rhnu-VZ4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
