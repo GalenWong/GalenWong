@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [麋先生MIXER【嗜愛動物Loveholic】示愛版 Official Live Video](https://www.youtube.com/watch?v=4JNb4fiT1VA)
-- [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
-- [LUCKY TAPES – Actor (Official Music Video)](https://www.youtube.com/watch?v=EQApmmLyFqQ)
-- [LUCKY TAPES - Happiness feat. ハル(from DIALUCK) [Official Music Video]](https://www.youtube.com/watch?v=VUVWsudRmwQ)
-- [好樂團 x 瑪啡因 ─ 《我愛你，卻不能拯救你 Full Band ver. 》Official Music Video（Live in Legacy Taipei）](https://www.youtube.com/watch?v=Vf1bAv_ZDAs)
+- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
+- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
+- [陳奕迅 Eason Chan《人來人往》[Official MV]](https://www.youtube.com/watch?v=gAotCGoKhD0)
+- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
