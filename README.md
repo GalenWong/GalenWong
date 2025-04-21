@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
-- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
 - [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
-- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
-- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
+- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
+- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
+- [Mr. 【森林】MV](https://www.youtube.com/watch?v=cXhMmKFpFeQ)
+- [拍謝少年 Sorry Youth -  暗流 Undercurrent ft. 安溥 Anpu｜2019大港開唱 Megaport Festival](https://www.youtube.com/watch?v=YYNPArbfNgQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
