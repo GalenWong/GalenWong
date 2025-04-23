@@ -77,10 +77,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Mr. 【森林】MV](https://www.youtube.com/watch?v=cXhMmKFpFeQ)
-- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
-- [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
-- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
+- [CosmosPeople宇宙人 [ 如果我們還在一起  What If We ] Official Music Video](https://www.youtube.com/watch?v=mBB_67OxXIo)
+- [不要說愛我 張震嶽](https://www.youtube.com/watch?v=f5ogy40w62k)
+- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
