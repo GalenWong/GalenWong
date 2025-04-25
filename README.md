@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Mr. 【森林】MV](https://www.youtube.com/watch?v=cXhMmKFpFeQ)
-- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
-- [CosmosPeople宇宙人 [ 如果我們還在一起  What If We ] Official Music Video](https://www.youtube.com/watch?v=mBB_67OxXIo)
-- [不要說愛我 張震嶽](https://www.youtube.com/watch?v=f5ogy40w62k)
-- [陳奕迅Eason Chan《大開眼戒》[Lyrics MV]](https://www.youtube.com/watch?v=zhm1NmL5G8A)
+- [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
+- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
+- [LUCKY TAPES - Happiness feat. ハル(from DIALUCK) [Official Music Video]](https://www.youtube.com/watch?v=VUVWsudRmwQ)
+- [王菲 - 誓言](https://www.youtube.com/watch?v=EzE2XuuZSi0)
+- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
