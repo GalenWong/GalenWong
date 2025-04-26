@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
-- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
-- [LUCKY TAPES - Happiness feat. ハル(from DIALUCK) [Official Music Video]](https://www.youtube.com/watch?v=VUVWsudRmwQ)
-- [王菲 - 誓言](https://www.youtube.com/watch?v=EzE2XuuZSi0)
-- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
+- [甜約翰 Sweet John【 Dear 】Official Audio](https://www.youtube.com/watch?v=eOxmFRTBgao)
+- [陳奕迅 Eason Chen – 多少 (Official Music Video)](https://www.youtube.com/watch?v=REbUxgJKYEA)
+- [伍佰 - 我會好好的](https://www.youtube.com/watch?v=E1tz95YOXCU)
+- [拍謝少年 Sorry Youth -  暗流 Undercurrent ft. 安溥 Anpu｜2019大港開唱 Megaport Festival](https://www.youtube.com/watch?v=YYNPArbfNgQ)
+- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
