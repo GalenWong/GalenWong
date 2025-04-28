@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [拍謝少年 Sorry Youth -  暗流 Undercurrent ft. 安溥 Anpu｜2019大港開唱 Megaport Festival](https://www.youtube.com/watch?v=YYNPArbfNgQ)
-- [謝霆鋒 Nicholas Tse《愛後餘生》[Official MV]](https://www.youtube.com/watch?v=F-_VUyi8T50)
-- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
-- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
-- [【好樂團 GoodBand】－蒸發 Demo](https://www.youtube.com/watch?v=s09oSv2NZpE)
+- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
+- [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
+- [BLUE feat. kojikoji](https://www.youtube.com/watch?v=YnnryUwfSE0)
+- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
+- [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
