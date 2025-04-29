@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
-- [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
-- [BLUE feat. kojikoji](https://www.youtube.com/watch?v=YnnryUwfSE0)
+- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
+- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
 - [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
-- [陳奕迅 Eason Chan - 遠在咫尺 (Official Lyric Video)](https://www.youtube.com/watch?v=brEd9sjXHvM)
+- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
+- [陳奕迅 Eason Chan -《黑洞》MV](https://www.youtube.com/watch?v=Mr8NaPtPPRk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
