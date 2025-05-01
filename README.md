@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [BLUE feat. kojikoji](https://www.youtube.com/watch?v=YnnryUwfSE0)
+- [【顏社】蛋堡 Soft Lipa - 我們都有問題 feat. N.CHEN (Official Music Video)](https://www.youtube.com/watch?v=J3Bz1UBcgnw)
 - [Soft Lipa 蛋堡-回到過去](https://www.youtube.com/watch?v=m1ple6Y_C_A)
-- [甜約翰 Sweet John【 不小心愛上你 Accidentally in Love 】ft. 魏如萱 @lovewaa  Official Music Video](https://www.youtube.com/watch?v=r8n4OnlDVqE)
-- [icyball 冰球樂團 - 搖啊搖 ft. Limi (Official Video)](https://www.youtube.com/watch?v=xSbeUixi22o)
-- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
-- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
+- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
+- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
