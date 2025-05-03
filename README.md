@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [Balance](https://www.youtube.com/watch?v=AIyMw0EuBcI)
 - [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
-- [BLUE feat. kojikoji](https://www.youtube.com/watch?v=YnnryUwfSE0)
-- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
-- [美秀集團 Amazing Show－愛情的大壞蛋 Bastards of Love【Official Music Video】](https://www.youtube.com/watch?v=mRma6NkHwWU)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [Soft Lipa 蛋堡-回到過去](https://www.youtube.com/watch?v=m1ple6Y_C_A)
+- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
