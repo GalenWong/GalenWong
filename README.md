@@ -77,9 +77,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [Balance](https://www.youtube.com/watch?v=AIyMw0EuBcI)
-- [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
 - [Soft Lipa 蛋堡-回到過去](https://www.youtube.com/watch?v=m1ple6Y_C_A)
+- [Balance](https://www.youtube.com/watch?v=AIyMw0EuBcI)
+- [ランドリー](https://www.youtube.com/watch?v=Yt6S_D5TemQ)
 - [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
