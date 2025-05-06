@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
+- [Soft Lipa 蛋堡-回到過去](https://www.youtube.com/watch?v=m1ple6Y_C_A)
 - [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [Balance](https://www.youtube.com/watch?v=AIyMw0EuBcI)
 - [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
