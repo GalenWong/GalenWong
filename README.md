@@ -76,11 +76,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
 - [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
+- [Layton Wu - Summer Night Wind 夏夜晚風 (Cover)](https://www.youtube.com/watch?v=Ky1Owj98qa4)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
