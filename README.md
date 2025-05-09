@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
+- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
+- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
+- [Eason Chan 陳奕迅 Allegro, Opus 3.3 am MV](https://www.youtube.com/watch?v=z5cQh2gxF5M)
+- [Joy](https://www.youtube.com/watch?v=PY3Jb3TladA)
 - [Layton Wu - Summer Night Wind 夏夜晚風 (Cover)](https://www.youtube.com/watch?v=Ky1Owj98qa4)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
