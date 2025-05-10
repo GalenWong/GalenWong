@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Joy](https://www.youtube.com/watch?v=PY3Jb3TladA)
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
-- [Balance](https://www.youtube.com/watch?v=AIyMw0EuBcI)
-- [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
+- [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
+- [DSPS - 冬天再去見你 (Official Music Video)](https://www.youtube.com/watch?v=0io32VRxmQI)
+- [周杰倫 Jay Chou【簡單愛 Simple Love】Official MV](https://www.youtube.com/watch?v=Y4xCVlyCvX4)
+- [Eason Chan 陳奕迅 '時代巨輪' MV](https://www.youtube.com/watch?v=_lu07UTH86A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
