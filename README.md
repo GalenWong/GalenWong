@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [9m88 - Tell Me (Prod. by Mitsu the Beats)](https://www.youtube.com/watch?v=qWEsv4DJddE)
-- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
-- [DSPS - 冬天再去見你 (Official Music Video)](https://www.youtube.com/watch?v=0io32VRxmQI)
-- [周杰倫 Jay Chou【簡單愛 Simple Love】Official MV](https://www.youtube.com/watch?v=Y4xCVlyCvX4)
-- [Eason Chan 陳奕迅 '時代巨輪' MV](https://www.youtube.com/watch?v=_lu07UTH86A)
+- [八三夭 831【想見你想見你想見你 Miss You 3000】電視劇「想見你상견니」片尾曲 Official Music Video](https://www.youtube.com/watch?v=4iRupuNet3Q)
+- [FEAR AND DREAMS 世界巡迴演唱會 - 東京站｜3 MAY 2025 ENCORE｜《Mr. Lonely x 愈想愈無謂》](https://www.youtube.com/watch?v=HTuL399BwLs)
+- [麋先生 MIXER [ 長成什麼樣子算愛情 Love, Loved, Loving ] Official Music Video](https://www.youtube.com/watch?v=ezTI-7oBCAM)
+- [經典!](https://www.youtube.com/watch?v=52W1MjVlajs)
+- [伍佰、一生最愛的人](https://www.youtube.com/watch?v=EP8Rhnu-VZ4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
