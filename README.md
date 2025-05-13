@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [Eason Chan 陳奕迅 七百年後 MV](https://www.youtube.com/watch?v=_NRf4HQw4MU)
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 - [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
+- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
+- [周杰倫 Jay Chou【蒲公英的約定 A Dandelion's Promise】-Official Music Video](https://www.youtube.com/watch?v=VitJnr3IySc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
