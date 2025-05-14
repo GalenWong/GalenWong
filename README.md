@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
+- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
+- [deca joins | 我和我的遐想 【Official Video】](https://www.youtube.com/watch?v=vDgu-V65zvw)
+- [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
+- [Eason 陳奕迅 '不要說話' MV](https://www.youtube.com/watch?v=Lzb33Ku8k_w)
 - [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
-- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
-- [周杰倫 Jay Chou【蒲公英的約定 A Dandelion's Promise】-Official Music Video](https://www.youtube.com/watch?v=VitJnr3IySc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
