@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
-- [deca joins | 我和我的遐想 【Official Video】](https://www.youtube.com/watch?v=vDgu-V65zvw)
-- [Eason 陳奕迅 於心有愧 MV](https://www.youtube.com/watch?v=FTA_tCy6tS8)
+- [洪佩瑜 - 踮起腳尖愛(HD非官方版完整MV)](https://www.youtube.com/watch?v=4gG-_HxNy_s)
 - [Eason 陳奕迅 '不要說話' MV](https://www.youtube.com/watch?v=Lzb33Ku8k_w)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [告五人 Accusefive [ 愛在夏天－盛夏之約 Love In Summer ] Official Music Video](https://www.youtube.com/watch?v=6Xu-TGL-_qk)
+- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
+- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
