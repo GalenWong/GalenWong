@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [洪佩瑜 - 踮起腳尖愛(HD非官方版完整MV)](https://www.youtube.com/watch?v=4gG-_HxNy_s)
-- [Eason 陳奕迅 '不要說話' MV](https://www.youtube.com/watch?v=Lzb33Ku8k_w)
-- [告五人 Accusefive [ 愛在夏天－盛夏之約 Love In Summer ] Official Music Video](https://www.youtube.com/watch?v=6Xu-TGL-_qk)
-- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
-- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
+- [伍佰 Wu Bai&China Blue【痛哭的人 The person who weeps bitterly】Official Music Video](https://www.youtube.com/watch?v=P8fqHvr82-o)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
+- [張震嶽 official MV 一開始就沒退路](https://www.youtube.com/watch?v=zElL8y8VbkY)
+- [CosmosPeople宇宙人 [ 如果我們還在一起  What If We ] Official Music Video](https://www.youtube.com/watch?v=mBB_67OxXIo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
