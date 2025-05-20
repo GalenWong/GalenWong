@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【龍捲風 Tornado】-Official Music Video](https://www.youtube.com/watch?v=RPWDeLqsN0g)
-- [周杰倫 Jay Chou【黑色幽默 Dark Humor】-Official Music Video](https://www.youtube.com/watch?v=wRT-5heURhY)
-- [【顏社】蛋堡 Soft Lipa - 關於小熊 (Official Music Video)](https://www.youtube.com/watch?v=7gCtkT1A1tA)
+- [張震嶽 official MV 一開始就沒退路](https://www.youtube.com/watch?v=zElL8y8VbkY)
 - [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
+- [梁靜茹 Fish Leong【可惜不是你 Unfortunately Not You】Official Music Video](https://www.youtube.com/watch?v=k_l7FVsqUyM)
+- [何韻詩 HOCC《癡情司》官方 MV](https://www.youtube.com/watch?v=C9E14FWilvw)
+- [[avex官方] A-Lin 給我一個理由忘記 (MV完整版)](https://www.youtube.com/watch?v=F5FlN-NBGo8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
