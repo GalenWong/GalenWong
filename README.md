@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張震嶽 official MV 一開始就沒退路](https://www.youtube.com/watch?v=zElL8y8VbkY)
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [梁靜茹 Fish Leong【可惜不是你 Unfortunately Not You】Official Music Video](https://www.youtube.com/watch?v=k_l7FVsqUyM)
-- [何韻詩 HOCC《癡情司》官方 MV](https://www.youtube.com/watch?v=C9E14FWilvw)
 - [[avex官方] A-Lin 給我一個理由忘記 (MV完整版)](https://www.youtube.com/watch?v=F5FlN-NBGo8)
+- [何韻詩 HOCC《癡情司》官方 MV](https://www.youtube.com/watch?v=C9E14FWilvw)
+- [梁靜茹 Fish Leong【可惜不是你 Unfortunately Not You】Official Music Video](https://www.youtube.com/watch?v=k_l7FVsqUyM)
+- [aMEI張惠妹 [ Full Name 連名帶姓 ] Official Music Video](https://www.youtube.com/watch?v=qf09H2xFq2s)
+- [王菲 - 紅豆](https://www.youtube.com/watch?v=5wmfXve11rM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
