@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方] A-Lin 給我一個理由忘記 (MV完整版)](https://www.youtube.com/watch?v=F5FlN-NBGo8)
-- [何韻詩 HOCC《癡情司》官方 MV](https://www.youtube.com/watch?v=C9E14FWilvw)
-- [梁靜茹 Fish Leong【可惜不是你 Unfortunately Not You】Official Music Video](https://www.youtube.com/watch?v=k_l7FVsqUyM)
-- [aMEI張惠妹 [ Full Name 連名帶姓 ] Official Music Video](https://www.youtube.com/watch?v=qf09H2xFq2s)
-- [王菲 - 紅豆](https://www.youtube.com/watch?v=5wmfXve11rM)
+- [拍謝少年 Sorry Youth -  暗流 Undercurrent ft. 安溥 Anpu｜2019大港開唱 Megaport Festival](https://www.youtube.com/watch?v=YYNPArbfNgQ)
+- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
+- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [YeYe - うんざりですよ（Official Music Video）](https://www.youtube.com/watch?v=Hjq2gsW5wWg)
+- [國蛋GorDoN《睡吧寶貝》Official Live Video 正式釋出](https://www.youtube.com/watch?v=1Hpq7ndSi34)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
