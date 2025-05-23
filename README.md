@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [拍謝少年 Sorry Youth -  暗流 Undercurrent ft. 安溥 Anpu｜2019大港開唱 Megaport Festival](https://www.youtube.com/watch?v=YYNPArbfNgQ)
-- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
 - [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
-- [YeYe - うんざりですよ（Official Music Video）](https://www.youtube.com/watch?v=Hjq2gsW5wWg)
 - [國蛋GorDoN《睡吧寶貝》Official Live Video 正式釋出](https://www.youtube.com/watch?v=1Hpq7ndSi34)
+- [【好樂團 GoodBand】－我愛你，卻不能拯救你 Demo](https://www.youtube.com/watch?v=RucWamnU6Ic)
+- [【顏社】國蛋 GorDoN - 她教我過馬路 (Official Music Video)](https://www.youtube.com/watch?v=0n1FUvrtlQU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
