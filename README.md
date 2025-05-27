@@ -79,9 +79,9 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [林夕x陳奕迅 (Albert Leung x Eason Chan) 廣東歌集v.5 富士山下丨一絲不掛丨不如不見丨不來也不去 [歌詞同步/粵拼字幕][Jyutping Lyrics]](https://www.youtube.com/watch?v=c00aPmuXlmU)
 - [拍謝少年 Sorry Youth -  暗流 Undercurrent ft. 安溥 Anpu｜2019大港開唱 Megaport Festival](https://www.youtube.com/watch?v=YYNPArbfNgQ)
-- [icyball 冰球樂團 - 醉後喜歡我 (Official Video)](https://www.youtube.com/watch?v=3OHT350Acj4)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
 - [YeYe - うんざりですよ（Official Music Video）](https://www.youtube.com/watch?v=Hjq2gsW5wWg)
 - [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
