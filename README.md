@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [林隆璇 Kevin Lin - 你那麼愛她 (官方版MV) - 電視劇《前男友不是人》插曲](https://www.youtube.com/watch?v=dy70lVVxhh4)
-- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
-- [[avex官方] A-Lin 給我一個理由忘記 (MV完整版)](https://www.youtube.com/watch?v=F5FlN-NBGo8)
-- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
-- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
+- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
+- [周杰倫 Jay Chou【七里香 Orange Jasmine】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
+- [ミルク](https://www.youtube.com/watch?v=a78WIWZk3a4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
