@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [國蛋GorDoN《睡吧寶貝》Official Live Video 正式釋出](https://www.youtube.com/watch?v=1Hpq7ndSi34)
-- [甜約翰 Sweet John【 Dear 】Official Audio](https://www.youtube.com/watch?v=eOxmFRTBgao)
-- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
+- [朴樹 - 平凡之路 [歌詞字幕][電影《後會無期》主題曲][完整高清音質] The Continent Theme Song - The Ordinary Road (Pu Shu)](https://www.youtube.com/watch?v=NjTT5_RSkw4)
 - [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
+- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
+- [麋先生 MIXER [ 長成什麼樣子算愛情 Love, Loved, Loving ] Official Music Video](https://www.youtube.com/watch?v=ezTI-7oBCAM)
+- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
