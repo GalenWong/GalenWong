@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
-- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
-- [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [麋先生 MIXER [ 長成什麼樣子算愛情 Love, Loved, Loving ] Official Music Video](https://www.youtube.com/watch?v=ezTI-7oBCAM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
