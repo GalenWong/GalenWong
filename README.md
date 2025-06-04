@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [麋先生 MIXER [ 長成什麼樣子算愛情 Love, Loved, Loving ] Official Music Video](https://www.youtube.com/watch?v=ezTI-7oBCAM)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [Khalil Fong (方大同) - Special Person (特別的人) Official Music Video](https://www.youtube.com/watch?v=IscPlLsh6iU)
+- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
+- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
+- [Walking Towards Me](https://www.youtube.com/watch?v=AnYg-doDAzQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
