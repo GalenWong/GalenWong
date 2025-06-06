@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
-- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [不要說愛我 張震嶽](https://www.youtube.com/watch?v=f5ogy40w62k)
-- [我知道我一定走不開](https://www.youtube.com/watch?v=vItYyi_KVzI)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [溫室雜草 Easy Weeds【快樂的形狀 The Shape of Joy】Official Visualizer](https://www.youtube.com/watch?v=D_lV-mYQurQ)
+- [CosmosPeople宇宙人 [ 如果我們還在一起  What If We ] Official Music Video](https://www.youtube.com/watch?v=mBB_67OxXIo)
+- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
