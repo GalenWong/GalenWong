@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [MV 伍佰 淚橋](https://www.youtube.com/watch?v=Jceahcimozk)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [溫室雜草 Easy Weeds【快樂的形狀 The Shape of Joy】Official Visualizer](https://www.youtube.com/watch?v=D_lV-mYQurQ)
-- [CosmosPeople宇宙人 [ 如果我們還在一起  What If We ] Official Music Video](https://www.youtube.com/watch?v=mBB_67OxXIo)
 - [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [Mr. 【森林】MV](https://www.youtube.com/watch?v=cXhMmKFpFeQ)
+- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
+- [伍佰 Wu Bai&China Blue【白鴿 White dove】Official Music Video](https://www.youtube.com/watch?v=lNuXbIfwXP4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
