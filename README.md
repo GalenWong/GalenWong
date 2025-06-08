@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [Mr. 【森林】MV](https://www.youtube.com/watch?v=cXhMmKFpFeQ)
-- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
-- [伍佰 Wu Bai&China Blue【白鴿 White dove】Official Music Video](https://www.youtube.com/watch?v=lNuXbIfwXP4)
+- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
+- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
+- [I Am Fine](https://www.youtube.com/watch?v=Zs42LRnMIB0)
+- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
+- [當冬夜漸暖](https://www.youtube.com/watch?v=pD2VWvz9ZCY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
