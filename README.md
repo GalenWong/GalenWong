@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunset Rollercoaster - Come back to me (Original song by RM of @BTS )](https://www.youtube.com/watch?v=6tG3B8Cewm4)
-- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
-- [謊言留聲機 Lie Gramophone - 公路電影 Those Days ( Official Music Video )](https://www.youtube.com/watch?v=sUQ-hQVpHPM)
-- [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
-- [孫燕姿 Sun Yan-Zi - 我的愛 My Love (華納 official 官方完整版MV)](https://www.youtube.com/watch?v=qyMm2-XsCB4)
+- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
+- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
+- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
+- [First Day](https://www.youtube.com/watch?v=urGxf03GQCo)
+- [當冬夜漸暖](https://www.youtube.com/watch?v=pD2VWvz9ZCY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
