@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi - 我的愛 My Love (華納 official 官方完整版MV)](https://www.youtube.com/watch?v=qyMm2-XsCB4)
-- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light (official 官方完整版MV)](https://www.youtube.com/watch?v=JCqJcK3v4q0)
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
-- [孫燕姿 Sun Yan-Zi - 眼淚成詩 Poems & Tears (official 官方完整版MV)](https://www.youtube.com/watch?v=CXoQ6QU1fZ4)
+- [孫燕姿 Sun Yan-Zi - 我也很想他 I Miss Him, Too (official 官方完整版MV)](https://www.youtube.com/watch?v=eoZEBwX6nJ4)
+- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
+- [孫燕姿 Sun Yan-Zi - 雨天 Rainy Day (official 官方完整版MV)](https://www.youtube.com/watch?v=_zMR-JJMIIE)
+- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
