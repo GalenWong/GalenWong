@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi - 我也很想他 I Miss Him, Too (official 官方完整版MV)](https://www.youtube.com/watch?v=eoZEBwX6nJ4)
+- [Invisible](https://www.youtube.com/watch?v=ggRPHwe_tW4)
 - [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
-- [孫燕姿 Sun Yan-Zi - 雨天 Rainy Day (official 官方完整版MV)](https://www.youtube.com/watch?v=_zMR-JJMIIE)
-- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
-- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
+- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
+- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
+- [Yu Tian](https://www.youtube.com/watch?v=xtnZzRGOQMg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
