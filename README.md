@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Invisible](https://www.youtube.com/watch?v=ggRPHwe_tW4)
-- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
-- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
-- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
 - [Yu Tian](https://www.youtube.com/watch?v=xtnZzRGOQMg)
+- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
+- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
+- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
+- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
