@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yu Tian](https://www.youtube.com/watch?v=xtnZzRGOQMg)
-- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
+- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
+- [Invisible](https://www.youtube.com/watch?v=ggRPHwe_tW4)
+- [Love Certificate](https://www.youtube.com/watch?v=8aVHWjeavwE)
 - [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
-- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
-- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
+- [The Moment](https://www.youtube.com/watch?v=Gsy7BAQOJIE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
