@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
-- [Invisible](https://www.youtube.com/watch?v=ggRPHwe_tW4)
-- [Love Certificate](https://www.youtube.com/watch?v=8aVHWjeavwE)
-- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
-- [The Moment](https://www.youtube.com/watch?v=Gsy7BAQOJIE)
+- [甜約翰 Sweet John【 Dear 】Official Audio](https://www.youtube.com/watch?v=eOxmFRTBgao)
+- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
+- [Abscondence](https://www.youtube.com/watch?v=yTxXKA8dYuc)
+- [Starting Point](https://www.youtube.com/watch?v=ZUpnbKGSjBo)
+- [Poems & Tears](https://www.youtube.com/watch?v=52kbC8hiZRQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
