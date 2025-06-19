@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light (official 官方完整版MV)](https://www.youtube.com/watch?v=JCqJcK3v4q0)
 - [孫燕姿 Sun Yan-Zi - 雨天 Rainy Day (official 官方完整版MV)](https://www.youtube.com/watch?v=_zMR-JJMIIE)
+- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light (official 官方完整版MV)](https://www.youtube.com/watch?v=JCqJcK3v4q0)
+- [Our Love](https://www.youtube.com/watch?v=6kxd4DvQHmY)
 - [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
-- [Crispy脆樂團 [ 相愛就是說了100次對不起 Sorry X 100 ] Official Music Video](https://www.youtube.com/watch?v=b0wS9GxGfPs)
-- [【HD】房東的貓 - 下一站茶山劉 [完整高清音質] The Landlord's Cat - The Next Stop Is Chashan Liu](https://www.youtube.com/watch?v=0J5zEI7aAe4)
+- [孫燕姿 Sun Yan-Zi - 祝你開心 Wish You Happiness (official 官方完整版MV)](https://www.youtube.com/watch?v=acsV9ywR_Rs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
