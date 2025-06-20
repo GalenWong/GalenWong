@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi - 雨天 Rainy Day (official 官方完整版MV)](https://www.youtube.com/watch?v=_zMR-JJMIIE)
-- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light (official 官方完整版MV)](https://www.youtube.com/watch?v=JCqJcK3v4q0)
-- [Our Love](https://www.youtube.com/watch?v=6kxd4DvQHmY)
-- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
-- [孫燕姿 Sun Yan-Zi - 祝你開心 Wish You Happiness (official 官方完整版MV)](https://www.youtube.com/watch?v=acsV9ywR_Rs)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [被動](https://www.youtube.com/watch?v=yM8sWi3gFHw)
+- [周杰倫 Jay Chou【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
+- [春天有腳](https://www.youtube.com/watch?v=AzNjXN_Ou_c)
+- [張震嶽 ayal komod【浪人的... Surfer's Love Story】Official Music Video](https://www.youtube.com/watch?v=ZIvWrKYdMQE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
