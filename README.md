@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [被動](https://www.youtube.com/watch?v=yM8sWi3gFHw)
-- [周杰倫 Jay Chou【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
-- [春天有腳](https://www.youtube.com/watch?v=AzNjXN_Ou_c)
 - [張震嶽 ayal komod【浪人的... Surfer's Love Story】Official Music Video](https://www.youtube.com/watch?v=ZIvWrKYdMQE)
+- [春天有腳](https://www.youtube.com/watch?v=AzNjXN_Ou_c)
+- [伍佰 Wu Bai&China Blue【牽掛 Lingering】Official Music Video](https://www.youtube.com/watch?v=WsAwDBG6Kk8)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
+- [伍佰 Wu Bai&China Blue【愛你一萬年 Love you ten thousand years】Official Music Video](https://www.youtube.com/watch?v=CgAJAmP14kQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
