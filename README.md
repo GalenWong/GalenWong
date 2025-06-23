@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [孫燕姿 Sun Yanzi《日落》Afterwards Official Music Video](https://www.youtube.com/watch?v=wVpUg6tP6_M)
+- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
+- [周杰倫 Jay Chou【給我一首歌的時間 Give me the Time of One Song】-Official Music Video](https://www.youtube.com/watch?v=wt0RKW3aC84)
 - [魏如萱 waa wei - 刻在我心底的名字（盧廣仲） cover 【電影《刻在你心底的名字》主題曲】](https://www.youtube.com/watch?v=4hxO8-YdB6s)
-- [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
-- [孤獨患者 (國)](https://www.youtube.com/watch?v=txsdlO2DP34)
-- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
-- [陳奕迅【最後派對】MV](https://www.youtube.com/watch?v=sjyMo1oAspo)
+- [周杰倫 Jay Chou【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
