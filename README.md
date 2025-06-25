@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yanzi《日落》Afterwards Official Music Video](https://www.youtube.com/watch?v=wVpUg6tP6_M)
-- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
+- [My Secret (G.E.M. Version)](https://www.youtube.com/watch?v=NAZpOt36a-s)
+- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
 - [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
-- [【ENG SUB】A-Yue 張震嶽【Love me, don’t go 愛我別走】Official Music Video](https://www.youtube.com/watch?v=rESSeWOnTnQ)
-- [魏如萱 waa wei - 刻在我心底的名字（盧廣仲） cover 【電影《刻在你心底的名字》主題曲】](https://www.youtube.com/watch?v=4hxO8-YdB6s)
+- [Stranger](https://www.youtube.com/watch?v=xrlzcEE8C5s)
+- [孫燕姿 Sun Yanzi《日落》Afterwards Official Music Video](https://www.youtube.com/watch?v=wVpUg6tP6_M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
