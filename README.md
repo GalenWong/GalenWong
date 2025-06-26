@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [My Secret (G.E.M. Version)](https://www.youtube.com/watch?v=NAZpOt36a-s)
-- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
 - [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
-- [Stranger](https://www.youtube.com/watch?v=xrlzcEE8C5s)
+- [陳奕迅【苦瓜】MV](https://www.youtube.com/watch?v=UdWlBBqiC7I)
 - [孫燕姿 Sun Yanzi《日落》Afterwards Official Music Video](https://www.youtube.com/watch?v=wVpUg6tP6_M)
+- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
