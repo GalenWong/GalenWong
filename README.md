@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [My Secret (G.E.M. Version)](https://www.youtube.com/watch?v=NAZpOt36a-s)
-- [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
+- [周杰倫 Jay Chou【說了再見 Say Goodbye】Official MV](https://www.youtube.com/watch?v=KKsioz-zaZY)
 - [陳奕迅【苦瓜】MV](https://www.youtube.com/watch?v=UdWlBBqiC7I)
-- [孫燕姿 Sun Yanzi《日落》Afterwards Official Music Video](https://www.youtube.com/watch?v=wVpUg6tP6_M)
-- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [淘汰](https://www.youtube.com/watch?v=O8bTDWz8T8c)
+- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
+- [陳綺貞 Cheer Chen【旅行的意義 Travel is Meaningful】Official Music Video (官方HD高畫質版)](https://www.youtube.com/watch?v=tv95k0zqnaA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
