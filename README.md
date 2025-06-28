@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【說了再見 Say Goodbye】Official MV](https://www.youtube.com/watch?v=KKsioz-zaZY)
-- [陳奕迅【苦瓜】MV](https://www.youtube.com/watch?v=UdWlBBqiC7I)
-- [淘汰](https://www.youtube.com/watch?v=O8bTDWz8T8c)
-- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
-- [陳綺貞 Cheer Chen【旅行的意義 Travel is Meaningful】Official Music Video (官方HD高畫質版)](https://www.youtube.com/watch?v=tv95k0zqnaA)
+- [Abandon](https://www.youtube.com/watch?v=NgdEqOM9fFM)
+- [極美](https://www.youtube.com/watch?v=K11szi2SXSM)
+- [孫燕姿 Sun Yan-Zi - 開始懂了 Realize (official 官方完整版MV)](https://www.youtube.com/watch?v=h5eRbbOnPRc)
+- [陳奕迅 Eason Chan - 陀飛輪 (Official Music Video)](https://www.youtube.com/watch?v=URUIcYDq3_I)
+- [《龍舌蘭》TEQUILA 陳奕迅 eason and the duo band [Official MV]](https://www.youtube.com/watch?v=pB8nwmbPfo4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
