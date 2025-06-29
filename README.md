@@ -81,8 +81,8 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Abandon](https://www.youtube.com/watch?v=NgdEqOM9fFM)
 - [極美](https://www.youtube.com/watch?v=K11szi2SXSM)
+- [The Moment](https://www.youtube.com/watch?v=3R6ZFma7YZY)
 - [孫燕姿 Sun Yan-Zi - 開始懂了 Realize (official 官方完整版MV)](https://www.youtube.com/watch?v=h5eRbbOnPRc)
-- [陳奕迅 Eason Chan - 陀飛輪 (Official Music Video)](https://www.youtube.com/watch?v=URUIcYDq3_I)
 - [《龍舌蘭》TEQUILA 陳奕迅 eason and the duo band [Official MV]](https://www.youtube.com/watch?v=pB8nwmbPfo4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
