@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [周杰倫 Jay Chou【說了再見 Say Goodbye】Official MV](https://www.youtube.com/watch?v=KKsioz-zaZY)
-- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
-- [淘汰](https://www.youtube.com/watch?v=O8bTDWz8T8c)
+- [Abandon](https://www.youtube.com/watch?v=NgdEqOM9fFM)
+- [極美](https://www.youtube.com/watch?v=K11szi2SXSM)
+- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
+- [Abscondence](https://www.youtube.com/watch?v=yTxXKA8dYuc)
+- [The Moment](https://www.youtube.com/watch?v=3R6ZFma7YZY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
