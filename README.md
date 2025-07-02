@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [孫燕姿 Sun Yan-Zi - 我的愛 My Love (華納 official 官方完整版MV)](https://www.youtube.com/watch?v=qyMm2-XsCB4)
+- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light (official 官方完整版MV)](https://www.youtube.com/watch?v=JCqJcK3v4q0)
+- [孫燕姿 Sun Yan-Zi - 眼淚成詩 Poems & Tears (official 官方完整版MV)](https://www.youtube.com/watch?v=CXoQ6QU1fZ4)
 - [Abandon](https://www.youtube.com/watch?v=NgdEqOM9fFM)
-- [極美](https://www.youtube.com/watch?v=K11szi2SXSM)
-- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
-- [Abscondence](https://www.youtube.com/watch?v=yTxXKA8dYuc)
-- [The Moment](https://www.youtube.com/watch?v=3R6ZFma7YZY)
+- [Love Certificate](https://www.youtube.com/watch?v=8aVHWjeavwE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
