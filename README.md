@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi - 我的愛 My Love (華納 official 官方完整版MV)](https://www.youtube.com/watch?v=qyMm2-XsCB4)
-- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light (official 官方完整版MV)](https://www.youtube.com/watch?v=JCqJcK3v4q0)
-- [孫燕姿 Sun Yan-Zi - 眼淚成詩 Poems & Tears (official 官方完整版MV)](https://www.youtube.com/watch?v=CXoQ6QU1fZ4)
-- [Abandon](https://www.youtube.com/watch?v=NgdEqOM9fFM)
+- [孫燕姿 Sun Yan-Zi - 天黑黑 Cloudy Day 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=vDfybN1kfP0)
+- [孫燕姿 Sun Yan-Zi - 遇見 Encounter  4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=WObbdwgB41c)
 - [Love Certificate](https://www.youtube.com/watch?v=8aVHWjeavwE)
+- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
