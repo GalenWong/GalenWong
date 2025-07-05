@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [半島鐵盒](https://www.youtube.com/watch?v=dsUTcSVdU2U)
+- [Love Certificate](https://www.youtube.com/watch?v=8aVHWjeavwE)
 - [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
-- [七里香](https://www.youtube.com/watch?v=U8E3j6y__BA)
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [孫燕姿 Sun Yan-Zi - 遇見 Encounter  4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=WObbdwgB41c)
 - [周杰倫 Jay Chou【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
