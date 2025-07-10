@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
 - [【顏社】蛋堡 Soft Lipa - 收斂水 (Official Music Video)](https://www.youtube.com/watch?v=xPU-cgPjZKk)
-- [陳綺貞 Cheer Chen【太聰明 Too smart】Official Music Video](https://www.youtube.com/watch?v=33rdx577PxY)
 - [Love Certificate](https://www.youtube.com/watch?v=8aVHWjeavwE)
+- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
+- [開不了口](https://www.youtube.com/watch?v=TKXYh_GLnGo)
+- [孫燕姿 Sun Yan-Zi - 遇見 Encounter  4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=WObbdwgB41c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
