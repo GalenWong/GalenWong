@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】蛋堡 Soft Lipa - 收斂水 (Official Music Video)](https://www.youtube.com/watch?v=xPU-cgPjZKk)
-- [Love Certificate](https://www.youtube.com/watch?v=8aVHWjeavwE)
-- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
-- [開不了口](https://www.youtube.com/watch?v=TKXYh_GLnGo)
-- [孫燕姿 Sun Yan-Zi - 遇見 Encounter  4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=WObbdwgB41c)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
+- [Mercury Records](https://www.youtube.com/watch?v=eLTFJOA2C_E)
+- [淘汰](https://www.youtube.com/watch?v=O8bTDWz8T8c)
+- [怪天氣](https://www.youtube.com/watch?v=hXwjSCIlaVk)
+- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
