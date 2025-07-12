@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
+- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
+- [告五人 Accusefive [ 愛在夏天－盛夏之約 Love In Summer ] Official Music Video](https://www.youtube.com/watch?v=6Xu-TGL-_qk)
 - [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
-- [Mercury Records](https://www.youtube.com/watch?v=eLTFJOA2C_E)
-- [淘汰](https://www.youtube.com/watch?v=O8bTDWz8T8c)
-- [怪天氣](https://www.youtube.com/watch?v=hXwjSCIlaVk)
-- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
+- [aMEI張惠妹 [ Full Name 連名帶姓 ] Official Music Video](https://www.youtube.com/watch?v=qf09H2xFq2s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
