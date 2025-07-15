@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
-- [Phum Viphurit - Hello, Anxiety [Official Video]](https://www.youtube.com/watch?v=b7ffmtnuSGM)
-- [Gordon Flanders - 他一定比我好 (Official Music Video)](https://www.youtube.com/watch?v=Rl_DtnmymWo)
-- [Mercury Records](https://www.youtube.com/watch?v=eLTFJOA2C_E)
-- [傷心欲絕 Wayne's So Sad - 進城 City Lights Calling](https://www.youtube.com/watch?v=dLg8835chzE)
+- [思念是一種病](https://www.youtube.com/watch?v=LnE1bWtxgok)
+- [愛著愛著就永遠](https://www.youtube.com/watch?v=sWkPMM6sVlM)
+- [Last Dance](https://www.youtube.com/watch?v=Tkw8jT-9xZc)
+- [輕輕 (Original)](https://www.youtube.com/watch?v=j8yNalzF5vw)
+- [給我一個理由忘記](https://www.youtube.com/watch?v=H3O4rREOZt8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
