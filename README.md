@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [思念是一種病](https://www.youtube.com/watch?v=LnE1bWtxgok)
-- [愛著愛著就永遠](https://www.youtube.com/watch?v=sWkPMM6sVlM)
-- [Last Dance](https://www.youtube.com/watch?v=Tkw8jT-9xZc)
+- [Gordon Flanders - 他一定比我好 (Official Music Video)](https://www.youtube.com/watch?v=Rl_DtnmymWo)
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
 - [輕輕 (Original)](https://www.youtube.com/watch?v=j8yNalzF5vw)
-- [給我一個理由忘記](https://www.youtube.com/watch?v=H3O4rREOZt8)
+- [溫蒂漫步 Wendy Wander - 不夜城 Sleepless City Live in Hong Kong (Official Live Music Video)](https://www.youtube.com/watch?v=c9ZoKQByTfY)
+- [林依晨 Ariel Lin【孤單北半球 Alone in the Northern Hemisphere】TVBS-G偶像劇「愛情合約」片尾曲 Official Music Video](https://www.youtube.com/watch?v=_C-MwjH6laM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
