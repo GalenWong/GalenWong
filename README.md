@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
+- [十万嬉皮](https://www.youtube.com/watch?v=xLu_r5FWAIo)
 - [Gordon Flanders - 他一定比我好 (Official Music Video)](https://www.youtube.com/watch?v=Rl_DtnmymWo)
 - [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
-- [Bubble (G.E.M. Version)](https://www.youtube.com/watch?v=g-41h1LJCEM)
-- [林依晨 Ariel Lin【孤單北半球 Alone in the Northern Hemisphere】TVBS-G偶像劇「愛情合約」片尾曲 Official Music Video](https://www.youtube.com/watch?v=_C-MwjH6laM)
+- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
+- [My Desired Happiness](https://www.youtube.com/watch?v=yIjI-klkrBM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
