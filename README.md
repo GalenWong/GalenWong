@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [十万嬉皮](https://www.youtube.com/watch?v=xLu_r5FWAIo)
-- [Gordon Flanders - 他一定比我好 (Official Music Video)](https://www.youtube.com/watch?v=Rl_DtnmymWo)
-- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
-- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
-- [My Desired Happiness](https://www.youtube.com/watch?v=yIjI-klkrBM)
+- [斑马，斑马](https://www.youtube.com/watch?v=FZ8o_N57RYk)
+- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [國蛋 GorDoN - Yesterday (Blizzard 2015)](https://www.youtube.com/watch?v=dCl-wDfy4Lk)
+- [如夢似幻](https://www.youtube.com/watch?v=AYAp6n4JvOc)
+- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
