@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [斑马，斑马](https://www.youtube.com/watch?v=FZ8o_N57RYk)
-- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
-- [國蛋 GorDoN - Yesterday (Blizzard 2015)](https://www.youtube.com/watch?v=dCl-wDfy4Lk)
-- [如夢似幻](https://www.youtube.com/watch?v=AYAp6n4JvOc)
-- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
+- [Gordon Flanders - 他一定比我好 (Official Music Video)](https://www.youtube.com/watch?v=Rl_DtnmymWo)
+- [缸](https://www.youtube.com/watch?v=SB3_m1jU-BU)
+- [秘密](https://www.youtube.com/watch?v=9_Dhy1r3U38)
+- [大風吹](https://www.youtube.com/watch?v=IoKn3SoD2pM)
+- [山雀](https://www.youtube.com/watch?v=r6cXfBnxHI4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
