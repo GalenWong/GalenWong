@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Gordon Flanders - 他一定比我好 (Official Music Video)](https://www.youtube.com/watch?v=Rl_DtnmymWo)
-- [缸](https://www.youtube.com/watch?v=SB3_m1jU-BU)
-- [秘密](https://www.youtube.com/watch?v=9_Dhy1r3U38)
-- [大風吹](https://www.youtube.com/watch?v=IoKn3SoD2pM)
-- [山雀](https://www.youtube.com/watch?v=r6cXfBnxHI4)
+- [軌跡](https://www.youtube.com/watch?v=dMIQfW6XQ-A)
+- [斑马，斑马](https://www.youtube.com/watch?v=FZ8o_N57RYk)
+- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [情歌](https://www.youtube.com/watch?v=itjyryJ-8IU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
