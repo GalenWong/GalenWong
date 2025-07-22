@@ -79,10 +79,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [軌跡](https://www.youtube.com/watch?v=dMIQfW6XQ-A)
-- [斑马，斑马](https://www.youtube.com/watch?v=FZ8o_N57RYk)
-- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
 - [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [斑马，斑马](https://www.youtube.com/watch?v=FZ8o_N57RYk)
+- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
 - [情歌](https://www.youtube.com/watch?v=itjyryJ-8IU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
