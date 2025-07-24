@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
 - [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
-- [不能說的秘密](https://www.youtube.com/watch?v=22sctzlPeAI)
-- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
-- [安和桥](https://www.youtube.com/watch?v=GJNOEdQSEeQ)
+- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
+- [deca joins | Go Slow【Official Music Video】](https://www.youtube.com/watch?v=ikn3Drf3PpU)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
