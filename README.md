@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [愛情怎麼了嗎 (Self-complacent)](https://www.youtube.com/watch?v=EkliiXVdo70)
-- [不想去遠方 (Do Not Want to Go the Distance)](https://www.youtube.com/watch?v=34stZn7TG4Y)
-- [【HD】房東的貓 - 下一站茶山劉 [完整高清音質] The Landlord's Cat - The Next Stop Is Chashan Liu](https://www.youtube.com/watch?v=0J5zEI7aAe4)
-- [Wui229](https://www.youtube.com/watch?v=i67Oes68e3w)
-- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
+- [說好的幸福呢](https://www.youtube.com/watch?v=vpBYwcf1p9I)
+- [不能說的秘密](https://www.youtube.com/watch?v=22sctzlPeAI)
+- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=H0rgSQXYd84)
+- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
+- [孫燕姿 Sun Yan-Zi - 開始懂了 Realize 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=oXX9HtnNgls)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
