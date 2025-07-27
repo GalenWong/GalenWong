@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [說好的幸福呢](https://www.youtube.com/watch?v=vpBYwcf1p9I)
-- [不能說的秘密](https://www.youtube.com/watch?v=22sctzlPeAI)
-- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=H0rgSQXYd84)
-- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
+- [溫室雜草 Easy Weeds【春天有腳】Official Lyric Video](https://www.youtube.com/watch?v=25CsgpLMVNg)
 - [孫燕姿 Sun Yan-Zi - 開始懂了 Realize 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=oXX9HtnNgls)
+- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=H0rgSQXYd84)
+- [Layton Wu - Summer Night Wind 夏夜晚風 (Cover)](https://www.youtube.com/watch?v=Ky1Owj98qa4)
+- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
