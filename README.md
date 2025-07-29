@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [安和桥](https://www.youtube.com/watch?v=GJNOEdQSEeQ)
-- [沈澱](https://www.youtube.com/watch?v=fWfUhUvnpsE)
-- [陳奕迅 Eason Chan《猜情尋》[Official MV]](https://www.youtube.com/watch?v=vFASUEFWvpY)
-- [爛泥](https://www.youtube.com/watch?v=2fQ5es-qLaY)
-- [莉莉安](https://www.youtube.com/watch?v=b9uKjCAMCIM)
+- [Yanzi Sun - 孫燕姿 極美 Official Music Video](https://www.youtube.com/watch?v=19m_Y531sX8)
+- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
+- [太聰明](https://www.youtube.com/watch?v=uaqypTNjtFo)
+- [Soft Lipa - 饒我流](https://www.youtube.com/watch?v=FX3YyuVm8I0)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
