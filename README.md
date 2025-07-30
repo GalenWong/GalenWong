@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Yanzi Sun - 孫燕姿 極美 Official Music Video](https://www.youtube.com/watch?v=19m_Y531sX8)
-- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
-- [太聰明](https://www.youtube.com/watch?v=uaqypTNjtFo)
 - [Soft Lipa - 饒我流](https://www.youtube.com/watch?v=FX3YyuVm8I0)
-- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
+- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
+- [【顏社】國蛋 GorDoN - 她教我過馬路 (Official Music Video)](https://www.youtube.com/watch?v=0n1FUvrtlQU)
+- [國蛋 GorDoN - Yesterday (Blizzard 2015)](https://www.youtube.com/watch?v=dCl-wDfy4Lk)
+- [Yanzi Sun - 孫燕姿 極美 Official Music Video](https://www.youtube.com/watch?v=19m_Y531sX8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
