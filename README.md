@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Soft Lipa - 饒我流](https://www.youtube.com/watch?v=FX3YyuVm8I0)
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [【顏社】國蛋 GorDoN - 她教我過馬路 (Official Music Video)](https://www.youtube.com/watch?v=0n1FUvrtlQU)
-- [國蛋 GorDoN - Yesterday (Blizzard 2015)](https://www.youtube.com/watch?v=dCl-wDfy4Lk)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [甜約翰 Sweet John【 降雨機率 Rain Onto the One 】Official Music Video](https://www.youtube.com/watch?v=3UYOS8Pcsks)
 - [Yanzi Sun - 孫燕姿 極美 Official Music Video](https://www.youtube.com/watch?v=19m_Y531sX8)
+- [Soft Lipa - 饒我流](https://www.youtube.com/watch?v=FX3YyuVm8I0)
+- [國蛋 GorDoN - Yesterday (Blizzard 2015)](https://www.youtube.com/watch?v=dCl-wDfy4Lk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
