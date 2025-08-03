@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Soft Lipa - 饒我流](https://www.youtube.com/watch?v=FX3YyuVm8I0)
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
 - [【顏社】國蛋 GorDoN - 她教我過馬路 (Official Music Video)](https://www.youtube.com/watch?v=0n1FUvrtlQU)
+- [孫燕姿 YanZi Sun– 尚好的青春 (Official Music Video)](https://www.youtube.com/watch?v=azRd-cvU1oU)
 - [Yanzi Sun - 孫燕姿 極美 Official Music Video](https://www.youtube.com/watch?v=19m_Y531sX8)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
+- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
