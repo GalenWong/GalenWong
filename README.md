@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】國蛋 GorDoN - 她教我過馬路 (Official Music Video)](https://www.youtube.com/watch?v=0n1FUvrtlQU)
-- [孫燕姿 YanZi Sun– 尚好的青春 (Official Music Video)](https://www.youtube.com/watch?v=azRd-cvU1oU)
 - [Yanzi Sun - 孫燕姿 極美 Official Music Video](https://www.youtube.com/watch?v=19m_Y531sX8)
-- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
-- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
+- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [周杰倫 Jay Chou【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
+- [旅行的意義 (Travel is Meaningful)](https://www.youtube.com/watch?v=KTQGxaSY-AE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
