@@ -81,9 +81,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
 - [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
+- [陳奕迅 Eason Chan《打得火熱》[MV]](https://www.youtube.com/watch?v=KWkCT3VaUjw)
+- [HEBE TIEN 田馥甄 [你就不要想起我 You Better Not Think About Me] Official MV HD](https://www.youtube.com/watch?v=GsKbnsUN2RE)
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
-- [魏如萱 waa wei [ 彼個所在 Heaven ] Official Music Video](https://www.youtube.com/watch?v=86wypSCXK9M)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
