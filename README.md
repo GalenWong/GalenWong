@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
+- [Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video](https://www.youtube.com/watch?v=pd3eV-SG23E)
 - [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
-- [陳奕迅 Eason Chan《打得火熱》[MV]](https://www.youtube.com/watch?v=KWkCT3VaUjw)
-- [HEBE TIEN 田馥甄 [你就不要想起我 You Better Not Think About Me] Official MV HD](https://www.youtube.com/watch?v=GsKbnsUN2RE)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
