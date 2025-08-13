@@ -81,8 +81,8 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
 - [Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video](https://www.youtube.com/watch?v=pd3eV-SG23E)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
+- [知足 live in the sky](https://www.youtube.com/watch?v=N-Fl_tgMXC4)
 - [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
