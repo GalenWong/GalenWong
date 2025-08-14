@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [李榮浩 Ronghao Li - 年少有為 If I Were Young (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=Dnj5Tcpev0Q)
 - [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
 - [Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video](https://www.youtube.com/watch?v=pd3eV-SG23E)
-- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
-- [知足 live in the sky](https://www.youtube.com/watch?v=N-Fl_tgMXC4)
-- [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
