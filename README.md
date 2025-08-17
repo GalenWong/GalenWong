@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [方大同 Khalil Fong - 紅豆 Red Bean [Official 官方完整版MV]](https://www.youtube.com/watch?v=3nG--h_EJyc)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [會呼吸的痛](https://www.youtube.com/watch?v=TY3nj5ANRrk)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
