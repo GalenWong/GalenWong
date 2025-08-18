@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
 - [方大同 Khalil Fong - 紅豆 Red Bean [Official 官方完整版MV]](https://www.youtube.com/watch?v=3nG--h_EJyc)
-- [會呼吸的痛](https://www.youtube.com/watch?v=TY3nj5ANRrk)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
-- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
+- [Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video](https://www.youtube.com/watch?v=pd3eV-SG23E)
+- [J.Sheon - Ballad 輸情歌 (Official Music Video)](https://www.youtube.com/watch?v=OdgyKUXcUIk)
+- [Khalil Fong (方大同) - Special Person (特別的人) Official Music Video](https://www.youtube.com/watch?v=IscPlLsh6iU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
