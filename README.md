@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins |巫賭【Official Music Video】](https://www.youtube.com/watch?v=O3r_2ulkuKY)
-- [方大同 Khalil Fong - 紅豆 Red Bean [Official 官方完整版MV]](https://www.youtube.com/watch?v=3nG--h_EJyc)
-- [Mayday五月天 [ 後來的我們 Here, After, Us ] Official Music Video](https://www.youtube.com/watch?v=pd3eV-SG23E)
+- [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
+- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
+- [怕胖團PAPUN BAND 《 魚 》Music Video](https://www.youtube.com/watch?v=Dnz-BTz9eDU)
 - [J.Sheon - Ballad 輸情歌 (Official Music Video)](https://www.youtube.com/watch?v=OdgyKUXcUIk)
-- [Khalil Fong (方大同) - Special Person (特別的人) Official Music Video](https://www.youtube.com/watch?v=IscPlLsh6iU)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
