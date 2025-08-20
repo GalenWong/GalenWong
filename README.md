@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
-- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
-- [怕胖團PAPUN BAND 《 魚 》Music Video](https://www.youtube.com/watch?v=Dnz-BTz9eDU)
-- [J.Sheon - Ballad 輸情歌 (Official Music Video)](https://www.youtube.com/watch?v=OdgyKUXcUIk)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [會呼吸的痛](https://www.youtube.com/watch?v=TY3nj5ANRrk)
+- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [軌跡](https://www.youtube.com/watch?v=dMIQfW6XQ-A)
+- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
