@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [會呼吸的痛](https://www.youtube.com/watch?v=TY3nj5ANRrk)
-- [楓](https://www.youtube.com/watch?v=afXwxtQLvZM)
+- [思念是一種病](https://www.youtube.com/watch?v=LnE1bWtxgok)
 - [軌跡](https://www.youtube.com/watch?v=dMIQfW6XQ-A)
-- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
-- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
