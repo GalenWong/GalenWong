@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [會呼吸的痛](https://www.youtube.com/watch?v=TY3nj5ANRrk)
-- [思念是一種病](https://www.youtube.com/watch?v=LnE1bWtxgok)
-- [軌跡](https://www.youtube.com/watch?v=dMIQfW6XQ-A)
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [Mercury Records](https://www.youtube.com/watch?v=eLTFJOA2C_E)
 - [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
+- [deca joins｜偏見【Lyrics Video】](https://www.youtube.com/watch?v=8GnwsIKBgx4)
+- [蔡健雅『空白格』官方版MV (Official Music Video)](https://www.youtube.com/watch?v=K27Y_f6BXVs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
