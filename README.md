@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
-- [愛人錯過](https://www.youtube.com/watch?v=E52qnW59iEE)
 - [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [deca joins｜偏見【Lyrics Video】](https://www.youtube.com/watch?v=8GnwsIKBgx4)
-- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
+- [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
+- [Model](https://www.youtube.com/watch?v=6XZ6ap8zrsg)
+- [給我一個理由忘記](https://www.youtube.com/watch?v=H3O4rREOZt8)
+- [愛人錯過](https://www.youtube.com/watch?v=E52qnW59iEE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
