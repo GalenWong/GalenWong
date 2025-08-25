@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
-- [Model](https://www.youtube.com/watch?v=6XZ6ap8zrsg)
-- [給我一個理由忘記](https://www.youtube.com/watch?v=H3O4rREOZt8)
-- [愛人錯過](https://www.youtube.com/watch?v=E52qnW59iEE)
+- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
+- [張惠妹A-Mei - 如果你也聽說 Have You Heard Lately? (official官方完整版MV)](https://www.youtube.com/watch?v=xrUyk79DLbg)
+- [旺福 Won Fu《我當你空氣 You Are My Air》 Official Music Video](https://www.youtube.com/watch?v=1hKkAM-ADDU)
+- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
+- [茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (Official Music Video﻿)《當男人戀愛時》電影主題曲](https://www.youtube.com/watch?v=0rp3pP2Xwhs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
