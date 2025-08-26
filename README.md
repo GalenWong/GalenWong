@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [Cosmos People 宇宙人 [ 我還繞著你在旋轉 Expired ] Official Music Video](https://www.youtube.com/watch?v=zbSW7aIzXRM)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [伍佰 Wu Bai&China Blue【被動 Passive】Official Music Video](https://www.youtube.com/watch?v=yGoHsTV6QrE)
 - [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
-- [張惠妹A-Mei - 如果你也聽說 Have You Heard Lately? (official官方完整版MV)](https://www.youtube.com/watch?v=xrUyk79DLbg)
-- [旺福 Won Fu《我當你空氣 You Are My Air》 Official Music Video](https://www.youtube.com/watch?v=1hKkAM-ADDU)
-- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
-- [茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (Official Music Video﻿)《當男人戀愛時》電影主題曲](https://www.youtube.com/watch?v=0rp3pP2Xwhs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
