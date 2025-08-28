@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [麋先生MIXER【嗜愛動物Loveholic】示愛版 Official Live Video](https://www.youtube.com/watch?v=4JNb4fiT1VA)
-- [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
-- [呂口口 - 希望你被這個世界愛 【動態歌詞/Pinyin Lyrics】『希望你 被這個世界愛著 希望你 笑了是真的快樂。』黃昏](https://www.youtube.com/watch?v=6JW_N9SUMsk)
-- [Regular friends](https://www.youtube.com/watch?v=1hY-dcBLIWk)
+- [劉若英 René Liu【後來 Later】Official Music Video](https://www.youtube.com/watch?v=t0igPuDjYUE)
+- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
+- [ポルカドットスティングレイ「シンクロニシカ」MV](https://www.youtube.com/watch?v=EQL9mZtIY5o)
+- [路過人間](https://www.youtube.com/watch?v=H57bXnWR3nM)
+- [Mercury Records](https://www.youtube.com/watch?v=eLTFJOA2C_E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
