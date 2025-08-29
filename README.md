@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [劉若英 René Liu【後來 Later】Official Music Video](https://www.youtube.com/watch?v=t0igPuDjYUE)
-- [告五人 Accusefive【帶我去找夜生活 Night life.Take us to the light】Official Music Video](https://www.youtube.com/watch?v=W9Fq1HC_5hg)
-- [ポルカドットスティングレイ「シンクロニシカ」MV](https://www.youtube.com/watch?v=EQL9mZtIY5o)
-- [路過人間](https://www.youtube.com/watch?v=H57bXnWR3nM)
-- [Mercury Records](https://www.youtube.com/watch?v=eLTFJOA2C_E)
+- [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
+- [周杰倫 Jay Chou【愛在西元前 Love before AD】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [蔡健雅 Tanya Chua - Letting Go 官方MV完整放映](https://www.youtube.com/watch?v=116OjLa1DwY)
+- [方文山電影同名主題曲【聽見下雨的聲音】完整MV 演唱:魏如昀 / 詞:方文山 / 曲:周杰倫](https://www.youtube.com/watch?v=F2uX6ByoW7A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
