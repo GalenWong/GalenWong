@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
-- [周杰倫 Jay Chou【愛在西元前 Love before AD】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
-- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
-- [蔡健雅 Tanya Chua - Letting Go 官方MV完整放映](https://www.youtube.com/watch?v=116OjLa1DwY)
-- [方文山電影同名主題曲【聽見下雨的聲音】完整MV 演唱:魏如昀 / 詞:方文山 / 曲:周杰倫](https://www.youtube.com/watch?v=F2uX6ByoW7A)
+- [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
+- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [安靜](https://www.youtube.com/watch?v=hTCtmY7MAbw)
+- [明年今日](https://www.youtube.com/watch?v=8PZPan86tB0)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
