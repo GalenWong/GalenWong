@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【ENG SUB】A-Yue 張震嶽【Love me, don’t go 愛我別走】Official Music Video](https://www.youtube.com/watch?v=rESSeWOnTnQ)
-- [晴天](https://www.youtube.com/watch?v=SJKoWAd5ySo)
-- [淘汰](https://www.youtube.com/watch?v=FKWF4TlgczU)
 - [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
-- [盧廣仲 Crowd Lu【大人中 Adult】Official Lyrics Video](https://www.youtube.com/watch?v=Q0W--O7aWBg)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [好不容易 (《華燈初上》片尾曲)](https://www.youtube.com/watch?v=rhwHpIRsIu0)
+- [安靜](https://www.youtube.com/watch?v=hTCtmY7MAbw)
+- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
