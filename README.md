@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
 - [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [好不容易 (《華燈初上》片尾曲)](https://www.youtube.com/watch?v=rhwHpIRsIu0)
-- [安靜](https://www.youtube.com/watch?v=hTCtmY7MAbw)
-- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
+- [珊瑚海](https://www.youtube.com/watch?v=4wePAQ16tkI)
+- [晴天](https://www.youtube.com/watch?v=SJKoWAd5ySo)
+- [說好的幸福呢](https://www.youtube.com/watch?v=vpBYwcf1p9I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
