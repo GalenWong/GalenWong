@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
 - [退後](https://www.youtube.com/watch?v=kNZ5P0AAlmg)
-- [珊瑚海](https://www.youtube.com/watch?v=4wePAQ16tkI)
-- [晴天](https://www.youtube.com/watch?v=SJKoWAd5ySo)
-- [說好的幸福呢](https://www.youtube.com/watch?v=vpBYwcf1p9I)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
