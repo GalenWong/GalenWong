@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [告五人 Accusefive [ 癒合 Threads Of Me ] 墜落篇 Official Music Video](https://www.youtube.com/watch?v=Y-O1P0ZdbNQ)
-- [郭源潮](https://www.youtube.com/watch?v=M5sEXCJ3DGU)
-- [安和桥](https://www.youtube.com/watch?v=GJNOEdQSEeQ)
-- [盧廣仲 Crowd Lu【一夜一夜一夜 Sleepless Night】Official Video](https://www.youtube.com/watch?v=do25hszrh9U)
-- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
+- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
+- [Mercury Records](https://www.youtube.com/watch?v=eLTFJOA2C_E)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
