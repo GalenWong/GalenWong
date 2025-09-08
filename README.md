@@ -79,10 +79,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
 - [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
-- [Mercury Records](https://www.youtube.com/watch?v=eLTFJOA2C_E)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [【ENG SUB】A-Yue 張震嶽【Love me, don’t go 愛我別走】Official Music Video](https://www.youtube.com/watch?v=rESSeWOnTnQ)
 - [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
