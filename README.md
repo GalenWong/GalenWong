@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 YanZi Sun– 克卜勒 (Official Music Video)](https://www.youtube.com/watch?v=ppvqjPkQ0BY)
-- [【ENG SUB】A-Yue 張震嶽【Love me, don’t go 愛我別走】Official Music Video](https://www.youtube.com/watch?v=rESSeWOnTnQ)
-- [孫燕姿 YanZi Sun– 渴 (Official Music Video)](https://www.youtube.com/watch?v=tycYmfkgO2E)
-- [當冬夜漸暖](https://www.youtube.com/watch?v=pD2VWvz9ZCY)
-- [落日飛車 Sunset Rollercoaster - 我是一隻魚 mv](https://www.youtube.com/watch?v=bAUmIzngAv0)
+- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
+- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
+- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
