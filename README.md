@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
 - [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
 - [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
-- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video](https://www.youtube.com/watch?v=fuM1aVCGR8c)
-- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
+- [魏如萱 waa wei [ 我在紐約打電話給你 na mo miss you ] Official Music Video](https://www.youtube.com/watch?v=CUTlxi5DFBo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
