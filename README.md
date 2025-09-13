@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 直到你帶走我 Until You 】Official Music Video](https://www.youtube.com/watch?v=BfFr8kuIt0A)
-- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
-- [陳綺貞 Cheer Chen【太聰明 Too smart】Official Music Video](https://www.youtube.com/watch?v=33rdx577PxY)
+- [孫燕姿 YanZi Sun– 克卜勒 (Official Music Video)](https://www.youtube.com/watch?v=ppvqjPkQ0BY)
+- [魏如萱 waa wei [ 我在紐約打電話給你 na mo miss you ] Official Music Video](https://www.youtube.com/watch?v=CUTlxi5DFBo)
+- [孫燕姿 YanZi Sun– 渴 (Official Music Video)](https://www.youtube.com/watch?v=tycYmfkgO2E)
+- [孫燕姿 YanZi Sun– 尚好的青春 (Official Music Video)](https://www.youtube.com/watch?v=azRd-cvU1oU)
+- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
