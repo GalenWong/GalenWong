@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 YanZi Sun– 克卜勒 (Official Music Video)](https://www.youtube.com/watch?v=ppvqjPkQ0BY)
-- [魏如萱 waa wei [ 我在紐約打電話給你 na mo miss you ] Official Music Video](https://www.youtube.com/watch?v=CUTlxi5DFBo)
-- [孫燕姿 YanZi Sun– 渴 (Official Music Video)](https://www.youtube.com/watch?v=tycYmfkgO2E)
-- [孫燕姿 YanZi Sun– 尚好的青春 (Official Music Video)](https://www.youtube.com/watch?v=azRd-cvU1oU)
-- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
+- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
+- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
+- [deca joins | 散去的時候【Official Audio】](https://www.youtube.com/watch?v=MHgWOcznzms)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
