@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【斷了的弦 Broken Strings】Official MV](https://www.youtube.com/watch?v=n_KlMpP0vdw)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
-- [Sunset Rollercoaster - Candlelight feat. OHHYUK (Official Video), 2020](https://www.youtube.com/watch?v=kb0whVogBkI)
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
+- [陳綺貞 Cheer Chen【太聰明 Too smart】Official Music Video](https://www.youtube.com/watch?v=33rdx577PxY)
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
+- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
+- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
+- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
