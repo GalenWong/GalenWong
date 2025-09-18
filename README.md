@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
 - [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
 - [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
-- [莫文蔚 Karen Mok《慢慢喜歡你》Official Music Video](https://www.youtube.com/watch?v=kqqraGvoqVs)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [藍又時Shadya Lan【秘密】Official 完整版MV](https://www.youtube.com/watch?v=NFo8Popylio)
+- [徐佳瑩 LaLa【失落沙洲】[Official Music Video]](https://www.youtube.com/watch?v=Ie1KcGvBN_k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
