@@ -81,9 +81,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [殺死那個石家莊人 - 萬能青年旅店『雲層深處的黑暗啊 淹沒心底的景觀』【動態歌詞】](https://www.youtube.com/watch?v=r_8dJeMUDCw)
 - [魏如萱 waa wei [ 我在紐約打電話給你 na mo miss you ] Official Music Video](https://www.youtube.com/watch?v=CUTlxi5DFBo)
-- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
-- [icyball 冰球樂團 - 醉後喜歡我 (Official Video)](https://www.youtube.com/watch?v=3OHT350Acj4)
+- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 - [Cosmos People 宇宙人 [ 藍色的你 Ocean ] Official Music Video](https://www.youtube.com/watch?v=nL_VoX0ZR0E)
+- [那天我們看著星夜 (2019 demo)](https://www.youtube.com/watch?v=1iBVced6_F4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
