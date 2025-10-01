@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
 - [太聰明](https://www.youtube.com/watch?v=uaqypTNjtFo)
-- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
-- [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
-- [茄子蛋EggPlantEgg - 閣愛妳一擺 Love You One More Time (Official Music Video﻿)](https://www.youtube.com/watch?v=PJJhHihvDpo)
-- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
+- [原子邦妮 Astro Bunny 【這樣我就能忘記你了】Official Music Video](https://www.youtube.com/watch?v=n-hy9MswmcA)
+- [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
+- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
