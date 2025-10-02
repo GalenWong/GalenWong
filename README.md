@@ -80,9 +80,9 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
-- [太聰明](https://www.youtube.com/watch?v=uaqypTNjtFo)
-- [原子邦妮 Astro Bunny 【這樣我就能忘記你了】Official Music Video](https://www.youtube.com/watch?v=n-hy9MswmcA)
-- [告五人Accusefive【愛在夏天】 Official Music Video](https://www.youtube.com/watch?v=_zv8Y94eLYI)
+- [盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）](https://www.youtube.com/watch?v=m78lJuzftcc)
+- [盧廣仲 Crowd Lu【魚仔 He-R】Official Music Video （花甲男孩轉大人主題曲）](https://www.youtube.com/watch?v=ybfWYpYhTQQ)
+- [魏如萱 waa wei [ 彼個所在 Heaven ] Official Music Video](https://www.youtube.com/watch?v=86wypSCXK9M)
 - [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
