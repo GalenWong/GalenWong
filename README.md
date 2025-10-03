@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
 - [盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）](https://www.youtube.com/watch?v=m78lJuzftcc)
-- [盧廣仲 Crowd Lu【魚仔 He-R】Official Music Video （花甲男孩轉大人主題曲）](https://www.youtube.com/watch?v=ybfWYpYhTQQ)
+- [王菲 - 紅豆](https://www.youtube.com/watch?v=5wmfXve11rM)
 - [魏如萱 waa wei [ 彼個所在 Heaven ] Official Music Video](https://www.youtube.com/watch?v=86wypSCXK9M)
-- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
+- [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
+- [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
