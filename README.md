@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）](https://www.youtube.com/watch?v=m78lJuzftcc)
+- [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
+- [斑马，斑马](https://www.youtube.com/watch?v=FZ8o_N57RYk)
 - [王菲 - 紅豆](https://www.youtube.com/watch?v=5wmfXve11rM)
-- [魏如萱 waa wei [ 彼個所在 Heaven ] Official Music Video](https://www.youtube.com/watch?v=86wypSCXK9M)
+- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
 - [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
-- [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
