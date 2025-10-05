@@ -82,8 +82,8 @@ studied in
 - [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
 - [斑马，斑马](https://www.youtube.com/watch?v=FZ8o_N57RYk)
 - [王菲 - 紅豆](https://www.youtube.com/watch?v=5wmfXve11rM)
-- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
-- [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [洪佩瑜 - 踮起腳尖愛(HD非官方版完整MV)](https://www.youtube.com/watch?v=4gG-_HxNy_s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
