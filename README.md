@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
+- [deca joins | 浴室(2019 Reprise)](https://www.youtube.com/watch?v=WI-EMzrUSP4)
 - [盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）](https://www.youtube.com/watch?v=m78lJuzftcc)
-- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
-- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
-- [還是會寂寞](https://www.youtube.com/watch?v=Rus_oG1Esc4)
+- [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
+- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
