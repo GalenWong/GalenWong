@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins | 浴室(2019 Reprise)](https://www.youtube.com/watch?v=WI-EMzrUSP4)
-- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
-- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
 - [deca joins | Go Slow【Official Music Video】](https://www.youtube.com/watch?v=ikn3Drf3PpU)
-- [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
+- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
+- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
+- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
+- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
