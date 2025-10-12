@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi - 我不難過 I Am Fine (official 官方完整版MV)](https://www.youtube.com/watch?v=GDsyUtdS1YM)
+- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
 - [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
-- [陳柏宇 Jason Chan - 你瞞我瞞 Lies Between Us | Official Music Video](https://www.youtube.com/watch?v=JWcuUHVD4Ng)
-- [米店（The Rice Shop）](https://www.youtube.com/watch?v=rLNAO5J_ESU)
-- [Walking Towards Me](https://www.youtube.com/watch?v=AnYg-doDAzQ)
+- [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
+- [當我來到這裡 (feat. 葛仲珊)](https://www.youtube.com/watch?v=rZYqSZxVITg)
+- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
