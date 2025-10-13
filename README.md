@@ -79,10 +79,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
 - [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
+- [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
+- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
 - [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
-- [當我來到這裡 (feat. 葛仲珊)](https://www.youtube.com/watch?v=rZYqSZxVITg)
 - [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
