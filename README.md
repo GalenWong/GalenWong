@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
-- [好樂團 GoodBand－他們說我是沒有用的年輕人 Official Lyrics Video](https://www.youtube.com/watch?v=FNJG6MsKO0k)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [周杰倫 Jay Chou【不能說的祕密 Secret】-Official Music Video](https://www.youtube.com/watch?v=uIWypArI73w)
+- [孫燕姿 Sun Yan-Zi - 我不難過 I Am Fine (official 官方完整版MV)](https://www.youtube.com/watch?v=GDsyUtdS1YM)
 - [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
-- [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
-- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
+- [周杰倫 Jay Chou【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
