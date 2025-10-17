@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [周杰倫 Jay Chou【不能說的祕密 Secret】-Official Music Video](https://www.youtube.com/watch?v=uIWypArI73w)
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
-- [周杰倫 Jay Chou【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
+- [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
+- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
+- [蔡健雅-『達爾文』官方版MV (Official Music Video)](https://www.youtube.com/watch?v=Z97zUBtHZGY)
+- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
+- [周杰倫 Jay Chou【 軌跡 Tracks】Official MV](https://www.youtube.com/watch?v=SdBwt6pyNwE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
