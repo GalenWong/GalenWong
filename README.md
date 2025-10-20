@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
-- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
-- [deca joins | 我不用問【Official Music Video】](https://www.youtube.com/watch?v=ACUwOqwvP2Q)
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
-- [孫燕姿 YanZi Sun– 無限大 (Official Music Video)](https://www.youtube.com/watch?v=8SVnA-iUGIg)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [孫燕姿 YanZi Sun– 克卜勒 (Official Music Video)](https://www.youtube.com/watch?v=ppvqjPkQ0BY)
+- [孫燕姿 Sun Yan-Zi - 我不難過 I Am Fine 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=aVdV6Pi9lVQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
