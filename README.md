@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
 - [孫燕姿 YanZi Sun– 克卜勒 (Official Music Video)](https://www.youtube.com/watch?v=ppvqjPkQ0BY)
-- [孫燕姿 Sun Yan-Zi - 我不難過 I Am Fine 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=aVdV6Pi9lVQ)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [Ayo97 - 感謝你曾來過 ft.阿涵「高音質 x 動態歌詞 Lyrics」♪ SDPMusic ♪](https://www.youtube.com/watch?v=hVlmlDwhpWY)
+- [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
+- [deca joins | 我不用問【Official Music Video】](https://www.youtube.com/watch?v=ACUwOqwvP2Q)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
