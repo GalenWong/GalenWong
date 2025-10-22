@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 YanZi Sun– 克卜勒 (Official Music Video)](https://www.youtube.com/watch?v=ppvqjPkQ0BY)
 - [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [Ayo97 - 感謝你曾來過 ft.阿涵「高音質 x 動態歌詞 Lyrics」♪ SDPMusic ♪](https://www.youtube.com/watch?v=hVlmlDwhpWY)
-- [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
-- [deca joins | 我不用問【Official Music Video】](https://www.youtube.com/watch?v=ACUwOqwvP2Q)
+- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
+- [孫燕姿 YanZi Sun– 克卜勒 (Official Music Video)](https://www.youtube.com/watch?v=ppvqjPkQ0BY)
+- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [周杰倫 Jay Chou【 軌跡 Tracks】Official MV](https://www.youtube.com/watch?v=SdBwt6pyNwE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
