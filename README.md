@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [蔡健雅-『達爾文』官方版MV (Official Music Video)](https://www.youtube.com/watch?v=Z97zUBtHZGY)
-- [deca joins | 我不用問【Official Music Video】](https://www.youtube.com/watch?v=ACUwOqwvP2Q)
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
-- [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
-- [周杰倫 Jay Chou【 軌跡 Tracks】Official MV](https://www.youtube.com/watch?v=SdBwt6pyNwE)
+- [deca joins | 一去不回來(demo)](https://www.youtube.com/watch?v=MrxI-lW7adU)
+- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
+- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [茄子蛋EggPlantEgg - 日常 Everyday Life (Official Music Video)](https://www.youtube.com/watch?v=_vGN_dFtAQI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
