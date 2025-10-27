@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [甜約翰 Sweet John【 降雨機率 Rain Onto the One 】Official Music Video](https://www.youtube.com/watch?v=3UYOS8Pcsks)
-- [AGA 江海迦 - 孤雛 (Official Music Video)](https://www.youtube.com/watch?v=ZyORtO7kTaw)
-- [洪佩瑜 - 踮起腳尖愛(HD非官方版完整MV)](https://www.youtube.com/watch?v=4gG-_HxNy_s)
-- [孫燕姿 YanZi Sun– 無限大 (Official Music Video)](https://www.youtube.com/watch?v=8SVnA-iUGIg)
-- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
+- [陳綺貞 Cheer Chen【太聰明 Too smart】Official Music Video](https://www.youtube.com/watch?v=33rdx577PxY)
+- [刻在我心底的名字 (Your Name Engraved Herein) -...](https://www.youtube.com/watch?v=56z2jipIwSQ)
+- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
+- [陳奕迅 - 不來也不去](https://www.youtube.com/watch?v=h-rZtiGiTa8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
