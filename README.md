@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [Sunset Rollercoaster - Come back to me (Original song by RM of @BTS )](https://www.youtube.com/watch?v=6tG3B8Cewm4)
-- [甜約翰 Sweet John【 降雨機率 Rain Onto the One 】Official Music Video](https://www.youtube.com/watch?v=3UYOS8Pcsks)
-- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
-- [林依晨 Ariel Lin【孤單北半球 Alone in the Northern Hemisphere】TVBS-G偶像劇「愛情合約」片尾曲 Official Music Video](https://www.youtube.com/watch?v=_C-MwjH6laM)
 - [Cosmos People 宇宙人 [ 我還繞著你在旋轉 Expired ] Official Music Video](https://www.youtube.com/watch?v=zbSW7aIzXRM)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
+- [Don't Ask](https://www.youtube.com/watch?v=hlkhfvhYxhI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
