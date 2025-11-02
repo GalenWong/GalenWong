@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Don't Ask](https://www.youtube.com/watch?v=hlkhfvhYxhI)
 - [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
-- [如果每天都可以 happy happy 誰想要sad:))](https://www.youtube.com/watch?v=FvPOMqMe-w0)
-- [蔡健雅-『達爾文』官方版MV (Official Music Video)](https://www.youtube.com/watch?v=Z97zUBtHZGY)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [Butterfly](https://www.youtube.com/watch?v=aidyvlz5vqE)
+- [如果每天都可以 happy happy 誰想要sad:))](https://www.youtube.com/watch?v=FvPOMqMe-w0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
