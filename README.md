@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 - [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [Butterfly](https://www.youtube.com/watch?v=aidyvlz5vqE)
-- [如果每天都可以 happy happy 誰想要sad:))](https://www.youtube.com/watch?v=FvPOMqMe-w0)
+- [Cosmos People 宇宙人 [ 藍色的你 Ocean ] Official Music Video](https://www.youtube.com/watch?v=nL_VoX0ZR0E)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [楊丞琳 Rainie Yang - 曖昧](https://www.youtube.com/watch?v=mebzXfWi87E)
+- [國蛋 GorDoN - White Noise ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=31ZM440owzw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
