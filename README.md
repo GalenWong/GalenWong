@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [Cosmos People 宇宙人 [ 藍色的你 Ocean ] Official Music Video](https://www.youtube.com/watch?v=nL_VoX0ZR0E)
+- [周杰倫 Jay Chou【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
 - [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [楊丞琳 Rainie Yang - 曖昧](https://www.youtube.com/watch?v=mebzXfWi87E)
-- [國蛋 GorDoN - White Noise ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=31ZM440owzw)
+- [Don't Ask](https://www.youtube.com/watch?v=hlkhfvhYxhI)
+- [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
