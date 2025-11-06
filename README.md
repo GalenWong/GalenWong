@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
-- [孫燕姿 Sun Yan-Zi - 開始懂了 Realize 4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=oXX9HtnNgls)
-- [茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)](https://www.youtube.com/watch?v=x3bDhtuC5yk)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [郭頂《水星記 Mercury Records》官方版 MV](https://www.youtube.com/watch?v=ENKFTmJxBaY)
+- [I Am Fine](https://www.youtube.com/watch?v=Zs42LRnMIB0)
+- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
+- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
+- [Summum Bonum](https://www.youtube.com/watch?v=3GHVdlZX1JQ)
+- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
