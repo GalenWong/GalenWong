@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
 - [I Am Fine](https://www.youtube.com/watch?v=Zs42LRnMIB0)
 - [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
-- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
-- [Summum Bonum](https://www.youtube.com/watch?v=3GHVdlZX1JQ)
-- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
+- [icyball 冰球樂團 - 醉後喜歡我 (Official Video)](https://www.youtube.com/watch?v=3OHT350Acj4)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
