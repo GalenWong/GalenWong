@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [好不容易 (《華燈初上》片尾曲)](https://www.youtube.com/watch?v=rhwHpIRsIu0)
-- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
-- [周杰倫 Jay Chou【止戰之殤 Wounds of War】-Official Music Video](https://www.youtube.com/watch?v=qIZ5MAwbeCg)
 - [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
-- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
+- [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
+- [【HD】房東的貓 - 美好事物 (2017) [歌詞字幕][完整高清音質] The Landlord's Cat - Good things (2017)](https://www.youtube.com/watch?v=YYb1rjmMn98)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
