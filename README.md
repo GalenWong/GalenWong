@@ -79,10 +79,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [Summum Bonum](https://www.youtube.com/watch?v=3GHVdlZX1JQ)
+- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
 - [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
 - [【HD】房東的貓 - 美好事物 (2017) [歌詞字幕][完整高清音質] The Landlord's Cat - Good things (2017)](https://www.youtube.com/watch?v=YYb1rjmMn98)
-- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
 - [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
