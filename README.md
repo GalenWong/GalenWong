@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Summum Bonum](https://www.youtube.com/watch?v=3GHVdlZX1JQ)
-- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
+- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
+- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
 - [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
-- [【HD】房東的貓 - 美好事物 (2017) [歌詞字幕][完整高清音質] The Landlord's Cat - Good things (2017)](https://www.youtube.com/watch?v=YYb1rjmMn98)
-- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
