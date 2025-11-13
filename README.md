@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Summum Bonum](https://www.youtube.com/watch?v=3GHVdlZX1JQ)
+- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
+- [周杰倫 Jay Chou【愛在西元前 Love before AD】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
+- [田馥甄 Hebe Tien [還是要幸福 Still in Happiness] Official MV](https://www.youtube.com/watch?v=1CcQDuuhdXA)
 - [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
-- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
-- [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
-- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
