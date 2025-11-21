@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
-- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
 - [周杰倫 Jay Chou【花海 Floral Sea】-Official Music Video](https://www.youtube.com/watch?v=q1ww6bDjfiI)
-- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [甜約翰 Sweet John【 降雨機率 Rain Onto the One 】Official Music Video](https://www.youtube.com/watch?v=3UYOS8Pcsks)
+- [周杰倫 Jay Chou【我不配 Not Good Enough For You】-Official Music Video](https://www.youtube.com/watch?v=s-VFpsrbWLk)
+- [反高潮--陳奕迅](https://www.youtube.com/watch?v=9WM66v7zdso)
+- [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
+- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
