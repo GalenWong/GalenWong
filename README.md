@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
-- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
-- [Soft Lipa 蛋堡-回到過去](https://www.youtube.com/watch?v=m1ple6Y_C_A)
 - [愛妳是](https://www.youtube.com/watch?v=aMVYd6LHS6Y)
 - [MC HotDog 熱狗 feat. 關彥淳 Miaca Kuan【輕熟女27 Woman27】Official Music Video](https://www.youtube.com/watch?v=BMCGpXT69vQ)
+- [淘汰](https://www.youtube.com/watch?v=FKWF4TlgczU)
+- [紐約鄰居 - Cook the Vibe Version](https://www.youtube.com/watch?v=qgo4uSIJRZ0)
+- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
