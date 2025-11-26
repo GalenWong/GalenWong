@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [愛妳是](https://www.youtube.com/watch?v=aMVYd6LHS6Y)
-- [MC HotDog 熱狗 feat. 關彥淳 Miaca Kuan【輕熟女27 Woman27】Official Music Video](https://www.youtube.com/watch?v=BMCGpXT69vQ)
-- [淘汰](https://www.youtube.com/watch?v=FKWF4TlgczU)
-- [紐約鄰居 - Cook the Vibe Version](https://www.youtube.com/watch?v=qgo4uSIJRZ0)
+- [Winter Sweet](https://www.youtube.com/watch?v=FRzvUwuDzBI)
+- [Like You](https://www.youtube.com/watch?v=XyXzHBrJ-Jo)
+- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss 4K MV (Official 4K UltraHD Video](https://www.youtube.com/watch?v=GSx8Olkop50)
 - [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
+- [淘汰](https://www.youtube.com/watch?v=FKWF4TlgczU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
