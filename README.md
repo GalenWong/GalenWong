@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Winter Sweet](https://www.youtube.com/watch?v=FRzvUwuDzBI)
-- [Like You](https://www.youtube.com/watch?v=XyXzHBrJ-Jo)
-- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss 4K MV (Official 4K UltraHD Video](https://www.youtube.com/watch?v=GSx8Olkop50)
-- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
 - [淘汰](https://www.youtube.com/watch?v=FKWF4TlgczU)
+- [陳奕迅 - 人來人往 HD](https://www.youtube.com/watch?v=TRdq_25Zs6k)
+- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light (official 官方完整版MV)](https://www.youtube.com/watch?v=JCqJcK3v4q0)
+- [Like You](https://www.youtube.com/watch?v=XyXzHBrJ-Jo)
+- [【ENG SUB】A-Yue 張震嶽【Love me, don’t go 愛我別走】Official Music Video](https://www.youtube.com/watch?v=rESSeWOnTnQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
