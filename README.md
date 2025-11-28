@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [淘汰](https://www.youtube.com/watch?v=FKWF4TlgczU)
+- [落日飛車 Sunset Rollercoaster - 我是一隻魚 mv](https://www.youtube.com/watch?v=bAUmIzngAv0)
+- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
 - [陳奕迅 - 人來人往 HD](https://www.youtube.com/watch?v=TRdq_25Zs6k)
-- [孫燕姿 Sun Yan-Zi -  逆光 Against The Light (official 官方完整版MV)](https://www.youtube.com/watch?v=JCqJcK3v4q0)
-- [Like You](https://www.youtube.com/watch?v=XyXzHBrJ-Jo)
-- [【ENG SUB】A-Yue 張震嶽【Love me, don’t go 愛我別走】Official Music Video](https://www.youtube.com/watch?v=rESSeWOnTnQ)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
