@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [落日飛車 Sunset Rollercoaster - 我是一隻魚 mv](https://www.youtube.com/watch?v=bAUmIzngAv0)
-- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
 - [陳奕迅 - 人來人往 HD](https://www.youtube.com/watch?v=TRdq_25Zs6k)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
+- [盧盧快閉嘴 - 字字句句『他字字未提喜歡你 你句句都是我願意』【Lyrics Video】](https://www.youtube.com/watch?v=N9XgnvGaZxk)
+- [劉若英 René Liu【後來 Later】Official Music Video](https://www.youtube.com/watch?v=t0igPuDjYUE)
+- [Start It Underground](https://www.youtube.com/watch?v=Wr3net-wSyU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
