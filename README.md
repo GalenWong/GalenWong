@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [淘汰](https://www.youtube.com/watch?v=FKWF4TlgczU)
 - [落日飛車 Sunset Rollercoaster - 我是一隻魚 mv](https://www.youtube.com/watch?v=bAUmIzngAv0)
-- [Winter Sweet](https://www.youtube.com/watch?v=FRzvUwuDzBI)
-- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
-- [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
+- [Like You](https://www.youtube.com/watch?v=XyXzHBrJ-Jo)
+- [紐約鄰居 - Cook the Vibe Version](https://www.youtube.com/watch?v=qgo4uSIJRZ0)
+- [愛妳是](https://www.youtube.com/watch?v=aMVYd6LHS6Y)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
