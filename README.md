@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [落日飛車 Sunset Rollercoaster - 我是一隻魚 mv](https://www.youtube.com/watch?v=bAUmIzngAv0)
-- [Like You](https://www.youtube.com/watch?v=XyXzHBrJ-Jo)
-- [紐約鄰居 - Cook the Vibe Version](https://www.youtube.com/watch?v=qgo4uSIJRZ0)
-- [愛妳是](https://www.youtube.com/watch?v=aMVYd6LHS6Y)
-- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
+- [蔡健雅 Tanya Chua - 【拋物線】[Official Music Video]](https://www.youtube.com/watch?v=yrAwLIcgPlY)
+- [後來](https://www.youtube.com/watch?v=LA6NautJv98)
+- [太聰明](https://www.youtube.com/watch?v=uaqypTNjtFo)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
