@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [蔡健雅 Tanya Chua - 【拋物線】[Official Music Video]](https://www.youtube.com/watch?v=yrAwLIcgPlY)
-- [後來](https://www.youtube.com/watch?v=LA6NautJv98)
-- [太聰明](https://www.youtube.com/watch?v=uaqypTNjtFo)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [美秀集團 Amazing Show－戀人 Lovers【Official Music Video】](https://www.youtube.com/watch?v=U-bXx_4Nwx8)
+- [100種生活](https://www.youtube.com/watch?v=bd5B-DVGGGQ)
+- [溫室雜草 Easy Weeds【快樂的形狀 The Shape of Joy】Official Visualizer](https://www.youtube.com/watch?v=D_lV-mYQurQ)
+- [自躁浪漫 ft. 李權哲](https://www.youtube.com/watch?v=ijvENQrNOZo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
