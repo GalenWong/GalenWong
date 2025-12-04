@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [郭頂《淒美地 The Fog Space》官方版 MV](https://www.youtube.com/watch?v=NXpIQSdX_wQ)
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [美秀集團 Amazing Show－戀人 Lovers【Official Music Video】](https://www.youtube.com/watch?v=U-bXx_4Nwx8)
-- [100種生活](https://www.youtube.com/watch?v=bd5B-DVGGGQ)
-- [溫室雜草 Easy Weeds【快樂的形狀 The Shape of Joy】Official Visualizer](https://www.youtube.com/watch?v=D_lV-mYQurQ)
 - [自躁浪漫 ft. 李權哲](https://www.youtube.com/watch?v=ijvENQrNOZo)
+- [Cosmos People 宇宙人 [ 藍色的你 Ocean ] Official Music Video](https://www.youtube.com/watch?v=nL_VoX0ZR0E)
+- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
