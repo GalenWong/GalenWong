@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [自躁浪漫 ft. 李權哲](https://www.youtube.com/watch?v=ijvENQrNOZo)
-- [Cosmos People 宇宙人 [ 藍色的你 Ocean ] Official Music Video](https://www.youtube.com/watch?v=nL_VoX0ZR0E)
 - [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
-- [溫蒂漫步 Wendy Wander - 讓我住進你心裡 (Official Music Video)](https://www.youtube.com/watch?v=dUuhTw3gB5I)
-- [孤獨患者(國)](https://www.youtube.com/watch?v=txsdlO2DP34)
+- [郭源潮](https://www.youtube.com/watch?v=M5sEXCJ3DGU)
+- [郭頂《淒美地 The Fog Space》官方版 MV](https://www.youtube.com/watch?v=NXpIQSdX_wQ)
+- [自躁浪漫 ft. 李權哲](https://www.youtube.com/watch?v=ijvENQrNOZo)
+- [Layton Wu - Summer Night Wind 夏夜晚風 (Cover)](https://www.youtube.com/watch?v=Ky1Owj98qa4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
