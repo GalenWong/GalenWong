@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓《你是我最愚蠢的一次浪漫 》Lyric Video](https://www.youtube.com/watch?v=DHMx_B9-zdY)
-- [郭源潮](https://www.youtube.com/watch?v=M5sEXCJ3DGU)
-- [郭頂《淒美地 The Fog Space》官方版 MV](https://www.youtube.com/watch?v=NXpIQSdX_wQ)
+- [孫燕姿 Sun Yan-Zi - 遇見 Encounter  4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=WObbdwgB41c)
+- [F.I.R. 飛兒樂團 - 月牙灣 Crescent Bay (official 官方完整版MV)](https://www.youtube.com/watch?v=sZXE20ScmPY)
+- [陶喆 David Tao – 普通朋友 Regular Friends (官方完整版MV)](https://www.youtube.com/watch?v=3L3Me4JXVqE)
 - [自躁浪漫 ft. 李權哲](https://www.youtube.com/watch?v=ijvENQrNOZo)
-- [Layton Wu - Summer Night Wind 夏夜晚風 (Cover)](https://www.youtube.com/watch?v=Ky1Owj98qa4)
+- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss 4K MV (Official 4K UltraHD Video](https://www.youtube.com/watch?v=GSx8Olkop50)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
