@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi - 遇見 Encounter  4K MV (Official 4K UltraHD Video)](https://www.youtube.com/watch?v=WObbdwgB41c)
-- [F.I.R. 飛兒樂團 - 月牙灣 Crescent Bay (official 官方完整版MV)](https://www.youtube.com/watch?v=sZXE20ScmPY)
-- [陶喆 David Tao – 普通朋友 Regular Friends (官方完整版MV)](https://www.youtube.com/watch?v=3L3Me4JXVqE)
-- [自躁浪漫 ft. 李權哲](https://www.youtube.com/watch?v=ijvENQrNOZo)
-- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss 4K MV (Official 4K UltraHD Video](https://www.youtube.com/watch?v=GSx8Olkop50)
+- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
+- [熱水澡](https://www.youtube.com/watch?v=q18zsOzBofA)
+- [金賭蘭](https://www.youtube.com/watch?v=ksvF8OtUl9k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
