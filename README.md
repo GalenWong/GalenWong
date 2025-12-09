@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [F.I.R. 飛兒樂團 - 月牙灣 Crescent Bay (official 官方完整版MV)](https://www.youtube.com/watch?v=sZXE20ScmPY)
 - [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
-- [熱水澡](https://www.youtube.com/watch?v=q18zsOzBofA)
-- [金賭蘭](https://www.youtube.com/watch?v=ksvF8OtUl9k)
+- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
