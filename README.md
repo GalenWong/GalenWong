@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [F.I.R. 飛兒樂團 - 月牙灣 Crescent Bay (official 官方完整版MV)](https://www.youtube.com/watch?v=sZXE20ScmPY)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [Crispy脆樂團 [ 相愛就是說了100次對不起 Sorry X 100 ] Official Music Video](https://www.youtube.com/watch?v=b0wS9GxGfPs)
+- [Gummy B - 石橋 (Official Audio)](https://www.youtube.com/watch?v=QjOkcJFtHnk)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
