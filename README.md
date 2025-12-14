@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
-- [孫燕姿 Sun Yan-Zi - 我不難過 I Am Fine (official 官方完整版MV)](https://www.youtube.com/watch?v=GDsyUtdS1YM)
 - [陳綺貞 Cheer Chen【旅行的意義 Travel is Meaningful】Official Music Video (官方HD高畫質版)](https://www.youtube.com/watch?v=tv95k0zqnaA)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
 - [孫燕姿 Sun Yan-Zi - 開始懂了 Realize (official 官方完整版MV)](https://www.youtube.com/watch?v=h5eRbbOnPRc)
+- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [孫燕姿 Sun Yan-Zi - 遇見 Encounter (official 官方完整版MV)](https://www.youtube.com/watch?v=m4nu_F_9dWU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
