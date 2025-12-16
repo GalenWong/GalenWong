@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [房東的貓 - 【春風十里】MV 我說所有的酒都不如你](https://www.youtube.com/watch?v=q2zj74iK1MI)
-- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss 4K MV (Official 4K UltraHD Video](https://www.youtube.com/watch?v=GSx8Olkop50)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
+- [DESERVE / NOVA / LOVE MYSELF (Medley)](https://www.youtube.com/watch?v=t9hyNJtAp0I)
+- [我的世界不是只有你](https://www.youtube.com/watch?v=xEvwAupzWWg)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [WHIZZ - Fill My Empty Soul (Official Music Video)](https://www.youtube.com/watch?v=qxq53g1V4EU)
+- [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
