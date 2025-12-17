@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DESERVE / NOVA / LOVE MYSELF (Medley)](https://www.youtube.com/watch?v=t9hyNJtAp0I)
-- [我的世界不是只有你](https://www.youtube.com/watch?v=xEvwAupzWWg)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [WHIZZ - Fill My Empty Soul (Official Music Video)](https://www.youtube.com/watch?v=qxq53g1V4EU)
-- [SIRUP - LOOP (Official Music Video)](https://www.youtube.com/watch?v=mHrjM6oVez0)
+- [陳綺貞 Cheer Chen【旅行的意義 Travel is Meaningful】Official Music Video (官方HD高畫質版)](https://www.youtube.com/watch?v=tv95k0zqnaA)
+- [踊り子](https://www.youtube.com/watch?v=-m-crWZHLi0)
+- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
