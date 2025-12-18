@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳綺貞 Cheer Chen【旅行的意義 Travel is Meaningful】Official Music Video (官方HD高畫質版)](https://www.youtube.com/watch?v=tv95k0zqnaA)
-- [踊り子](https://www.youtube.com/watch?v=-m-crWZHLi0)
 - [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
+- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
+- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
 - [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
-- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
+- [deca joins｜偏見【Lyrics Video】](https://www.youtube.com/watch?v=8GnwsIKBgx4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
