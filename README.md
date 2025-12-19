@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
+- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
+- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
 - [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
-- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
-- [deca joins｜偏見【Lyrics Video】](https://www.youtube.com/watch?v=8GnwsIKBgx4)
+- [Last Dance](https://www.youtube.com/watch?v=Tkw8jT-9xZc)
+- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
