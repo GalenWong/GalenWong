@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
-- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
 - [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
-- [Last Dance](https://www.youtube.com/watch?v=Tkw8jT-9xZc)
-- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
+- [BLUE feat. kojikoji](https://www.youtube.com/watch?v=YnnryUwfSE0)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [李榮浩 Ronghao Li - 年少有為 If I Were Young (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=Dnj5Tcpev0Q)
+- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
