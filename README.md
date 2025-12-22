@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
-- [與妳到永久](https://www.youtube.com/watch?v=44HiH287Iw4)
-- [Last Dance](https://www.youtube.com/watch?v=Tkw8jT-9xZc)
-- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [小半](https://www.youtube.com/watch?v=Xw8zuUKauxs)
+- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
