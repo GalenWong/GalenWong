@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [小半](https://www.youtube.com/watch?v=Xw8zuUKauxs)
-- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
