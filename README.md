@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
+- [溫室雜草 Easy Weeds【房間】Official Music Video](https://www.youtube.com/watch?v=Q6r791v5Fk0)
+- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
 - [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [一路向北](https://www.youtube.com/watch?v=Qq2ix2BewvA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
