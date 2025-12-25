@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [Happiness feat. ハル](https://www.youtube.com/watch?v=ddNB2NqTaok)
-- [溫室雜草 Easy Weeds【房間】Official Music Video](https://www.youtube.com/watch?v=Q6r791v5Fk0)
-- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
 - [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [Layton Wu - Summer Night Wind 夏夜晚風 (Cover)](https://www.youtube.com/watch?v=Ky1Owj98qa4)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
