@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
 - [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
-- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
-- [她和時間跳華爾滋](https://www.youtube.com/watch?v=rsm0-33F8PM)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [夜聊 (你說, 我說) (feat. 李英宏)](https://www.youtube.com/watch?v=v0JT5YQ4HkE)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
