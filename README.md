@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [最佳损友 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=_J-o8FpJ-XY)
-- [陳奕迅 Eason Chan - 《誰來剪月光》MV](https://www.youtube.com/watch?v=n6VP0Wm3EMo)
-- [陳奕迅 Eason Chan - 無條件 (Official Music Video)](https://www.youtube.com/watch?v=jzGaS5kWj0U)
-- [Eason Chan 陳奕迅 '時代巨輪' MV](https://www.youtube.com/watch?v=_lu07UTH86A)
-- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
+- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
+- [無妄合作社 No-nonsense Collective－〈開店歌〉Official Music Video](https://www.youtube.com/watch?v=jZzzwd_CDQM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
