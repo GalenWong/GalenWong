@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
+- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
+- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
+- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
+- [盧廣仲 Crowd Lu【太陽與地球 Sun & Earth】Official Video](https://www.youtube.com/watch?v=i5YRIjxyJP8)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
