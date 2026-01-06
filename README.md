@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
-- [好不容易 (《華燈初上》片尾曲)](https://www.youtube.com/watch?v=rhwHpIRsIu0)
-- [在這座城市遺失了你 (戲劇《他們創業的那些鳥事》插曲)](https://www.youtube.com/watch?v=pzgnyy6bTXg)
+- [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
+- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
+- [Cody・Lee(李) - 我愛你(MusicVideo)](https://www.youtube.com/watch?v=uwS__WiOYTI)
+- [Phum Viphurit - Lover Boy [Official Video]](https://www.youtube.com/watch?v=8HnLRrQ3RS4)
 - [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [告五人 Accusefive 【愛人錯過 Somewhere in time】Official Music Video](https://www.youtube.com/watch?v=6D79CYTxvOM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
