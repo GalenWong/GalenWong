@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [董小姐](https://www.youtube.com/watch?v=oBk8k07aAAU)
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
-- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
-- [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
-- [抱擁這分鐘 陳奕迅 ktv](https://www.youtube.com/watch?v=svoOyKpUums)
+- [盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）](https://www.youtube.com/watch?v=m78lJuzftcc)
+- [陳奕迅【最後派對】MV](https://www.youtube.com/watch?v=sjyMo1oAspo)
+- [[avex官方] A-Lin 給我一個理由忘記 (MV完整版)](https://www.youtube.com/watch?v=F5FlN-NBGo8)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
