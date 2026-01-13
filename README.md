@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [盧廣仲 Crowd Lu 【刻在我心底的名字 Your Name Engraved Herein】 Official Music Video  （刻在你心底的名字電影主題曲）](https://www.youtube.com/watch?v=m78lJuzftcc)
-- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
-- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
-- [魏如萱 waa wei [ 你啊你啊 ] 官方完整試聽版MV](https://www.youtube.com/watch?v=M1tmYdeh6ZM)
+- [陳奕迅【最後派對】MV](https://www.youtube.com/watch?v=sjyMo1oAspo)
+- [張震嶽 A-Yue【思念是一種病 Yearning like a sickness】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
+- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
+- [最佳损友 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=_J-o8FpJ-XY)
+- [葡萄成熟时 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=xdqtxq9JPNI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
