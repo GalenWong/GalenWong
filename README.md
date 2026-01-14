@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅【最後派對】MV](https://www.youtube.com/watch?v=sjyMo1oAspo)
-- [張震嶽 A-Yue【思念是一種病 Yearning like a sickness】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
-- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
-- [最佳损友 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=_J-o8FpJ-XY)
-- [葡萄成熟时 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=xdqtxq9JPNI)
+- [林宥嘉 Yoga Lin [說謊 Fairy Tale] Official MV](https://www.youtube.com/watch?v=ftfJRzW0MPo)
+- [AGA 江海迦 - 孤雛 (Official Music Video)](https://www.youtube.com/watch?v=ZyORtO7kTaw)
+- [[avex官方] A-Lin 給我一個理由忘記 (MV完整版)](https://www.youtube.com/watch?v=F5FlN-NBGo8)
+- [Regular friends](https://www.youtube.com/watch?v=1hY-dcBLIWk)
+- [J.Sheon - Don't Ask 別問很可怕 (Official Music Video)](https://www.youtube.com/watch?v=tRa3fOlnN7k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
