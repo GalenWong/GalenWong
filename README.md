@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [林宥嘉 Yoga Lin [說謊 Fairy Tale] Official MV](https://www.youtube.com/watch?v=ftfJRzW0MPo)
-- [AGA 江海迦 - 孤雛 (Official Music Video)](https://www.youtube.com/watch?v=ZyORtO7kTaw)
-- [[avex官方] A-Lin 給我一個理由忘記 (MV完整版)](https://www.youtube.com/watch?v=F5FlN-NBGo8)
-- [Regular friends](https://www.youtube.com/watch?v=1hY-dcBLIWk)
-- [J.Sheon - Don't Ask 別問很可怕 (Official Music Video)](https://www.youtube.com/watch?v=tRa3fOlnN7k)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [mol-74 - アルカレミア【MV】](https://www.youtube.com/watch?v=LDn-Fims8js)
+- [Eason Chan 陳奕迅 '時代巨輪' MV](https://www.youtube.com/watch?v=_lu07UTH86A)
+- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
+- [藉口](https://www.youtube.com/watch?v=mQ0-oxVvvZ0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
