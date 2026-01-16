@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [mol-74 - アルカレミア【MV】](https://www.youtube.com/watch?v=LDn-Fims8js)
-- [Eason Chan 陳奕迅 '時代巨輪' MV](https://www.youtube.com/watch?v=_lu07UTH86A)
-- [陳奕迅 Eason Chan 《完》MV (Full Version)](https://www.youtube.com/watch?v=_Ucpmk6Vj4E)
-- [藉口](https://www.youtube.com/watch?v=mQ0-oxVvvZ0)
+- [劉力揚 Jeno Liu [禮物 Gift] Official MV](https://www.youtube.com/watch?v=OeomzeIlgMQ)
+- [周杰倫 Jay Chou【三年二班 Class 3-2】-Official Music Video](https://www.youtube.com/watch?v=_trE3M24kQY)
+- [老街 歌词 - 李荣浩](https://www.youtube.com/watch?v=XadF4AbmHeA)
+- [周杰倫 Jay Chou【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
