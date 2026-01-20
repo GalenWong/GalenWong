@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [呂口口 - 希望你被這個世界愛 【動態歌詞/Pinyin Lyrics】『希望你 被這個世界愛著 希望你 笑了是真的快樂。』黃昏](https://www.youtube.com/watch?v=6JW_N9SUMsk)
-- [方泂鑌 A-Bin【最笨的人是我 The Fool】特別演出：嚴正嵐、張耀仁 HD 高清官方完整版 MV](https://www.youtube.com/watch?v=H6SShCF58-U)
-- [椅子樂團 The Chairs - Real Love Is... (Full Album), 2020](https://www.youtube.com/watch?v=zAhERvVKhqs)
-- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [徐佳瑩 LaLa【失落沙洲】[Official Music Video]](https://www.youtube.com/watch?v=Ie1KcGvBN_k)
+- [林隆璇 Kevin Lin - 你那麼愛她 (官方版MV) - 電視劇《前男友不是人》插曲](https://www.youtube.com/watch?v=dy70lVVxhh4)
+- [周杰倫 Jay Chou【珊瑚海 Coral Sea (feat. 梁心頤 Lara)】-Official Music Video](https://www.youtube.com/watch?v=kYhh1PpsOg4)
+- [周杰倫 Jay Chou【愛你沒差 Love you, no matter what】Official MV](https://www.youtube.com/watch?v=miBGaUagOz8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
