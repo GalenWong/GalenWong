@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [如果每天都可以 happy happy 誰想要sad:＊ (beat by Neil YEN)](https://www.youtube.com/watch?v=UJkxyLEazyc)
-- [孫燕姿 Sun Yan-Zi - 我不難過 I Am Fine (official 官方完整版MV)](https://www.youtube.com/watch?v=GDsyUtdS1YM)
-- [楊丞琳 Rainie Yang - 匿名的好友](https://www.youtube.com/watch?v=s9hGDIpwfXw)
+- [陶喆 David Tao – 天天 Close To You (官方完整版MV)](https://www.youtube.com/watch?v=jFKXaWFw8FU)
+- [當我來到這裡 (feat. 葛仲珊)](https://www.youtube.com/watch?v=rZYqSZxVITg)
+- [tuki.『晩餐歌』Official Music Video](https://www.youtube.com/watch?v=oZpYEEcvu5I)
 - [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
-- [徐佳瑩 LaLa【失落沙洲】[Official Music Video]](https://www.youtube.com/watch?v=Ie1KcGvBN_k)
+- [理想混蛋 Bestards【離開的一路上 Farewell】Official Music Video](https://www.youtube.com/watch?v=3hLESh77fSg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
