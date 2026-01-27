@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陶喆 David Tao – 天天 Close To You (官方完整版MV)](https://www.youtube.com/watch?v=jFKXaWFw8FU)
-- [當我來到這裡 (feat. 葛仲珊)](https://www.youtube.com/watch?v=rZYqSZxVITg)
-- [tuki.『晩餐歌』Official Music Video](https://www.youtube.com/watch?v=oZpYEEcvu5I)
-- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
-- [理想混蛋 Bestards【離開的一路上 Farewell】Official Music Video](https://www.youtube.com/watch?v=3hLESh77fSg)
+- [陳奕迅 - 愈想愈無謂](https://www.youtube.com/watch?v=hcpFWDYY_Oc)
+- [Eason Chan 陳奕迅 Allegro, Opus 3.3 am MV](https://www.youtube.com/watch?v=z5cQh2gxF5M)
+- [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
+- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
+- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
