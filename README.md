@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 - 愈想愈無謂](https://www.youtube.com/watch?v=hcpFWDYY_Oc)
-- [Eason Chan 陳奕迅 Allegro, Opus 3.3 am MV](https://www.youtube.com/watch?v=z5cQh2gxF5M)
-- [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [國蛋GorDoN《紐約鄰居》Live Session 正式釋出](https://www.youtube.com/watch?v=JFiCkHSPWPU)
+- [陳奕迅 Eason Chan -《娛樂天空》MV](https://www.youtube.com/watch?v=5VKHRTr-Dvk)
+- [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
+- [藍又時Shadya Lan【秘密】Official 完整版MV](https://www.youtube.com/watch?v=NFo8Popylio)
+- [陳綺貞 Cheer Chen【太聰明 Too smart】Official Music Video](https://www.youtube.com/watch?v=33rdx577PxY)
+- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
