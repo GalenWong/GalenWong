@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan -《娛樂天空》MV](https://www.youtube.com/watch?v=5VKHRTr-Dvk)
-- [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [藍又時Shadya Lan【秘密】Official 完整版MV](https://www.youtube.com/watch?v=NFo8Popylio)
-- [陳綺貞 Cheer Chen【太聰明 Too smart】Official Music Video](https://www.youtube.com/watch?v=33rdx577PxY)
-- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
+- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
+- [单车 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=y2bBMOkfTdQ)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
+- [孫燕姿 Sun Yan-Zi - 祝你開心 Wish You Happiness (official 官方完整版MV)](https://www.youtube.com/watch?v=acsV9ywR_Rs)
+- [七百年後](https://www.youtube.com/watch?v=0QQTqGUyx8s)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
