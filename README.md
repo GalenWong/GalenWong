@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [K歌之王 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=7MEuDXdjbIE)
-- [单车 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=y2bBMOkfTdQ)
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [孫燕姿 Sun Yan-Zi - 祝你開心 Wish You Happiness (official 官方完整版MV)](https://www.youtube.com/watch?v=acsV9ywR_Rs)
-- [七百年後](https://www.youtube.com/watch?v=0QQTqGUyx8s)
+- [陳奕迅 - 與我常在 MTV](https://www.youtube.com/watch?v=pfsIbdUeh2w)
+- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
+- [陳奕迅 - 今日 ktv](https://www.youtube.com/watch?v=NMx_QtfFkH8)
+- [反高潮--陳奕迅](https://www.youtube.com/watch?v=9WM66v7zdso)
+- [今天等我來 陳奕迅 狂熱份子音樂會 清晰版](https://www.youtube.com/watch?v=H3UugVLd4Ds)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
