@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 - 與我常在 MTV](https://www.youtube.com/watch?v=pfsIbdUeh2w)
-- [【顏社】蛋堡 Soft Lipa - 史詩 (Official Music Video)](https://www.youtube.com/watch?v=Q9uTyjJQ0VU)
-- [陳奕迅 - 今日 ktv](https://www.youtube.com/watch?v=NMx_QtfFkH8)
-- [反高潮--陳奕迅](https://www.youtube.com/watch?v=9WM66v7zdso)
-- [今天等我來 陳奕迅 狂熱份子音樂會 清晰版](https://www.youtube.com/watch?v=H3UugVLd4Ds)
+- [单车 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=y2bBMOkfTdQ)
+- [孫燕姿 Sun Yan-Zi - 我要的幸福 My Desired Happiness (official 官方完整版MV)](https://www.youtube.com/watch?v=pOTYUXw97hc)
+- [夏恋慕 (feat. 春茶)](https://www.youtube.com/watch?v=c8r5Xj1oEi8)
+- [deca joins｜偏見【Lyrics Video】](https://www.youtube.com/watch?v=8GnwsIKBgx4)
+- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
