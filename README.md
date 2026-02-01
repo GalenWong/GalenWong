@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [单车 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=y2bBMOkfTdQ)
-- [孫燕姿 Sun Yan-Zi - 我要的幸福 My Desired Happiness (official 官方完整版MV)](https://www.youtube.com/watch?v=pOTYUXw97hc)
-- [夏恋慕 (feat. 春茶)](https://www.youtube.com/watch?v=c8r5Xj1oEi8)
-- [deca joins｜偏見【Lyrics Video】](https://www.youtube.com/watch?v=8GnwsIKBgx4)
+- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
 - [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
+- [周杰倫 Jay Chou【給我一首歌的時間 Give me the Time of One Song】-Official Music Video](https://www.youtube.com/watch?v=wt0RKW3aC84)
+- [Cody・Lee(李) - 我愛你(MusicVideo)](https://www.youtube.com/watch?v=uwS__WiOYTI)
+- [陳奕迅 - 與我常在 MTV](https://www.youtube.com/watch?v=pfsIbdUeh2w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
