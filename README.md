@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan《十面埋伏》[Official MV]](https://www.youtube.com/watch?v=QGHB-5e37Fw)
-- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [周杰倫 Jay Chou【給我一首歌的時間 Give me the Time of One Song】-Official Music Video](https://www.youtube.com/watch?v=wt0RKW3aC84)
-- [Cody・Lee(李) - 我愛你(MusicVideo)](https://www.youtube.com/watch?v=uwS__WiOYTI)
-- [陳奕迅 - 與我常在 MTV](https://www.youtube.com/watch?v=pfsIbdUeh2w)
+- [郭頂《淒美地 The Fog Space》官方版 MV](https://www.youtube.com/watch?v=NXpIQSdX_wQ)
+- [甜約翰 Sweet John【 降雨機率 Rain Onto the One 】Official Music Video](https://www.youtube.com/watch?v=3UYOS8Pcsks)
+- [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
+- [甜約翰 Sweet John【 不小心愛上你 Accidentally in Love 】ft. 魏如萱 @lovewaa  Official Music Video](https://www.youtube.com/watch?v=r8n4OnlDVqE)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
