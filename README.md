@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
-- [单车 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=y2bBMOkfTdQ)
-- [陳奕迅 Eason Chan《K歌之王(國)》[Official MV]](https://www.youtube.com/watch?v=Iw3WgP8A18I)
-- [周杰倫 Jay Chou【一路向北 All the Way North】-Official Music Video](https://www.youtube.com/watch?v=L229QDxDakU)
+- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
 - [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
+- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
+- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
+- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
