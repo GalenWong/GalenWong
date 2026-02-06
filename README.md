@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
-- [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
-- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
-- [My Love](https://www.youtube.com/watch?v=toDF89TGgAQ)
-- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
+- [周杰倫 Jay Chou【以父之名 In The Name of The Father】-Official Music Video](https://www.youtube.com/watch?v=9q7JOQfcJQM)
+- [老王樂隊｜曾經的女人啊 你在哪裡 你在哪裡 Where Is My Ex? (Official)](https://www.youtube.com/watch?v=MTjWhqsO5Bc)
+- [陈奕迅《人车志》](https://www.youtube.com/watch?v=a8udfFO2T_U)
+- [ポルカドットスティングレイ「ICHIDAIJI」MV](https://www.youtube.com/watch?v=WJW7kS9AAI4)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
