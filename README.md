@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [ZENBØ - 魚仔 FISH REMIX (Official Audio)](https://www.youtube.com/watch?v=nR0AM7zBvQw)
-- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
-- [deca joins | 浴室(2019 Reprise)](https://www.youtube.com/watch?v=WI-EMzrUSP4)
+- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
+- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
+- [還是會寂寞 (Lonely Without You) - 花的姿態演唱會 Live](https://www.youtube.com/watch?v=coblLOthRso)
+- [ポルカドットスティングレイ「エレクトリック・パブリック」MV](https://www.youtube.com/watch?v=S5st_BGFpLI)
 - [ポルカドットスティングレイ「FREE」MV](https://www.youtube.com/watch?v=C0F4MzdKt9g)
-- [日出君](https://www.youtube.com/watch?v=YjmzfEYeZqo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
