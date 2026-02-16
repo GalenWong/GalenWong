@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Twins《下一站天后》[Official MV]](https://www.youtube.com/watch?v=cPKfUWDmNbo)
-- [Everything's Gonna be Alright](https://www.youtube.com/watch?v=HzcUYQ1VQuw)
 - [飛行少女 Gina](https://www.youtube.com/watch?v=4PaiL5W9-Zk)
-- [AGA 江海迦 - 孤雛 (Official Music Video)](https://www.youtube.com/watch?v=ZyORtO7kTaw)
-- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [White Noise ft. 蛋堡 Soft Lipa](https://www.youtube.com/watch?v=N7xaGMufRn0)
+- [Gordon Flanders - 他一定比我好 (Official Music Video)](https://www.youtube.com/watch?v=Rl_DtnmymWo)
+- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
+- [Humor Tumor](https://www.youtube.com/watch?v=HI3oeIxSQfE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
