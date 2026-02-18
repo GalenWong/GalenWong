@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
-- [My Jinji](https://www.youtube.com/watch?v=hcKgBcAdasg)
-- [RADWIMPS - 愛にできることはまだあるかい [Official Music Video]](https://www.youtube.com/watch?v=EQ94zflNqn4)
-- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
-- [飛行少女 Gina](https://www.youtube.com/watch?v=4PaiL5W9-Zk)
+- [董小姐](https://www.youtube.com/watch?v=__HlecwkfgM)
+- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
+- [溫室雜草 Easy Weeds【快樂的形狀 The Shape of Joy】Official Visualizer](https://www.youtube.com/watch?v=D_lV-mYQurQ)
+- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
+- [陳奕迅 Eason Chan - 陀飛輪 (Official Music Video)](https://www.youtube.com/watch?v=URUIcYDq3_I)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
