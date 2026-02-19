@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [董小姐](https://www.youtube.com/watch?v=__HlecwkfgM)
-- [杀死那个石家庄人](https://www.youtube.com/watch?v=BXsFnVQverk)
-- [溫室雜草 Easy Weeds【快樂的形狀 The Shape of Joy】Official Visualizer](https://www.youtube.com/watch?v=D_lV-mYQurQ)
-- [Jonathan Lee李宗盛 [ 山丘 ] Official Music Video](https://www.youtube.com/watch?v=rVEMTxg_LrU)
-- [陳奕迅 Eason Chan - 陀飛輪 (Official Music Video)](https://www.youtube.com/watch?v=URUIcYDq3_I)
+- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
+- [周杰倫 Jay Chou【彩虹 Rainbow】-Official Music Video](https://www.youtube.com/watch?v=WxZvXPTBC0A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
