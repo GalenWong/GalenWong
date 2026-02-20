@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
-- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
-- [周杰倫 Jay Chou【彩虹 Rainbow】-Official Music Video](https://www.youtube.com/watch?v=WxZvXPTBC0A)
+- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
+- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
+- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
