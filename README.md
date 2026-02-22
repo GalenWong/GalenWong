@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [伍佰 Wu Bai&China Blue【浪人情歌 Wanderer's love song】Official Music Video](https://www.youtube.com/watch?v=OPkqtboFFYI)
 - [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
-- [King Gnu - 逆夢](https://www.youtube.com/watch?v=M6gcoDN9jBc)
-- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
-- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
+- [別急著說妳愛我到天長地久 // Red Bull Studios Tokyo Live version](https://www.youtube.com/watch?v=Km_kePErEfk)
+- [周杰倫 Jay Chou【外婆 Grandma】-Official Music Video](https://www.youtube.com/watch?v=Ur-x4pZT1Rk)
+- [周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
