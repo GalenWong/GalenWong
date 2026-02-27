@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [國蛋 GorDoN - White Noise ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=31ZM440owzw)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
 - [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
-- [謊言留聲機 Lie Gramophone - 分手夜 Break-up Night (feat. LALA 徐佳瑩) Official Video](https://www.youtube.com/watch?v=4z9o8GwxBz8)
-- [deca joins｜偏見【Lyrics Video】](https://www.youtube.com/watch?v=8GnwsIKBgx4)
+- [我會好好的](https://www.youtube.com/watch?v=XR2a7DlQkpg)
+- [Walking Towards Me](https://www.youtube.com/watch?v=AnYg-doDAzQ)
+- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
