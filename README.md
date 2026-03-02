@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
-- [突然的自我](https://www.youtube.com/watch?v=CZAJ31FEtTI)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
-- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
 - [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
+- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
+- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
+- [ポルカドットスティングレイ「リドー」MV](https://www.youtube.com/watch?v=wqLRkZkyzas)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
