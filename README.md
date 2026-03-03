@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [淚橋](https://www.youtube.com/watch?v=555u7ePEjBY)
-- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
-- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
-- [ポルカドットスティングレイ「リドー」MV](https://www.youtube.com/watch?v=wqLRkZkyzas)
+- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
+- [蔡健雅 Tanya Chua - Easy Come Easy Go feat. MC HotDog熱狗[Official Music Video]](https://www.youtube.com/watch?v=ae8Ov7tMZXY)
+- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
