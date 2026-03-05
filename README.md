@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
-- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
 - [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
 - [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
-- [[avex官方]唐禹哲-Be With You(MV完整版)](https://www.youtube.com/watch?v=oXIuEnS-zDk)
+- [《K歌之王 AIR (Night Version)》陳奕迅 Eason Chan with The Heritage Orchestra【Official MV】](https://www.youtube.com/watch?v=NtJZ0jBuSzg)
+- [溫蒂漫步 Wendy Wander - 我想和你一起 I Want To Be With You Live in Hong Kong (Official Live Music Video)](https://www.youtube.com/watch?v=G54TH4ka_co)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
