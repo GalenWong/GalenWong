@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
 - [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
-- [《K歌之王 AIR (Night Version)》陳奕迅 Eason Chan with The Heritage Orchestra【Official MV】](https://www.youtube.com/watch?v=NtJZ0jBuSzg)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 I Want To Be With You Live in Hong Kong (Official Live Music Video)](https://www.youtube.com/watch?v=G54TH4ka_co)
-- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [飛行少女 Gina](https://www.youtube.com/watch?v=4PaiL5W9-Zk)
+- [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
+- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
