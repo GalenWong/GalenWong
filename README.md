@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
 - [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [飛行少女 Gina](https://www.youtube.com/watch?v=4PaiL5W9-Zk)
-- [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
-- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
+- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
+- [蔡健雅 Tanya Chua - Easy Come Easy Go feat. MC HotDog熱狗[Official Music Video]](https://www.youtube.com/watch?v=ae8Ov7tMZXY)
+- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
+- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
