@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
-- [蔡健雅 Tanya Chua - Easy Come Easy Go feat. MC HotDog熱狗[Official Music Video]](https://www.youtube.com/watch?v=ae8Ov7tMZXY)
-- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
 - [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
+- [飛行少女 Gina](https://www.youtube.com/watch?v=4PaiL5W9-Zk)
+- [楊丞琳 Rainie Yang - 雨愛｜動畫歌詞/Lyric Video「聽雨的聲音 一滴滴清晰」](https://www.youtube.com/watch?v=U-t2t2zPIAU)
+- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
