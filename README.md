@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
+- [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
+- [程璧 - 我想和你虛度時光](https://www.youtube.com/watch?v=AK6pJmeqR6M)
+- [[avex官方]唐禹哲 愛我 (MV完整版)](https://www.youtube.com/watch?v=r0y-NDDX2WA)
 - [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
-- [飛行少女 Gina](https://www.youtube.com/watch?v=4PaiL5W9-Zk)
-- [關喆 Grady - 想你的夜 (未眠版) Miss You Tonight (Official 高畫質 HD 官方完整版 MV)](https://www.youtube.com/watch?v=j3AW1uKj2aE)
-- [傷心欲絕 Wayne's So Sad - 台北流浪指南 Wanderer Guide In Taipei  (Official Video)](https://www.youtube.com/watch?v=-bi2_5SnIBw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
