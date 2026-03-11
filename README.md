@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
-- [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
-- [程璧 - 我想和你虛度時光](https://www.youtube.com/watch?v=AK6pJmeqR6M)
-- [[avex官方]唐禹哲 愛我 (MV完整版)](https://www.youtube.com/watch?v=r0y-NDDX2WA)
-- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
+- [孫燕姿 Sun Yan-Zi - 我不難過 I Am Fine (official 官方完整版MV)](https://www.youtube.com/watch?v=GDsyUtdS1YM)
+- [親愛的家](https://www.youtube.com/watch?v=6cCbM0Tlzxs)
+- [[avex官方]唐禹哲-陪你(MV完整版)](https://www.youtube.com/watch?v=FxgKbHK7Czw)
+- [明天的烦恼交给明天](https://www.youtube.com/watch?v=cRy9WCnGCIg)
+- [陳奕迅 Eason Chan《人來人往》[Official MV]](https://www.youtube.com/watch?v=gAotCGoKhD0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
