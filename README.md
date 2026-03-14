@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [飛行少女 Gina](https://www.youtube.com/watch?v=4PaiL5W9-Zk)
-- [程璧 - 我想和你虛度時光](https://www.youtube.com/watch?v=AK6pJmeqR6M)
-- [溫蒂漫步 Wendy Wander - 不夜城 Sleepless City Live in Hong Kong (Official Live Music Video)](https://www.youtube.com/watch?v=c9ZoKQByTfY)
-- [方大同 Khalil Fong - 紅豆 Red Bean [Official 官方完整版MV]](https://www.youtube.com/watch?v=3nG--h_EJyc)
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
+- [周杰倫 Jay Chou【說了再見 Say Goodbye】Official MV](https://www.youtube.com/watch?v=KKsioz-zaZY)
+- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
+- [房東的貓 - 雲煙成雨『我能否變成淤泥, 再一次沾染你...』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=cxNWXxBoaHg)
+- [ポルカドットスティングレイ「バケノカワ」MV](https://www.youtube.com/watch?v=Z_fz6oeeG1M)
+- [Wanting 曲婉婷 - 我的歌声里 (You Exist In My Song) [Trad. Chinese] [Official Music Video]](https://www.youtube.com/watch?v=w0dMz8RBG7g)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
