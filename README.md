@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【說了再見 Say Goodbye】Official MV](https://www.youtube.com/watch?v=KKsioz-zaZY)
-- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
-- [房東的貓 - 雲煙成雨『我能否變成淤泥, 再一次沾染你...』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=cxNWXxBoaHg)
-- [ポルカドットスティングレイ「バケノカワ」MV](https://www.youtube.com/watch?v=Z_fz6oeeG1M)
-- [Wanting 曲婉婷 - 我的歌声里 (You Exist In My Song) [Trad. Chinese] [Official Music Video]](https://www.youtube.com/watch?v=w0dMz8RBG7g)
+- [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
+- [陳綺貞 Cheer Chen【旅行的意義 Travel is Meaningful】Official Music Video (官方HD高畫質版)](https://www.youtube.com/watch?v=tv95k0zqnaA)
+- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
+- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
+- [陪妳過假日 (feat. 9m88)](https://www.youtube.com/watch?v=8NujOp8b1lY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
