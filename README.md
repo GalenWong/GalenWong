@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
-- [宋冬野 - 斑馬，斑馬 Music Video](https://www.youtube.com/watch?v=7q2DrrQ33OQ)
-- [Frandé  我多麼想成為你的鹿](https://www.youtube.com/watch?v=Z95xtHab_0A)
+- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
 - [草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】](https://www.youtube.com/watch?v=j2311FZWoFQ)
-- [陪妳過假日 (feat. 9m88)](https://www.youtube.com/watch?v=8NujOp8b1lY)
+- [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
+- [親愛的家](https://www.youtube.com/watch?v=6cCbM0Tlzxs)
+- [I Know You Want Me (Calle Ocho)](https://www.youtube.com/watch?v=ubOLbmgKoIs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
