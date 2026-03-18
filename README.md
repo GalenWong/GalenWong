@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
-- [草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】](https://www.youtube.com/watch?v=j2311FZWoFQ)
-- [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
-- [親愛的家](https://www.youtube.com/watch?v=6cCbM0Tlzxs)
-- [I Know You Want Me (Calle Ocho)](https://www.youtube.com/watch?v=ubOLbmgKoIs)
+- [ポルカドットスティングレイ「バケノカワ」MV](https://www.youtube.com/watch?v=Z_fz6oeeG1M)
+- [Aimer - Re:pray](https://www.youtube.com/watch?v=nt58j1QGXhQ)
+- [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
+- [國蛋 GorDoN - White Noise ft. 蛋堡 Soft Lipa (Official Music Video)](https://www.youtube.com/watch?v=31ZM440owzw)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
