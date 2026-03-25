@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
-- [[avex官方] 唐禹哲 新歌 (MV完整版)](https://www.youtube.com/watch?v=No39_wCm-Vs)
-- [老街 歌词 - 李荣浩](https://www.youtube.com/watch?v=XadF4AbmHeA)
-- [Khalil Fong (方大同) - Special Person (特別的人) Official Music Video](https://www.youtube.com/watch?v=IscPlLsh6iU)
-- [deca joins | 浴室(demo)](https://www.youtube.com/watch?v=ngysuGig_2Y)
+- [Glide](https://www.youtube.com/watch?v=NV_R2mwrQ_w)
+- [Erotic](https://www.youtube.com/watch?v=ac57prz7I7I)
+- [Kyoumei -Kuukyo na Ishi-](https://www.youtube.com/watch?v=AWjoPl09BnU)
+- [魏如萱＆馬頔［ 星期三或禮拜三 Wednesday or Happy Hump Day? ］Official Music Video](https://www.youtube.com/watch?v=Aqdh6s75_6k)
+- [Tobenai Tsubasa](https://www.youtube.com/watch?v=wocqFwe0oLs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
