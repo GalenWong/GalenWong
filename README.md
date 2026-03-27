@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
-- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
-- [showmore - now (feat. SIRUP) (Official Music Video)](https://www.youtube.com/watch?v=RhBwlkKfJ10)
-- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
-- [AGA 江海迦 - 孤雛 (Official Music Video)](https://www.youtube.com/watch?v=ZyORtO7kTaw)
+- [My Only Girl](https://www.youtube.com/watch?v=mZsm8aB-R6A)
+- [最終列車は25時](https://www.youtube.com/watch?v=yDOx_Duc498)
+- [deca joins【大雨】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=PJhxxDnZHuY)
+- [Love Song](https://www.youtube.com/watch?v=qUUBDOL-09k)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
