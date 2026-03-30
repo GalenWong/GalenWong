@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
-- [L'Impératrice ♕ AGITATIONS TROPICALES](https://www.youtube.com/watch?v=jda_k6r9R1A)
-- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
-- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
-- [Fujii Kaze - "masshiro" (pure white) [Official Audio]](https://www.youtube.com/watch?v=XwgL4C2WaU8)
+- [Sunset Rollercoaster - Come back to me (Original song by RM of @BTS )](https://www.youtube.com/watch?v=6tG3B8Cewm4)
+- [deca joins | 浴室【Official Music Video】](https://www.youtube.com/watch?v=kZecE9AeELI)
+- [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
+- [My Only Girl](https://www.youtube.com/watch?v=mZsm8aB-R6A)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
