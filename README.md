@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunset Rollercoaster - Come back to me (Original song by RM of @BTS )](https://www.youtube.com/watch?v=6tG3B8Cewm4)
-- [deca joins | 浴室【Official Music Video】](https://www.youtube.com/watch?v=kZecE9AeELI)
-- [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
-- [My Only Girl](https://www.youtube.com/watch?v=mZsm8aB-R6A)
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (Official Music Video﻿)《當男人戀愛時》電影主題曲](https://www.youtube.com/watch?v=0rp3pP2Xwhs)
+- [心悶](https://www.youtube.com/watch?v=IW7iyqbdfV8)
+- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [周杰倫 Jay Chou【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
