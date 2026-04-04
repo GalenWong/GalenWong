@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
+- [Erotic](https://www.youtube.com/watch?v=ac57prz7I7I)
+- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
 - [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
-- [茄子蛋EggPlantEgg - 愛情你比我想的閣較偉大 (Official Music Video﻿)《當男人戀愛時》電影主題曲](https://www.youtube.com/watch?v=0rp3pP2Xwhs)
-- [十面埋伏](https://www.youtube.com/watch?v=7t2wtSSIF1I)
-- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
