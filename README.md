@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Miss Him, Too](https://www.youtube.com/watch?v=9nUF4SpDRTc)
-- [Erotic](https://www.youtube.com/watch?v=ac57prz7I7I)
-- [Back Lighting](https://www.youtube.com/watch?v=RaKwqj4BqY8)
-- [The Dark Day](https://www.youtube.com/watch?v=DOH5uhwn5F4)
-- [What I Miss](https://www.youtube.com/watch?v=rfjeRtVsQXQ)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [deca joins | 浴室【Official Music Video】](https://www.youtube.com/watch?v=kZecE9AeELI)
+- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
+- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
+- [LUCKY TAPES – 22 (Official Music Video)](https://www.youtube.com/watch?v=yjT9PpjtqKs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
