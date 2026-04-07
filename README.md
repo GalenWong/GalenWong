@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BLOODYWOOD - NU DELHI (Official Video)](https://www.youtube.com/watch?v=A3C9NwGKgq4)
-- [周杰倫 Jay Chou【回到過去 Back to the Past】Official MV](https://www.youtube.com/watch?v=MKNrnSsIwf8)
-- [The Dark Day (2015 Edition) (Remastered)](https://www.youtube.com/watch?v=lngbs_0j8QM)
-- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
-- [小心願](https://www.youtube.com/watch?v=yU8kTtfsuOs)
+- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
+- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
+- [好樂團 x 瑪啡因 ─ 《我愛你，卻不能拯救你 Full Band ver. 》Official Music Video（Live in Legacy Taipei）](https://www.youtube.com/watch?v=Vf1bAv_ZDAs)
+- [草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】](https://www.youtube.com/watch?v=j2311FZWoFQ)
+- [楊丞琳 Rainie Yang - 雨愛](https://www.youtube.com/watch?v=oec9R5ypf-o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
