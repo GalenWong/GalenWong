@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
-- [Angel Disco Love](https://www.youtube.com/watch?v=bWb6fZRXxD0)
-- [我的天](https://www.youtube.com/watch?v=eSh6phfn18I)
-- [房東的貓 - 雲煙成雨『我能否變成淤泥, 再一次沾染你...』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=cxNWXxBoaHg)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [告五人 Accusefive [ 唯一 The One And Only ] Official Music Video (三立/台視戲劇【戀愛是科學】插曲)](https://www.youtube.com/watch?v=vxucCfcMFCk)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
+- [Burgundy Red](https://www.youtube.com/watch?v=QBC72S6lL64)
+- [周杰倫 Jay Chou【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
