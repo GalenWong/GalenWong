@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
-- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [L'Impératrice — LA LUNE (audio)](https://www.youtube.com/watch?v=RZmEFQGc_D0)
-- [Burgundy Red](https://www.youtube.com/watch?v=QBC72S6lL64)
+- [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
+- [苦瓜](https://www.youtube.com/watch?v=Tdw2jNxu0TQ)
+- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
+- [陳奕迅 Eason Chan - 無條件 (Official Music Video)](https://www.youtube.com/watch?v=jzGaS5kWj0U)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
