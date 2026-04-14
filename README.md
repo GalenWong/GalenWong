@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
-- [苦瓜](https://www.youtube.com/watch?v=Tdw2jNxu0TQ)
-- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
-- [陳奕迅 Eason Chan - 無條件 (Official Music Video)](https://www.youtube.com/watch?v=jzGaS5kWj0U)
 - [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [戀人](https://www.youtube.com/watch?v=XYW-tDY7X_8)
+- [心悶](https://www.youtube.com/watch?v=IW7iyqbdfV8)
+- [周杰倫 Jay Chou【說好的幸福呢 The Promised Love】-Official Music Video](https://www.youtube.com/watch?v=mLFhTFiX0uM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
