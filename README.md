@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BLOODYWOOD - NU DELHI (Official Video)](https://www.youtube.com/watch?v=A3C9NwGKgq4)
-- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
-- [陶喆 David Tao -  似曾相識 Finally (官方完整版MV)](https://www.youtube.com/watch?v=h-akYlmcMmg)
-- [Twenty-Two](https://www.youtube.com/watch?v=2G_Pnakzdc0)
-- [陶喆 David Tao – Melody (官方完整版MV)](https://www.youtube.com/watch?v=yEtU5tzZMkY)
+- [孫燕姿 Sun Yan-Zi - 開始懂了 Realize (official 官方完整版MV)](https://www.youtube.com/watch?v=h5eRbbOnPRc)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
+- [Ai no Jikken](https://www.youtube.com/watch?v=PW1ZQ9ETsIs)
+- [Kyoumei -Kuukyo na Ishi-](https://www.youtube.com/watch?v=AWjoPl09BnU)
+- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
