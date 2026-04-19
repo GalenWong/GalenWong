@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi - 開始懂了 Realize (official 官方完整版MV)](https://www.youtube.com/watch?v=h5eRbbOnPRc)
-- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
-- [Ai no Jikken](https://www.youtube.com/watch?v=PW1ZQ9ETsIs)
-- [Kyoumei -Kuukyo na Ishi-](https://www.youtube.com/watch?v=AWjoPl09BnU)
-- [周杰倫 Jay Chou【夜曲 Nocturne】-Official Music Video](https://www.youtube.com/watch?v=6Q0Pd53mojY)
+- [張惠妹 A-Mei - 人質 Hostage (official 官方完整版MV)](https://www.youtube.com/watch?v=o4JrzNdpKw4)
+- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
+- [盧廣仲 Crowd Lu【太陽與地球 Sun & Earth】Official Video](https://www.youtube.com/watch?v=i5YRIjxyJP8)
+- [deca joins | Go Slow【Official Music Video】](https://www.youtube.com/watch?v=ikn3Drf3PpU)
+- [Hikousen](https://www.youtube.com/watch?v=IQWFS_IKV_Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
