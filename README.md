@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張惠妹 A-Mei - 人質 Hostage (official 官方完整版MV)](https://www.youtube.com/watch?v=o4JrzNdpKw4)
-- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
-- [盧廣仲 Crowd Lu【太陽與地球 Sun & Earth】Official Video](https://www.youtube.com/watch?v=i5YRIjxyJP8)
-- [deca joins | Go Slow【Official Music Video】](https://www.youtube.com/watch?v=ikn3Drf3PpU)
-- [Hikousen](https://www.youtube.com/watch?v=IQWFS_IKV_Y)
+- [BLOODYWOOD - NU DELHI (Official Video)](https://www.youtube.com/watch?v=A3C9NwGKgq4)
+- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
+- [告五人 Accusefive [ 愚人遊戲 Fool's Paradise ] Official Music Video (三立/台視戲劇【戀愛是科學】片尾曲)](https://www.youtube.com/watch?v=SBsDkwbL-G4)
+- [周杰倫 Jay Chou【愛你沒差 Love you, no matter what】Official MV](https://www.youtube.com/watch?v=miBGaUagOz8)
+- [deca joins | 浴室(2019 Reprise)](https://www.youtube.com/watch?v=WI-EMzrUSP4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
