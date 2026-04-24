@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [房東的貓 - 雲煙成雨『我能否變成淤泥, 再一次沾染你...』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=cxNWXxBoaHg)
-- [周杰倫 Jay Chou【退後 A Step Back】-Official Music Video](https://www.youtube.com/watch?v=0-4mm0e2h44)
-- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
-- [Mayday五月天 [ 我不願讓你一個人I Won't Let You Be Lonely ] Official Music Video - 末日版](https://www.youtube.com/watch?v=38lcQsEMGrk)
+- [周杰倫 Jay Chou【安靜 Silence】Official MV](https://www.youtube.com/watch?v=1hI-7vj2FhE)
 - [張惠妹 A-Mei - 人質 Hostage (official 官方完整版MV)](https://www.youtube.com/watch?v=o4JrzNdpKw4)
+- [周杰倫 Jay Chou【退後 A Step Back】-Official Music Video](https://www.youtube.com/watch?v=0-4mm0e2h44)
+- [周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
+- [周杰倫 Jay Chou【藉口 Excuse】-Official Music Video](https://www.youtube.com/watch?v=KcK8WurGpEQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
