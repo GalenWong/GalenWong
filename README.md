@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
-- [Charon’s Gone](https://www.youtube.com/watch?v=DmqokTWDShY)
+- [BLOODYWOOD - NU DELHI (Official Video)](https://www.youtube.com/watch?v=A3C9NwGKgq4)
+- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
+- [Yokaze](https://www.youtube.com/watch?v=ynsbOMRAt74)
 - [Piccolo Amore](https://www.youtube.com/watch?v=XfIGNwpjAR0)
-- [Last Summer Whisper](https://www.youtube.com/watch?v=MOOXO0ShopI)
-- [Mistakes](https://www.youtube.com/watch?v=W_ZPxMh79EY)
+- [張震嶽 ayal komod【梅雨季 Rainy Season】Official Music Video(4K)](https://www.youtube.com/watch?v=RND2XzJEBR8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
