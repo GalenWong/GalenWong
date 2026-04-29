@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [BLOODYWOOD - NU DELHI (Official Video)](https://www.youtube.com/watch?v=A3C9NwGKgq4)
-- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
-- [Yokaze](https://www.youtube.com/watch?v=ynsbOMRAt74)
-- [Piccolo Amore](https://www.youtube.com/watch?v=XfIGNwpjAR0)
-- [張震嶽 ayal komod【梅雨季 Rainy Season】Official Music Video(4K)](https://www.youtube.com/watch?v=RND2XzJEBR8)
+- [周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
+- [deca joins | 浴室【Official Music Video】](https://www.youtube.com/watch?v=kZecE9AeELI)
+- [周杰倫 Jay Chou【愛在西元前 Love before AD】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
+- [Charon’s Gone](https://www.youtube.com/watch?v=DmqokTWDShY)
+- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
