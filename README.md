@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
-- [deca joins | 浴室【Official Music Video】](https://www.youtube.com/watch?v=kZecE9AeELI)
-- [周杰倫 Jay Chou【愛在西元前 Love before AD】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
-- [Charon’s Gone](https://www.youtube.com/watch?v=DmqokTWDShY)
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
+- [Mistakes](https://www.youtube.com/watch?v=W_ZPxMh79EY)
+- [Fading Out](https://www.youtube.com/watch?v=FI6juS3ZWFg)
+- [竹内まりや -  Plastic Love (Official Music Video)](https://www.youtube.com/watch?v=T_lC2O1oIew)
+- [君が泣くなら](https://www.youtube.com/watch?v=-NtjNCM0Kn4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
