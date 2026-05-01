@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
-- [Mistakes](https://www.youtube.com/watch?v=W_ZPxMh79EY)
+- [no. no. no.](https://www.youtube.com/watch?v=FAGqnXlt8d8)
 - [Fading Out](https://www.youtube.com/watch?v=FI6juS3ZWFg)
-- [竹内まりや -  Plastic Love (Official Music Video)](https://www.youtube.com/watch?v=T_lC2O1oIew)
-- [君が泣くなら](https://www.youtube.com/watch?v=-NtjNCM0Kn4)
+- [Monochrome](https://www.youtube.com/watch?v=EQdY3uHSYN4)
+- [老王樂隊｜堤防 Levee (Official Music Video)](https://www.youtube.com/watch?v=dyzjPNtS_O8)
+- [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
