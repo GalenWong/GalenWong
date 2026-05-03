@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
-- [李聖傑 Sam Lee【手放開】Official Music Video](https://www.youtube.com/watch?v=g7xmoYFFduk)
-- [謝震廷 Eli Hsieh【你的行李】feat. 徐靖玟（Official Music Video）](https://www.youtube.com/watch?v=51SOZjKuaaQ)
-- [Ayo97 - 感謝你曾來過 ft.阿涵「高音質 x 動態歌詞 Lyrics」♪ SDPMusic ♪](https://www.youtube.com/watch?v=hVlmlDwhpWY)
-- [deca joins | 夜間獨白 (demo)](https://www.youtube.com/watch?v=bD12C-mGth4)
+- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
+- [Mistakes](https://www.youtube.com/watch?v=W_ZPxMh79EY)
+- [Piccolo Amore](https://www.youtube.com/watch?v=XfIGNwpjAR0)
+- [老王樂隊｜堤防 Levee (Official Music Video)](https://www.youtube.com/watch?v=dyzjPNtS_O8)
+- [no. no. no.](https://www.youtube.com/watch?v=FAGqnXlt8d8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
