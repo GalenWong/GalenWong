@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
 - [Mistakes](https://www.youtube.com/watch?v=W_ZPxMh79EY)
-- [Piccolo Amore](https://www.youtube.com/watch?v=XfIGNwpjAR0)
-- [老王樂隊｜堤防 Levee (Official Music Video)](https://www.youtube.com/watch?v=dyzjPNtS_O8)
-- [no. no. no.](https://www.youtube.com/watch?v=FAGqnXlt8d8)
+- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
+- [Fading Out](https://www.youtube.com/watch?v=FI6juS3ZWFg)
+- [Remember Summer Days](https://www.youtube.com/watch?v=3agC6do-624)
+- [Monochrome](https://www.youtube.com/watch?v=EQdY3uHSYN4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
