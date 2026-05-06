@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Nujabes - Yes (feat. Pase Rock) [Official Audio]](https://www.youtube.com/watch?v=-YslmVEkNQU)
-- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
-- [Fading Out](https://www.youtube.com/watch?v=FI6juS3ZWFg)
-- [no. no. no.](https://www.youtube.com/watch?v=FAGqnXlt8d8)
-- [Monochrome](https://www.youtube.com/watch?v=EQdY3uHSYN4)
+- [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
+- [竹内まりや -  Plastic Love (Official Music Video)](https://www.youtube.com/watch?v=T_lC2O1oIew)
+- [周杰倫 Jay Chou【開不了口 I Find It Hard To Say】Official MV](https://www.youtube.com/watch?v=H7hpK6cm-6k)
+- [Satellite](https://www.youtube.com/watch?v=4hZ2pKtjfgE)
+- [君が泣くなら](https://www.youtube.com/watch?v=-NtjNCM0Kn4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
