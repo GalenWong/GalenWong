@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
-- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
-- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
-- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
+- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
+- [夜聊 (你說, 我說) (feat. 李英宏)](https://www.youtube.com/watch?v=v0JT5YQ4HkE)
+- [羊文学 - more than words (Official Music Video) [TVアニメ『呪術廻戦』「渋谷事変」エンディングテーマ]](https://www.youtube.com/watch?v=kGY6N9DL4Jw)
+- [Missing You](https://www.youtube.com/watch?v=QOmMH4yuqTw)
+- [Mellow Medicine](https://www.youtube.com/watch?v=jCt8Rm1s628)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
