@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
-- [夜聊 (你說, 我說) (feat. 李英宏)](https://www.youtube.com/watch?v=v0JT5YQ4HkE)
-- [羊文学 - more than words (Official Music Video) [TVアニメ『呪術廻戦』「渋谷事変」エンディングテーマ]](https://www.youtube.com/watch?v=kGY6N9DL4Jw)
-- [Missing You](https://www.youtube.com/watch?v=QOmMH4yuqTw)
-- [Mellow Medicine](https://www.youtube.com/watch?v=jCt8Rm1s628)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
+- [プライベート・サンセット](https://www.youtube.com/watch?v=m1Nx-3ymx_E)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
