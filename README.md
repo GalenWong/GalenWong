@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [待我如初（As Before）-大头针版](https://www.youtube.com/watch?v=ZrZx6kcQ_h4)
-- [如果每天都可以 happy happy 誰想要sad:＊ (beat by Neil YEN)](https://www.youtube.com/watch?v=UJkxyLEazyc)
-- [半句再見 (From "At Café 6" / Main Theme Song)](https://www.youtube.com/watch?v=A78Hknx4lsA)
-- [Della丁噹 [ 猜不透 Hard to Guess ] Official Music Video](https://www.youtube.com/watch?v=n7A0KaEMmqc)
-- [仇人的孩子](https://www.youtube.com/watch?v=qjFVajnZBOw)
+- [陶喆 David Tao -  寂寞的季節 Season Of Loneliness (官方完整版MV)](https://www.youtube.com/watch?v=9J_NxeC-NeE)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [Wind of Tomorrow](https://www.youtube.com/watch?v=za4N9VsyLPo)
+- [Eason Chan 陳奕迅 七百年後 MV](https://www.youtube.com/watch?v=_NRf4HQw4MU)
+- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
