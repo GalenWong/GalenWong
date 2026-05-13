@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陶喆 David Tao -  寂寞的季節 Season Of Loneliness (官方完整版MV)](https://www.youtube.com/watch?v=9J_NxeC-NeE)
-- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
-- [Wind of Tomorrow](https://www.youtube.com/watch?v=za4N9VsyLPo)
-- [Eason Chan 陳奕迅 七百年後 MV](https://www.youtube.com/watch?v=_NRf4HQw4MU)
-- [【顏社】蛋堡 Soft Lipa X JABBERLOOP - I Want You (Official Music Video)](https://www.youtube.com/watch?v=ZciAX6KhCjs)
+- [wave to earth - bad (Official Lyric Video)](https://www.youtube.com/watch?v=6Q5xqNkCk7w)
+- [Nujabes - Peaceland [Official Audio]](https://www.youtube.com/watch?v=GxmwJkQH7qw)
+- [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
+- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
+- [和平世界](https://www.youtube.com/watch?v=KKTKuFkYeN4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
