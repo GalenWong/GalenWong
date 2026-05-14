@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [wave to earth - bad (Official Lyric Video)](https://www.youtube.com/watch?v=6Q5xqNkCk7w)
-- [Nujabes - Peaceland [Official Audio]](https://www.youtube.com/watch?v=GxmwJkQH7qw)
-- [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
-- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
-- [和平世界](https://www.youtube.com/watch?v=KKTKuFkYeN4)
+- [[avex官方]唐禹哲-放過你自己吧(MV完整版)](https://www.youtube.com/watch?v=fbjPPo9U99g)
+- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
+- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [唐禹哲-分開以後KTV](https://www.youtube.com/watch?v=CyFZ6mQ4zF0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
