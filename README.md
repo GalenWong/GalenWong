@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方]唐禹哲-放過你自己吧(MV完整版)](https://www.youtube.com/watch?v=fbjPPo9U99g)
-- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
-- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [唐禹哲-分開以後KTV](https://www.youtube.com/watch?v=CyFZ6mQ4zF0)
+- [Winter Sweet](https://www.youtube.com/watch?v=FRzvUwuDzBI)
+- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
+- [Luv (sic.) pt 3 Instrumentals](https://www.youtube.com/watch?v=NhG4cQATy6c)
+- [周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
+- [告五人 Accusefive【你要不要吃哈密瓜】Official Live Music Video](https://www.youtube.com/watch?v=TRDV0xw3j4Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
