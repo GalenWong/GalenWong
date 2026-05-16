@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Winter Sweet](https://www.youtube.com/watch?v=FRzvUwuDzBI)
-- [Room307 ft Riddem, Yuet - “背山望海” & “MkSadBoyKowNgDouLuiAsUsual" (Live Session)](https://www.youtube.com/watch?v=Tg03lyE7Fdw)
-- [Luv (sic.) pt 3 Instrumentals](https://www.youtube.com/watch?v=NhG4cQATy6c)
-- [周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video](https://www.youtube.com/watch?v=aaM7qG2ycjk)
-- [告五人 Accusefive【你要不要吃哈密瓜】Official Live Music Video](https://www.youtube.com/watch?v=TRDV0xw3j4Y)
+- [胡夏 Xia Hu - Those Bygone Years 那些年](https://www.youtube.com/watch?v=KqjgLbKZ1h0)
+- [魏如萱 waa wei [ 陪著你 Be There for You ] Official Music Video 《用九柑仔店》插曲](https://www.youtube.com/watch?v=mu8fCO9INAI)
+- [艾怡良 Eve Ai〈給她的話 For You〉Official Music Video](https://www.youtube.com/watch?v=vkb7rpjHpvQ)
+- [淺堤 Shallow Levée -【月光 Moonlight】( feat. deca joins 鄭敬儒 ) Official Music Video](https://www.youtube.com/watch?v=YM-Uo94JsXk)
+- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
