@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [胡夏 Xia Hu - Those Bygone Years 那些年](https://www.youtube.com/watch?v=KqjgLbKZ1h0)
-- [魏如萱 waa wei [ 陪著你 Be There for You ] Official Music Video 《用九柑仔店》插曲](https://www.youtube.com/watch?v=mu8fCO9INAI)
-- [艾怡良 Eve Ai〈給她的話 For You〉Official Music Video](https://www.youtube.com/watch?v=vkb7rpjHpvQ)
-- [淺堤 Shallow Levée -【月光 Moonlight】( feat. deca joins 鄭敬儒 ) Official Music Video](https://www.youtube.com/watch?v=YM-Uo94JsXk)
-- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
+- [[avex官方]唐禹哲-放過你自己吧(MV完整版)](https://www.youtube.com/watch?v=fbjPPo9U99g)
+- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
+- [王詩安 Diana Wang - 愛存在 Love Still Exists (Official 高畫質HD官方完整版MV)](https://www.youtube.com/watch?v=Qu1ZTCEw6wg)
+- [我平時在想什麼1 (prod. by Sōryo)](https://www.youtube.com/watch?v=nMtWEj5t7so)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
