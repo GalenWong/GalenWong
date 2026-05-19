@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Eason 陳奕迅 【心的距離】MV](https://www.youtube.com/watch?v=g-E0ojfjYu0)
-- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
-- [[avex官方]唐禹哲-放過你自己吧(MV完整版)](https://www.youtube.com/watch?v=fbjPPo9U99g)
-- [[avex官方]唐禹哲-Be With You(MV完整版)](https://www.youtube.com/watch?v=oXIuEnS-zDk)
-- [周杰倫 Jay Chou【愛在西元前 Love before AD】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
+- [熱水澡](https://www.youtube.com/watch?v=q18zsOzBofA)
+- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
+- [《淚橋》 “無心過問 你的心裡我的吻” Cover by DIOR大穎](https://www.youtube.com/watch?v=zI1CKtZuR4M)
+- [韋禮安 WeiBird《如果可以 Red Scarf》MV - 電影「月老」主題曲導演親剪音樂視角版](https://www.youtube.com/watch?v=8MG--WuNW1Y)
+- [飛輪海 Fahrenheit [不會愛 Can't Love] Official MV (偶像劇「終極一家」片尾曲)](https://www.youtube.com/watch?v=ih1Sl0qwEqU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
