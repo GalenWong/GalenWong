@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [熱水澡](https://www.youtube.com/watch?v=q18zsOzBofA)
-- [史詩](https://www.youtube.com/watch?v=P8j2S4i_vYs)
-- [《淚橋》 “無心過問 你的心裡我的吻” Cover by DIOR大穎](https://www.youtube.com/watch?v=zI1CKtZuR4M)
-- [韋禮安 WeiBird《如果可以 Red Scarf》MV - 電影「月老」主題曲導演親剪音樂視角版](https://www.youtube.com/watch?v=8MG--WuNW1Y)
-- [飛輪海 Fahrenheit [不會愛 Can't Love] Official MV (偶像劇「終極一家」片尾曲)](https://www.youtube.com/watch?v=ih1Sl0qwEqU)
+- [夜聊 (你說, 我說) (feat. 李英宏)](https://www.youtube.com/watch?v=v0JT5YQ4HkE)
+- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
+- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [Galileo Galilei - Aoi Shiori](https://www.youtube.com/watch?v=T3bxbVGWy5k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
