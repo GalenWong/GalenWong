@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [王詩安 Diana Wang - 愛存在 Love Still Exists (Official 高畫質HD官方完整版MV)](https://www.youtube.com/watch?v=Qu1ZTCEw6wg)
-- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
-- [美波「アメヲマツ、」MV](https://www.youtube.com/watch?v=766qmHTc2ro)
-- [草東沒有派對 No Party For Cao Dong - 床 Lie【Official Lyric Video】](https://www.youtube.com/watch?v=yq5KovCxq8o)
+- [溫室雜草 Easy Weeds【那天我們看著星夜】demo](https://www.youtube.com/watch?v=zfUnu_tkehg)
+- [陳奕迅 Eason Chan《人來人往》[Official MV]](https://www.youtube.com/watch?v=gAotCGoKhD0)
+- [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
+- [美秀集團 Amazing Show－米兒 Mia【Official Music Video】 feat.鄭小韻](https://www.youtube.com/watch?v=nVjVpX3gRWk)
+- [愛情研究院](https://www.youtube.com/watch?v=kGWzDKqJGcQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
