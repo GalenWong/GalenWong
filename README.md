@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [曾沛慈 - 一個人想著一個人 [終極一班2 電視原聲帶] (Official HD 完整版 MV)](https://www.youtube.com/watch?v=olODk6jhMhM)
-- [李聖傑 Sam Lee【痴心絕對 Devotion Love】Official Music Video](https://www.youtube.com/watch?v=7NIsBeVRAgk)
-- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
-- [Kan Sano - My Girl [Official Music Video]](https://www.youtube.com/watch?v=Ki4zPBnfPI4)
-- [謊言留聲機 Lie Gramophone - 分手夜 Break-up Night (feat. LALA 徐佳瑩) Official Video](https://www.youtube.com/watch?v=4z9o8GwxBz8)
+- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
+- [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
+- [米津玄師  Kenshi Yonezu  - Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
+- [deca joins | 浴室(2019 Reprise)](https://www.youtube.com/watch?v=WI-EMzrUSP4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
