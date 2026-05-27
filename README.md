@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [曾沛慈 - 一個人想著一個人 [終極一班2 電視原聲帶] (Official HD 完整版 MV)](https://www.youtube.com/watch?v=olODk6jhMhM)
-- [フレデリック「オドループ」Music Video | Frederic "oddloop"](https://www.youtube.com/watch?v=PCp2iXA1uLE)
+- [Wind of Tomorrow](https://www.youtube.com/watch?v=za4N9VsyLPo)
+- [Mistakes](https://www.youtube.com/watch?v=W_ZPxMh79EY)
+- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
 - [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
-- [米津玄師  Kenshi Yonezu  - Lemon](https://www.youtube.com/watch?v=SX_ViT4Ra7k)
-- [deca joins | 浴室(2019 Reprise)](https://www.youtube.com/watch?v=WI-EMzrUSP4)
+- [Bluebird](https://www.youtube.com/watch?v=3Om6Ztel34Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
