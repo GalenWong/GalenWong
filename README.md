@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方] dance flow – 迷人的危險 (官方完整版MV)](https://www.youtube.com/watch?v=qmr496mJb6w)
-- [Cosmos People 宇宙人 [ 藍色的你 Ocean ] Official Music Video](https://www.youtube.com/watch?v=nL_VoX0ZR0E)
-- [羅志祥 Show Lo - 愛不單行 You Won't Be Alone (官方完整版MV)](https://www.youtube.com/watch?v=iBrOFd1wDuQ)
-- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
-- [Wind of Tomorrow](https://www.youtube.com/watch?v=za4N9VsyLPo)
+- [羊文学 - more than words (Official Music Video) [TVアニメ『呪術廻戦』「渋谷事変」エンディングテーマ]](https://www.youtube.com/watch?v=kGY6N9DL4Jw)
+- [周杰倫 Jay Chou【愛你沒差 Love you, no matter what】Official MV](https://www.youtube.com/watch?v=miBGaUagOz8)
+- [Gaining Through Losing](https://www.youtube.com/watch?v=b9w7iHtb5o0)
+- [SWAG午覺 - 異鄉人 Outlander feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=-vicJD0UJnY)
+- [kiki vivi lily / 80denier (Session at Red Bull Music Studios Tokyo)](https://www.youtube.com/watch?v=nR8vhArzrGM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
