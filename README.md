@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [羊文学 - more than words (Official Music Video) [TVアニメ『呪術廻戦』「渋谷事変」エンディングテーマ]](https://www.youtube.com/watch?v=kGY6N9DL4Jw)
-- [周杰倫 Jay Chou【愛你沒差 Love you, no matter what】Official MV](https://www.youtube.com/watch?v=miBGaUagOz8)
-- [Gaining Through Losing](https://www.youtube.com/watch?v=b9w7iHtb5o0)
-- [SWAG午覺 - 異鄉人 Outlander feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=-vicJD0UJnY)
-- [kiki vivi lily / 80denier (Session at Red Bull Music Studios Tokyo)](https://www.youtube.com/watch?v=nR8vhArzrGM)
+- [3rd Coast - Closer (Lyrics)](https://www.youtube.com/watch?v=uSOHpzm4iN0)
+- [A-Lin《繞路 Detour》Official Music Video](https://www.youtube.com/watch?v=mcJB9H0Nvbc)
+- [李英宏 aka DJ DIDILONG X 沈文程 - Nina 來台東  ( 2026台東博覽會形象主題曲A面 )](https://www.youtube.com/watch?v=9KUGYFVZFKw)
+- [痴心絕對](https://www.youtube.com/watch?v=CyG7HCVupuE)
+- [曾沛慈 Pets Tseng - 不過失去了一點點 Just Lose It (Hurt so much) (官方版MV) - 八大綜合台戲劇「終極惡女」片尾曲](https://www.youtube.com/watch?v=7dKOb-dKAyg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
