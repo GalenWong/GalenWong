@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [3rd Coast - Closer (Lyrics)](https://www.youtube.com/watch?v=uSOHpzm4iN0)
-- [A-Lin《繞路 Detour》Official Music Video](https://www.youtube.com/watch?v=mcJB9H0Nvbc)
-- [李英宏 aka DJ DIDILONG X 沈文程 - Nina 來台東  ( 2026台東博覽會形象主題曲A面 )](https://www.youtube.com/watch?v=9KUGYFVZFKw)
-- [痴心絕對](https://www.youtube.com/watch?v=CyG7HCVupuE)
-- [曾沛慈 Pets Tseng - 不過失去了一點點 Just Lose It (Hurt so much) (官方版MV) - 八大綜合台戲劇「終極惡女」片尾曲](https://www.youtube.com/watch?v=7dKOb-dKAyg)
+- [曾沛慈 - 一個人想著一個人 [終極一班2 電視原聲帶] (Official HD 完整版 MV)](https://www.youtube.com/watch?v=olODk6jhMhM)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
+- [Tell Me Oh Mama](https://www.youtube.com/watch?v=9DOfr8WyFdA)
+- [盧廣仲 Crowd Lu【lost you twice】Official Video](https://www.youtube.com/watch?v=LGHVpnyqsO4)
+- [[avex官方]唐禹哲-陪你(MV完整版)](https://www.youtube.com/watch?v=FxgKbHK7Czw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
