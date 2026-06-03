@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [唐禹哲-分開以後KTV](https://www.youtube.com/watch?v=CyFZ6mQ4zF0)
-- [卓義峯 Yifeng Zhuo - 再見煙火 Goodbye Firework【豐華唱片official 官方MV】](https://www.youtube.com/watch?v=yjWwfDW9IoA)
-- [周杰倫 Jay Chou【 軌跡 Tracks】Official MV](https://www.youtube.com/watch?v=SdBwt6pyNwE)
-- [[avex官方] 唐禹哲 灰色河堤 (MV完整版)](https://www.youtube.com/watch?v=seeGb9n2D00)
-- [孤單心事](https://www.youtube.com/watch?v=v3f7idSAVGs)
+- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
+- [曾沛慈 Pets Tseng - 不過失去了一點點 Just Lose It (Hurt so much) (官方版MV) - 八大綜合台戲劇「終極惡女」片尾曲](https://www.youtube.com/watch?v=7dKOb-dKAyg)
+- [溫蒂漫步 Wendy Wander : 我想和你一起 (demo)](https://www.youtube.com/watch?v=t5-xocwGRpY)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
