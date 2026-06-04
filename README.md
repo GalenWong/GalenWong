@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫蒂漫步 Wendy Wander ｜She loves me｜(Official music video)](https://www.youtube.com/watch?v=51ZmYeROA5M)
-- [曾沛慈 Pets Tseng - 不過失去了一點點 Just Lose It (Hurt so much) (官方版MV) - 八大綜合台戲劇「終極惡女」片尾曲](https://www.youtube.com/watch?v=7dKOb-dKAyg)
-- [溫蒂漫步 Wendy Wander : 我想和你一起 (demo)](https://www.youtube.com/watch?v=t5-xocwGRpY)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [待我如初（As Before）-大头针版](https://www.youtube.com/watch?v=ZrZx6kcQ_h4)
+- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
+- [WHY NOT《無法度按捺》官方MV (Official Music Video)](https://www.youtube.com/watch?v=yRNia0_tbgY)
+- [梁靜茹   會呼吸的痛 無損音樂FLAC 歌詞LYRICS 純享](https://www.youtube.com/watch?v=vZ1fCcPUuPM)
+- [EDEN - wonder (official audio)](https://www.youtube.com/watch?v=6Qx1y1MA5N8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
