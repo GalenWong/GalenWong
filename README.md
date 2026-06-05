@@ -81,9 +81,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [待我如初（As Before）-大头针版](https://www.youtube.com/watch?v=ZrZx6kcQ_h4)
 - [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [WHY NOT《無法度按捺》官方MV (Official Music Video)](https://www.youtube.com/watch?v=yRNia0_tbgY)
-- [梁靜茹   會呼吸的痛 無損音樂FLAC 歌詞LYRICS 純享](https://www.youtube.com/watch?v=vZ1fCcPUuPM)
-- [EDEN - wonder (official audio)](https://www.youtube.com/watch?v=6Qx1y1MA5N8)
+- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
+- [[avex官方]小宇 過渡期(MV完整版)](https://www.youtube.com/watch?v=lSsSjjnVQxE)
+- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
