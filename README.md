@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [待我如初（As Before）-大头针版](https://www.youtube.com/watch?v=ZrZx6kcQ_h4)
-- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
-- [[avex官方]小宇 過渡期(MV完整版)](https://www.youtube.com/watch?v=lSsSjjnVQxE)
-- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
+- [EDEN - drugs (Lyric Video)](https://www.youtube.com/watch?v=szIDM99kRNM)
+- [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
+- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
+- [草東沒有派對 No Party For Cao Dong - 大風吹 Simon Says【Official Music Video】](https://www.youtube.com/watch?v=HqmpIQ9l-uA)
+- [草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】](https://www.youtube.com/watch?v=j2311FZWoFQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
