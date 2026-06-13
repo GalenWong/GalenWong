@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
-- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
-- [Bluebird](https://www.youtube.com/watch?v=3Om6Ztel34Y)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
 - [Piccolo Amore](https://www.youtube.com/watch?v=XfIGNwpjAR0)
+- [椅子樂團 The Chairs - 生份的你 (Official Music Video)](https://www.youtube.com/watch?v=I0Ej0yOHxNo)
+- [南西肯恩 NeciKen〈大海 Ocean〉Official Music Video](https://www.youtube.com/watch?v=exVEN7hlqBg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
