@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins｜臥室 【Official Video】](https://www.youtube.com/watch?v=7txY0tW3X2I)
-- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
-- [Eason Chan 陳奕迅 《一絲不掛》MV](https://www.youtube.com/watch?v=t0EG6pSwcBk)
-- [好樂團 x 瑪啡因 ─ 《我愛你，卻不能拯救你 Full Band ver. 》Official Music Video（Live in Legacy Taipei）](https://www.youtube.com/watch?v=Vf1bAv_ZDAs)
-- [王詩安 Diana Wang - 愛存在 Love Still Exists (Official 高畫質HD官方完整版MV)](https://www.youtube.com/watch?v=Qu1ZTCEw6wg)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [仇人的孩子](https://www.youtube.com/watch?v=qjFVajnZBOw)
+- [夜聊 (你說, 我說) (feat. 李英宏)](https://www.youtube.com/watch?v=v0JT5YQ4HkE)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
