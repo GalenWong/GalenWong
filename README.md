@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [仇人的孩子](https://www.youtube.com/watch?v=qjFVajnZBOw)
 - [夜聊 (你說, 我說) (feat. 李英宏)](https://www.youtube.com/watch?v=v0JT5YQ4HkE)
 - [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [The Eden Project - Gone](https://www.youtube.com/watch?v=7XIbu5Unp1s)
+- [臥室](https://www.youtube.com/watch?v=62J67Ka6UQk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
