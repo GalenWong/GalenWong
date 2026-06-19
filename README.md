@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [待我如初（As Before）-大头针版](https://www.youtube.com/watch?v=ZrZx6kcQ_h4)
-- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
-- [藍又時Shadya Lan【倫敦的愛情】Official 完整版MV](https://www.youtube.com/watch?v=oxKeSS5sKmw)
-- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [藍又時Shadya Lan【秘密】Official 完整版MV](https://www.youtube.com/watch?v=NFo8Popylio)
+- [[avex官方]小宇 終於說出口-劈腿版 (MV完整版)](https://www.youtube.com/watch?v=vqBIT0jErBs)
+- [羅志祥 Show Lo - 愛不單行 You Won't Be Alone (官方完整版MV)](https://www.youtube.com/watch?v=iBrOFd1wDuQ)
+- [[avex官方HD] A-Lin 幸福了 然後呢 (MV完整版)](https://www.youtube.com/watch?v=m9eoYjo5W8c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
