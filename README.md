@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [G.E.M.【多遠都要在一起 LONG DISTANCE】Official MV [HD] 鄧紫棋](https://www.youtube.com/watch?v=D9ksLn6hZ7Q)
-- [周杰倫 Jay Chou【七里香 Orange Jasmine】-Official Music Video](https://www.youtube.com/watch?v=Bbp9ZaJD_eA)
-- [無妄合作社 No-nonsense Collective－〈開店歌〉Official Music Video](https://www.youtube.com/watch?v=jZzzwd_CDQM)
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
+- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
+- [曲肖冰 -  誰「在你眼中我是誰 你想我代替誰」【動態歌詞】♪](https://www.youtube.com/watch?v=Ccr8t6-qTZo)
+- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
+- [羅志祥 Show Lo - 愛不單行 You Won't Be Alone (官方完整版MV)](https://www.youtube.com/watch?v=iBrOFd1wDuQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
