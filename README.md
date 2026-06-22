@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [收斂水](https://www.youtube.com/watch?v=sxJwgp00_3s)
-- [曲肖冰 -  誰「在你眼中我是誰 你想我代替誰」【動態歌詞】♪](https://www.youtube.com/watch?v=Ccr8t6-qTZo)
-- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
-- [羅志祥 Show Lo - 愛不單行 You Won't Be Alone (官方完整版MV)](https://www.youtube.com/watch?v=iBrOFd1wDuQ)
+- [好樂團 x 瑪啡因 ─ 《我們一樣可惜 Full Band ver. 》Official Lyric Video](https://www.youtube.com/watch?v=zGrYK1VTIjs)
+- [[avex官方]小宇 終於說出口-劈腿版 (MV完整版)](https://www.youtube.com/watch?v=vqBIT0jErBs)
+- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
+- [藍又時Shadya Lan【倫敦的愛情】Official 完整版MV](https://www.youtube.com/watch?v=oxKeSS5sKmw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
