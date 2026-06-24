@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方]唐禹哲-放過你自己吧(MV完整版)](https://www.youtube.com/watch?v=fbjPPo9U99g)
-- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
-- [蘇打綠 sodagreen - 【我好想你】「小時代」電影主題曲MV](https://www.youtube.com/watch?v=P_pyfLArjQg)
-- [劉力揚 Jeno Liu [禮物 Gift] Official MV](https://www.youtube.com/watch?v=OeomzeIlgMQ)
-- [莫文蔚 Karen Mok【忽然之間 Suddenly】Official Music Video](https://www.youtube.com/watch?v=h1tNw1aFzSM)
+- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
+- [[avex官方]小宇 終於說出口-劈腿版 (MV完整版)](https://www.youtube.com/watch?v=vqBIT0jErBs)
+- [唐禹哲-分開以後KTV](https://www.youtube.com/watch?v=CyFZ6mQ4zF0)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [藍又時Shadya Lan【倫敦的愛情】Official 完整版MV](https://www.youtube.com/watch?v=oxKeSS5sKmw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
