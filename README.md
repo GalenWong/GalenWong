@@ -81,9 +81,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
 - [[avex官方]小宇 終於說出口-劈腿版 (MV完整版)](https://www.youtube.com/watch?v=vqBIT0jErBs)
-- [唐禹哲-分開以後KTV](https://www.youtube.com/watch?v=CyFZ6mQ4zF0)
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [藍又時Shadya Lan【倫敦的愛情】Official 完整版MV](https://www.youtube.com/watch?v=oxKeSS5sKmw)
+- [[avex官方]唐禹哲 分開以後 (MV完整版)](https://www.youtube.com/watch?v=nb5hLERVDeQ)
+- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [告五人 Accusefive [ 愛在夏天－盛夏之約 Love In Summer ] Official Music Video](https://www.youtube.com/watch?v=6Xu-TGL-_qk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
