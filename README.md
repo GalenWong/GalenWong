@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [[avex官方]小宇 終於說出口-劈腿版 (MV完整版)](https://www.youtube.com/watch?v=vqBIT0jErBs)
-- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [Piccolo Amore](https://www.youtube.com/watch?v=XfIGNwpjAR0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
