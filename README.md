@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
-- [[avex官方]小宇 終於說出口-劈腿版 (MV完整版)](https://www.youtube.com/watch?v=vqBIT0jErBs)
-- [梁靜茹 Fish Leong【可惜不是你 Unfortunately Not You】Official Music Video](https://www.youtube.com/watch?v=k_l7FVsqUyM)
-- [[avex官方]唐禹哲 分開以後 (MV完整版)](https://www.youtube.com/watch?v=nb5hLERVDeQ)
+- [TANK [如果我變成回憶 If I was the memory] Official MV](https://www.youtube.com/watch?v=FGsnxTkWZCU)
+- [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
+- [米津玄師 - さよーならまたいつか！ Kenshi Yonezu - Sayonara, Mata Itsuka !](https://www.youtube.com/watch?v=-wb2PAx6aEs)
+- [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
+- [自躁浪漫 ft. 李權哲](https://www.youtube.com/watch?v=ijvENQrNOZo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
