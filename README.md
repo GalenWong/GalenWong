@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [TANK [如果我變成回憶 If I was the memory] Official MV](https://www.youtube.com/watch?v=FGsnxTkWZCU)
-- [ポルカドットスティングレイ「JET」MV](https://www.youtube.com/watch?v=phwvj0_XM4k)
-- [米津玄師 - さよーならまたいつか！ Kenshi Yonezu - Sayonara, Mata Itsuka !](https://www.youtube.com/watch?v=-wb2PAx6aEs)
-- [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
-- [自躁浪漫 ft. 李權哲](https://www.youtube.com/watch?v=ijvENQrNOZo)
+- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
+- [Sunset Rollercoaster - Jinji Kikko (Full EP), 2016](https://www.youtube.com/watch?v=d1REzQ75COs)
+- [甜約翰 Sweet John【 愛人與被愛的姿態 To Love and Be Loved 】Official Music Video](https://www.youtube.com/watch?v=8dhpzY6WhUk)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
+- [showmore - now (feat. SIRUP) (Official Music Video)](https://www.youtube.com/watch?v=RhBwlkKfJ10)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
