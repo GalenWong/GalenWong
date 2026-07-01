@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
-- [Sunset Rollercoaster - Jinji Kikko (Full EP), 2016](https://www.youtube.com/watch?v=d1REzQ75COs)
-- [甜約翰 Sweet John【 愛人與被愛的姿態 To Love and Be Loved 】Official Music Video](https://www.youtube.com/watch?v=8dhpzY6WhUk)
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
-- [showmore - now (feat. SIRUP) (Official Music Video)](https://www.youtube.com/watch?v=RhBwlkKfJ10)
+- [曾沛慈 - 一個人想著一個人 [終極一班2 電視原聲帶] (Official HD 完整版 MV)](https://www.youtube.com/watch?v=olODk6jhMhM)
+- [美秀集團 Amazing Show【還是會寂寞 Lonely without you】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=3aOhjj5it7k)
+- [王詩安 Diana Wang - 愛存在 Love Still Exists (Official 高畫質HD官方完整版MV)](https://www.youtube.com/watch?v=Qu1ZTCEw6wg)
+- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
+- [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
