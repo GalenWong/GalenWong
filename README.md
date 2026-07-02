@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [曾沛慈 - 一個人想著一個人 [終極一班2 電視原聲帶] (Official HD 完整版 MV)](https://www.youtube.com/watch?v=olODk6jhMhM)
-- [美秀集團 Amazing Show【還是會寂寞 Lonely without you】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=3aOhjj5it7k)
-- [王詩安 Diana Wang - 愛存在 Love Still Exists (Official 高畫質HD官方完整版MV)](https://www.youtube.com/watch?v=Qu1ZTCEw6wg)
-- [藍又時 - 孤單心事『愛你是孤單的心事』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=2bzmg1rN2aY)
-- [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
+- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
+- [梁靜茹   會呼吸的痛 無損音樂FLAC 歌詞LYRICS 純享](https://www.youtube.com/watch?v=vZ1fCcPUuPM)
+- [[avex官方]唐禹哲 分開以後 (MV完整版)](https://www.youtube.com/watch?v=nb5hLERVDeQ)
+- [周杰倫 Jay Chou【開不了口 I Find It Hard To Say】Official MV](https://www.youtube.com/watch?v=H7hpK6cm-6k)
+- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
