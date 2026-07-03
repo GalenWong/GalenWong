@@ -81,9 +81,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
 - [梁靜茹   會呼吸的痛 無損音樂FLAC 歌詞LYRICS 純享](https://www.youtube.com/watch?v=vZ1fCcPUuPM)
-- [[avex官方]唐禹哲 分開以後 (MV完整版)](https://www.youtube.com/watch?v=nb5hLERVDeQ)
-- [周杰倫 Jay Chou【開不了口 I Find It Hard To Say】Official MV](https://www.youtube.com/watch?v=H7hpK6cm-6k)
-- [Hello Nico〈花〉MV](https://www.youtube.com/watch?v=BlblBvpVgjE)
+- [[avex官方HD] A-Lin 幸福了 然後呢 (MV完整版)](https://www.youtube.com/watch?v=m9eoYjo5W8c)
+- [飛輪海 Fahrenheit [不會愛 Can't Love] Official MV (偶像劇「終極一家」片尾曲)](https://www.youtube.com/watch?v=ih1Sl0qwEqU)
+- [閻奕格 Janice Yan [ 也可以 Might as well ] Official Music Video (電影「追婚日記」插曲)](https://www.youtube.com/watch?v=lN-GUBIMDNA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
