@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [梁靜茹   會呼吸的痛 無損音樂FLAC 歌詞LYRICS 純享](https://www.youtube.com/watch?v=vZ1fCcPUuPM)
-- [[avex官方HD] A-Lin 幸福了 然後呢 (MV完整版)](https://www.youtube.com/watch?v=m9eoYjo5W8c)
-- [飛輪海 Fahrenheit [不會愛 Can't Love] Official MV (偶像劇「終極一家」片尾曲)](https://www.youtube.com/watch?v=ih1Sl0qwEqU)
-- [閻奕格 Janice Yan [ 也可以 Might as well ] Official Music Video (電影「追婚日記」插曲)](https://www.youtube.com/watch?v=lN-GUBIMDNA)
+- [唐禹哲-分開以後KTV](https://www.youtube.com/watch?v=CyFZ6mQ4zF0)
+- [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
+- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
+- [K-One - 背影](https://www.youtube.com/watch?v=yKNubnHnXQ0)
+- [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
