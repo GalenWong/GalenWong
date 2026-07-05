@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [唐禹哲-分開以後KTV](https://www.youtube.com/watch?v=CyFZ6mQ4zF0)
-- [ポルカドットスティングレイ「DENKOUSEKKA」MV](https://www.youtube.com/watch?v=p6oVXuLsbxM)
-- [過程](https://www.youtube.com/watch?v=w-Fzxz9gxSg)
-- [K-One - 背影](https://www.youtube.com/watch?v=yKNubnHnXQ0)
-- [ポルカドットスティングレイ「有頂天」MV](https://www.youtube.com/watch?v=Kdp03O1FgJw)
+- [[avex官方]唐禹哲-放過你自己吧(MV完整版)](https://www.youtube.com/watch?v=fbjPPo9U99g)
+- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
+- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
+- [當冬夜漸暖](https://www.youtube.com/watch?v=pD2VWvz9ZCY)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
