@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方]唐禹哲-放過你自己吧(MV完整版)](https://www.youtube.com/watch?v=fbjPPo9U99g)
-- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
-- [周杰倫 Jay Chou【擱淺 Step Aside】-Official Music Video](https://www.youtube.com/watch?v=YJfHuATJYsQ)
-- [當冬夜漸暖](https://www.youtube.com/watch?v=pD2VWvz9ZCY)
-- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [曾沛慈 - 一個人想著一個人 [終極一班2 電視原聲帶] (Official HD 完整版 MV)](https://www.youtube.com/watch?v=olODk6jhMhM)
+- [梁文音Wen Yin Liang – 分手後不要做朋友 (Lyric Video)](https://www.youtube.com/watch?v=PMsV6D5HJWs)
+- [美秀集團 Amazing Show－我要你愛 You are My Crazy Lover【Official Music Video】](https://www.youtube.com/watch?v=ouQwJj1V2pE)
+- [曾沛慈 Pets Tseng - 不過失去了一點點 Just Lose It (Hurt so much) (官方版MV) - 八大綜合台戲劇「終極惡女」片尾曲](https://www.youtube.com/watch?v=7dKOb-dKAyg)
+- [陳奕迅 Eason Chan - 無條件 (Official Music Video)](https://www.youtube.com/watch?v=jzGaS5kWj0U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
