@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方]唐禹哲-放過你自己吧(MV完整版)](https://www.youtube.com/watch?v=fbjPPo9U99g)
-- [張震嶽 ayal komod【梅雨季 Rainy Season】Official Music Video(4K)](https://www.youtube.com/watch?v=RND2XzJEBR8)
-- [さとうもか - 愛ゆえに　sato moka -  aiyueni　 Music Video](https://www.youtube.com/watch?v=In7m-BrHaQo)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [I Mean Us - Søulмaтe【Demo】](https://www.youtube.com/watch?v=AgrfgqV1lAs)
+- [L'Impératrice — Voodoo?](https://www.youtube.com/watch?v=R7-v1slmarM)
+- [曾沛慈 - 一個人想著一個人 [終極一班2 電視原聲帶] (Official HD 完整版 MV)](https://www.youtube.com/watch?v=olODk6jhMhM)
+- [[avex官方]唐禹哲 愛我 (MV完整版)](https://www.youtube.com/watch?v=r0y-NDDX2WA)
+- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
+- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
