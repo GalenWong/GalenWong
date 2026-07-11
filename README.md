@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [L'Impératrice — Voodoo?](https://www.youtube.com/watch?v=R7-v1slmarM)
+- [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
 - [no. no. no.](https://www.youtube.com/watch?v=eynCfZYPY8Q)
-- [告五人 Accusefive【你要不要吃哈密瓜】Official Live Music Video](https://www.youtube.com/watch?v=TRDV0xw3j4Y)
-- [溫蒂漫步 Wendy Wander - 我想和你一起 I Want To Be With You Live in Hong Kong (Official Live Music Video)](https://www.youtube.com/watch?v=G54TH4ka_co)
-- [3rd Coast - Everything (Lyrics)](https://www.youtube.com/watch?v=Cc55lV0taZc)
+- [BLACK OUT (feat. 9m88)](https://www.youtube.com/watch?v=MHKnSFlDBLQ)
+- [Wui229](https://www.youtube.com/watch?v=i67Oes68e3w)
+- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
