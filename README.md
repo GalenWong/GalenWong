@@ -81,9 +81,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
 - [no. no. no.](https://www.youtube.com/watch?v=eynCfZYPY8Q)
-- [BLACK OUT (feat. 9m88)](https://www.youtube.com/watch?v=MHKnSFlDBLQ)
-- [Wui229](https://www.youtube.com/watch?v=i67Oes68e3w)
-- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
+- [如果每天都可以 happy happy 誰想要sad:))](https://www.youtube.com/watch?v=FvPOMqMe-w0)
+- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
+- [Maware Maware](https://www.youtube.com/watch?v=RJPG8ijiH3Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
