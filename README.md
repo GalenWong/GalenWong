@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
-- [no. no. no.](https://www.youtube.com/watch?v=eynCfZYPY8Q)
-- [如果每天都可以 happy happy 誰想要sad:))](https://www.youtube.com/watch?v=FvPOMqMe-w0)
-- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
+- [L'Impératrice — Voodoo?](https://www.youtube.com/watch?v=R7-v1slmarM)
 - [Maware Maware](https://www.youtube.com/watch?v=RJPG8ijiH3Y)
+- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
+- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
