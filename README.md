@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [曾沛慈 - 一個人想著一個人 [終極一班2 電視原聲帶] (Official HD 完整版 MV)](https://www.youtube.com/watch?v=olODk6jhMhM)
-- [L'Impératrice — Voodoo?](https://www.youtube.com/watch?v=R7-v1slmarM)
-- [科幻小說](https://www.youtube.com/watch?v=Rr8OPVGxLFg)
-- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
-- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
+- [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
+- [L'Impératrice ♙ PARFUM THÉRÉMINE](https://www.youtube.com/watch?v=5Ksp63RJuaU)
+- [L'Impératrice ♕ AGITATIONS TROPICALES](https://www.youtube.com/watch?v=jda_k6r9R1A)
+- [L'Impératrice — Fou](https://www.youtube.com/watch?v=wmYPpnjthkU)
+- [Wui229](https://www.youtube.com/watch?v=i67Oes68e3w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
