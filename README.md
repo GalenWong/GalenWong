@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
-- [L'Impératrice ♙ PARFUM THÉRÉMINE](https://www.youtube.com/watch?v=5Ksp63RJuaU)
-- [L'Impératrice ♕ AGITATIONS TROPICALES](https://www.youtube.com/watch?v=jda_k6r9R1A)
-- [L'Impératrice — Fou](https://www.youtube.com/watch?v=wmYPpnjthkU)
-- [Wui229](https://www.youtube.com/watch?v=i67Oes68e3w)
+- [甜約翰 Sweet John【 戀人觀影須知 Manual of Love (A Plus Ver.) 】](https://www.youtube.com/watch?v=Lsg6CJJiKmQ)
+- [DIALUCK 「セーシュン」MV](https://www.youtube.com/watch?v=c2moFnH7_f8)
+- [mol-74 - エイプリル【MV】](https://www.youtube.com/watch?v=HTjiTJm7jjg)
+- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
+- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
