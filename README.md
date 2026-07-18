@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [mol-74 - エイプリル【MV】](https://www.youtube.com/watch?v=HTjiTJm7jjg)
-- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
-- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
-- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [Remember Summer Days](https://www.youtube.com/watch?v=3agC6do-624)
+- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
+- [TANK [ 你的情歌 Your Love Song ] Official Music Video (電影【你的情歌】主題曲)](https://www.youtube.com/watch?v=MeGrr-lWpxU)
+- [TANK [全世界都停電 You Blackout My World] Official Music Video](https://www.youtube.com/watch?v=4e84d3Snd2k)
+- [美秀集團 Amazing Show－我要你愛 You are My Crazy Lover【Official Music Video】](https://www.youtube.com/watch?v=ouQwJj1V2pE)
+- [SWAG午覺 - 異鄉人 Outlander feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=-vicJD0UJnY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
