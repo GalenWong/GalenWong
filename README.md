@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張震嶽 A-Yue【愛我別走 Love me,don’t go】Official Music Video](https://www.youtube.com/watch?v=zPeMFCDPgKE)
-- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
-- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
-- [Gordon Flanders - 歌頓花園 Gordon's Garden (Official Music Video)](https://www.youtube.com/watch?v=iYAtwuZXEC8)
-- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [張震嶽 ayal komod【搬家 Sadly Moving On】Official Music Video(4K)](https://www.youtube.com/watch?v=tt_JXfBIiBM)
+- [椅子樂團 The Chairs - 也許是你拯救了我 Maybe it’s you (Official Music Video)](https://www.youtube.com/watch?v=7kc7qxBsNqk)
+- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
+- [椅子樂團 The Chairs - She’s Moving Out Of Town (Official Audio)](https://www.youtube.com/watch?v=IczpqjqwsZM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
