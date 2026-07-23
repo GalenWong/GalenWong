@@ -79,10 +79,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [張震嶽 ayal komod【搬家 Sadly Moving On】Official Music Video(4K)](https://www.youtube.com/watch?v=tt_JXfBIiBM)
-- [椅子樂團 The Chairs - 也許是你拯救了我 Maybe it’s you (Official Music Video)](https://www.youtube.com/watch?v=7kc7qxBsNqk)
-- [椅子樂團 The Chairs - Aphrodite (Official Audio)](https://www.youtube.com/watch?v=7uyHHupRs90)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [Wind of Tomorrow](https://www.youtube.com/watch?v=za4N9VsyLPo)
+- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
 - [椅子樂團 The Chairs - She’s Moving Out Of Town (Official Audio)](https://www.youtube.com/watch?v=IczpqjqwsZM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
