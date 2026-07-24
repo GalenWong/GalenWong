@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
-- [Wind of Tomorrow](https://www.youtube.com/watch?v=za4N9VsyLPo)
-- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
-- [椅子樂團 The Chairs - She’s Moving Out Of Town (Official Audio)](https://www.youtube.com/watch?v=IczpqjqwsZM)
+- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
+- [TANK [全世界都停電 You Blackout My World] Official Music Video](https://www.youtube.com/watch?v=4e84d3Snd2k)
+- [[avex官方]羅志祥 自我催眠 (MV完整版)](https://www.youtube.com/watch?v=XLuzj141rTI)
+- [deca joins | 浴室(demo)](https://www.youtube.com/watch?v=ngysuGig_2Y)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
