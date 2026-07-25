@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
-- [TANK [全世界都停電 You Blackout My World] Official Music Video](https://www.youtube.com/watch?v=4e84d3Snd2k)
-- [[avex官方]羅志祥 自我催眠 (MV完整版)](https://www.youtube.com/watch?v=XLuzj141rTI)
-- [deca joins | 浴室(demo)](https://www.youtube.com/watch?v=ngysuGig_2Y)
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [張震嶽 ayal komod【梅雨季 Rainy Season】Official Music Video(4K)](https://www.youtube.com/watch?v=RND2XzJEBR8)
+- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
+- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
+- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
+- [梁靜茹   會呼吸的痛 無損音樂FLAC 歌詞LYRICS 純享](https://www.youtube.com/watch?v=vZ1fCcPUuPM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
