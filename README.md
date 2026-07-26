@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張震嶽 ayal komod【梅雨季 Rainy Season】Official Music Video(4K)](https://www.youtube.com/watch?v=RND2XzJEBR8)
-- [溫室雜草 Easy Weeds【在這個年代，我們不浪漫】demo](https://www.youtube.com/watch?v=vEpkphm9WAk)
-- [showmore - circus [Official Music Video]](https://www.youtube.com/watch?v=_6qDL8QY_Ps)
-- [YeYe - ゆらゆら（Official Music Video）](https://www.youtube.com/watch?v=StkLx0e4f6c)
-- [梁靜茹   會呼吸的痛 無損音樂FLAC 歌詞LYRICS 純享](https://www.youtube.com/watch?v=vZ1fCcPUuPM)
+- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
+- [椅子樂團 The Chairs - She’s Moving Out Of Town (Official Audio)](https://www.youtube.com/watch?v=IczpqjqwsZM)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [deca joins | 浴室(demo)](https://www.youtube.com/watch?v=ngysuGig_2Y)
+- [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
