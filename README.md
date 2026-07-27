@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 留給你的我從未 Those Things I Kept 】Official Music Video](https://www.youtube.com/watch?v=Q0Nn4TUXH5Y)
-- [椅子樂團 The Chairs - She’s Moving Out Of Town (Official Audio)](https://www.youtube.com/watch?v=IczpqjqwsZM)
+- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
+- [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
+- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
 - [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
-- [deca joins | 浴室(demo)](https://www.youtube.com/watch?v=ngysuGig_2Y)
-- [Believe U](https://www.youtube.com/watch?v=o28ey4_zrOI)
+- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
