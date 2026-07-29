@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫蒂漫步 Wendy Wander : 我想和你一起 (demo)](https://www.youtube.com/watch?v=t5-xocwGRpY)
-- [我怀念的 孙燕姿 (歌词版)](https://www.youtube.com/watch?v=1hVkS2ldRhw)
+- [張震嶽 ayal komod【梅雨季 Rainy Season】Official Music Video(4K)](https://www.youtube.com/watch?v=RND2XzJEBR8)
+- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
 - [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
-- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
-- [陳奕迅 Eason Chan  《任我行》MV](https://www.youtube.com/watch?v=oYw4uH80gcw)
+- [3rd Coast - Luv Is True (Lyrics)](https://www.youtube.com/watch?v=TszFkpLRF_k)
+- [paris match - 真昼の別れ （Music Video）](https://www.youtube.com/watch?v=Q2GoaOP2gwo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
