@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張震嶽 ayal komod【梅雨季 Rainy Season】Official Music Video(4K)](https://www.youtube.com/watch?v=RND2XzJEBR8)
-- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
-- [周杰倫 Jay Chou【晴天 Sunny Day】-Official Music Video](https://www.youtube.com/watch?v=DYptgVvkVLQ)
-- [3rd Coast - Luv Is True (Lyrics)](https://www.youtube.com/watch?v=TszFkpLRF_k)
-- [paris match - 真昼の別れ （Music Video）](https://www.youtube.com/watch?v=Q2GoaOP2gwo)
+- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
+- [3rd Coast - Bye Bye Love (Lyrics)](https://www.youtube.com/watch?v=_NzOTsSbxGw)
+- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
+- [告五人Accusefive【獨角獸】 官方歌詞版MV(Official Lyric Video)](https://www.youtube.com/watch?v=o5muvc-LOlA)
+- [最終列車は25時](https://www.youtube.com/watch?v=yDOx_Duc498)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
