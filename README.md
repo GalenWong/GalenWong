@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
-- [3rd Coast - Bye Bye Love (Lyrics)](https://www.youtube.com/watch?v=_NzOTsSbxGw)
-- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
-- [告五人Accusefive【獨角獸】 官方歌詞版MV(Official Lyric Video)](https://www.youtube.com/watch?v=o5muvc-LOlA)
-- [最終列車は25時](https://www.youtube.com/watch?v=yDOx_Duc498)
+- [3rd Coast - Closer (Lyrics)](https://www.youtube.com/watch?v=uSOHpzm4iN0)
+- [3rd Coast - I Don't Know (Lyrics)](https://www.youtube.com/watch?v=AmTBpu_6Bp4)
+- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
+- [[avex官方] 唐禹哲 新歌 (MV完整版)](https://www.youtube.com/watch?v=No39_wCm-Vs)
+- [3rd Coast - Everything (Lyrics)](https://www.youtube.com/watch?v=Cc55lV0taZc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
