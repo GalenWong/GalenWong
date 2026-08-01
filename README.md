@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [3rd Coast - Closer (Lyrics)](https://www.youtube.com/watch?v=uSOHpzm4iN0)
-- [3rd Coast - I Don't Know (Lyrics)](https://www.youtube.com/watch?v=AmTBpu_6Bp4)
-- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
-- [[avex官方] 唐禹哲 新歌 (MV完整版)](https://www.youtube.com/watch?v=No39_wCm-Vs)
-- [3rd Coast - Everything (Lyrics)](https://www.youtube.com/watch?v=Cc55lV0taZc)
+- [3rd Coast - Bye Bye Love (Lyrics)](https://www.youtube.com/watch?v=_NzOTsSbxGw)
+- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
+- [劉若英 René Liu【後來 Later】Official Music Video](https://www.youtube.com/watch?v=t0igPuDjYUE)
+- [陳奕迅 - 不來也不去](https://www.youtube.com/watch?v=h-rZtiGiTa8)
+- [deca joins  | 浴室(2019 Reprise) 【Official Video】](https://www.youtube.com/watch?v=KWlP4gHOvXo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
