@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [TANK [全世界都停電 You Blackout My World] Official Music Video](https://www.youtube.com/watch?v=4e84d3Snd2k)
-- [陶喆 David Tao -  似曾相識 Finally (官方完整版MV)](https://www.youtube.com/watch?v=h-akYlmcMmg)
-- [告五人 Accusefive [ 好不容易 Finally ] Official Music Video  ( 戲劇《華燈初上》片尾曲 )](https://www.youtube.com/watch?v=caxiOmSWWEM)
-- [【顏社】蛋堡 Soft Lipa - “噓...” feat. 徐佳瑩 (Official Music Video)](https://www.youtube.com/watch?v=FvF6yQUJqrE)
-- [周杰倫 Jay Chou【愛在西元前 Love before AD】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
+- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
+- [梁靜茹 Fish Leong【可惜不是你 Unfortunately Not You】Official Music Video](https://www.youtube.com/watch?v=k_l7FVsqUyM)
+- [胡彥斌 - 男人KTV『男人歌 唱給誰來聽』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=vyq8izxLwBM)
+- [林俊傑 JJ Lin【江南 River South】官方完整版 MV](https://www.youtube.com/watch?v=G97_rOdHcnY)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
