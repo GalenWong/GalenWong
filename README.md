@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [富士山下](https://www.youtube.com/watch?v=7qeShSmmsNg)
-- [梁靜茹 Fish Leong【可惜不是你 Unfortunately Not You】Official Music Video](https://www.youtube.com/watch?v=k_l7FVsqUyM)
-- [胡彥斌 - 男人KTV『男人歌 唱給誰來聽』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=vyq8izxLwBM)
-- [林俊傑 JJ Lin【江南 River South】官方完整版 MV](https://www.youtube.com/watch?v=G97_rOdHcnY)
-- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
+- [唐禹哲-最愛還是你KTV](https://www.youtube.com/watch?v=wbJeZb-YEHU)
+- [Arabesque](https://www.youtube.com/watch?v=12mwzwUL7Vk)
+- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
+- [Yokan](https://www.youtube.com/watch?v=9YtjHqbK7zs)
+- [孫燕姿 Sun Yan-Zi - 我不難過 I Am Fine (official 官方完整版MV)](https://www.youtube.com/watch?v=GDsyUtdS1YM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
