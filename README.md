@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [張惠妹 A-Mei - 人質 Hostage (official 官方完整版MV)](https://www.youtube.com/watch?v=o4JrzNdpKw4)
-- [不能不想她~~唐禹哲 [歌词/Lyrics]](https://www.youtube.com/watch?v=kU0g-OL0wNA)
-- [王菲 - 紅豆](https://www.youtube.com/watch?v=5wmfXve11rM)
 - [[avex官方] 唐禹哲 新歌 (MV完整版)](https://www.youtube.com/watch?v=No39_wCm-Vs)
 - [[avex官方]唐禹哲 愛我 (MV完整版)](https://www.youtube.com/watch?v=r0y-NDDX2WA)
+- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
+- [伍佰 Wu Bai&China Blue【Last Dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
