@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [張惠妹 A-Mei - 人質 Hostage (official 官方完整版MV)](https://www.youtube.com/watch?v=o4JrzNdpKw4)
-- [[avex官方] 唐禹哲 新歌 (MV完整版)](https://www.youtube.com/watch?v=No39_wCm-Vs)
-- [[avex官方]唐禹哲 愛我 (MV完整版)](https://www.youtube.com/watch?v=r0y-NDDX2WA)
-- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
-- [伍佰 Wu Bai&China Blue【Last Dance】Official Music Video(HD)](https://www.youtube.com/watch?v=7jYDYon4sGQ)
+- [落花流水](https://www.youtube.com/watch?v=FF_35jGO53I)
+- [蔡依林 Jolin Tsai / 倒帶【歌詞】](https://www.youtube.com/watch?v=RKnSXWvRETs)
+- [林俊傑 JJ Lin【江南 River South】官方完整版 MV](https://www.youtube.com/watch?v=G97_rOdHcnY)
+- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
+- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
