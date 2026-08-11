@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [陳奕迅Eason Chan《綿綿》[Lyrics MV]](https://www.youtube.com/watch?v=rUfcqKHLUm8)
 - [落花流水](https://www.youtube.com/watch?v=FF_35jGO53I)
-- [蔡依林 Jolin Tsai / 倒帶【歌詞】](https://www.youtube.com/watch?v=RKnSXWvRETs)
-- [林俊傑 JJ Lin【江南 River South】官方完整版 MV](https://www.youtube.com/watch?v=G97_rOdHcnY)
-- [偷偷 (feat. 閻韋伶)](https://www.youtube.com/watch?v=kdw1IuoJjns)
-- [陳奕迅 Eason Chan《單車》[Official MV]](https://www.youtube.com/watch?v=AfPUiV-jamA)
+- [甜約翰 Sweet John【 愛人與被愛的姿態 To Love and Be Loved 】Official Music Video](https://www.youtube.com/watch?v=8dhpzY6WhUk)
+- [痴心绝对 李圣杰 (歌词版)](https://www.youtube.com/watch?v=zz5YlMI5dzg)
+- [梁靜茹 Fish Leong - 慢冷 Slow-To-Cool-Down【慢冷的人啊，會自我折磨】[ 歌詞 ]](https://www.youtube.com/watch?v=2LuW7acW9B8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
