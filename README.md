@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅Eason Chan《綿綿》[Lyrics MV]](https://www.youtube.com/watch?v=rUfcqKHLUm8)
-- [落花流水](https://www.youtube.com/watch?v=FF_35jGO53I)
-- [甜約翰 Sweet John【 愛人與被愛的姿態 To Love and Be Loved 】Official Music Video](https://www.youtube.com/watch?v=8dhpzY6WhUk)
-- [痴心绝对 李圣杰 (歌词版)](https://www.youtube.com/watch?v=zz5YlMI5dzg)
-- [梁靜茹 Fish Leong - 慢冷 Slow-To-Cool-Down【慢冷的人啊，會自我折磨】[ 歌詞 ]](https://www.youtube.com/watch?v=2LuW7acW9B8)
+- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
+- [Miki Matsubara - Stay With Me HD (Club Mix)](https://www.youtube.com/watch?v=QNYT9wVwQ8A)
+- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
+- [甜約翰 Sweet John【 戀人觀影須知 Manual of Love (A Plus Ver.) 】](https://www.youtube.com/watch?v=Lsg6CJJiKmQ)
+- [SHE IS SUMMER「CALL ME IN YOUR SUMMER」](https://www.youtube.com/watch?v=H7fjqfSU0bY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
