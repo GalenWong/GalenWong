@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
-- [Miki Matsubara - Stay With Me HD (Club Mix)](https://www.youtube.com/watch?v=QNYT9wVwQ8A)
-- [Gordon Flanders - 冬天一個遊 (Official Music Video)](https://www.youtube.com/watch?v=oVpmZoj9mOM)
-- [甜約翰 Sweet John【 戀人觀影須知 Manual of Love (A Plus Ver.) 】](https://www.youtube.com/watch?v=Lsg6CJJiKmQ)
-- [SHE IS SUMMER「CALL ME IN YOUR SUMMER」](https://www.youtube.com/watch?v=H7fjqfSU0bY)
+- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
+- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
+- [曾瑋中『必巡』／Official Music Video／收錄在曾瑋中『總會有一工』專輯](https://www.youtube.com/watch?v=X06y7ZuT7_Y)
+- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
+- [陳奕迅 - 痛愛@拉闊音樂會 - 容祖兒 x 陳奕迅](https://www.youtube.com/watch?v=7Br0pWixHk0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
