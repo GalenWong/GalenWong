@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [夢醒時分](https://www.youtube.com/watch?v=efEZkuVdzcc)
-- [202 feat. 泉まくら (New Mix)](https://www.youtube.com/watch?v=b0BeTk25RSU)
-- [曾瑋中『必巡』／Official Music Video／收錄在曾瑋中『總會有一工』專輯](https://www.youtube.com/watch?v=X06y7ZuT7_Y)
-- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
-- [陳奕迅 - 痛愛@拉闊音樂會 - 容祖兒 x 陳奕迅](https://www.youtube.com/watch?v=7Br0pWixHk0)
+- [3rd Coast - Jealousy (Lyrics)](https://www.youtube.com/watch?v=MlbwLp4NrHE)
+- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
+- [粵語殘片](https://www.youtube.com/watch?v=T5vdSUf7uLg)
+- [3rd Coast - Closer (Lyrics)](https://www.youtube.com/watch?v=uSOHpzm4iN0)
+- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
