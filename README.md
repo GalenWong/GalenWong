@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [3rd Coast - Jealousy (Lyrics)](https://www.youtube.com/watch?v=MlbwLp4NrHE)
-- [Ghost like girlfriend - fallin'](https://www.youtube.com/watch?v=oQJn9aEzq0A)
-- [粵語殘片](https://www.youtube.com/watch?v=T5vdSUf7uLg)
-- [3rd Coast - Closer (Lyrics)](https://www.youtube.com/watch?v=uSOHpzm4iN0)
-- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
+- [落花流水](https://www.youtube.com/watch?v=FF_35jGO53I)
+- [側田 Justin Lo  - 《美麗之最》Official MV](https://www.youtube.com/watch?v=SujkxLDOD78)
+- [美秀集團 Amazing Show－我要你愛 You are My Crazy Lover【Official Music Video】](https://www.youtube.com/watch?v=ouQwJj1V2pE)
+- [茄子蛋EggPlantEgg - 這款自作多情 All That Wishful Thinking (Official Music Video)](https://www.youtube.com/watch?v=UocMW7BG0ls)
+- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
