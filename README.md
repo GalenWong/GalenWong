@@ -81,9 +81,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [會呼吸的痛](https://www.youtube.com/watch?v=TY3nj5ANRrk)
 - [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
-- [Remember Summer Days](https://www.youtube.com/watch?v=3agC6do-624)
-- [3rd Coast - Jealousy (Lyrics)](https://www.youtube.com/watch?v=MlbwLp4NrHE)
 - [周杰倫 Jay Chou【夜的第七章 Chapter Seven】-Official Music Video](https://www.youtube.com/watch?v=AdkkF6MT0R0)
+- [陳綺貞 Cheer Chen【太聰明 Too smart】Official Music Video](https://www.youtube.com/watch?v=33rdx577PxY)
+- [陳奕迅 - 不來也不去](https://www.youtube.com/watch?v=h-rZtiGiTa8)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
