@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
-- [劉力揚 Jeno Liu [禮物 Gift] Official MV](https://www.youtube.com/watch?v=OeomzeIlgMQ)
-- [會呼吸的痛](https://www.youtube.com/watch?v=TY3nj5ANRrk)
-- [MONDO GROSSO / ラビリンス](https://www.youtube.com/watch?v=_2quiyHfJQw)
-- [【顏社】國蛋 GorDoN - 飛行少女 Gina (Official Music Video)](https://www.youtube.com/watch?v=Q6ki1V8CrrU)
+- [美秀集團 Amazing Show【還是會寂寞 Lonely without you】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=3aOhjj5it7k)
+- [告五人 Accusefive [ 愛在夏天－盛夏之約 Love In Summer ] Official Music Video](https://www.youtube.com/watch?v=6Xu-TGL-_qk)
+- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
+- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
+- [周杰倫 Jay Chou【楓Maple Leaf 】-Official Music Video](https://www.youtube.com/watch?v=qzwsQTY-99o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
