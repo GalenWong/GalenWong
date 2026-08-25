@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [手放开 李圣杰 (歌词版)](https://www.youtube.com/watch?v=DuzSOWQr-z4)
-- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
-- [deca joins【大雨】Official Music Video (4K)](https://www.youtube.com/watch?v=4FFALDn1yGQ)
-- [美秀集團 Amazing Show【還是會寂寞 Lonely without you】歌詞版MV Lyric Video](https://www.youtube.com/watch?v=3aOhjj5it7k)
-- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
+- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
+- [米津玄師  - 灰色と青（ ＋菅田将暉 ）,  Kenshi Yonezu - Haiirotoao（+Masaki Suda)](https://www.youtube.com/watch?v=gJX2iy6nhHc)
+- [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
