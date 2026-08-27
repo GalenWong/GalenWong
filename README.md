@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
-- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
-- [米津玄師  - 灰色と青（ ＋菅田将暉 ）,  Kenshi Yonezu - Haiirotoao（+Masaki Suda)](https://www.youtube.com/watch?v=gJX2iy6nhHc)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
+- [All about Lily Chou-Chou OST - Arabesque(アラベスク)](https://www.youtube.com/watch?v=hEvnvs3NP_M)
+- [Aimer 『茜さす』MUSIC VIDEO（FULL ver.）](https://www.youtube.com/watch?v=bN1t3-2X3aM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
