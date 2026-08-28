@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [LUCKY TAPES - MOON  (Official Music Video)](https://www.youtube.com/watch?v=lavGP8BMLHo)
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
 - [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
-- [All about Lily Chou-Chou OST - Arabesque(アラベスク)](https://www.youtube.com/watch?v=hEvnvs3NP_M)
-- [Aimer 『茜さす』MUSIC VIDEO（FULL ver.）](https://www.youtube.com/watch?v=bN1t3-2X3aM)
+- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [RADWIMPS - 愛にできることはまだあるかい [Official Music Video]](https://www.youtube.com/watch?v=EQ94zflNqn4)
+- [無妄合作社 No-nonsense Collective－〈開店歌〉Official Music Video](https://www.youtube.com/watch?v=jZzzwd_CDQM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
