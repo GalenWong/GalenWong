@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Nujabes - Luv(sic.) pt3 (feat. Shing02) [Official Audio]](https://www.youtube.com/watch?v=Fwv2gnCFDOc)
-- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
-- [Luv (sic.) pt 3 Instrumentals](https://www.youtube.com/watch?v=NhG4cQATy6c)
-- [showmore - now (feat. SIRUP) (Official Music Video)](https://www.youtube.com/watch?v=RhBwlkKfJ10)
-- [RADWIMPS - 愛にできることはまだあるかい [Official Music Video]](https://www.youtube.com/watch?v=EQ94zflNqn4)
+- [Aimer 『Ref:rain』MUSIC VIDEO(5th album『Sun Dance』『Penny Rain』2019/04/10（水）2枚同時発売)](https://www.youtube.com/watch?v=mvkbCZfwWzA)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [HEKIREKI (Acoustic ver.)](https://www.youtube.com/watch?v=kZ0aHvfPm8o)
+- [陳奕迅 - 傾城 (CONCERT YY Live)](https://www.youtube.com/watch?v=OGrbnZitJDI)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
