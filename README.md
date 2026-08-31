@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Aimer 『Ref:rain』MUSIC VIDEO(5th album『Sun Dance』『Penny Rain』2019/04/10（水）2枚同時発売)](https://www.youtube.com/watch?v=mvkbCZfwWzA)
 - [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [HEKIREKI (Acoustic ver.)](https://www.youtube.com/watch?v=kZ0aHvfPm8o)
-- [陳奕迅 - 傾城 (CONCERT YY Live)](https://www.youtube.com/watch?v=OGrbnZitJDI)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [甜約翰 Sweet John【 愛人與被愛的姿態 To Love and Be Loved 】Official Music Video](https://www.youtube.com/watch?v=8dhpzY6WhUk)
+- [伍佰 Wu Bai&China Blue【痛哭的人 The person who weeps bitterly】Official Music Video](https://www.youtube.com/watch?v=P8fqHvr82-o)
+- [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
