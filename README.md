@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [RADWIMPS - 愛にできることはまだあるかい [Official Music Video]](https://www.youtube.com/watch?v=EQ94zflNqn4)
-- [米津玄師  - 灰色と青（ ＋菅田将暉 ）,  Kenshi Yonezu - Haiirotoao（+Masaki Suda)](https://www.youtube.com/watch?v=gJX2iy6nhHc)
-- [Aimer「星の消えた夜に -rit. ver.-」MUSIC VIDEO(new album『星の消えた夜に』now on sale）](https://www.youtube.com/watch?v=ngrBbLTvjN4)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [Soft Lipa - 給我一點時間 Official Music Video](https://www.youtube.com/watch?v=IwxkGdhkAGU)
+- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
+- [黄金时代 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=cS2ODIvOk-U)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
