@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [甜約翰 Sweet John【 愛人與被愛的姿態 To Love and Be Loved 】Official Music Video](https://www.youtube.com/watch?v=8dhpzY6WhUk)
-- [伍佰 Wu Bai&China Blue【痛哭的人 The person who weeps bitterly】Official Music Video](https://www.youtube.com/watch?v=P8fqHvr82-o)
-- [万能青年旅店　秦皇島 (lyrics)](https://www.youtube.com/watch?v=Gxdvg5zqjkc)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [RADWIMPS - 愛にできることはまだあるかい [Official Music Video]](https://www.youtube.com/watch?v=EQ94zflNqn4)
+- [米津玄師  - 灰色と青（ ＋菅田将暉 ）,  Kenshi Yonezu - Haiirotoao（+Masaki Suda)](https://www.youtube.com/watch?v=gJX2iy6nhHc)
+- [Aimer「星の消えた夜に -rit. ver.-」MUSIC VIDEO(new album『星の消えた夜に』now on sale）](https://www.youtube.com/watch?v=ngrBbLTvjN4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
