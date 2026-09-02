@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
 - [Soft Lipa - 給我一點時間 Official Music Video](https://www.youtube.com/watch?v=IwxkGdhkAGU)
-- [Hello Nico〈接下來如何〉MV](https://www.youtube.com/watch?v=iDfZua4IS4A)
-- [黄金时代 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=cS2ODIvOk-U)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [Françoise Hardy - Le Temps de l'Amour](https://www.youtube.com/watch?v=ITYVXUvMtHI)
+- [林隆璇 Kevin Lin - 你那麼愛她 (官方版MV) - 電視劇《前男友不是人》插曲](https://www.youtube.com/watch?v=dy70lVVxhh4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
