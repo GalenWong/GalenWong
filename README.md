@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
-- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
-- [TANK [ 你的情歌 Your Love Song ] Official Music Video (電影【你的情歌】主題曲)](https://www.youtube.com/watch?v=MeGrr-lWpxU)
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
-- [周杰倫 Jay Chou【說了再見 Say Goodbye】Official MV](https://www.youtube.com/watch?v=KKsioz-zaZY)
+- [南拳媽媽(Nan Quan Mama)-下雨天Xia Yu Tian (Official Music Video)](https://www.youtube.com/watch?v=uu0k4cQS7_8)
+- [DSPS - 冬天再去見你 (Official Music Video)](https://www.youtube.com/watch?v=0io32VRxmQI)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
+- [告五人Accusefive【獨角獸】 官方歌詞版MV(Official Lyric Video)](https://www.youtube.com/watch?v=o5muvc-LOlA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
