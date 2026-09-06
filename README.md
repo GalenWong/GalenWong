@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [LiSA『紅蓮華』-MUSiC CLiP-（テレビアニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）](https://www.youtube.com/watch?v=x1FV6IrjZCY)
-- [Nujabes - Luv(sic.) pt3 (feat. Shing02) [Official Audio]](https://www.youtube.com/watch?v=Fwv2gnCFDOc)
-- [YELLOW黃宣 & 9m88 - 怪天氣 Strange Weather (Official Music Video)](https://www.youtube.com/watch?v=1n_i0JupwRA)
-- [李榮浩 Ronghao Li -  戒菸 Quit Smoking (華納 Official HD 官方MV)](https://www.youtube.com/watch?v=V7hJgBcRDwM)
+- [陳奕迅 - 不來也不去](https://www.youtube.com/watch?v=h-rZtiGiTa8)
+- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
+- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
+- [手放开 李圣杰 (歌词版)](https://www.youtube.com/watch?v=DuzSOWQr-z4)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
