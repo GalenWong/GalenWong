@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [陳奕迅 - 不來也不去](https://www.youtube.com/watch?v=h-rZtiGiTa8)
-- [Eason 陳奕迅【無人之境】MV](https://www.youtube.com/watch?v=9g3XXXdnjqY)
-- [陳奕迅 Eason Chan - 《四季》(Lyric Video)](https://www.youtube.com/watch?v=GSG7ziTzqOU)
-- [手放开 李圣杰 (歌词版)](https://www.youtube.com/watch?v=DuzSOWQr-z4)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [deca joins | 海浪【Official Music Video】](https://www.youtube.com/watch?v=FonjL7DQAUQ)
+- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
+- [【HD】房東的貓 - 下一站茶山劉 [完整高清音質] The Landlord's Cat - The Next Stop Is Chashan Liu](https://www.youtube.com/watch?v=0J5zEI7aAe4)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
