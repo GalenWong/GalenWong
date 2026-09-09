@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [My Chemical Romance - This Is How I Disappear](https://www.youtube.com/watch?v=3df8CooYnSs)
-- [LiSA『紅蓮華』-MUSiC CLiP-（テレビアニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）](https://www.youtube.com/watch?v=x1FV6IrjZCY)
-- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
 - [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [椅子樂團 The Chairs - 生份的你 (Official Music Video)](https://www.youtube.com/watch?v=I0Ej0yOHxNo)
+- [周杰倫 Jay Chou【半島鐵盒 Peninsula Ironbox】Official MV](https://www.youtube.com/watch?v=duZDsG3tvoA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
