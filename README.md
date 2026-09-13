@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [葡萄成熟時](https://www.youtube.com/watch?v=NCsVnmmNA3E)
-- [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
-- [[avex官方] 唐禹哲 新歌 (MV完整版)](https://www.youtube.com/watch?v=No39_wCm-Vs)
-- [鸽子](https://www.youtube.com/watch?v=LjPcaXC7g3A)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
+- [劉力揚 Jeno Liu [禮物 Gift] Official MV](https://www.youtube.com/watch?v=OeomzeIlgMQ)
+- [LUCKY TAPES – MOOD (Official Music Video)](https://www.youtube.com/watch?v=0cn1YTpDIUg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
