@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [椅子樂團 The Chairs - 生份的你 (Official Music Video)](https://www.youtube.com/watch?v=I0Ej0yOHxNo)
-- [Humor Tumor](https://www.youtube.com/watch?v=HI3oeIxSQfE)
-- [Love Love Love](https://www.youtube.com/watch?v=pthz7n9uc-s)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
+- [溫蒂漫步 Wendy Wander -  明白我的心 Angel Angel (Official Music Video)](https://www.youtube.com/watch?v=kyhthTloAIg)
+- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
