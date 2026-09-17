@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [關於小熊](https://www.youtube.com/watch?v=t47UAKBHHsI)
 - [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
 - [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
-- [曹格 Gary Chaw【寂寞先生】Official Music Video](https://www.youtube.com/watch?v=-OiBFMi4CTk)
-- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
-- [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
