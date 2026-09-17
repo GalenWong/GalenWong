@@ -79,10 +79,10 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [夢醒時分](https://www.youtube.com/watch?v=6DZP818d0Po)
-- [溫蒂漫步 Wendy Wander -  明白我的心 Angel Angel (Official Music Video)](https://www.youtube.com/watch?v=kyhthTloAIg)
-- [東京フラッシュ / Vaundy ：MUSIC VIDEO](https://www.youtube.com/watch?v=SIuF37EWaLU)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
+- [曹格 Gary Chaw【寂寞先生】Official Music Video](https://www.youtube.com/watch?v=-OiBFMi4CTk)
+- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
 - [I Want You](https://www.youtube.com/watch?v=3HM3UFT0A8A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
