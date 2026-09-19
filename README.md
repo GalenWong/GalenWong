@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [My Chemical Romance - This Is How I Disappear](https://www.youtube.com/watch?v=3df8CooYnSs)
-- [Aimer 『Ref:rain』MUSIC VIDEO(5th album『Sun Dance』『Penny Rain』2019/04/10（水）2枚同時発売)](https://www.youtube.com/watch?v=mvkbCZfwWzA)
-- [LiSA『紅蓮華』-MUSiC CLiP-（テレビアニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）](https://www.youtube.com/watch?v=x1FV6IrjZCY)
 - [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [Kimetsu no Yaiba Season 3 - Opening FULL "Kizuna no Kiseki" by MAN WITH A MISSION x milet (Lyrics)](https://www.youtube.com/watch?v=dTDzDxv-YDo)
+- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
+- [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
