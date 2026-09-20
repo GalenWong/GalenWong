@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
-- [9m88 - 最高品質靜悄悄 Airplane Mode ft. Leo王 (Official MV)](https://www.youtube.com/watch?v=EBRE5FUKNek)
+- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
+- [HEBE TIEN 田馥甄 [你就不要想起我 You Better Not Think About Me] Official MV HD](https://www.youtube.com/watch?v=GsKbnsUN2RE)
+- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
+- [閻奕格 Janice Yan [ 也可以 Might as well ] Official Music Video (電影「追婚日記」插曲)](https://www.youtube.com/watch?v=lN-GUBIMDNA)
+- [王菲 - 紅豆](https://www.youtube.com/watch?v=5wmfXve11rM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
