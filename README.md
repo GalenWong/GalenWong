@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
-- [HEBE TIEN 田馥甄 [你就不要想起我 You Better Not Think About Me] Official MV HD](https://www.youtube.com/watch?v=GsKbnsUN2RE)
-- [古巨基 Leo Ku -《必殺技》Official MV](https://www.youtube.com/watch?v=dTSQZRFaNTI)
-- [閻奕格 Janice Yan [ 也可以 Might as well ] Official Music Video (電影「追婚日記」插曲)](https://www.youtube.com/watch?v=lN-GUBIMDNA)
-- [王菲 - 紅豆](https://www.youtube.com/watch?v=5wmfXve11rM)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [LiSA『紅蓮華』-MUSiC CLiP-（テレビアニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）](https://www.youtube.com/watch?v=x1FV6IrjZCY)
+- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
+- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
