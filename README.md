@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [國蛋GorDoN《Better Days》Official Music Video 正式釋出](https://www.youtube.com/watch?v=D71KnBswYhM)
 - [國蛋GorDoN《偷走》Official Music Video 正式釋出](https://www.youtube.com/watch?v=h-vMU8J1uYE)
-- [國蛋GorDoN《睡吧寶貝》Official Live Video 正式釋出](https://www.youtube.com/watch?v=1Hpq7ndSi34)
+- [Michael Seyer - Manila Sunset / Sunset Rollercoaster - Jellyfish (Official Video), 2022](https://www.youtube.com/watch?v=RLULD4LEN-I)
+- [Jujutsu Kaisen Season 2 - Opening FULL "Ao No Sumika" by Tatsuya Kitani (Lyrics)](https://www.youtube.com/watch?v=2c_lHmkOq0E)
+- [劉力揚 Jeno Liu [禮物 Gift] Official MV](https://www.youtube.com/watch?v=OeomzeIlgMQ)
+- [陳奕迅 Eason Chan - 無人之境 (Official Music Video)](https://www.youtube.com/watch?v=9g3XXXdnjqY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
