@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [我們都有問題 (feat. N.Chen)](https://www.youtube.com/watch?v=-ZnRZ3iHwFk)
-- [Yokaze](https://www.youtube.com/watch?v=ynsbOMRAt74)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
-- [鸽子](https://www.youtube.com/watch?v=LjPcaXC7g3A)
+- [孫燕姿 Sun Yan-Zi - 我的愛 My Love (華納 official 官方完整版MV)](https://www.youtube.com/watch?v=qyMm2-XsCB4)
+- [Khalil Fong (方大同) - 愛愛愛 Official Music Video](https://www.youtube.com/watch?v=812omgU1tHs)
+- [陳奕迅 Eason Chan《明年今日》[Official MV]](https://www.youtube.com/watch?v=8NJVNkzhJM4)
+- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
+- [孫燕姿 Sun Yan-Zi - 不是真的愛我 You Don't Really Love Me (official 官方完整版MV)](https://www.youtube.com/watch?v=KH-zgWKB7EQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
