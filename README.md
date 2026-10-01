@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
-- [孫燕姿 Sun Yan-Zi - 我的愛 My Love (華納 official 官方完整版MV)](https://www.youtube.com/watch?v=qyMm2-XsCB4)
-- [劉力揚 Jeno Liu [禮物 Gift] Official MV](https://www.youtube.com/watch?v=OeomzeIlgMQ)
-- [陳奕迅 - 不來也不去](https://www.youtube.com/watch?v=h-rZtiGiTa8)
-- [林隆璇 Kevin Lin - 你那麼愛她 (官方版MV) - 電視劇《前男友不是人》插曲](https://www.youtube.com/watch?v=dy70lVVxhh4)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
+- [老王樂隊｜我還年輕 我還年輕 Teens Edge (Official)](https://www.youtube.com/watch?v=NbNPJr_0tqA)
+- [淘汰 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=N0lMO59C79A)
+- [DAOKO × 米津玄師『打上花火』MUSIC VIDEO](https://www.youtube.com/watch?v=-tKVN2mAKRI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
