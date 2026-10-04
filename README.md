@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [溫蒂漫步 Wendy Wander - Lullaby (Official Music Video)](https://www.youtube.com/watch?v=Doxj79aNHt8)
-- [Nujabes - Luv(sic.) pt3 (feat. Shing02) [Official Audio]](https://www.youtube.com/watch?v=Fwv2gnCFDOc)
-- [甜約翰 Sweet John【 愛人與被愛的姿態 To Love and Be Loved 】Official Music Video](https://www.youtube.com/watch?v=8dhpzY6WhUk)
-- [張震嶽 A-Yue【思念是一種病 Yearning like a sickness】Official Music Video](https://www.youtube.com/watch?v=9ei1PUmDz98)
-- [草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】](https://www.youtube.com/watch?v=j2311FZWoFQ)
+- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
+- [陳綺貞 Cheer Chen - 旅行的意義 Travel is Meaningful (Official Music Video)](https://www.youtube.com/watch?v=0ZUo_HhB564)
+- [溫蒂漫步 Wendy Wander - 我想和你一起 (Official music video)](https://www.youtube.com/watch?v=ltFNlTWDgU8)
+- [手放开 李圣杰 (歌词版)](https://www.youtube.com/watch?v=DuzSOWQr-z4)
+- [劉力揚 Jeno Liu [禮物 Gift] Official MV](https://www.youtube.com/watch?v=OeomzeIlgMQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
