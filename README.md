@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
-- [deca joins | 一去不回來 Live at Legacy Taipei](https://www.youtube.com/watch?v=puPnKgV9I6I)
-- [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
+- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
+- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
+- [Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
+- [【HD】房東的貓 - 下一站茶山劉 [完整高清音質] The Landlord's Cat - The Next Stop Is Chashan Liu](https://www.youtube.com/watch?v=0J5zEI7aAe4)
 - [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
-- [房東的貓 - 雲煙成雨『我能否變成淤泥, 再一次沾染你...』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=cxNWXxBoaHg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
