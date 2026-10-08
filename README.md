@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
-- [老王樂隊｜ 我在愛情的盡頭看見了你和我 Till we Meet at the End of Love (Official Music Video)](https://www.youtube.com/watch?v=vSSr62t4HTE)
-- [Leo王 - 陪妳過假日 feat. 9m88 (Official Music Video)](https://www.youtube.com/watch?v=DS89Vb07C-U)
-- [【HD】房東的貓 - 下一站茶山劉 [完整高清音質] The Landlord's Cat - The Next Stop Is Chashan Liu](https://www.youtube.com/watch?v=0J5zEI7aAe4)
-- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
+- [Nujabes - Luv(sic.) pt3 (feat. Shing02) [Official Audio]](https://www.youtube.com/watch?v=Fwv2gnCFDOc)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [陳奕迅 - 不來也不去](https://www.youtube.com/watch?v=h-rZtiGiTa8)
+- [林隆璇 Kevin Lin - 你那麼愛她 (官方版MV) - 電視劇《前男友不是人》插曲](https://www.youtube.com/watch?v=dy70lVVxhh4)
+- [告五人 Accusefive【你要不要吃哈密瓜】Official Live Music Video](https://www.youtube.com/watch?v=TRDV0xw3j4Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
