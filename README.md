@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Nujabes - Luv(sic.) pt3 (feat. Shing02) [Official Audio]](https://www.youtube.com/watch?v=Fwv2gnCFDOc)
 - [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [周杰倫 Jay Chou【暗號 Secret Code】Official MV](https://www.youtube.com/watch?v=CYT9DPJdtS4)
-- [國蛋 GorDoN - Yesterday (Blizzard 2015)](https://www.youtube.com/watch?v=dCl-wDfy4Lk)
-- [房東的貓 - 雲煙成雨『我能否變成淤泥, 再一次沾染你...』【動態歌詞Lyrics】](https://www.youtube.com/watch?v=cxNWXxBoaHg)
+- [Nujabes - Luv(sic.) pt3 (feat. Shing02) [Official Audio]](https://www.youtube.com/watch?v=Fwv2gnCFDOc)
+- [草東沒有派對 No Party For Cao Dong - 山海 Wayfarer 【Official Music Video】](https://www.youtube.com/watch?v=j2311FZWoFQ)
+- [Midnight Pretenders](https://www.youtube.com/watch?v=7pPb5fmumNo)
+- [Greedy](https://www.youtube.com/watch?v=Zy9dSne8WLE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
