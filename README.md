@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [原子邦妮 Astro Bunny 【被你遺忘的森林】Official Music Video 官方完整版高畫質MV](https://www.youtube.com/watch?v=smgzP8qNXTo)
-- [Midnight Pretenders](https://www.youtube.com/watch?v=7pPb5fmumNo)
-- [南西肯恩 NeciKen〈大海 Ocean〉Official Music Video](https://www.youtube.com/watch?v=exVEN7hlqBg)
-- [Kan Sano - My Girl [Official Music Video]](https://www.youtube.com/watch?v=Ki4zPBnfPI4)
-- [Our Love](https://www.youtube.com/watch?v=6kxd4DvQHmY)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
+- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
+- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
