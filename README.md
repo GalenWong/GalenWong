@@ -81,9 +81,9 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 - [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [Nujabes - Feather (feat. Cise Starr & Akin from CYNE) [Official Audio]](https://www.youtube.com/watch?v=hQ5x8pHoIPA)
-- [秦皇岛](https://www.youtube.com/watch?v=riimzCA89bA)
-- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
+- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
+- [莫文蔚 Karen Mok【忽然之間 Suddenly】Official Music Video](https://www.youtube.com/watch?v=h1tNw1aFzSM)
+- [劉若英 René Liu【後來 Later】Official Music Video](https://www.youtube.com/watch?v=t0igPuDjYUE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
