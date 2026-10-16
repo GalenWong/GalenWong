@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
 - [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
-- [莫文蔚 Karen Mok【忽然之間 Suddenly】Official Music Video](https://www.youtube.com/watch?v=h1tNw1aFzSM)
-- [劉若英 René Liu【後來 Later】Official Music Video](https://www.youtube.com/watch?v=t0igPuDjYUE)
+- [告五人 Accusefive 【披星戴月的想你】Official Music Video](https://www.youtube.com/watch?v=VpwAq7hiij0)
+- [9Gatsuno Umi](https://www.youtube.com/watch?v=supVuKRiFiw)
+- [容祖兒 JOEY YUNG《黃色大門》[Lyrics MV]](https://www.youtube.com/watch?v=aG9YiyAh4kk)
+- [Uru - それを愛と呼ぶなら / THE FIRST TAKE](https://www.youtube.com/watch?v=zVOqiEQJj0w)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
