@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [告五人 Accusefive 【披星戴月的想你】Official Music Video](https://www.youtube.com/watch?v=VpwAq7hiij0)
-- [9Gatsuno Umi](https://www.youtube.com/watch?v=supVuKRiFiw)
-- [容祖兒 JOEY YUNG《黃色大門》[Lyrics MV]](https://www.youtube.com/watch?v=aG9YiyAh4kk)
-- [Uru - それを愛と呼ぶなら / THE FIRST TAKE](https://www.youtube.com/watch?v=zVOqiEQJj0w)
+- [Watashitachi o Shinjite Ite](https://www.youtube.com/watch?v=Nr-WemEPw48)
+- [SHE IS SUMMER「CALL ME IN YOUR SUMMER」](https://www.youtube.com/watch?v=H7fjqfSU0bY)
+- [Remember Summer Days](https://www.youtube.com/watch?v=3agC6do-624)
+- [Think Twice](https://www.youtube.com/watch?v=Ev8Y0Qzpjyg)
+- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
