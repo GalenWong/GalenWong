@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Watashitachi o Shinjite Ite](https://www.youtube.com/watch?v=Nr-WemEPw48)
-- [SHE IS SUMMER「CALL ME IN YOUR SUMMER」](https://www.youtube.com/watch?v=H7fjqfSU0bY)
-- [Remember Summer Days](https://www.youtube.com/watch?v=3agC6do-624)
-- [Think Twice](https://www.youtube.com/watch?v=Ev8Y0Qzpjyg)
-- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
+- [Aimer「星の消えた夜に -rit. ver.-」MUSIC VIDEO(new album『星の消えた夜に』now on sale）](https://www.youtube.com/watch?v=ngrBbLTvjN4)
+- [まわれ まわれ](https://www.youtube.com/watch?v=AoDTEURTYKA)
+- [不變](https://www.youtube.com/watch?v=4_7eFEKloL0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
