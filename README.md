@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [噓…… (feat. 徐佳瑩)](https://www.youtube.com/watch?v=MyqFVFazYlA)
-- [Aimer「星の消えた夜に -rit. ver.-」MUSIC VIDEO(new album『星の消えた夜に』now on sale）](https://www.youtube.com/watch?v=ngrBbLTvjN4)
-- [まわれ まわれ](https://www.youtube.com/watch?v=AoDTEURTYKA)
-- [不變](https://www.youtube.com/watch?v=4_7eFEKloL0)
+- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
+- [Attack on Titan - Opening 5 Full『Shoukei to Shikabane no Michi』by Linked Horizon](https://www.youtube.com/watch?v=NCRcTZiahss)
+- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
+- [Ikimonogakari - Blue Bird / THE FIRST TAKE](https://www.youtube.com/watch?v=aQystzibMlc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
