@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
-- [Attack on Titan - Opening 5 Full『Shoukei to Shikabane no Michi』by Linked Horizon](https://www.youtube.com/watch?v=NCRcTZiahss)
-- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
-- [Ikimonogakari - Blue Bird / THE FIRST TAKE](https://www.youtube.com/watch?v=aQystzibMlc)
+- [I Am Fine](https://www.youtube.com/watch?v=Zs42LRnMIB0)
+- [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
+- [當冬夜漸暖](https://www.youtube.com/watch?v=pD2VWvz9ZCY)
+- [Monochrome](https://www.youtube.com/watch?v=ZnrBbql6-EI)
+- [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
