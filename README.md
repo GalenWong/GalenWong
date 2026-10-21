@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [I Am Fine](https://www.youtube.com/watch?v=Zs42LRnMIB0)
-- [Realize](https://www.youtube.com/watch?v=qUseO9jOJD4)
-- [當冬夜漸暖](https://www.youtube.com/watch?v=pD2VWvz9ZCY)
-- [Monochrome](https://www.youtube.com/watch?v=ZnrBbql6-EI)
+- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
 - [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
+- [戀人](https://www.youtube.com/watch?v=XYW-tDY7X_8)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
+- [Bluebird](https://www.youtube.com/watch?v=3Om6Ztel34Y)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
