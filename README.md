@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [你迎面走來，再面無表情地離開](https://www.youtube.com/watch?v=y_j15CJctZw)
-- [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
-- [戀人](https://www.youtube.com/watch?v=XYW-tDY7X_8)
-- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
-- [Bluebird](https://www.youtube.com/watch?v=3Om6Ztel34Y)
+- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
+- [宇多田ヒカル - First Love / THE FIRST TAKE](https://www.youtube.com/watch?v=iBUV7dxGhno)
+- [Mayday五月天 [ 我不願讓你一個人I Won't Let You Be Lonely ] Official Music Video - 末日版](https://www.youtube.com/watch?v=38lcQsEMGrk)
+- [第一次遇見花香的那刻 (劇集《第一次遇見花香的那刻》主題曲)](https://www.youtube.com/watch?v=Cx-uI9Xm-wk)
+- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
