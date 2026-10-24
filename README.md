@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
 - [Laufey - Fragile (Official Video)](https://www.youtube.com/watch?v=zs7u0qG9pNI)
-- [iri - Wonderland (Music Video)](https://www.youtube.com/watch?v=3WlOZTy072k)
-- [Alone Together](https://www.youtube.com/watch?v=BN6ZS2EJctQ)
-- [竹内まりや -  Plastic Love (Official Music Video)](https://www.youtube.com/watch?v=T_lC2O1oIew)
+- [張惠妹A-Mei - 如果你也聽說 Have You Heard Lately? (official官方完整版MV)](https://www.youtube.com/watch?v=xrUyk79DLbg)
+- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
+- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
