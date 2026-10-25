@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [少年維持著煩惱](https://www.youtube.com/watch?v=dzWkfPQZmdo)
-- [Laufey - Fragile (Official Video)](https://www.youtube.com/watch?v=zs7u0qG9pNI)
+- [孫燕姿 Sun Yan-Zi - 我的愛 My Love (華納 official 官方完整版MV)](https://www.youtube.com/watch?v=qyMm2-XsCB4)
 - [張惠妹A-Mei - 如果你也聽說 Have You Heard Lately? (official官方完整版MV)](https://www.youtube.com/watch?v=xrUyk79DLbg)
-- [deca joins | B1【Official Live Video】](https://www.youtube.com/watch?v=BVSRjbg3_0o)
-- [ポルカドットスティングレイ「テレキャスター･ストライプ」MV](https://www.youtube.com/watch?v=3ad4NsEy1tg)
+- [My Chemical Romance - The Sharpest Lives](https://www.youtube.com/watch?v=73Y_x30uKQg)
+- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
+- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
