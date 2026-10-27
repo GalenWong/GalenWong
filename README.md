@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [孫燕姿 Sun Yan-Zi - 我的愛 My Love (華納 official 官方完整版MV)](https://www.youtube.com/watch?v=qyMm2-XsCB4)
-- [張惠妹A-Mei - 如果你也聽說 Have You Heard Lately? (official官方完整版MV)](https://www.youtube.com/watch?v=xrUyk79DLbg)
-- [My Chemical Romance - The Sharpest Lives](https://www.youtube.com/watch?v=73Y_x30uKQg)
-- [I Mean Us - You So (Youth Soul)【Official Music Video】](https://www.youtube.com/watch?v=zBU4R1Jm46k)
-- [deca joins | 霧【Official Audio】](https://www.youtube.com/watch?v=OCzs0d9NT1A)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [Laufey - Promise (Official Audio)](https://www.youtube.com/watch?v=Yq6qkq_TWAM)
+- [Laufey - Bored (Official Audio With Lyrics)](https://www.youtube.com/watch?v=xB8_hbRiVrs)
+- [Laufey - Second Best  (Official Lyric Video With Chords)](https://www.youtube.com/watch?v=mL6ejRs2Dgo)
+- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
