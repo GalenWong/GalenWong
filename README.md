@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
-- [Laufey - Promise (Official Audio)](https://www.youtube.com/watch?v=Yq6qkq_TWAM)
 - [Laufey - Bored (Official Audio With Lyrics)](https://www.youtube.com/watch?v=xB8_hbRiVrs)
-- [Laufey - Second Best  (Official Lyric Video With Chords)](https://www.youtube.com/watch?v=mL6ejRs2Dgo)
-- [告五人 accusefive 【法蘭西多士 Pain toast】Official Music Video](https://www.youtube.com/watch?v=Chua3NCdFGA)
+- [Laufey - What Love Will Do To You (Official Audio)](https://www.youtube.com/watch?v=nUF_NyG7-04)
+- [Laufey - Madwoman (Official Music Video)](https://www.youtube.com/watch?v=yNa8jP4zoJo)
+- [[avex官方]伍佰 & China Blue 淚橋(MV完整版)](https://www.youtube.com/watch?v=x-pCAngjeOw)
+- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
