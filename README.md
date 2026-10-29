@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Laufey - Bored (Official Audio With Lyrics)](https://www.youtube.com/watch?v=xB8_hbRiVrs)
-- [Laufey - What Love Will Do To You (Official Audio)](https://www.youtube.com/watch?v=nUF_NyG7-04)
-- [Laufey - Madwoman (Official Music Video)](https://www.youtube.com/watch?v=yNa8jP4zoJo)
-- [[avex官方]伍佰 & China Blue 淚橋(MV完整版)](https://www.youtube.com/watch?v=x-pCAngjeOw)
-- [[avex官方]伍佰 & China Blue 再度重相逢(MV完整版)](https://www.youtube.com/watch?v=jL18yGlbDGI)
+- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
+- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
+- [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
+- [Thee Sacred Souls "Will I See You Again?"](https://www.youtube.com/watch?v=IGgb10A_2c8)
+- [羊文学 - more than words (Official Music Video) [TVアニメ『呪術廻戦』「渋谷事変」エンディングテーマ]](https://www.youtube.com/watch?v=kGY6N9DL4Jw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
