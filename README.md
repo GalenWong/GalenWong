@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
-- [甜約翰 Sweet John【 失蹤人口 Missing You 】Official Music Video](https://www.youtube.com/watch?v=djACkCHl3JA)
-- [在這個年代，找不到浪漫](https://www.youtube.com/watch?v=Z7i7iZnZ0vQ)
-- [Thee Sacred Souls "Will I See You Again?"](https://www.youtube.com/watch?v=IGgb10A_2c8)
-- [羊文学 - more than words (Official Music Video) [TVアニメ『呪術廻戦』「渋谷事変」エンディングテーマ]](https://www.youtube.com/watch?v=kGY6N9DL4Jw)
+- [Laufey - Promise (Official Audio)](https://www.youtube.com/watch?v=Yq6qkq_TWAM)
+- [Humor Tumor](https://www.youtube.com/watch?v=HI3oeIxSQfE)
+- [Laufey - Dreamer (Official Audio)](https://www.youtube.com/watch?v=-xoxu1zHiSY)
+- [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
