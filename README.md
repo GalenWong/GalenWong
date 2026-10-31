@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
-- [Laufey - Promise (Official Audio)](https://www.youtube.com/watch?v=Yq6qkq_TWAM)
+- [Laufey - Bored (Official Audio With Lyrics)](https://www.youtube.com/watch?v=xB8_hbRiVrs)
 - [Humor Tumor](https://www.youtube.com/watch?v=HI3oeIxSQfE)
+- [Laufey - Promise (Official Audio)](https://www.youtube.com/watch?v=Yq6qkq_TWAM)
 - [Laufey - Dreamer (Official Audio)](https://www.youtube.com/watch?v=-xoxu1zHiSY)
-- [L'Impératrice — SONATE PACIFIQUE](https://www.youtube.com/watch?v=jiRUH9b33dA)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
