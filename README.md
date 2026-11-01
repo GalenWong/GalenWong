@@ -81,8 +81,8 @@ studied in
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
 - [Laufey - Bored (Official Audio With Lyrics)](https://www.youtube.com/watch?v=xB8_hbRiVrs)
-- [Humor Tumor](https://www.youtube.com/watch?v=HI3oeIxSQfE)
-- [Laufey - Promise (Official Audio)](https://www.youtube.com/watch?v=Yq6qkq_TWAM)
+- [Laufey - Lovesick (Official Lyric Video With Chords)](https://www.youtube.com/watch?v=3mO_uYWqnFg)
+- [Laufey - Night Light (Official Audio)](https://www.youtube.com/watch?v=kNgyptlspPg)
 - [Laufey - Dreamer (Official Audio)](https://www.youtube.com/watch?v=-xoxu1zHiSY)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
