@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
-- [Laufey - Bored (Official Audio With Lyrics)](https://www.youtube.com/watch?v=xB8_hbRiVrs)
-- [Laufey - Lovesick (Official Lyric Video With Chords)](https://www.youtube.com/watch?v=3mO_uYWqnFg)
-- [Laufey - Night Light (Official Audio)](https://www.youtube.com/watch?v=kNgyptlspPg)
-- [Laufey - Dreamer (Official Audio)](https://www.youtube.com/watch?v=-xoxu1zHiSY)
+- [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
+- [葡萄成熟时 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=xdqtxq9JPNI)
+- [陳奕迅Eason Chan《開不了心》[Lyrics MV]](https://www.youtube.com/watch?v=oEE0JaT-QVs)
+- [孫燕姿 Yanzi Sun - 我懷念的 What I Miss (official官方完整版MV)](https://www.youtube.com/watch?v=3Xj6QoLmoF0)
+- [陳奕迅Eason Chan《防不勝防》[Lyrics MV]](https://www.youtube.com/watch?v=Jn-w4uw15-c)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
