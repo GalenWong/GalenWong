@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [曹格 Gary Chaw【背叛】Official Music Video](https://www.youtube.com/watch?v=xHsSWiLsIRY)
+- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
+- [icyball 冰球樂團 - 別無所求 (Official Video)](https://www.youtube.com/watch?v=w06LQNfmXcw)
 - [馬念先 & 9m88 - 你朝我的方向走來 Walking Towards Me (Official Music Video)](https://www.youtube.com/watch?v=7L06_HW_HcA)
-- [落日飛車 Sunset Rollercoaster – My Jinji (Live from YuChen Studio)](https://www.youtube.com/watch?v=BrF2DQW-vps)
-- [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
-- [Laufey - Beautiful Stranger (Official Audio)](https://www.youtube.com/watch?v=INmi-teOQLA)
+- [陳奕迅 Eason Chan《一切還好》[Official MV]](https://www.youtube.com/watch?v=9wLAWuX1FTM)
+- [icyball 冰球樂團 - 你要是真的愛我才不會這樣 (Official Video)](https://www.youtube.com/watch?v=jKUxo-wSR94)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
