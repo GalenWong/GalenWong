@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
-- [陳奕迅 Eason Chan - 娛樂天空 (Official Music Video)](https://www.youtube.com/watch?v=5VKHRTr-Dvk)
-- [icyball 冰球樂團 - 別無所求 (Official Video)](https://www.youtube.com/watch?v=w06LQNfmXcw)
-- [紅色高跟鞋](https://www.youtube.com/watch?v=fKcxM0kWqWc)
-- [魏如萱＆馬頔［ 星期三或禮拜三 Wednesday or Happy Hump Day? ］Official Music Video](https://www.youtube.com/watch?v=Aqdh6s75_6k)
+- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
+- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
+- [陀飞轮 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=-24vB2AnXHA)
+- [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
