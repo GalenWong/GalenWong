@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
-- [Sunset Rollercoaster - Summum Bonum (Official Lyric Video), 2019](https://www.youtube.com/watch?v=wNp7WJusiHQ)
-- [King Gnu - 白日](https://www.youtube.com/watch?v=ony539T074w)
-- [陀飞轮 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=-24vB2AnXHA)
-- [國蛋GorDoN《嘻哈囝》Official Music Video 正式釋出](https://www.youtube.com/watch?v=d-UaidV-xDU)
+- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
+- [張震嶽 ayal komod【浪人的... Surfer's Love Story】Official Music Video](https://www.youtube.com/watch?v=ZIvWrKYdMQE)
+- [icyball 冰球樂團 - 不在乎 (Official Video)](https://www.youtube.com/watch?v=0VcsvIlsOnE)
+- [DSPS - 在意與默契(Official Music Video)](https://www.youtube.com/watch?v=3E9Hq7nYLZw)
+- [icyball 冰球樂團 - 不小心 ft. 宋芸樺 (Official Video)](https://www.youtube.com/watch?v=VBvt5o_rfZk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
