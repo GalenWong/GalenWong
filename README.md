@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [DSPS「我會不會又睡到下午了 Sleep till Afternoon」FULL EP](https://www.youtube.com/watch?v=z9mH-OZ2B-Y)
-- [張震嶽 ayal komod【浪人的... Surfer's Love Story】Official Music Video](https://www.youtube.com/watch?v=ZIvWrKYdMQE)
 - [icyball 冰球樂團 - 不在乎 (Official Video)](https://www.youtube.com/watch?v=0VcsvIlsOnE)
-- [DSPS - 在意與默契(Official Music Video)](https://www.youtube.com/watch?v=3E9Hq7nYLZw)
-- [icyball 冰球樂團 - 不小心 ft. 宋芸樺 (Official Video)](https://www.youtube.com/watch?v=VBvt5o_rfZk)
+- [icyball 冰球樂團 - 世紀末寂寞 (Official Video)](https://www.youtube.com/watch?v=TomjtCyesT0)
+- [icyball 冰球樂團 - 別無所求 (Official Video)](https://www.youtube.com/watch?v=w06LQNfmXcw)
+- [icyball 冰球樂團 - 醉後喜歡我 (Official Video)](https://www.youtube.com/watch?v=3OHT350Acj4)
+- [icyball 冰球樂團 - 你要是真的愛我才不會這樣 (Official Video)](https://www.youtube.com/watch?v=jKUxo-wSR94)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
