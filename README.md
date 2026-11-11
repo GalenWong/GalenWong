@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [icyball 冰球樂團 - 不在乎 (Official Video)](https://www.youtube.com/watch?v=0VcsvIlsOnE)
-- [icyball 冰球樂團 - 世紀末寂寞 (Official Video)](https://www.youtube.com/watch?v=TomjtCyesT0)
-- [icyball 冰球樂團 - 別無所求 (Official Video)](https://www.youtube.com/watch?v=w06LQNfmXcw)
-- [icyball 冰球樂團 - 醉後喜歡我 (Official Video)](https://www.youtube.com/watch?v=3OHT350Acj4)
-- [icyball 冰球樂團 - 你要是真的愛我才不會這樣 (Official Video)](https://www.youtube.com/watch?v=jKUxo-wSR94)
+- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
+- [陳奕迅 Eason Chan - 娛樂天空 (Official Music Video)](https://www.youtube.com/watch?v=5VKHRTr-Dvk)
+- [Laufey - Lovesick (Official Lyric Video With Chords)](https://www.youtube.com/watch?v=3mO_uYWqnFg)
+- [Laufey - Beautiful Stranger (Official Audio)](https://www.youtube.com/watch?v=INmi-teOQLA)
+- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
