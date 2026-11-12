@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
-- [陳奕迅 Eason Chan - 娛樂天空 (Official Music Video)](https://www.youtube.com/watch?v=5VKHRTr-Dvk)
-- [Laufey - Lovesick (Official Lyric Video With Chords)](https://www.youtube.com/watch?v=3mO_uYWqnFg)
-- [Laufey - Beautiful Stranger (Official Audio)](https://www.youtube.com/watch?v=INmi-teOQLA)
-- [茄子蛋EggPlantEgg - 恰似你的溫柔Just Like Your Tenderness (Official Audio)](https://www.youtube.com/watch?v=Sv0OblpjrOw)
+- [Monochrome](https://www.youtube.com/watch?v=ZnrBbql6-EI)
+- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
+- [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
+- [陳奕迅 Eason Chan - 於心有愧 (Official Music Video)](https://www.youtube.com/watch?v=FTA_tCy6tS8)
+- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
