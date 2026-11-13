@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Monochrome](https://www.youtube.com/watch?v=ZnrBbql6-EI)
-- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
-- [LUCKY TAPES - Touch! (Official Music Video)](https://www.youtube.com/watch?v=12o6Sr1MfYE)
-- [陳奕迅 Eason Chan - 於心有愧 (Official Music Video)](https://www.youtube.com/watch?v=FTA_tCy6tS8)
-- [周杰倫 Jay Chou【黑色毛衣 Black Sweater】-Official Music Video](https://www.youtube.com/watch?v=bX33UI9ZPLk)
+- [[avex官方] 唐禹哲 灰色河堤 (MV完整版)](https://www.youtube.com/watch?v=seeGb9n2D00)
+- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
+- [陳奕迅 Eason Chan - 娛樂天空 (Official Music Video)](https://www.youtube.com/watch?v=5VKHRTr-Dvk)
+- [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
+- [陳奕迅 Eason Chan《一切還好》[Official MV]](https://www.youtube.com/watch?v=9wLAWuX1FTM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
