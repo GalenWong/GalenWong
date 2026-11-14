@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方] 唐禹哲 灰色河堤 (MV完整版)](https://www.youtube.com/watch?v=seeGb9n2D00)
 - [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
+- [夢的可能](https://www.youtube.com/watch?v=sw4TGwzCt7c)
 - [陳奕迅 Eason Chan - 娛樂天空 (Official Music Video)](https://www.youtube.com/watch?v=5VKHRTr-Dvk)
+- [陳奕迅 Eason Chan《猜情尋》[Official MV]](https://www.youtube.com/watch?v=vFASUEFWvpY)
 - [陳奕迅Eason Chan《活著多好》[Lyrics MV]](https://www.youtube.com/watch?v=HheRowgf6rk)
-- [陳奕迅 Eason Chan《一切還好》[Official MV]](https://www.youtube.com/watch?v=9wLAWuX1FTM)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
