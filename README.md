@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
-- [夢的可能](https://www.youtube.com/watch?v=sw4TGwzCt7c)
-- [陳奕迅 Eason Chan《一切還好》[Official MV]](https://www.youtube.com/watch?v=9wLAWuX1FTM)
-- [陳奕迅 今日 黑擇明](https://www.youtube.com/watch?v=6Ta4Z2ks7Tc)
-- [icyball 冰球樂團 - 世紀末寂寞 (Official Video)](https://www.youtube.com/watch?v=TomjtCyesT0)
+- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
+- [Madoromi](https://www.youtube.com/watch?v=mPLPE9T84zQ)
+- [So High So High](https://www.youtube.com/watch?v=TH6UwB6fS80)
+- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
+- [陳綺貞 Cheer Chen - 旅行的意義 Travel is Meaningful (Official Music Video)](https://www.youtube.com/watch?v=0ZUo_HhB564)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
