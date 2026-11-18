@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [deca joins｜夏夜晚風(cover)【Official Audio】](https://www.youtube.com/watch?v=SuFFfevTkyY)
-- [Madoromi](https://www.youtube.com/watch?v=mPLPE9T84zQ)
-- [So High So High](https://www.youtube.com/watch?v=TH6UwB6fS80)
-- [Aimer - カタオモイ / THE FIRST TAKE](https://www.youtube.com/watch?v=Opp9nqiN5m0)
-- [陳綺貞 Cheer Chen - 旅行的意義 Travel is Meaningful (Official Music Video)](https://www.youtube.com/watch?v=0ZUo_HhB564)
+- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
+- [手放开 李圣杰 (歌词版)](https://www.youtube.com/watch?v=DuzSOWQr-z4)
+- [陳綺貞 Cheer Chen【太聰明 Too smart】Official Music Video](https://www.youtube.com/watch?v=33rdx577PxY)
+- [溫蒂漫步 Wendy Wander - 秘密 the hidden me (Official Music Video)](https://www.youtube.com/watch?v=Ijh29c0WbK8)
+- [方大同 Khalil Fong - 紅豆 Red Bean [Official 官方完整版MV]](https://www.youtube.com/watch?v=3nG--h_EJyc)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
