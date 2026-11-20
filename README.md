@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [[avex官方] 唐禹哲 灰色河堤 (MV完整版)](https://www.youtube.com/watch?v=seeGb9n2D00)
-- [老王樂隊｜安九 Enjoy (Official Music Video)](https://www.youtube.com/watch?v=4bSeT_9gmJs)
-- [HEARTSTEEL - Live My Life ft. Anderson .Paak, BAEKHYUN, Connor Price, Nic D (Official Music Video)](https://www.youtube.com/watch?v=gMkuV5hh7-s)
-- [Mellow Medicine](https://www.youtube.com/watch?v=jCt8Rm1s628)
-- [Who's Theme](https://www.youtube.com/watch?v=2loY-oxBE64)
+- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [富士山下 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=EqrZAt_P-tM)
+- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
+- [盧廣仲 Crowd Lu【魚仔 He-R】Official Music Video （花甲男孩轉大人主題曲）](https://www.youtube.com/watch?v=ybfWYpYhTQQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
