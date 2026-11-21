@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [[avex官方] 唐禹哲 灰色河堤 (MV完整版)](https://www.youtube.com/watch?v=seeGb9n2D00)
-- [【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=7HgJIAUtICU)
+- [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
+- [Love Was Really Gone (2018 Remaster)](https://www.youtube.com/watch?v=aef1j0PM3Sg)
+- [サカナクション / 新宝島　-Music Video-](https://www.youtube.com/watch?v=LIlZCmETvsY)
+- [伍佰 Wu Bai&China Blue【白鴿 White dove】Official Music Video(4K)](https://www.youtube.com/watch?v=lNuXbIfwXP4)
 - [富士山下 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=EqrZAt_P-tM)
-- [Official髭男dism - パラボラ［Official Video］](https://www.youtube.com/watch?v=pkoxFpmiCWo)
-- [盧廣仲 Crowd Lu【魚仔 He-R】Official Music Video （花甲男孩轉大人主題曲）](https://www.youtube.com/watch?v=ybfWYpYhTQQ)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
