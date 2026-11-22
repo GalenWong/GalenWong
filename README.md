@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [十面埋伏 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=kZQjXwfYoe8)
-- [Love Was Really Gone (2018 Remaster)](https://www.youtube.com/watch?v=aef1j0PM3Sg)
-- [サカナクション / 新宝島　-Music Video-](https://www.youtube.com/watch?v=LIlZCmETvsY)
-- [伍佰 Wu Bai&China Blue【白鴿 White dove】Official Music Video(4K)](https://www.youtube.com/watch?v=lNuXbIfwXP4)
-- [富士山下 陈奕迅 (歌词版)](https://www.youtube.com/watch?v=EqrZAt_P-tM)
+- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
+- [DSPS - 在意與默契(Official Music Video)](https://www.youtube.com/watch?v=3E9Hq7nYLZw)
+- [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
+- [Mr. Miss先生小姐 - 剛好 | 樂人 Session](https://www.youtube.com/watch?v=bJjhq4cLJS4)
+- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
