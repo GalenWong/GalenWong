@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Hit the Rhyme](https://www.youtube.com/watch?v=JwEuJc0fOYo)
-- [DSPS - 在意與默契(Official Music Video)](https://www.youtube.com/watch?v=3E9Hq7nYLZw)
-- [LUCKY TAPES - Gun  (Official Music Video)](https://www.youtube.com/watch?v=AQ99S83_vmU)
-- [Mr. Miss先生小姐 - 剛好 | 樂人 Session](https://www.youtube.com/watch?v=bJjhq4cLJS4)
-- [偷偷愛](https://www.youtube.com/watch?v=LM9uN7IlKSI)
+- [Samurai Champloo - Shiki No Uta (HQ)](https://www.youtube.com/watch?v=cNplZrRSjeI)
+- [Think Twice](https://www.youtube.com/watch?v=Ev8Y0Qzpjyg)
+- [Love Was Really Gone (2018 Remaster)](https://www.youtube.com/watch?v=aef1j0PM3Sg)
+- [just forget](https://www.youtube.com/watch?v=YeS3PDfUeqM)
+- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
