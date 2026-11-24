@@ -79,11 +79,11 @@ studied in
 ## 🎧 Music
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
-- [Samurai Champloo - Shiki No Uta (HQ)](https://www.youtube.com/watch?v=cNplZrRSjeI)
-- [Think Twice](https://www.youtube.com/watch?v=Ev8Y0Qzpjyg)
+- [Mai Yamane (山根麻衣) - (You And Me Still Keep On) Fall In Love - 1981 - Japan](https://www.youtube.com/watch?v=0lagRQ0FzYU)
 - [Love Was Really Gone (2018 Remaster)](https://www.youtube.com/watch?v=aef1j0PM3Sg)
 - [just forget](https://www.youtube.com/watch?v=YeS3PDfUeqM)
-- [カーニバル / Vaundy：MUSIC VIDEO](https://www.youtube.com/watch?v=WEINueQJxbE)
+- [FKJ & Masego - Tadow](https://www.youtube.com/watch?v=hC8CH0Z3L54)
+- [Think Twice](https://www.youtube.com/watch?v=Ev8Y0Qzpjyg)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
