@@ -80,10 +80,10 @@ studied in
 
 <!-- YOUTUBE-MYMIX-LIST:START -->
 - [Sunset Rollercoaster - 我是一隻魚 I’m a fish (Cover), 2019](https://www.youtube.com/watch?v=zPoId89NOM4)
-- [陳奕迅 Eason Chan - 於心有愧 (Official Music Video)](https://www.youtube.com/watch?v=FTA_tCy6tS8)
+- [周杰倫 Jay Chou【愛在西元前 Love before AD】Official MV](https://www.youtube.com/watch?v=5XK2C9w6oVk)
+- [Bluebird](https://www.youtube.com/watch?v=3Om6Ztel34Y)
 - [Sunset Rollercoaster - Believe U (Official Video), 2026](https://www.youtube.com/watch?v=nXSGLcdlc24)
-- [椅子樂團 The Chairs - 生份的你 (Official Music Video)](https://www.youtube.com/watch?v=I0Ej0yOHxNo)
-- [icyball 冰球樂團 - 醉後喜歡我 (Official Video)](https://www.youtube.com/watch?v=3OHT350Acj4)
+- [周杰倫 Jay Chou【分裂 Split】Official MV](https://www.youtube.com/watch?v=eM6mF4RWhe0)
 <!-- YOUTUBE-MYMIX-LIST:END -->
 
 ⌛️Updates Daily. [How?](https://galenwong.github.io/blog/2020-08-16-youtube-mymix/)
